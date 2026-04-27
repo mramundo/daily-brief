@@ -1,0 +1,148 @@
+{
+  "updated": "2026-04-27T06:00:00Z",
+  "categories": {
+    "crypto": [
+      {
+        "ticker": "BTC",
+        "name": "Bitcoin",
+        "currency": "USD",
+        "price": 96450.00,
+        "change_pct": 1.42,
+        "sma50": 92100.0,
+        "sma200": 78500.0,
+        "rsi14": 58.4,
+        "signal": "bull"
+      },
+      {
+        "ticker": "ETH",
+        "name": "Ethereum",
+        "currency": "USD",
+        "price": 3520.00,
+        "change_pct": -0.85,
+        "sma50": 3480.0,
+        "sma200": 3210.0,
+        "rsi14": 51.2,
+        "signal": "bull"
+      }
+    ],
+    "commodities": [
+      {
+        "ticker": "XAUUSD",
+        "name": "Gold (spot, oz)",
+        "currency": "USD",
+        "price": 2418.50,
+        "change_pct": 0.32,
+        "sma50": 2380.0,
+        "sma200": 2210.0,
+        "rsi14": 56.1,
+        "signal": "bull"
+      },
+      {
+        "ticker": "CL=F",
+        "name": "Crude Oil (WTI, bbl)",
+        "currency": "USD",
+        "price": 78.42,
+        "change_pct": -1.15,
+        "sma50": 80.5,
+        "sma200": 79.1,
+        "rsi14": 42.8,
+        "signal": "neutral"
+      }
+    ],
+    "indices": [
+      {
+        "ticker": "^GSPC",
+        "name": "S&P 500",
+        "currency": "USD",
+        "price": 5840.20,
+        "change_pct": 0.48,
+        "sma50": 5750.0,
+        "sma200": 5420.0,
+        "rsi14": 60.2,
+        "signal": "bull"
+      },
+      {
+        "ticker": "VWCE.DE",
+        "name": "Vanguard FTSE All-World",
+        "currency": "EUR",
+        "price": 142.80,
+        "change_pct": 0.36,
+        "sma50": 140.2,
+        "sma200": 132.1,
+        "rsi14": 58.7,
+        "signal": "bull"
+      },
+      {
+        "ticker": "URTH",
+        "name": "iShares MSCI World",
+        "currency": "USD",
+        "price": 168.45,
+        "change_pct": 0.41,
+        "sma50": 166.0,
+        "sma200": 156.8,
+        "rsi14": 57.9,
+        "signal": "bull"
+      }
+    ],
+    "ai_tech": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "currency": "USD",
+        "price": 142.30,
+        "change_pct": 2.18,
+        "sma50": 138.0,
+        "sma200": 124.5,
+        "rsi14": 62.3,
+        "signal": "bull"
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft (OpenAI proxy)",
+        "currency": "USD",
+        "price": 432.10,
+        "change_pct": 0.74,
+        "sma50": 425.0,
+        "sma200": 410.2,
+        "rsi14": 56.4,
+        "signal": "bull",
+        "note": "MSFT held as a proxy for OpenAI exposure: Microsoft holds an economic interest of roughly 49% in OpenAI."
+      }
+    ],
+    "defense": [
+      {
+        "ticker": "PLTR",
+        "name": "Palantir",
+        "currency": "USD",
+        "price": 28.45,
+        "change_pct": -0.92,
+        "sma50": 29.1,
+        "sma200": 26.8,
+        "rsi14": 48.6,
+        "signal": "neutral"
+      },
+      {
+        "ticker": "LDO.MI",
+        "name": "Leonardo SpA",
+        "currency": "EUR",
+        "price": 25.80,
+        "change_pct": 1.10,
+        "sma50": 24.9,
+        "sma200": 22.1,
+        "rsi14": 61.0,
+        "signal": "bull"
+      },
+      {
+        "ticker": "RHM.DE",
+        "name": "Rheinmetall AG",
+        "currency": "EUR",
+        "price": 612.40,
+        "change_pct": 0.86,
+        "sma50": 598.0,
+        "sma200": 540.5,
+        "rsi14": 59.4,
+        "signal": "bull"
+      }
+    ]
+  }
+}

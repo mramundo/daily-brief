@@ -1,0 +1,60 @@
+name: Update prices (hourly)
+
+on:
+  schedule:
+    # Top of every hour.
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: update-prices
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      committed: ${{ steps.commit.outputs.committed }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: update-scripts/requirements.txt
+
+      - name: Install deps
+        run: pip install -r update-scripts/requirements.txt
+
+      - name: Fetch prices
+        run: python update-scripts/fetch_prices.py
+
+      - name: Commit updates
+        id: commit
+        run: |
+          git config user.name  "daily-brief-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/prices.json || true
+          if git diff --cached --quiet; then
+            echo "No price changes."
+            echo "committed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore(prices): refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger Pages deploy
+        if: steps.commit.outputs.committed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run pages.yml --ref main

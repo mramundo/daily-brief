@@ -1,0 +1,50 @@
+{
+  "updated": "2026-04-27T06:00:00Z",
+  "hero": {
+    "category": "politics",
+    "title": "Daily Brief is initialising — top story will appear here once the news fetcher runs.",
+    "summary": "Placeholder seed content. The daily GitHub Action runs update-scripts/fetch_news.py to pull stories from authoritative outlets, score them by recency, source authority, and global coverage, and write data/news.json — replacing this seed at runtime.",
+    "url": "https://github.com/mramundo/daily-brief",
+    "source": "Daily Brief",
+    "published_at": "2026-04-27T06:00:00Z",
+    "score": 0
+  },
+  "items": [
+    {
+      "title": "Seed brief: Federal Reserve holds rates, signals data-dependent stance through Q3",
+      "url": "https://www.reuters.com/markets",
+      "source": "Reuters",
+      "published_at": "2026-04-27T05:00:00Z",
+      "summary": "Placeholder finance brief — replaced once the daily fetcher runs and writes the top stories of the day.",
+      "category": "finance",
+      "score": 0.91
+    },
+    {
+      "title": "Seed brief: UN Security Council debates ceasefire proposal, vote expected within 48 hours",
+      "url": "https://news.un.org/",
+      "source": "UN News",
+      "published_at": "2026-04-27T03:15:00Z",
+      "summary": "Placeholder conflicts brief — replaced once the daily fetcher runs and writes the top stories of the day.",
+      "category": "conflicts",
+      "score": 0.84
+    },
+    {
+      "title": "Seed brief: NASA confirms successful sample return, preliminary analysis underway",
+      "url": "https://www.nasa.gov/news/",
+      "source": "NASA",
+      "published_at": "2026-04-27T05:10:00Z",
+      "summary": "Placeholder science brief — replaced once the daily fetcher runs and writes the top stories of the day.",
+      "category": "science",
+      "score": 0.90
+    },
+    {
+      "title": "Seed brief: OPEC+ holds output policy unchanged, oil ticks higher post-meeting",
+      "url": "https://www.reuters.com/business/energy",
+      "source": "Reuters",
+      "published_at": "2026-04-27T05:20:00Z",
+      "summary": "Placeholder resources brief — replaced once the daily fetcher runs and writes the top stories of the day.",
+      "category": "resources",
+      "score": 0.91
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#f3e9d2" />
+  <meta name="description" content="A personal daily brief on what's happening in the world: politics, finance, conflicts, science, resources, and key markets — updated automatically." />
+  <title>Daily Brief — what's happening in the world</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,800;0,900;1,500;1,700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" />
+
+  <link rel="stylesheet" href="styles/main.css" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+</head>
+<body>
+  <header class="topbar" role="banner">
+    <div class="topbar__inner">
+      <a class="brand" href="#">
+        <span class="brand__mark" aria-hidden="true">DB</span>
+        <span class="brand__name">Daily <strong>Brief</strong></span>
+        <span class="brand__edition" id="brandEdition">—</span>
+      </a>
+
+      <nav class="nav" aria-label="Main navigation">
+        <a href="#markets" class="nav__link">Markets</a>
+        <a href="#news" class="nav__link">News</a>
+      </nav>
+
+      <div class="topbar__actions">
+        <span class="last-update" id="lastUpdate" aria-live="polite">—</span>
+
+        <div class="palette-picker">
+          <button class="icon-btn palette-picker__toggle" id="paletteToggle"
+                  aria-label="Change colour palette" title="Change colour palette"
+                  aria-haspopup="true" aria-expanded="false">
+            <span class="palette-picker__swatches" aria-hidden="true">
+              <span class="palette-picker__sw" style="background: var(--accent)"></span>
+              <span class="palette-picker__sw" style="background: var(--text)"></span>
+              <span class="palette-picker__sw" style="background: var(--bg)"></span>
+              <span class="palette-picker__sw" style="background: var(--bg-elev)"></span>
+            </span>
+          </button>
+          <div class="palette-picker__menu" id="paletteMenu" role="menu" hidden>
+            <button class="palette-picker__option" role="menuitem" data-palette="newsprint">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#f3e9d2"></span><span style="background:#14110d"></span>
+                <span style="background:#b51d1d"></span><span style="background:#6b6356"></span>
+              </span>
+              <span class="palette-picker__name">Newsprint <em>(default)</em></span>
+            </button>
+            <button class="palette-picker__option" role="menuitem" data-palette="broadsheet">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#ece1c8"></span><span style="background:#2a1f12"></span>
+                <span style="background:#7a3b16"></span><span style="background:#a48b62"></span>
+              </span>
+              <span class="palette-picker__name">Broadsheet</span>
+            </button>
+            <button class="palette-picker__option" role="menuitem" data-palette="modern-mono">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#ffffff"></span><span style="background:#0a0a0a"></span>
+                <span style="background:#0a3d91"></span><span style="background:#5b5b5b"></span>
+              </span>
+              <span class="palette-picker__name">Modern Mono</span>
+            </button>
+            <button class="palette-picker__option" role="menuitem" data-palette="financial">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#fff1e5"></span><span style="background:#33302e"></span>
+                <span style="background:#990f3d"></span><span style="background:#807268"></span>
+              </span>
+              <span class="palette-picker__name">Financial</span>
+            </button>
+            <button class="palette-picker__option" role="menuitem" data-palette="gazette">
+              <span class="palette-picker__preview" aria-hidden="true">
+                <span style="background:#f6f1e3"></span><span style="background:#1a2333"></span>
+                <span style="background:#a31621"></span><span style="background:#6f7383"></span>
+              </span>
+              <span class="palette-picker__name">Gazette</span>
+            </button>
+          </div>
+        </div>
+
+        <button class="icon-btn" id="themeToggle" aria-label="Toggle dark / light mode" title="Toggle dark / light mode">
+          <svg class="theme-icon theme-icon--sun" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"/>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+          </svg>
+          <svg class="theme-icon theme-icon--moon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero__masthead">
+        <span class="hero__masthead-label">Lead Story</span>
+        <span class="hero__masthead-rule" aria-hidden="true"></span>
+        <span class="hero__masthead-date" id="heroDate">Today</span>
+      </div>
+
+      <div class="hero__content">
+        <span class="hero__category" id="heroCategory">—</span>
+
+        <h1 id="hero-title" class="hero__title">
+          <span id="heroHeadline">Loading today's brief…</span>
+        </h1>
+
+        <p class="hero__lead" id="heroSummary">
+          A focused recap of what is happening in the world today — politics, finance, conflicts,
+          science, and key resources, drawn from authoritative international outlets.
+        </p>
+
+        <p class="hero__byline" id="heroSource">—</p>
+
+        <div class="hero__actions">
+          <a id="heroLink" href="#news" class="btn btn--primary" target="_blank" rel="noopener">
+            Read the full story
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg>
+          </a>
+          <a href="#news" class="btn btn--ghost">More headlines</a>
+          <a href="#markets" class="btn btn--ghost">See markets</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="markets" class="section section--markets" aria-labelledby="markets-title">
+      <div class="section__header">
+        <div>
+          <h2 id="markets-title" class="section__title">Markets</h2>
+          <p class="section__subtitle">
+            Hourly snapshot. Bull / bear signal combines 200-day trend and 14-day RSI. Not financial advice.
+          </p>
+        </div>
+        <div class="legend" aria-label="Signal legend">
+          <span class="legend__item"><i class="dot dot--bull"></i>Bullish</span>
+          <span class="legend__item"><i class="dot dot--neutral"></i>Neutral</span>
+          <span class="legend__item"><i class="dot dot--bear"></i>Bearish</span>
+        </div>
+      </div>
+
+      <div class="market-table" id="marketTable" aria-live="polite"></div>
+    </section>
+
+    <section id="news" class="section section--news" aria-labelledby="news-title">
+      <div class="section__header">
+        <div>
+          <h2 id="news-title" class="section__title">Today's brief</h2>
+          <p class="section__subtitle">
+            Five stories ranked by source authority, recency, and global coverage. One lead, four briefs.
+          </p>
+        </div>
+      </div>
+
+      <div class="news-grid" id="newsGrid" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="footer" role="contentinfo">
+    <div class="footer__inner-wrap">
+      <div class="footer__sources">
+        <div class="footer__sources-col">
+          <h3 class="footer__sources-label">News sources</h3>
+          <p>Reuters, Associated Press, AFP, BBC World Service, Al Jazeera English, Deutsche Welle, France 24, Nikkei Asia, UN News, IMF, ECB, NASA, ESA, USGS, IEA, ACLED — aggregated and ranked daily.</p>
+        </div>
+        <div class="footer__sources-col">
+          <h3 class="footer__sources-label">Market sources</h3>
+          <p>CoinGecko (crypto), Stooq (equities, commodities, indices). Bull / bear signal computed from 200-day SMA trend + 14-day RSI. Refreshed hourly.</p>
+        </div>
+      </div>
+      <div class="footer__meta-row">
+        <p>© <span id="year"></span> Daily Brief — open-source personal project, all data from public sources.</p>
+        <p class="footer__meta">Last update: <span id="footerUpdate">—</span></p>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="scripts/app.js"></script>
+</body>
+</html>

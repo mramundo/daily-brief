@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#f3e9d2"/>
+  <rect x="2" y="2" width="28" height="28" fill="none" stroke="#14110d" stroke-width="1"/>
+  <rect x="4" y="6" width="24" height="1" fill="#14110d"/>
+  <rect x="4" y="8.5" width="24" height="0.5" fill="#14110d"/>
+  <text x="16" y="22"
+        text-anchor="middle"
+        font-family="'Playfair Display','Times New Roman',Georgia,serif"
+        font-weight="900"
+        font-size="14"
+        fill="#14110d"
+        letter-spacing="-0.5">DB</text>
+  <rect x="11" y="24.5" width="10" height="1.5" fill="#b51d1d"/>
+</svg>

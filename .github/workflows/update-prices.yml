@@ -1,10 +1,13 @@
 name: Update prices (hourly)
 
+# Hourly price refresh: pulls latest prices + 200d/14d signal series for
+# tracked assets, writes data/prices.json, commits back to main.
+
 on:
   schedule:
     # Top of every hour.
     - cron: "0 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 permissions:
   contents: write

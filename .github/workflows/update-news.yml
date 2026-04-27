@@ -1,10 +1,13 @@
 name: Update news (daily)
 
+# Daily news refresh: pulls top stories from authoritative outlets, scores
+# and dedups them, writes data/news.json, commits back to main.
+
 on:
   schedule:
     # 06:00 UTC every day — news.json is meant to be a morning snapshot.
     - cron: "0 6 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 permissions:
   contents: write

@@ -5,8 +5,11 @@ name: Update news (daily)
 
 on:
   schedule:
-    # 06:00 UTC every day — news.json is meant to be a morning snapshot.
+    # 08:00 Europe/Rome year-round — fires at 06:00 UTC (CEST/summer) and
+    # 07:00 UTC (CET/winter); fetch_news.py guards on actual Rome hour so
+    # only the correct firing actually runs.
     - cron: "0 6 * * *"
+    - cron: "0 7 * * *"
   workflow_dispatch:
 
 permissions:

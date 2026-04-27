@@ -34,6 +34,7 @@ empty fetch falls back to data/news.seed.json so the dashboard never breaks.
 """
 from __future__ import annotations
 
+import html
 import json
 import logging
 import math
@@ -45,6 +46,7 @@ from dataclasses import dataclass, field, asdict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -242,9 +244,22 @@ def parse_dt(entry) -> datetime | None:
         return datetime.fromtimestamp(time.mktime(pp), tz=timezone.utc)
     return None
 
+def clean_text(t: str) -> str:
+    """Decode HTML entities and collapse whitespace."""
+    if not t:
+        return ""
+    # Strip any leftover HTML tags first, then decode entities (twice for
+    # double-encoded feeds like `&amp;nbsp;`).
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = html.unescape(html.unescape(t))
+    # Replace non-breaking spaces and other unicode whitespace with regular spaces.
+    t = t.replace("\u00a0", " ").replace("\u200b", "")
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
 def normalise_title(t: str) -> str:
     """Normalise a title for keyword matching and dedup hashing."""
-    t = re.sub(r"\s+", " ", t or "").strip()
+    t = clean_text(t)
     # Strip Google News' "Title - Source" suffix if present.
     t = re.sub(r"\s+-\s+[^-]+$", "", t)
     return t
@@ -319,7 +334,7 @@ def collect_category(category: str, now: datetime) -> list[NewsItem]:
             if decay <= 0:
                 continue
 
-            summary = re.sub(r"<[^>]+>", " ", entry.get("summary", "") or "")
+            summary = clean_text(entry.get("summary", ""))
             haystack = f"{title} {summary}".lower()
             hits = keyword_hits(haystack, keywords)
 
@@ -430,7 +445,18 @@ def write_output(payload: dict) -> None:
     OUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     log.info("wrote %s", OUT_FILE)
 
+TARGET_HOUR_ROME = 8
+
 def main() -> int:
+    # Cron fires at both 06:00 and 07:00 UTC year-round to cover DST; only
+    # the firing where Europe/Rome is at TARGET_HOUR_ROME actually runs.
+    # Manual workflow_dispatch sets SKIP_TIME_GUARD=1 to bypass.
+    if os.getenv("SKIP_TIME_GUARD") != "1" and os.getenv("GITHUB_EVENT_NAME") == "schedule":
+        rome_hour = datetime.now(ZoneInfo("Europe/Rome")).hour
+        if rome_hour != TARGET_HOUR_ROME:
+            log.info("skipping: Rome hour=%s, target=%s", rome_hour, TARGET_HOUR_ROME)
+            return 0
+
     try:
         payload = build_payload()
         if payload.get("hero") is None and not payload.get("items"):

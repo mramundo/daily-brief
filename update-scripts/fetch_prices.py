@@ -7,7 +7,7 @@ computes SMA50, SMA200, RSI(14), and a simple bull / bear / neutral signal.
 
 Sources (free, no key):
   - CoinGecko /coins/{id}/market_chart   → BTC, ETH (daily, 365d)
-  - Stooq /q/d/l/?s=TICKER&i=d           → equities, indices, ETFs, commodities
+  - Yahoo Finance v8 chart endpoint      → equities, indices, ETFs, commodities
 
 Signal rules:
   - bull    if last_price > SMA200 AND RSI(14) in (40, 70)
@@ -19,8 +19,6 @@ JSON entry (or an "unknown" placeholder) rather than blocking the run.
 """
 from __future__ import annotations
 
-import csv
-import io
 import json
 import logging
 import math
@@ -31,6 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
+import yfinance as yf
 
 # ---------------------------------------------------------------------------
 # Config
@@ -53,8 +52,8 @@ class AssetSpec:
     ticker: str
     name: str
     currency: str
-    source: str        # "coingecko" | "stooq"
-    source_id: str     # coingecko coin id, or stooq symbol
+    source: str        # "coingecko" | "yahoo"
+    source_id: str     # coingecko coin id, or yahoo symbol
     note: str = ""
 
 # Categories follow the dashboard layout 1:1.
@@ -64,24 +63,24 @@ ASSETS: dict[str, list[AssetSpec]] = {
         AssetSpec("ETH", "Ethereum", "USD", "coingecko", "ethereum"),
     ],
     "commodities": [
-        AssetSpec("XAUUSD", "Gold (spot, oz)",      "USD", "stooq", "xauusd"),
-        AssetSpec("CL=F",   "Crude Oil (WTI, bbl)", "USD", "stooq", "cl.f"),
+        AssetSpec("XAUUSD", "Gold (spot, oz)",      "USD", "yahoo", "GC=F"),
+        AssetSpec("CL=F",   "Crude Oil (WTI, bbl)", "USD", "yahoo", "CL=F"),
     ],
     "indices": [
-        AssetSpec("^GSPC",   "S&P 500",                 "USD", "stooq", "^spx"),
-        AssetSpec("VWCE.DE", "Vanguard FTSE All-World", "EUR", "stooq", "vwce.de"),
-        AssetSpec("URTH",    "iShares MSCI World",      "USD", "stooq", "urth.us"),
+        AssetSpec("^GSPC",   "S&P 500",                 "USD", "yahoo", "^GSPC"),
+        AssetSpec("VWCE.DE", "Vanguard FTSE All-World", "EUR", "yahoo", "VWCE.DE"),
+        AssetSpec("URTH",    "iShares MSCI World",      "USD", "yahoo", "URTH"),
     ],
     "ai_tech": [
-        AssetSpec("NVDA", "NVIDIA",                   "USD", "stooq", "nvda.us"),
-        AssetSpec("MSFT", "Microsoft (OpenAI proxy)", "USD", "stooq", "msft.us",
+        AssetSpec("NVDA", "NVIDIA",                   "USD", "yahoo", "NVDA"),
+        AssetSpec("MSFT", "Microsoft (OpenAI proxy)", "USD", "yahoo", "MSFT",
                   note="MSFT held as a proxy for OpenAI exposure: Microsoft holds an "
                        "economic interest of roughly 49% in OpenAI."),
     ],
     "defense": [
-        AssetSpec("PLTR",   "Palantir",      "USD", "stooq", "pltr.us"),
-        AssetSpec("LDO.MI", "Leonardo SpA",  "EUR", "stooq", "ldo.it"),
-        AssetSpec("RHM.DE", "Rheinmetall AG","EUR", "stooq", "rhm.de"),
+        AssetSpec("PLTR",   "Palantir",      "USD", "yahoo", "PLTR"),
+        AssetSpec("LDO.MI", "Leonardo SpA",  "EUR", "yahoo", "LDO.MI"),
+        AssetSpec("RHM.DE", "Rheinmetall AG","EUR", "yahoo", "RHM.DE"),
     ],
 }
 
@@ -159,37 +158,28 @@ def fetch_coingecko(coin_id: str) -> list[float] | None:
         log.warning("coingecko %s failed: %s", coin_id, exc)
         return None
 
-def fetch_stooq(symbol: str) -> list[float] | None:
-    """Daily closes from Stooq CSV. Free, no key, but rate-limit-friendly."""
-    # Stooq CSV: Date,Open,High,Low,Close,Volume
-    url = f"https://stooq.com/q/d/l/?s={symbol}&i=d"
+def fetch_yahoo(symbol: str) -> list[float] | None:
+    """Daily closes via yfinance (handles Yahoo's cookie/crumb auth)."""
     try:
-        r = requests.get(url, timeout=HTTP_TIMEOUT, headers={"User-Agent": USER_AGENT})
-        r.raise_for_status()
-        text = r.text.strip()
-        if not text or text.lower().startswith("<!doctype") or "no data" in text.lower():
-            log.warning("stooq %s returned no data", symbol)
+        tkr = yf.Ticker(symbol)
+        hist = tkr.history(period="2y", interval="1d", auto_adjust=False)
+        if hist is None or hist.empty or "Close" not in hist:
+            log.warning("yahoo %s: empty history", symbol)
             return None
-        reader = csv.DictReader(io.StringIO(text))
-        closes = []
-        for row in reader:
-            try:
-                v = float(row["Close"])
-                if math.isfinite(v):
-                    closes.append(v)
-            except (KeyError, TypeError, ValueError):
-                continue
-        # Stooq returns oldest→newest; trim to last ~400 trading days for SMA200.
-        return closes[-450:] if len(closes) > 450 else closes
+        closes = [
+            float(c) for c in hist["Close"].tolist()
+            if c is not None and math.isfinite(float(c))
+        ]
+        return closes if len(closes) >= 2 else None
     except Exception as exc:
-        log.warning("stooq %s failed: %s", symbol, exc)
+        log.warning("yahoo %s failed: %s", symbol, exc)
         return None
 
 def fetch_history(spec: AssetSpec) -> list[float] | None:
     if spec.source == "coingecko":
         return fetch_coingecko(spec.source_id)
-    if spec.source == "stooq":
-        return fetch_stooq(spec.source_id)
+    if spec.source == "yahoo":
+        return fetch_yahoo(spec.source_id)
     return None
 
 # ---------------------------------------------------------------------------

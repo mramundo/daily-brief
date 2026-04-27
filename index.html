@@ -24,8 +24,8 @@
       </a>
 
       <nav class="nav" aria-label="Main navigation">
-        <a href="#markets" class="nav__link">Markets</a>
         <a href="#news" class="nav__link">News</a>
+        <a href="#markets" class="nav__link">Markets</a>
       </nav>
 
       <div class="topbar__actions">
@@ -96,13 +96,13 @@
 
   <main id="main">
     <section class="hero" aria-labelledby="hero-title">
-      <div class="hero__masthead">
-        <span class="hero__masthead-label">Lead Story</span>
-        <span class="hero__masthead-rule" aria-hidden="true"></span>
-        <span class="hero__masthead-date" id="heroDate">Today</span>
-      </div>
-
       <div class="hero__content">
+        <div class="hero__masthead">
+          <span class="hero__masthead-label">Lead Story</span>
+          <span class="hero__masthead-rule" aria-hidden="true"></span>
+          <span class="hero__masthead-date" id="heroDate">Today</span>
+        </div>
+
         <span class="hero__category" id="heroCategory">—</span>
 
         <h1 id="hero-title" class="hero__title">
@@ -127,6 +127,19 @@
       </div>
     </section>
 
+    <section id="news" class="section section--news" aria-labelledby="news-title">
+      <div class="section__header">
+        <div>
+          <h2 id="news-title" class="section__title">Today's brief</h2>
+          <p class="section__subtitle">
+            Five stories ranked by source authority, recency, and global coverage. One lead, four briefs.
+          </p>
+        </div>
+      </div>
+
+      <div class="news-grid" id="newsGrid" aria-live="polite"></div>
+    </section>
+
     <section id="markets" class="section section--markets" aria-labelledby="markets-title">
       <div class="section__header">
         <div>
@@ -143,19 +156,6 @@
       </div>
 
       <div class="market-table" id="marketTable" aria-live="polite"></div>
-    </section>
-
-    <section id="news" class="section section--news" aria-labelledby="news-title">
-      <div class="section__header">
-        <div>
-          <h2 id="news-title" class="section__title">Today's brief</h2>
-          <p class="section__subtitle">
-            Five stories ranked by source authority, recency, and global coverage. One lead, four briefs.
-          </p>
-        </div>
-      </div>
-
-      <div class="news-grid" id="newsGrid" aria-live="polite"></div>
     </section>
   </main>
 

@@ -74,9 +74,11 @@ AUTHORITY: dict[str, float] = {
     # Wires
     "Reuters": 1.00, "AP News": 1.00, "AFP": 0.98, "Bloomberg": 0.95,
     # Broadcasters / dailies
-    "BBC World": 0.92, "BBC Science": 0.92, "BBC Business": 0.92,
+    "BBC World": 0.92, "BBC Science": 0.92, "BBC Business": 0.92, "BBC Tech": 0.90,
     "Al Jazeera": 0.85, "Deutsche Welle": 0.85, "France 24": 0.82,
     "Nikkei Asia": 0.85, "The Guardian": 0.82,
+    # Tech press
+    "The Verge": 0.80, "TechCrunch": 0.78, "Ars Technica": 0.82,
     # Official / institutional
     "UN News": 0.95, "IMF": 0.95, "ECB": 0.95, "Federal Reserve": 0.95,
     "NASA": 0.95, "ESA": 0.92, "USGS": 0.92, "IEA": 0.92,
@@ -137,6 +139,16 @@ FEEDS: dict[str, list[tuple[str, str]]] = {
         (_gnews("OPEC OR \"rare earths\" OR \"critical minerals\""), "Wires"),
         ("https://feeds.bbci.co.uk/news/business/rss.xml", "BBC Business"),
     ],
+    "tech": [
+        (_gnews("site:reuters.com technology OR AI OR chip OR semiconductor"), "Reuters"),
+        (_gnews("site:apnews.com technology OR AI"), "AP News"),
+        (_gnews("site:bloomberg.com technology"), "Bloomberg"),
+        ("https://feeds.bbci.co.uk/news/technology/rss.xml", "BBC Tech"),
+        ("https://www.theverge.com/rss/index.xml", "The Verge"),
+        ("https://techcrunch.com/feed/", "TechCrunch"),
+        ("https://feeds.arstechnica.com/arstechnica/technology-lab", "Ars Technica"),
+        (_gnews("\"OpenAI\" OR \"Anthropic\" OR \"NVIDIA\" OR \"Google DeepMind\""), "Wires"),
+    ],
 }
 
 # Category keyword filters — applied to (title + summary). Hits also boost
@@ -172,6 +184,16 @@ KEYWORDS: dict[str, list[str]] = {
         "uranium", "lithium", "copper", "nickel", "cobalt", "rare earth",
         "critical mineral", "gold", "silver", "platinum", "wheat", "corn",
         "commodity", "commodities", "supply chain", "stockpile", "barrel",
+    ],
+    "tech": [
+        "ai", "artificial intelligence", "machine learning", "llm",
+        "openai", "anthropic", "deepmind", "gemini", "chatgpt", "claude",
+        "nvidia", "amd", "intel", "tsmc", "semiconductor", "chip", "gpu",
+        "cloud", "aws", "azure", "google cloud", "datacenter", "data center",
+        "startup", "venture", "funding round", "ipo", "acquisition",
+        "smartphone", "iphone", "android", "apple", "microsoft", "alphabet",
+        "meta", "amazon", "tesla", "robotics", "autonomous", "quantum",
+        "cybersecurity", "breach", "ransomware", "open source", "kernel",
     ],
 }
 

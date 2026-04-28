@@ -6,11 +6,12 @@
 const $ = (sel, root = document) => root.querySelector(sel);
 
 const CATEGORY_LABELS = {
-  politics:  'Politics & Geopolitics',
+  politics:  'Politics',
   finance:   'Finance',
   conflicts: 'Conflicts',
   science:   'Science',
   resources: 'Resources',
+  tech:      'Tech',
 };
 
 const fmtRelative = (iso) => {

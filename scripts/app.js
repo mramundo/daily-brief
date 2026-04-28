@@ -17,7 +17,7 @@ const CONFIG = {
 
 const LOCALE = 'en-US';
 
-const PALETTES = ['newsprint', 'broadsheet', 'modern-mono', 'financial', 'gazette'];
+const PALETTES = ['newsprint', 'broadsheet', 'modern-mono', 'modern-red', 'financial', 'gazette'];
 const MODES    = ['light', 'dark'];
 
 function initTheme() {

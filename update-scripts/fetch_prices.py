@@ -141,8 +141,10 @@ def classify(price: float | None, sma200_v: float | None, rsi_v: float | None) -
 # Sources
 # ---------------------------------------------------------------------------
 
-def fetch_coingecko(coin_id: str) -> list[float] | None:
-    """Daily close history for the last ~365 days from CoinGecko (free tier)."""
+Series = tuple[list[str], list[float]]   # (iso dates, closes), aligned
+
+def fetch_coingecko(coin_id: str) -> Series | None:
+    """Daily close history (~365 days) from CoinGecko (free tier)."""
     url = (
         f"https://api.coingecko.com/api/v3/coins/{coin_id}/market_chart"
         "?vs_currency=usd&days=365&interval=daily"
@@ -152,32 +154,43 @@ def fetch_coingecko(coin_id: str) -> list[float] | None:
         r.raise_for_status()
         data = r.json()
         prices = data.get("prices") or []
-        # CoinGecko returns [[ts, price], ...] sorted oldest→newest.
-        return [float(p[1]) for p in prices if p and p[1] is not None]
+        # CoinGecko returns [[ts_ms, price], ...] sorted oldest→newest.
+        dates, closes = [], []
+        for ts, p in prices:
+            if p is None:
+                continue
+            d = datetime.fromtimestamp(ts / 1000.0, timezone.utc).date().isoformat()
+            dates.append(d)
+            closes.append(float(p))
+        return (dates, closes) if len(closes) >= 2 else None
     except Exception as exc:
         log.warning("coingecko %s failed: %s", coin_id, exc)
         return None
 
-def fetch_yahoo(symbol: str) -> list[float] | None:
-    """Daily closes via yahooquery (different code path than yfinance —
-    yfinance/v8 chart endpoint 429s from cloud IPs, yahooquery's quoteSummary
-    + chart endpoints are not subject to the same blocklist).
+def fetch_yahoo(symbol: str) -> Series | None:
+    """Daily (date, close) series via yahooquery.
+
+    yfinance/v8 chart endpoint 429s from cloud IPs; yahooquery's quoteSummary
+    + chart endpoints use a different code path that's not on the blocklist.
     """
     try:
         hist = Ticker(symbol, asynchronous=False).history(period="2y", interval="1d")
         if not hasattr(hist, "shape") or hist.empty or "close" not in hist.columns:
             log.warning("yahoo %s: empty history (%s)", symbol, type(hist).__name__)
             return None
-        closes = [
-            float(c) for c in hist["close"].tolist()
-            if c is not None and math.isfinite(float(c))
-        ]
-        return closes if len(closes) >= 2 else None
+        # Multi-index: (symbol, date). We only fetched one symbol.
+        dates, closes = [], []
+        for (_sym, dt), close in hist["close"].items():
+            if close is None or not math.isfinite(float(close)):
+                continue
+            dates.append(dt.isoformat() if hasattr(dt, "isoformat") else str(dt))
+            closes.append(float(close))
+        return (dates, closes) if len(closes) >= 2 else None
     except Exception as exc:
         log.warning("yahoo %s failed: %s", symbol, exc)
         return None
 
-def fetch_history(spec: AssetSpec) -> list[float] | None:
+def fetch_history(spec: AssetSpec) -> Series | None:
     if spec.source == "coingecko":
         return fetch_coingecko(spec.source_id)
     if spec.source == "yahoo":
@@ -185,18 +198,81 @@ def fetch_history(spec: AssetSpec) -> list[float] | None:
     return None
 
 # ---------------------------------------------------------------------------
+# FX (EUR→USD, etc.) — cached per run
+# ---------------------------------------------------------------------------
+
+_FX_CACHE: dict[str, dict[str, float]] = {}
+
+def fx_series(base: str, quote: str = "USD") -> dict[str, float]:
+    """date → rate map for `base`/`quote` (e.g. EUR→USD via EURUSD=X).
+
+    Empty dict if fetch fails — caller should fall back to leaving the price
+    in its native currency rather than producing wrong USD numbers.
+    """
+    if base == quote:
+        return {}
+    key = f"{base}{quote}"
+    if key in _FX_CACHE:
+        return _FX_CACHE[key]
+    series = fetch_yahoo(f"{base}{quote}=X")
+    if not series:
+        log.warning("fx %s/%s: no data; assets in %s will stay native", base, quote, base)
+        _FX_CACHE[key] = {}
+        return _FX_CACHE[key]
+    dates, closes = series
+    _FX_CACHE[key] = {d: c for d, c in zip(dates, closes)}
+    return _FX_CACHE[key]
+
+def to_usd(series: Series, base_ccy: str) -> Series | None:
+    """Convert a (dates, closes) series from `base_ccy` to USD via daily FX
+    rates. Forward-fills missing FX days (holidays where stock trades but
+    FX feed has a gap) using the last known rate.
+    """
+    if base_ccy == "USD":
+        return series
+    fx = fx_series(base_ccy, "USD")
+    if not fx:
+        return None
+    dates, closes = series
+    out_dates, out_closes = [], []
+    last_rate: float | None = None
+    for d, c in zip(dates, closes):
+        rate = fx.get(d)
+        if rate is None or not math.isfinite(rate):
+            rate = last_rate
+        else:
+            last_rate = rate
+        if rate is None:
+            continue   # no FX yet at start of series
+        out_dates.append(d)
+        out_closes.append(c * rate)
+    return (out_dates, out_closes) if len(out_closes) >= 2 else None
+
+# ---------------------------------------------------------------------------
 # Pipeline
 # ---------------------------------------------------------------------------
 
 def build_asset_payload(spec: AssetSpec) -> dict:
-    closes = fetch_history(spec)
+    series = fetch_history(spec)
 
-    if not closes or len(closes) < 2:
+    # Convert to USD if the asset is denominated in another currency. We do
+    # this on the full series (not just the spot) so SMA/RSI reflect the USD
+    # trajectory rather than being mixed-currency artefacts.
+    display_currency = "USD"
+    if series is not None and spec.currency != "USD":
+        converted = to_usd(series, spec.currency)
+        if converted is None:
+            # FX fetch failed — keep native currency rather than emitting wrong numbers.
+            display_currency = spec.currency
+        else:
+            series = converted
+
+    if not series or len(series[1]) < 2:
         log.warning("%s: insufficient history; placeholder entry", spec.ticker)
         return {
             "ticker": spec.ticker,
             "name": spec.name,
-            "currency": spec.currency,
+            "currency": display_currency,
             "price": None,
             "change_pct": None,
             "sma50": None,
@@ -206,6 +282,7 @@ def build_asset_payload(spec: AssetSpec) -> dict:
             **({"note": spec.note} if spec.note else {}),
         }
 
+    closes = series[1]
     last = closes[-1]
     prev = closes[-2]
     change_pct = ((last - prev) / prev) * 100.0 if prev else None
@@ -217,7 +294,7 @@ def build_asset_payload(spec: AssetSpec) -> dict:
     out = {
         "ticker": spec.ticker,
         "name": spec.name,
-        "currency": spec.currency,
+        "currency": display_currency,
         "price": round(last, 4),
         "change_pct": round(change_pct, 2) if change_pct is not None else None,
         "sma50":  round(sma50_v, 4) if sma50_v is not None else None,

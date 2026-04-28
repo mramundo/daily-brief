@@ -1,50 +1,50 @@
 {
-  "updated": "2026-04-28T03:35:47.305690+00:00",
+  "updated": "2026-04-28T09:39:06.048498+00:00",
   "hero": {
-    "title": "14 killed in South Sudan plane crash near capital Juba",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/14-killed-in-south-sudan-plane-crash-near-capital-juba?traffic_source=rss",
+    "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
+    "url": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
     "source": "Al Jazeera",
-    "published_at": "2026-04-28T02:01:30+00:00",
-    "summary": "A passenger plane crashed southwest of South Sudan’s capital Juba, killing all 14 people on board.",
+    "published_at": "2026-04-28T07:34:11+00:00",
+    "summary": "The diplomatic spat unfolds as Ukrainian drones hit Russia's Tuapse oil refinery, causing a 'massive' fire.",
     "category": "conflicts",
-    "score": 5.259
+    "score": 6.007
   },
   "items": [
     {
-      "title": "EU, US sign MOU for critical minerals partnership",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0VnOGw2RnQxQkE2NU9sVVpCc01XeEY2VXhKZVUxREktc3FxbzBsVTVfeGFUUHNhTEtuMXNDcVpFQVNUeHJKMW9HM25hV201RDY0ajAyRGFOd3d0WFQ1Zm5qMzItV3FVSjE5c3JieGxCNG1PbVZtMHFpTzZIUG9tcGM2ZW5mNkl3cHF5UDgtT05sMzNCQmJRT0tzcWZUWF91aUE?oc=5",
-      "source": "MSN",
-      "published_at": "2026-04-28T02:16:33+00:00",
-      "summary": "EU, US sign MOU for critical minerals partnership MSN",
-      "category": "resources",
-      "score": 4.716
-    },
-    {
-      "title": "Gold steady with US-Iran talks, central banks in focus",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNpbTBCYzQ2NWNmX3k1azB3TGczbV9nb3hsM1lQR2l5dTlxUkxQdjZjZks2T0xZM1Q4MEtSX3psV3lRT3ZIbU41VS1fSUF5MTBtV1liTUl3QW5HUGhHZ2ZKWi1GVHlTOC1zMW1obTFOamZ0OGdRRFlTNDA0SFZtQkZ6VUg3U1Z6R1Zvemw4RGhYRmhVLXBQWUM1c1AwMl9qaHFISEJ2RTI2NTA?oc=5",
+      "title": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle, jury is seated",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGFpNEVuYUszMWw5QzdlRHNFbVJkTTdNQWpUdEJaYzdvNzcyQzVoejktVEpiSVlHZkNiZXl1QnBwTXFLQzFkcjNiRzVNNUljd0REVG9vbm1YVldFRjhIY0loN2xRaEV2VldveV91NzJrR1ZZUnBrdFVIUlRUc3djemVCV0xLUm1NdHFJWno5eUxXQkhxNWZQdVhIdXNrWkU3dmVyTWswcktibTNQZzhYdVRrT2ZPckRV?oc=5",
       "source": "Reuters",
-      "published_at": "2026-04-28T01:32:00+00:00",
-      "summary": "Gold steady with US-Iran talks, central banks in focus Reuters",
-      "category": "finance",
-      "score": 4.076
+      "published_at": "2026-04-27T22:40:00+00:00",
+      "summary": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle, jury is seated Reuters",
+      "category": "tech",
+      "score": 5.91
     },
     {
-      "title": "Oceana Lithium to buy Brazil’s Serra Negra rare earths project and raises A$20m",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNejhzSERkVU03RUlxaTBXbUxJNjlHX1BhaFE4OFlQdHVUMlVIY1QxMHpKSkVNSE5vejQtdGFNT3pvVXgxRFhNRk9YRDlzZ2lZRVljSGlBR1Ntb2h1TGxJLW5LMXpUVjlIMldmSHI0NmZsbnd4aDZBc19oNUNpanN3WXM2X0RTd3hORnd6OFJXRnV1VGJkcl8zNzNHckpXVFpObk9KeFFzSkxRTU03NHM4ZjF2QmxMT2ZJeXhVV2Y4RV9RTHJRYmstUw?oc=5",
-      "source": "TipRanks",
-      "published_at": "2026-04-28T00:30:44+00:00",
-      "summary": "Oceana Lithium to buy Brazil’s Serra Negra rare earths project and raises A$20m TipRanks",
-      "category": "resources",
-      "score": 4.067
+      "title": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-04-28T03:10:00+00:00",
+      "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports Reuters",
+      "category": "tech",
+      "score": 5.882
     },
     {
-      "title": "Mexico's Sheinbaum rules out a conflict with US over 2 CIA agents killed in Chihuahua accident",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVYyTC1LcWhFaGxVOHpTN1NyY1V2YkxNSDN6cmEtTWstbUxDNUVWLXVDbTVqNmRqSXJHaFhXNllFWHFoX3luVl9XNkdQX2tMeTY1bFZjbVF2T2tfbHlQaklTcFl1c0hzTVFLRlJkYTd6aXM0RFpCLVY3bzlQamRjRXBXNlE1WFJOVDdpY1V1WG9XYVlOa0hsSk1ibGo?oc=5",
-      "source": "AP News",
-      "published_at": "2026-04-28T02:15:00+00:00",
-      "summary": "Mexico's Sheinbaum rules out a conflict with US over 2 CIA agents killed in Chihuahua accident AP News",
+      "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+      "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-04-28T07:17:06+00:00",
+      "summary": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
       "category": "conflicts",
-      "score": 4.066
+      "score": 5.218
+    },
+    {
+      "title": "Britain's King Charles meets Trump in bid to salvage ties",
+      "url": "https://www.france24.com/en/video/20260428-britain-s-king-charles-meets-trump-in-bid-to-salvage-ties",
+      "source": "France 24",
+      "published_at": "2026-04-28T09:29:12+00:00",
+      "summary": "Britain's King Charles III met Donald Trump at the White House Monday, kicking off a high-stakes state visit shadowed by transatlantic tensions and a new alleged attempt to assassinate the US president. Behind the warm welcome for Charles and Queen Camilla in front of the cameras",
+      "category": "politics",
+      "score": 4.086
     }
   ]
 }

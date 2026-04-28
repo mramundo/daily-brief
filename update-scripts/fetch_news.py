@@ -46,7 +46,6 @@ from dataclasses import dataclass, field, asdict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
-from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -467,18 +466,7 @@ def write_output(payload: dict) -> None:
     OUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     log.info("wrote %s", OUT_FILE)
 
-TARGET_HOUR_ROME = 8
-
 def main() -> int:
-    # Cron fires at both 06:00 and 07:00 UTC year-round to cover DST; only
-    # the firing where Europe/Rome is at TARGET_HOUR_ROME actually runs.
-    # Manual workflow_dispatch sets SKIP_TIME_GUARD=1 to bypass.
-    if os.getenv("SKIP_TIME_GUARD") != "1" and os.getenv("GITHUB_EVENT_NAME") == "schedule":
-        rome_hour = datetime.now(ZoneInfo("Europe/Rome")).hour
-        if rome_hour != TARGET_HOUR_ROME:
-            log.info("skipping: Rome hour=%s, target=%s", rome_hour, TARGET_HOUR_ROME)
-            return 0
-
     try:
         payload = build_payload()
         if payload.get("hero") is None and not payload.get("items"):

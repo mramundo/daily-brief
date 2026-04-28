@@ -1,27 +1,27 @@
 {
-  "updated": "2026-04-28T03:10:43.637576+00:00",
+  "updated": "2026-04-28T03:34:52.752467+00:00",
   "categories": {
     "crypto": [
       {
         "ticker": "BTC",
         "name": "Bitcoin",
         "currency": "USD",
-        "price": 76739.3005,
-        "change_pct": -0.8,
-        "sma50": 71964.5829,
-        "sma200": 84573.9213,
-        "rsi14": 57.39,
+        "price": 76767.534,
+        "change_pct": -0.77,
+        "sma50": 71965.1476,
+        "sma200": 84574.0625,
+        "rsi14": 57.49,
         "signal": "neutral"
       },
       {
         "ticker": "ETH",
         "name": "Ethereum",
         "currency": "USD",
-        "price": 2283.7993,
-        "change_pct": -0.69,
-        "sma50": 2194.0505,
-        "sma200": 2761.3093,
-        "rsi14": 51.0,
+        "price": 2285.528,
+        "change_pct": -0.62,
+        "sma50": 2194.085,
+        "sma200": 2761.3179,
+        "rsi14": 51.13,
         "signal": "neutral"
       }
     ],
@@ -30,23 +30,23 @@
         "ticker": "XAUUSD",
         "name": "Gold (spot, oz)",
         "currency": "USD",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 4675.3999,
+        "change_pct": -0.99,
+        "sma50": 4862.88,
+        "sma200": 4229.475,
+        "rsi14": 45.03,
+        "signal": "bull"
       },
       {
         "ticker": "CL=F",
         "name": "Crude Oil (WTI, bbl)",
         "currency": "USD",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 96.37,
+        "change_pct": 2.09,
+        "sma50": 88.0428,
+        "sma200": 68.2603,
+        "rsi14": 52.95,
+        "signal": "bull"
       }
     ],
     "indices": [
@@ -54,34 +54,34 @@
         "ticker": "^GSPC",
         "name": "S&P 500",
         "currency": "USD",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 7173.9102,
+        "change_pct": 0.12,
+        "sma50": 6796.0882,
+        "sma200": 6710.0548,
+        "rsi14": 70.45,
+        "signal": "neutral"
       },
       {
         "ticker": "VWCE.DE",
         "name": "Vanguard FTSE All-World",
         "currency": "EUR",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 153.6,
+        "change_pct": -0.12,
+        "sma50": 147.9492,
+        "sma200": 142.7238,
+        "rsi14": 67.73,
+        "signal": "bull"
       },
       {
         "ticker": "URTH",
         "name": "iShares MSCI World",
         "currency": "USD",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 195.45,
+        "change_pct": 0.09,
+        "sma50": 187.0568,
+        "sma200": 183.0573,
+        "rsi14": 66.15,
+        "signal": "bull"
       }
     ],
     "ai_tech": [
@@ -89,23 +89,23 @@
         "ticker": "NVDA",
         "name": "NVIDIA",
         "currency": "USD",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 216.61,
+        "change_pct": 4.0,
+        "sma50": 185.6186,
+        "sma200": 183.1094,
+        "rsi14": 76.28,
+        "signal": "neutral"
       },
       {
         "ticker": "MSFT",
         "name": "Microsoft (OpenAI proxy)",
         "currency": "USD",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown",
+        "price": 424.82,
+        "change_pct": 0.05,
+        "sma50": 394.5166,
+        "sma200": 469.7118,
+        "rsi14": 63.54,
+        "signal": "neutral",
         "note": "MSFT held as a proxy for OpenAI exposure: Microsoft holds an economic interest of roughly 49% in OpenAI."
       }
     ],
@@ -114,34 +114,34 @@
         "ticker": "PLTR",
         "name": "Palantir",
         "currency": "USD",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 143.1,
+        "change_pct": 0.01,
+        "sma50": 144.6312,
+        "sma200": 164.4372,
+        "rsi14": 48.6,
+        "signal": "neutral"
       },
       {
         "ticker": "LDO.MI",
         "name": "Leonardo SpA",
         "currency": "EUR",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 52.54,
+        "change_pct": -0.3,
+        "sma50": 58.5354,
+        "sma200": 52.6422,
+        "rsi14": 35.59,
+        "signal": "bear"
       },
       {
         "ticker": "RHM.DE",
         "name": "Rheinmetall AG",
         "currency": "EUR",
-        "price": null,
-        "change_pct": null,
-        "sma50": null,
-        "sma200": null,
-        "rsi14": null,
-        "signal": "unknown"
+        "price": 1319.2,
+        "change_pct": -6.24,
+        "sma50": 1556.378,
+        "sma200": 1689.387,
+        "rsi14": 31.69,
+        "signal": "bear"
       }
     ]
   }

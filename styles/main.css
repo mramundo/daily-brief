@@ -488,7 +488,8 @@ main > * + * { margin-top: var(--section-gap); }
 }
 @media (max-width: 520px) {
   .hero__masthead-rule { display: none; }
-  .hero__masthead { flex-wrap: wrap; gap: 8px; }
+  .hero__masthead { justify-content: space-between; gap: 8px; }
+  .hero__masthead-date { font-size: .85rem; }
 }
 .hero__category {
   font-family: var(--font-mono);

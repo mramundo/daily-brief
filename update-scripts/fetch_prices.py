@@ -29,7 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
-import yfinance as yf
+from yahooquery import Ticker
 
 # ---------------------------------------------------------------------------
 # Config
@@ -159,15 +159,17 @@ def fetch_coingecko(coin_id: str) -> list[float] | None:
         return None
 
 def fetch_yahoo(symbol: str) -> list[float] | None:
-    """Daily closes via yfinance (handles Yahoo's cookie/crumb auth)."""
+    """Daily closes via yahooquery (different code path than yfinance —
+    yfinance/v8 chart endpoint 429s from cloud IPs, yahooquery's quoteSummary
+    + chart endpoints are not subject to the same blocklist).
+    """
     try:
-        tkr = yf.Ticker(symbol)
-        hist = tkr.history(period="2y", interval="1d", auto_adjust=False)
-        if hist is None or hist.empty or "Close" not in hist:
-            log.warning("yahoo %s: empty history", symbol)
+        hist = Ticker(symbol, asynchronous=False).history(period="2y", interval="1d")
+        if not hasattr(hist, "shape") or hist.empty or "close" not in hist.columns:
+            log.warning("yahoo %s: empty history (%s)", symbol, type(hist).__name__)
             return None
         closes = [
-            float(c) for c in hist["Close"].tolist()
+            float(c) for c in hist["close"].tolist()
             if c is not None and math.isfinite(float(c))
         ]
         return closes if len(closes) >= 2 else None

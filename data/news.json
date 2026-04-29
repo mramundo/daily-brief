@@ -1,15 +1,42 @@
 {
-  "updated": "2026-04-29T00:47:06.784579+00:00",
+  "updated": "2026-04-29T06:55:43.745852+00:00",
   "hero": {
-    "title": "United Arab Emirates says it will leave OPEC, a blow to the oil cartel",
+    "title": "United Arab Emirates will leave OPEC in a blow to the oil cartel",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkRnVTlZMUhRaEl2QnlWWDU0eW4xYzFteWdmRVJlaFNweTRkSElodlp1QlJmMzZncXRKQkFnSnUtSTQ5RVVfRXdqT09rQjE5dEluTUpjc0hZMUNPall0T212U1ItMUhpTk5oOU9PWDV5R0p3aEN3bDJKNlhxLUZ3aFB4YW9EMzE2NzkzYURxbkRyUGp2dVVWWlFqalVJYTFIdUE?oc=5",
     "source": "AP News",
-    "published_at": "2026-04-28T17:33:00+00:00",
-    "summary": "United Arab Emirates says it will leave OPEC, a blow to the oil cartel AP News",
+    "published_at": "2026-04-29T01:40:00+00:00",
+    "summary": "United Arab Emirates will leave OPEC in a blow to the oil cartel AP News",
     "category": "resources",
-    "score": 9.126
+    "score": 9.908
   },
   "items": [
+    {
+      "title": "White House drafts guidance to bypass Anthropic's risk flag for new AI models, Axios reports",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUZwakFjZGhSOUhxeVdyTkZPM1VLNmNvZTZiblpycWVXUGNwVUxTaXlBUmplVnlwOVk1b3V3cG8wX3lGRHFSTUxYT0hXS3lVSkdJazdqdkVUeDFmcmpCd1JCQXZ5VlJNWTJXQy0zdVRhLWZHWDJfc2sxMUhEcnFQX1R0U1YwZXFZYUduSzJIT1M2QV9Ydms2V2l5TzJkRE83MGh4TTNDTlBfemU2bEhoeHBZODExMWJ3ZUxuWHN1NkVpZXQ1dkVr?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-04-29T03:05:27+00:00",
+      "summary": "White House drafts guidance to bypass Anthropic's risk flag for new AI models, Axios reports Reuters",
+      "category": "tech",
+      "score": 6.402
+    },
+    {
+      "title": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ1Y25ZdEZWNGdILUF6TjdBeUpuWFBWREIteDVqUm9pUGZNbEN5ajdOMWZJV2JMSTM2QkRPTjZJc1pIRnhVc1JZeUptTk5fWEVVYWVxR0tOdVhfXzRLVjZJdTYxUGRXT29HTkUtb2Z5NkRlQUdaOG4tM3lsZ2t2RXI4dExyUm1vdUJPSnFKVUY5dnZYNEFoYWJ4ZzZ3R3pMcmxLVkZ1b21lQ0VRT2x2Wk5B?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-04-29T05:26:25+00:00",
+      "summary": "Goldman Sachs bars Hong Kong bankers from using Anthropic AI, source says Reuters",
+      "category": "tech",
+      "score": 6.209
+    },
+    {
+      "title": "Oil slips as market digests UAE exit from OPEC, supply concerns linger",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-04-29T02:06:00+00:00",
+      "summary": "Oil slips as market digests UAE exit from OPEC, supply concerns linger Reuters",
+      "category": "resources",
+      "score": 5.402
+    },
     {
       "title": "Ukraine strikes Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHFKeXFLVEdweWprR2RDc0F3c3BoTGV3eHJEdkpIeDFyUjh4bGpTVUViUDFGWlgzMnFqYU5zb1RRcjItUnl6aTA3M2JvU0V6UFY0MmQ1ODVlWGdnRTYycXFBY2lIRkl3cnpKWkRpaTR4NXZ2WC1fTG11TG15R2t1VTVIZjhOcldCcE85VXN3d3RkSHBOZHJ2aHE3N1MtMGlBWnU0QVNTa2dDZjBpUWc5Y2drSQ?oc=5",
@@ -17,34 +44,7 @@
       "published_at": "2026-04-28T23:26:57+00:00",
       "summary": "Ukraine strikes Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets Reuters",
       "category": "conflicts",
-      "score": 6.249
-    },
-    {
-      "title": "Elon Musk says OpenAI was his idea, before executives looted it",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFB3VVFna2QyR3JfekdNQk9ERkFJU1NhYkxBcjV6bjBlMDVCQ1dyUDNqOTNza2pPVU5KOUxFaUJvNjkzYXR3N2hsdXZjYjRHY1Y0NnNPVThYbllYVGo4bzAtcDVaR1BSNUZ0eGd5YUxmWTFHVkxVNDBKdm1naGhnUVpUS2hRUnlqZkFJLVRhSzZYZGY0TGtJVkkyM3VHVTNrRWF2S1BLcnhTWmVGcG5LeERR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-04-28T22:13:01+00:00",
-      "summary": "Elon Musk says OpenAI was his idea, before executives looted it Reuters",
-      "category": "tech",
-      "score": 5.936
-    },
-    {
-      "title": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-04-28T21:44:19+00:00",
-      "summary": "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit Reuters",
-      "category": "resources",
-      "score": 5.819
-    },
-    {
-      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit against Altman",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ODBnQi1Ec29vUGZaUHpXQ2hFRFZJMDR1aDEtckZYcm85OEp6dEYydkMyTTU4Nnp5OV9NaTc1dFRoVk85emNjY3NaaFFkcVlVcl8xVWd2QzZlQQ?oc=5",
-      "source": "BBC World",
-      "published_at": "2026-04-28T19:43:02+00:00",
-      "summary": "Musk says basis of charitable giving at stake in OpenAI lawsuit against Altman BBC",
-      "category": "tech",
-      "score": 5.741
+      "score": 4.837
     }
   ]
 }

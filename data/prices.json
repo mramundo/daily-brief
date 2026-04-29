@@ -1,27 +1,27 @@
 {
-  "updated": "2026-04-29T08:51:05.064994+00:00",
+  "updated": "2026-04-29T09:45:36.933754+00:00",
   "categories": {
     "crypto": [
       {
         "ticker": "BTC",
         "name": "Bitcoin",
         "currency": "USD",
-        "price": 77019.5376,
-        "change_pct": 0.88,
-        "sma50": 72099.432,
-        "sma200": 84402.783,
-        "rsi14": 57.89,
+        "price": 77231.3524,
+        "change_pct": 1.16,
+        "sma50": 72103.6682,
+        "sma200": 84403.8421,
+        "rsi14": 58.47,
         "signal": "neutral"
       },
       {
         "ticker": "ETH",
         "name": "Ethereum",
         "currency": "USD",
-        "price": 2323.3881,
-        "change_pct": 1.54,
-        "sma50": 2199.899,
-        "sma200": 2754.2013,
-        "rsi14": 54.01,
+        "price": 2330.0021,
+        "change_pct": 1.83,
+        "sma50": 2200.0312,
+        "sma200": 2754.2344,
+        "rsi14": 54.48,
         "signal": "neutral"
       }
     ],
@@ -30,22 +30,22 @@
         "ticker": "XAUUSD",
         "name": "Gold (spot, oz)",
         "currency": "USD",
-        "price": 4576.2002,
-        "change_pct": -0.33,
-        "sma50": 4848.136,
-        "sma200": 4241.776,
-        "rsi14": 39.95,
-        "signal": "neutral"
+        "price": 4581.8999,
+        "change_pct": -0.21,
+        "sma50": 4848.25,
+        "sma200": 4241.8045,
+        "rsi14": 40.23,
+        "signal": "bull"
       },
       {
         "ticker": "CL=F",
         "name": "Crude Oil (WTI, bbl)",
         "currency": "USD",
-        "price": 103.58,
-        "change_pct": 3.65,
-        "sma50": 89.6086,
-        "sma200": 68.6007,
-        "rsi14": 59.22,
+        "price": 102.97,
+        "change_pct": 3.04,
+        "sma50": 89.5964,
+        "sma200": 68.5977,
+        "rsi14": 58.74,
         "signal": "bull"
       }
     ],
@@ -65,11 +65,11 @@
         "ticker": "VWCE.DE",
         "name": "Vanguard FTSE All-World",
         "currency": "USD",
-        "price": 179.8849,
-        "change_pct": 0.37,
-        "sma50": 173.0124,
-        "sma200": 167.0507,
-        "rsi14": 64.6,
+        "price": 179.9083,
+        "change_pct": 0.38,
+        "sma50": 173.0128,
+        "sma200": 167.0508,
+        "rsi14": 64.65,
         "signal": "bull"
       },
       {
@@ -125,22 +125,22 @@
         "ticker": "LDO.MI",
         "name": "Leonardo SpA",
         "currency": "USD",
-        "price": 61.2199,
-        "change_pct": -0.36,
-        "sma50": 68.1224,
-        "sma200": 61.5302,
-        "rsi14": 35.72,
+        "price": 61.3137,
+        "change_pct": -0.21,
+        "sma50": 68.1243,
+        "sma200": 61.5307,
+        "rsi14": 35.91,
         "signal": "bear"
       },
       {
         "ticker": "RHM.DE",
         "name": "Rheinmetall AG",
         "currency": "USD",
-        "price": 1579.8544,
-        "change_pct": 0.33,
-        "sma50": 1797.4322,
-        "sma200": 1963.812,
-        "rsi14": 36.74,
+        "price": 1588.2954,
+        "change_pct": 0.86,
+        "sma50": 1797.601,
+        "sma200": 1963.8542,
+        "rsi14": 37.73,
         "signal": "bear"
       }
     ]

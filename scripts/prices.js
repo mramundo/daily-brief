@@ -22,12 +22,6 @@ const fmtPrice = (val, currency) => {
   if (val == null || !Number.isFinite(val)) return '—';
   const cur = currency || 'USD';
   try {
-    if (val >= 1e12) {
-      return `$${(val / 1e12).toFixed(2)}T`;
-    }
-    if (val >= 1e9) {
-      return `$${(val / 1e9).toFixed(0)}B`;
-    }
     if (val >= 1000) {
       return new Intl.NumberFormat('en-US', {
         style: 'currency', currency: cur, maximumFractionDigits: 0,
@@ -57,7 +51,6 @@ const signalLabel = (sig) => {
     case 'bull':    return 'Bullish';
     case 'bear':    return 'Bearish';
     case 'neutral': return 'Neutral';
-    case 'private': return 'Private';
     default:        return 'No signal';
   }
 };
@@ -114,26 +107,14 @@ function changeCellHTML(val, extraClass = '') {
 function renderRow(a) {
   const sig = a.signal || 'unknown';
 
-  const change24 = sig === 'private' && a.static_label
-    ? `<span class="market-row__change market-row__change--flat market-row__change--label">${escapeHTML(a.static_label)}</span>`
-    : changeCellHTML(a.change_pct);
-
-  const change1m = sig === 'private'
-    ? `<span class="market-row__change market-row__change--flat market-row__change--1m">—</span>`
-    : changeCellHTML(a.change_1m, 'market-row__change--1m');
-
-  const change3m = sig === 'private'
-    ? `<span class="market-row__change market-row__change--flat market-row__change--3m">—</span>`
-    : changeCellHTML(a.change_3m, 'market-row__change--3m');
-
   return `
     <div class="market-row" role="row" data-ticker="${escapeHTML(a.ticker || '')}">
       <span class="market-row__ticker">${escapeHTML(a.ticker || '—')}</span>
       <span class="market-row__name">${escapeHTML(a.name || '')}</span>
       <span class="market-row__price">${fmtPrice(a.price, a.currency)}</span>
-      ${change24}
-      ${change1m}
-      ${change3m}
+      ${changeCellHTML(a.change_pct)}
+      ${changeCellHTML(a.change_1m, 'market-row__change--1m')}
+      ${changeCellHTML(a.change_3m, 'market-row__change--3m')}
       <span class="market-row__signal-wrap">
         <span class="signal signal--${sig}" title="${signalLabel(sig)}">${signalLabel(sig)}</span>
       </span>

@@ -523,16 +523,6 @@ main > * + * { margin-top: var(--section-gap); }
   margin: 0 0 24px;
   line-height: 1.45;
 }
-.hero__lead::first-letter {
-  font-family: var(--font-display);
-  font-style: normal;
-  font-weight: 900;
-  font-size: 3.2em;
-  float: left;
-  line-height: .85;
-  margin: .08em .12em -.08em 0;
-  color: var(--accent);
-}
 .hero__actions { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 14px; }
 .hero__byline {
   font-family: var(--font-mono);
@@ -678,7 +668,6 @@ main > * + * { margin-top: var(--section-gap); }
 .signal--bear { color: var(--bear); }
 .signal--neutral { color: var(--neutral); }
 .signal--unknown { color: var(--text-dim); }
-.signal--private { color: var(--accent); }
 
 .market-row__note {
   grid-column: 1 / -1;

@@ -52,11 +52,9 @@ class AssetSpec:
     ticker: str
     name: str
     currency: str
-    source: str        # "coingecko" | "yahoo" | "static"
-    source_id: str     # coingecko coin id, or yahoo symbol; unused for "static"
+    source: str        # "coingecko" | "yahoo"
+    source_id: str     # coingecko coin id, or yahoo symbol
     note: str = ""
-    static_value: float | None = None    # USD price (for source="static")
-    static_label: str = ""               # e.g. "Last round Oct 2025"
 
 # Categories follow the dashboard layout 1:1.
 ASSETS: dict[str, list[AssetSpec]] = {
@@ -74,13 +72,10 @@ ASSETS: dict[str, list[AssetSpec]] = {
         AssetSpec("URTH",    "iShares MSCI World",      "USD", "yahoo", "URTH"),
     ],
     "ai_tech": [
-        AssetSpec("OPENAI", "OpenAI", "USD", "static", "openai",
-                  static_value=500_000_000_000.0,
-                  static_label="Last secondary tender · Oct 2025",
-                  note="OpenAI is private. Value shown is the implied company valuation "
-                       "from the most recent secondary tender / funding round."),
-        AssetSpec("NVDA", "NVIDIA",    "USD", "yahoo", "NVDA"),
-        AssetSpec("MSFT", "Microsoft", "USD", "yahoo", "MSFT"),
+        AssetSpec("NVDA",  "NVIDIA",    "USD", "yahoo", "NVDA"),
+        AssetSpec("MSFT",  "Microsoft", "USD", "yahoo", "MSFT"),
+        AssetSpec("GOOGL", "Alphabet",  "USD", "yahoo", "GOOGL"),
+        AssetSpec("AAPL",  "Apple",     "USD", "yahoo", "AAPL"),
     ],
     "defense": [
         AssetSpec("PLTR",   "Palantir",      "USD", "yahoo", "PLTR"),
@@ -286,23 +281,6 @@ def to_usd(series: Series, base_ccy: str) -> Series | None:
 # ---------------------------------------------------------------------------
 
 def build_asset_payload(spec: AssetSpec) -> dict:
-    if spec.source == "static":
-        return {
-            "ticker": spec.ticker,
-            "name": spec.name,
-            "currency": "USD",
-            "price": spec.static_value,
-            "change_pct": None,
-            "change_1m": None,
-            "change_3m": None,
-            "sma50": None,
-            "sma200": None,
-            "rsi14": None,
-            "signal": "private",
-            "static_label": spec.static_label or "",
-            **({"note": spec.note} if spec.note else {}),
-        }
-
     series = fetch_history(spec)
 
     # Convert to USD if the asset is denominated in another currency. We do

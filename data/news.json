@@ -1,53 +1,54 @@
 {
-  "updated": "2026-04-30T14:42:49.714941+00:00",
+  "updated": "2026-04-30T18:47:07.850491+00:00",
   "hero": {
-    "title": "OpenAI tells ChatGPT models to stop talking about goblins",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yT25BMWpfTUFVNjY3V3NqMzlUdVlPQ2ZHbHV5UGR2QTc2bnE1U1otVUpERDNBb0l6Zlp2UkZTTlk1cExKX08tLUFweHV5M21LcV9LRzRibExTUQ?oc=5",
-    "source": "BBC World",
-    "published_at": "2026-04-30T13:28:04+00:00",
-    "summary": "OpenAI tells ChatGPT models to stop talking about goblins BBC",
+    "title": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYi0yc0o1VE1YYWlUMlVGRllPVk43OGIwLWZHLUR0N2pPTHpLR1JhaEVyYlZNdklnN3UtbEMyUXlkcTQ1NERtemE5U25IMlRqZnpmdGhOVkN4MnFPZHZTNUI4RldQUHh0TEtTOWQ2UnB0YzBYNkVVUjlScXlTQmpiSHhLX2RFZTlRQWxrYm1iX3NSUWhOQ2lHNzZTVlY2bDNVRFVNOG5vbjhBS3ljRlJPc3ZUeExQYlBleGY2MW5vUHB2bmlXcU5rc20zYllPTS1jQXFzZXFVMk9Udw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-04-30T17:38:52+00:00",
+    "summary": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company Reuters",
     "category": "tech",
-    "score": 10.408
+    "score": 6.3
   },
   "items": [
     {
-      "title": "The UAE’s departure from OPEC shakes up the alliance that influences oil prices worldwide",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3JfTWY5RlYtRk1lbVJ5ZmxXNmxJS1ZuUEU4OUZ1NkZEa3dxcTBZQ2JmOVU1Wm54LXFrQXU2d0ItZ1VUYnRsSXFQS1JuYm5wajhmcjFKdURjZ0JpY2x2Zzd6cVVpeERvVFF6SldpNGREZkFkbXJ1TE0zcnRoZHgwUE5BdThrUQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-04-30T11:24:21+00:00",
-      "summary": "The UAE’s departure from OPEC shakes up the alliance that influences oil prices worldwide AP News",
-      "category": "resources",
-      "score": 5.756
+      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
+      "source": "The Verge",
+      "published_at": "2026-04-30T18:16:57+00:00",
+      "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to p",
+      "category": "tech",
+      "score": 6.038
     },
     {
       "title": "Bank of England says rates could rise as Iran war fuels inflation",
       "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published_at": "2026-04-30T12:34:53+00:00",
+      "published_at": "2026-04-30T15:02:26+00:00",
       "summary": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
       "category": "finance",
-      "score": 5.561
+      "score": 5.2
     },
     {
       "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE4xSU9Nd09RUzAxanktcnJlQnJoUElDdGtZOXZUcHVSdDVNaU9iZFpHeU10aFp6NXM1SVVnNHVvQXRRWnlyUG95bzl0eWphR2xQd3ZoTXFpZzhrV2plNWlkdFV3S2JvVEdMVzhEYzlfQW9WeFRuTkJOMFlFQ3VxVWtwNkNROF90RjRROVRFcUhHV2tYU21DcTQ0emUtMDl4SGk1VHlSU19yN0tldElSMUpiT05EamV2ZFBWYXNySVlXQQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-04-30T13:54:26+00:00",
+      "published_at": "2026-04-30T16:42:04+00:00",
       "summary": "Oil retreats after hitting four-year high on concern of US-Iran war escalation Reuters",
       "category": "resources",
-      "score": 5.323
+      "score": 5.047
     },
     {
-      "title": "Nvidia Stock Falls. What Big Tech Earnings Mean for the AI Chip Race.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTllBZjBKUVFrbEFPSy0xODdEclp6VHZYUk9aeFF4VGlNQzllbWdiNmdjdUZ2SHNyMWJmdGJ1amhzdGpCSTl2ajc1dk1kZlB4VDFRWjB2SF9RUFVYZWUwNmZHUU5ubUtGdzBRWTRkSFpiSE5ZMFpwN2ZWZFRtVDl5NC1iaUdPRnNN?oc=5",
-      "source": "Barron's",
-      "published_at": "2026-04-30T14:10:00+00:00",
-      "summary": "Nvidia Stock Falls. What Big Tech Earnings Mean for the AI Chip Race. Barron's",
-      "category": "tech",
-      "score": 5.274
+      "title": "With mass evacuation warnings, Israel upends lives and reshapes south Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSld1LWRBQWxmUmlVb3U2dmhPVEVWdUV6bE1tdFd3U0cxMGFLaWs3MnFQa01zQ2V3TlhPSFo2U3p5TjJMNm1QSWpSMU1kSVJvajIxNWlBTkFCTnp4RWVqamczcXRGdDVidDFMMTE2UGJUdUs4RDgxdTZVRHAwODQzbzBhMXYtZ1A3OTZVVHN2V25NbzBzQl9IRmlRZm5PWkRWSmkySG8yVnZPOWFqN1Y5OTIwbURyR042ZEE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-04-30T18:21:00+00:00",
+      "summary": "With mass evacuation warnings, Israel upends lives and reshapes south Lebanon AP News",
+      "category": "conflicts",
+      "score": 4.927
     }
   ],
   "hero_history": [
+    "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
     "OpenAI tells ChatGPT models to stop talking about goblins",
     "Anthropic weighs $900 billion valuation in new funding round",
     "United Arab Emirates to Leave OPEC"

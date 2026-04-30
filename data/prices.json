@@ -1,27 +1,27 @@
 {
-  "updated": "2026-04-30T00:44:54.919004+00:00",
+  "updated": "2026-04-30T01:39:16.454849+00:00",
   "categories": {
     "crypto": [
       {
         "ticker": "BTC",
         "name": "Bitcoin",
         "currency": "USD",
-        "price": 76044.0017,
-        "change_pct": 0.36,
-        "sma50": 72190.8826,
-        "sma200": 84200.8319,
-        "rsi14": 54.71,
+        "price": 76257.653,
+        "change_pct": 0.64,
+        "sma50": 72195.1556,
+        "sma200": 84201.9002,
+        "rsi14": 55.37,
         "signal": "neutral"
       },
       {
         "ticker": "ETH",
         "name": "Ethereum",
         "currency": "USD",
-        "price": 2263.6699,
-        "change_pct": 0.45,
-        "sma50": 2202.7391,
-        "sma200": 2744.3714,
-        "rsi14": 49.43,
+        "price": 2272.5053,
+        "change_pct": 0.85,
+        "sma50": 2202.9159,
+        "sma200": 2744.4156,
+        "rsi14": 50.15,
         "signal": "neutral"
       }
     ],
@@ -125,11 +125,11 @@
         "ticker": "LDO.MI",
         "name": "Leonardo SpA",
         "currency": "USD",
-        "price": 61.4427,
-        "change_pct": -0.1,
-        "sma50": 68.2281,
-        "sma200": 61.5008,
-        "rsi14": 36.17,
+        "price": 61.0968,
+        "change_pct": -0.56,
+        "sma50": 68.1199,
+        "sma200": 61.5296,
+        "rsi14": 35.48,
         "signal": "bear"
       },
       {

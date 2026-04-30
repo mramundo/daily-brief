@@ -1,50 +1,50 @@
 {
-  "updated": "2026-04-29T18:35:38.600080+00:00",
+  "updated": "2026-04-30T00:47:05.867696+00:00",
   "hero": {
-    "title": "United Arab Emirates to quit oil cartel Opec",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wQW1nWS03VlBQWFNQRWpSX0U2QnZqLTZnWkdLN1Vta0ZjRndpc29XcTBEVHZFWEF6TG9abmQ0dU1VYkc3YmJISXAxX1R0RWJTNzAtbjBheDdxUQ?oc=5",
-    "source": "BBC World",
-    "published_at": "2026-04-29T08:05:11+00:00",
-    "summary": "United Arab Emirates to quit oil cartel Opec BBC",
-    "category": "resources",
-    "score": 6.942
+    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "source": "TechCrunch",
+    "published_at": "2026-04-29T23:55:23+00:00",
+    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "category": "tech",
+    "score": 6.628
   },
   "items": [
     {
-      "title": "Families of Canada school shooting victims sue OpenAI over shooter’s use of ChatGPT",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekJJVEJpUkpEU21INE1FQWRGUXNuWkl0T0hDSklwemtXRExUMGFWaFVjRkEybUlDYUtDeFJoQjc0b3ZkbjlFMWdZbmJOVWNtQXNMS09Ya0V4LVhTUmlQdXNuODVGQWY2eGtHcUpRcFFjOHZwNlJaNUZWSkFja0tKUXA2N2xKeFFoUm8tYjBwRWJHZw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-04-29T14:37:00+00:00",
-      "summary": "Families of Canada school shooting victims sue OpenAI over shooter’s use of ChatGPT AP News",
-      "category": "tech",
-      "score": 6.53
-    },
-    {
-      "title": "Elon Musk testifies Sam Altman was not 'honest' about OpenAI's nonprofit mission",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3V0enU0V28zQlNvSkJMZTNDVFVWZUk3VzljRWNzRWJBSkwtalg2MlJpTnBHUm4waU13V24zYkd3ZWVNQ2hTbkxseGt6UDkxWUNLMFliVjhqckJXN3diRF96Z3NYZmE5QmZiRFpFSW9RNVpiM3FFRjl6WFY5WE9nLWtKQ2hKYmRlZEhhMy1kV3M3VWVyOS1xcld3NVI2elk3X0pWVmhEQUllS2djdzNvaFpxS2tfVGpaTy1SV2FWVC1tYXNKdHBfMkpyMG0?oc=5",
+      "title": "Ukraine asks Israel to seize vessel it says is carrying grain stolen by Russia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenNVcWppel9qd3FwREwtZkM5SjZkTnUyY2FEWGtEdmpyRjhydk1jVjlweHJXWXhsM3BNTUt3X0VlUDNraWRtUkRRS051aGR0RUtRLW5YTGU5Um5PRTV1SGNHOEtJeEdVUG5fTTZmVmpldm1YRjBvZU9mdm9zRi1Pa2lnSEpmVGRhaFZ3Tm82RWVyTWVVamhNYzhXRFpfVS03OGZ6ZWtDZTZfLXMtRHhRRkVVSWZ0SW42X0wyeERnSEM3UQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-04-29T16:54:59+00:00",
-      "summary": "Elon Musk testifies Sam Altman was not 'honest' about OpenAI's nonprofit mission Reuters",
-      "category": "tech",
-      "score": 6.16
+      "published_at": "2026-04-29T20:32:11+00:00",
+      "summary": "Ukraine asks Israel to seize vessel it says is carrying grain stolen by Russia Reuters",
+      "category": "conflicts",
+      "score": 6.457
     },
     {
-      "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WVzdkVmt5dDAxZ1gwUkJhOUVRWEdKd3FEQUlDNDhoTERhREFrSFdNQ09qaldvY09xdzRmV2xiSXQxMkZ1UnhYRWxZMlFFWE5YaVdRbUo3LUpxUQ?oc=5",
-      "source": "BBC World",
-      "published_at": "2026-04-29T16:37:08+00:00",
-      "summary": "In five charts - How UAE's exit could affect Opec's influence over the oil price BBC",
+      "title": "UAE quits OPEC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dEdwRHZKX2J5T1NDV2NFaWpUM1pDWk5tMWI3aHpLZjVlVEY5TmRmYS0wQ0ktbDNDVU50VzJGRzNIV05Cd2VGRm12UFd0ZUdLVnFUdzk3RktqM3RwNXJWX29mbFZZaWNqUS04Z1hrdTdzQ1M4X2kyetIBeEFVX3lxTE91dEdwRHZKX2J5T1NDV2NFaWpUM1pDWk5tMWI3aHpLZjVlVEY5TmRmYS0wQ0ktbDNDVU50VzJGRzNIV05Cd2VGRm12UFd0ZUdLVnFUdzk3RktqM3RwNXJWX29mbFZZaWNqUS04Z1hrdTdzQ1M4X2kyeg?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-04-29T21:30:52+00:00",
+      "summary": "UAE quits OPEC Al Jazeera",
       "category": "resources",
-      "score": 5.598
+      "score": 6.313
     },
     {
-      "title": "Federal Reserve keeps key rate unchanged even as four officials dissent, most in almost 34 years",
+      "title": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2Zzc3RXcGk5Q1ZBLUdRNVhKN0VkY3g1Q0thQTgyUWdZc0NRWkpTUUdnUmJGcU94a2VzZmJJLVQ2R0l2d1cweEhEeGNXV1VDWVlKT1JUcmVYUHYzT2FuUWt2TjVrWjhVbXliNGFMVHFZR1pXUmY5aW05WVNGZWJyR0hoc1JrS09HYlZnRVFzNjQtODJWajUxdnhaMi1fNGREX2hoLXBIaHgzSzJoQXpzTjZ3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-04-29T22:05:43+00:00",
+      "summary": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court Reuters",
+      "category": "tech",
+      "score": 5.906
+    },
+    {
+      "title": "Powell plans to remain on Fed board, cites legal actions by Trump administration",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ01LUUZwSy1jQUlDM3JaSVhKX1dBRU9qOWNuV3BORFVkaXlqNWlsZUEzUkJHcTh6ajBMRVFRbFhtRUNQa1JFWEdwWVNpNmZvOVZXVW5sbmF5Z0hrakdMaUV6Y293RGIxSGRxQ21FVG44M0hNM3lHUGhKNXYzb3lQNlYwZnozVE0wTFJRTTBLcy02b1JxV1VTaTlxcTBwanE3MGNubTJ2dw?oc=5",
       "source": "AP News",
-      "published_at": "2026-04-29T18:14:00+00:00",
-      "summary": "Federal Reserve keeps key rate unchanged even as four officials dissent, most in almost 34 years AP News",
+      "published_at": "2026-04-29T23:20:00+00:00",
+      "summary": "Powell plans to remain on Fed board, cites legal actions by Trump administration AP News",
       "category": "finance",
-      "score": 4.942
+      "score": 5.182
     }
   ]
 }

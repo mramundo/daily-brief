@@ -1,53 +1,54 @@
 {
-  "updated": "2026-04-30T12:51:18.354581+00:00",
+  "updated": "2026-04-30T14:42:49.714941+00:00",
   "hero": {
-    "title": "Anthropic weighs $900 billion valuation in new funding round",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVTlwZGZCSjJYOWFpTm02dUI4amVNS29oYjBIc2VFVzg0QnBGQUh4WlRKWFVBRW12SXNaMW9uckRndlYzcHhSUzdqQXMzLXFweW03d3ZzWXdvZW1LNTN5TXZ1d2oyc2ItR1ZUMlNLWUY2XzdEaGc?oc=5",
-    "source": "qz.com",
-    "published_at": "2026-04-30T12:11:24+00:00",
-    "summary": "Anthropic weighs $900 billion valuation in new funding round qz.com",
+    "title": "OpenAI tells ChatGPT models to stop talking about goblins",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yT25BMWpfTUFVNjY3V3NqMzlUdVlPQ2ZHbHV5UGR2QTc2bnE1U1otVUpERDNBb0l6Zlp2UkZTTlk1cExKX08tLUFweHV5M21LcV9LRzRibExTUQ?oc=5",
+    "source": "BBC World",
+    "published_at": "2026-04-30T13:28:04+00:00",
+    "summary": "OpenAI tells ChatGPT models to stop talking about goblins BBC",
     "category": "tech",
-    "score": 6.954
+    "score": 10.408
   },
   "items": [
     {
-      "title": "Bank of England hints at higher rates as Iran war fuels inflation",
+      "title": "The UAE’s departure from OPEC shakes up the alliance that influences oil prices worldwide",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3JfTWY5RlYtRk1lbVJ5ZmxXNmxJS1ZuUEU4OUZ1NkZEa3dxcTBZQ2JmOVU1Wm54LXFrQXU2d0ItZ1VUYnRsSXFQS1JuYm5wajhmcjFKdURjZ0JpY2x2Zzd6cVVpeERvVFF6SldpNGREZkFkbXJ1TE0zcnRoZHgwUE5BdThrUQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-04-30T11:24:21+00:00",
+      "summary": "The UAE’s departure from OPEC shakes up the alliance that influences oil prices worldwide AP News",
+      "category": "resources",
+      "score": 5.756
+    },
+    {
+      "title": "Bank of England says rates could rise as Iran war fuels inflation",
       "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "published_at": "2026-04-30T12:34:53+00:00",
-      "summary": "The Bank of England votes for no immediate change to borrowing costs as it monitors the knock-on effects of the Middle East conflict.",
+      "summary": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
       "category": "finance",
-      "score": 6.009
+      "score": 5.561
     },
     {
-      "title": "Nvidia, AMD, and Broadcom Stocks Rise. What Big Tech Earnings Mean for AI Chips.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzFUVjA5eUQ0N0VscTNFWHVER01wb0FwRFB2RUpxVEF2c1V3blhYTGRDQUJoeTBGTHVaM2FKaE5Rbm9TV0tPaGc0U2RKTVhNMi12R1gwZVg0R3JWYnp3azliSWlRMDNQWEhYNmdScmxzMk84dmtWUUNHbTZSVEdHTTRKNzRfWFBHa2dsODJ3?oc=5",
-      "source": "Barron's",
-      "published_at": "2026-04-30T10:13:00+00:00",
-      "summary": "Nvidia, AMD, and Broadcom Stocks Rise. What Big Tech Earnings Mean for AI Chips. Barron's",
-      "category": "tech",
-      "score": 5.524
-    },
-    {
-      "title": "Baking a parachute for Mars",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/04/Baking_a_parachute_for_Mars",
-      "source": "ESA",
-      "published_at": "2026-04-30T09:29:00+00:00",
-      "summary": "Video: 00:02:02 Watch ESA’s Mars chief engineer Albert Haldemann explain the sterilisation process of one of the parachutes of the ExoMars Rosalind Franklin rover mission and why it matters. Carefully wrapped inside a donut-shaped bag is a 35-m diameter parachute, about to be bak",
-      "category": "science",
-      "score": 4.583
-    },
-    {
-      "title": "UAE’s OPEC exit deals major blow to oil cartel",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEJzNURtV1p1RnhVNUUxRzRJdWw1bERwOHpFeF9RaVJkWkVJWVZlQWJrbmVaN1VJVUhNdExkYTNfWU82N0pNTU9tWnE4Ui15UG04bU9PMDFGaW9rTU1vYmxSajJHWFppZnktakptOUwzTldUUS1zZnVqQ1h5aUtOUUswX2RLUFRZNFRROGhjdWZlUQ?oc=5",
-      "source": "Semafor",
-      "published_at": "2026-04-30T12:02:00+00:00",
-      "summary": "UAE’s OPEC exit deals major blow to oil cartel Semafor",
+      "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE4xSU9Nd09RUzAxanktcnJlQnJoUElDdGtZOXZUcHVSdDVNaU9iZFpHeU10aFp6NXM1SVVnNHVvQXRRWnlyUG95bzl0eWphR2xQd3ZoTXFpZzhrV2plNWlkdFV3S2JvVEdMVzhEYzlfQW9WeFRuTkJOMFlFQ3VxVWtwNkNROF90RjRROVRFcUhHV2tYU21DcTQ0emUtMDl4SGk1VHlSU19yN0tldElSMUpiT05EamV2ZFBWYXNySVlXQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-04-30T13:54:26+00:00",
+      "summary": "Oil retreats after hitting four-year high on concern of US-Iran war escalation Reuters",
       "category": "resources",
-      "score": 4.469
+      "score": 5.323
+    },
+    {
+      "title": "Nvidia Stock Falls. What Big Tech Earnings Mean for the AI Chip Race.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTllBZjBKUVFrbEFPSy0xODdEclp6VHZYUk9aeFF4VGlNQzllbWdiNmdjdUZ2SHNyMWJmdGJ1amhzdGpCSTl2ajc1dk1kZlB4VDFRWjB2SF9RUFVYZWUwNmZHUU5ubUtGdzBRWTRkSFpiSE5ZMFpwN2ZWZFRtVDl5NC1iaUdPRnNN?oc=5",
+      "source": "Barron's",
+      "published_at": "2026-04-30T14:10:00+00:00",
+      "summary": "Nvidia Stock Falls. What Big Tech Earnings Mean for the AI Chip Race. Barron's",
+      "category": "tech",
+      "score": 5.274
     }
   ],
   "hero_history": [
+    "OpenAI tells ChatGPT models to stop talking about goblins",
     "Anthropic weighs $900 billion valuation in new funding round",
     "United Arab Emirates to Leave OPEC"
   ]

@@ -1,27 +1,27 @@
 {
-  "updated": "2026-04-30T03:11:23.261882+00:00",
+  "updated": "2026-04-30T05:11:13.145669+00:00",
   "categories": {
     "crypto": [
       {
         "ticker": "BTC",
         "name": "Bitcoin",
         "currency": "USD",
-        "price": 75773.815,
-        "change_pct": -0.0,
-        "sma50": 72185.4788,
-        "sma200": 84199.481,
-        "rsi14": 53.84,
+        "price": 75566.9882,
+        "change_pct": -0.27,
+        "sma50": 72181.3423,
+        "sma200": 84198.4468,
+        "rsi14": 53.06,
         "signal": "neutral"
       },
       {
         "ticker": "ETH",
         "name": "Ethereum",
         "currency": "USD",
-        "price": 2246.2022,
-        "change_pct": -0.32,
-        "sma50": 2202.3898,
-        "sma200": 2744.2841,
-        "rsi14": 47.97,
+        "price": 2242.8955,
+        "change_pct": -0.47,
+        "sma50": 2202.3237,
+        "sma200": 2744.2675,
+        "rsi14": 47.71,
         "signal": "neutral"
       }
     ],
@@ -30,22 +30,22 @@
         "ticker": "XAUUSD",
         "name": "Gold (spot, oz)",
         "currency": "USD",
-        "price": 4545.2002,
-        "change_pct": -1.01,
-        "sma50": 4847.516,
-        "sma200": 4241.621,
-        "rsi14": 38.5,
+        "price": 4556.7998,
+        "change_pct": 0.26,
+        "sma50": 4838.922,
+        "sma200": 4247.756,
+        "rsi14": 39.39,
         "signal": "neutral"
       },
       {
         "ticker": "CL=F",
         "name": "Crude Oil (WTI, bbl)",
         "currency": "USD",
-        "price": 106.88,
-        "change_pct": 6.95,
-        "sma50": 89.6746,
-        "sma200": 68.6172,
-        "rsi14": 61.65,
+        "price": 109.68,
+        "change_pct": 2.62,
+        "sma50": 90.5644,
+        "sma200": 68.833,
+        "rsi14": 63.62,
         "signal": "bull"
       }
     ],
@@ -65,11 +65,11 @@
         "ticker": "VWCE.DE",
         "name": "Vanguard FTSE All-World",
         "currency": "USD",
-        "price": 179.2284,
-        "change_pct": -0.26,
-        "sma50": 172.9206,
-        "sma200": 166.9255,
-        "rsi14": 63.11,
+        "price": 179.4235,
+        "change_pct": 0.11,
+        "sma50": 173.0031,
+        "sma200": 167.0484,
+        "rsi14": 63.57,
         "signal": "bull"
       },
       {
@@ -136,11 +136,11 @@
         "ticker": "RHM.DE",
         "name": "Rheinmetall AG",
         "currency": "USD",
-        "price": 1574.696,
-        "change_pct": -0.05,
-        "sma50": 1804.2857,
-        "sma200": 1966.8939,
-        "rsi14": 36.11,
+        "price": 1567.8463,
+        "change_pct": -0.43,
+        "sma50": 1797.1921,
+        "sma200": 1963.752,
+        "rsi14": 35.65,
         "signal": "bear"
       }
     ]

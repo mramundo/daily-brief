@@ -1,15 +1,24 @@
 {
-  "updated": "2026-04-30T00:47:05.867696+00:00",
+  "updated": "2026-04-30T06:58:18.256397+00:00",
   "hero": {
-    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-    "source": "TechCrunch",
-    "published_at": "2026-04-29T23:55:23+00:00",
-    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-    "category": "tech",
-    "score": 6.628
+    "title": "United Arab Emirates to Leave OPEC",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hRmdoOGtkTkxSX1ZhLVlLVEllc2NtUWJGRjR2UWtUZDdJUy1oTkw4N0lhSXN0V3JMMHFIc2g0Sm82YzJ1a2N4aXRBencwVXp5LUR4SUdLRXF4V3c2Z0pyQnR6OU5CeGM?oc=5",
+    "source": "Impakter",
+    "published_at": "2026-04-30T06:02:56+00:00",
+    "summary": "United Arab Emirates to Leave OPEC Impakter",
+    "category": "resources",
+    "score": 7.307
   },
   "items": [
+    {
+      "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFVuY2E0OENNeFBzazNMcWFHNk1sRi0teVZSMVNvNmJGVUdxd0VLczB4VXpqeFJ6enlZVWhWSlhWRFJJZG1raVpCaG9oMk5GVnhGTG9mR1RGSl9ZMngxRDVZa253RV9SSXRrV2dJTnZMaWJPYnp2Vkt0WkFybW5fUTB5emZBbFlkbmJ4WkxSekFfRHM?oc=5",
+      "source": "AP News",
+      "published_at": "2026-04-30T04:34:00+00:00",
+      "summary": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat AP News",
+      "category": "resources",
+      "score": 5.625
+    },
     {
       "title": "Ukraine asks Israel to seize vessel it says is carrying grain stolen by Russia",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenNVcWppel9qd3FwREwtZkM5SjZkTnUyY2FEWGtEdmpyRjhydk1jVjlweHJXWXhsM3BNTUt3X0VlUDNraWRtUkRRS051aGR0RUtRLW5YTGU5Um5PRTV1SGNHOEtJeEdVUG5fTTZmVmpldm1YRjBvZU9mdm9zRi1Pa2lnSEpmVGRhaFZ3Tm82RWVyTWVVamhNYzhXRFpfVS03OGZ6ZWtDZTZfLXMtRHhRRkVVSWZ0SW42X0wyeERnSEM3UQ?oc=5",
@@ -17,16 +26,16 @@
       "published_at": "2026-04-29T20:32:11+00:00",
       "summary": "Ukraine asks Israel to seize vessel it says is carrying grain stolen by Russia Reuters",
       "category": "conflicts",
-      "score": 6.457
+      "score": 4.99
     },
     {
-      "title": "UAE quits OPEC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dEdwRHZKX2J5T1NDV2NFaWpUM1pDWk5tMWI3aHpLZjVlVEY5TmRmYS0wQ0ktbDNDVU50VzJGRzNIV05Cd2VGRm12UFd0ZUdLVnFUdzk3RktqM3RwNXJWX29mbFZZaWNqUS04Z1hrdTdzQ1M4X2kyetIBeEFVX3lxTE91dEdwRHZKX2J5T1NDV2NFaWpUM1pDWk5tMWI3aHpLZjVlVEY5TmRmYS0wQ0ktbDNDVU50VzJGRzNIV05Cd2VGRm12UFd0ZUdLVnFUdzk3RktqM3RwNXJWX29mbFZZaWNqUS04Z1hrdTdzQ1M4X2kyeg?oc=5",
-      "source": "Al Jazeera",
-      "published_at": "2026-04-29T21:30:52+00:00",
-      "summary": "UAE quits OPEC Al Jazeera",
-      "category": "resources",
-      "score": 6.313
+      "title": "Markets",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-04-30T05:49:02+00:00",
+      "summary": "Markets Bloomberg.com",
+      "category": "finance",
+      "score": 4.749
     },
     {
       "title": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court",
@@ -35,16 +44,7 @@
       "published_at": "2026-04-29T22:05:43+00:00",
       "summary": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court Reuters",
       "category": "tech",
-      "score": 5.906
-    },
-    {
-      "title": "Powell plans to remain on Fed board, cites legal actions by Trump administration",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ01LUUZwSy1jQUlDM3JaSVhKX1dBRU9qOWNuV3BORFVkaXlqNWlsZUEzUkJHcTh6ajBMRVFRbFhtRUNQa1JFWEdwWVNpNmZvOVZXVW5sbmF5Z0hrakdMaUV6Y293RGIxSGRxQ21FVG44M0hNM3lHUGhKNXYzb3lQNlYwZnozVE0wTFJRTTBLcy02b1JxV1VTaTlxcTBwanE3MGNubTJ2dw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-04-29T23:20:00+00:00",
-      "summary": "Powell plans to remain on Fed board, cites legal actions by Trump administration AP News",
-      "category": "finance",
-      "score": 5.182
+      "score": 4.564
     }
   ]
 }

@@ -5,8 +5,8 @@ name: Update prices (hourly)
 
 on:
   schedule:
-    # Top of every hour.
-    - cron: "0 * * * *"
+    # Off-peak minute to avoid GitHub Actions runner contention at :00.
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:

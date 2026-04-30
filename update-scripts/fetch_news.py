@@ -405,6 +405,22 @@ def dedup_cluster(items: list[NewsItem]) -> list[NewsItem]:
     kept.sort(key=lambda i: i.score, reverse=True)
     return kept
 
+def load_previous_hero_history() -> list[str]:
+    """Recent hero titles (most recent first), used to deboost repeats so the
+    lead story rotates instead of sticking to the same megastory for days."""
+    if not OUT_FILE.exists():
+        return []
+    try:
+        prev = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    history = prev.get("hero_history") or []
+    if isinstance(history, list) and history:
+        return [h for h in history if isinstance(h, str)]
+    # Backwards-compat: derive from previous hero only.
+    h = (prev.get("hero") or {}).get("title")
+    return [h] if h else []
+
 def build_payload() -> dict:
     now = datetime.now(timezone.utc)
 
@@ -421,6 +437,19 @@ def build_payload() -> dict:
 
     # Cross-category dedup so the same wire story doesn't appear under two cats.
     pool = dedup_cluster(pool)
+
+    # Anti-stickiness: deboost candidates that already led recent editions so
+    # one big cluster (e.g. an OPEC headline) doesn't camp the lead spot for
+    # days. Most recent prior hero is hit hardest; fades over the window.
+    history = load_previous_hero_history()
+    HERO_DEBOOST_WINDOW = 4   # last N runs (~24h at 6h cadence)
+    for it in pool:
+        for idx, prev_title in enumerate(history[:HERO_DEBOOST_WINDOW]):
+            if fuzz.token_set_ratio(it.title, prev_title) >= DEDUP_THRESHOLD:
+                # 0.55, 0.7, 0.82, 0.91 for idx 0..3 — fades back to neutral.
+                factor = 0.55 + 0.12 * idx
+                it.score *= factor
+                break
 
     # Pick top stories with a per-category cap.
     pool.sort(key=lambda i: i.score, reverse=True)
@@ -448,6 +477,7 @@ def build_payload() -> dict:
         "updated": now.isoformat(),
         "hero": None,
         "items": [],
+        "hero_history": [],
     }
 
     if picked:
@@ -458,6 +488,9 @@ def build_payload() -> dict:
                 "A focused recap of the day's biggest story, sourced from authoritative outlets.",
         }
         payload["items"] = [it.for_payload() for it in picked[1:TOTAL_STORIES]]
+        # Track recent hero titles so the next run can deboost repeats.
+        history = [hero_item.title] + load_previous_hero_history()
+        payload["hero_history"] = history[:8]
 
     return payload
 

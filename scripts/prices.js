@@ -22,6 +22,12 @@ const fmtPrice = (val, currency) => {
   if (val == null || !Number.isFinite(val)) return '—';
   const cur = currency || 'USD';
   try {
+    if (val >= 1e12) {
+      return `$${(val / 1e12).toFixed(2)}T`;
+    }
+    if (val >= 1e9) {
+      return `$${(val / 1e9).toFixed(0)}B`;
+    }
     if (val >= 1000) {
       return new Intl.NumberFormat('en-US', {
         style: 'currency', currency: cur, maximumFractionDigits: 0,
@@ -51,6 +57,7 @@ const signalLabel = (sig) => {
     case 'bull':    return 'Bullish';
     case 'bear':    return 'Bearish';
     case 'neutral': return 'Neutral';
+    case 'private': return 'Private';
     default:        return 'No signal';
   }
 };
@@ -65,6 +72,8 @@ export function renderMarkets(prices) {
       <span>Name</span>
       <span>Price</span>
       <span>Δ 24h</span>
+      <span>Δ 1M</span>
+      <span>Δ 3M</span>
       <span>Signal</span>
     </div>
   `;
@@ -90,24 +99,41 @@ function renderCategoryBlock(cat, assets) {
   return head + rows;
 }
 
-function renderRow(a) {
-  const change = fmtPct(a.change_pct);
-  const changeClass = a.change_pct == null
-    ? 'market-row__change--flat'
-    : a.change_pct > 0.05
-    ? 'market-row__change--up'
-    : a.change_pct < -0.05
-    ? 'market-row__change--down'
-    : 'market-row__change--flat';
+function changeClassFor(val) {
+  if (val == null) return 'market-row__change--flat';
+  if (val > 0.05)  return 'market-row__change--up';
+  if (val < -0.05) return 'market-row__change--down';
+  return 'market-row__change--flat';
+}
 
+function changeCellHTML(val, extraClass = '') {
+  const cls = `${changeClassFor(val)} ${extraClass}`.trim();
+  return `<span class="market-row__change ${cls}">${fmtPct(val) || '—'}</span>`;
+}
+
+function renderRow(a) {
   const sig = a.signal || 'unknown';
+
+  const change24 = sig === 'private' && a.static_label
+    ? `<span class="market-row__change market-row__change--flat market-row__change--label">${escapeHTML(a.static_label)}</span>`
+    : changeCellHTML(a.change_pct);
+
+  const change1m = sig === 'private'
+    ? `<span class="market-row__change market-row__change--flat market-row__change--1m">—</span>`
+    : changeCellHTML(a.change_1m, 'market-row__change--1m');
+
+  const change3m = sig === 'private'
+    ? `<span class="market-row__change market-row__change--flat market-row__change--3m">—</span>`
+    : changeCellHTML(a.change_3m, 'market-row__change--3m');
 
   return `
     <div class="market-row" role="row" data-ticker="${escapeHTML(a.ticker || '')}">
       <span class="market-row__ticker">${escapeHTML(a.ticker || '—')}</span>
       <span class="market-row__name">${escapeHTML(a.name || '')}</span>
       <span class="market-row__price">${fmtPrice(a.price, a.currency)}</span>
-      <span class="market-row__change ${changeClass}">${change || '—'}</span>
+      ${change24}
+      ${change1m}
+      ${change3m}
       <span class="market-row__signal-wrap">
         <span class="signal signal--${sig}" title="${signalLabel(sig)}">${signalLabel(sig)}</span>
       </span>

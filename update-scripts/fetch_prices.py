@@ -52,9 +52,11 @@ class AssetSpec:
     ticker: str
     name: str
     currency: str
-    source: str        # "coingecko" | "yahoo"
-    source_id: str     # coingecko coin id, or yahoo symbol
+    source: str        # "coingecko" | "yahoo" | "static"
+    source_id: str     # coingecko coin id, or yahoo symbol; unused for "static"
     note: str = ""
+    static_value: float | None = None    # USD price (for source="static")
+    static_label: str = ""               # e.g. "Last round Oct 2025"
 
 # Categories follow the dashboard layout 1:1.
 ASSETS: dict[str, list[AssetSpec]] = {
@@ -72,10 +74,13 @@ ASSETS: dict[str, list[AssetSpec]] = {
         AssetSpec("URTH",    "iShares MSCI World",      "USD", "yahoo", "URTH"),
     ],
     "ai_tech": [
-        AssetSpec("NVDA", "NVIDIA",                   "USD", "yahoo", "NVDA"),
-        AssetSpec("MSFT", "Microsoft (OpenAI proxy)", "USD", "yahoo", "MSFT",
-                  note="MSFT held as a proxy for OpenAI exposure: Microsoft holds an "
-                       "economic interest of roughly 49% in OpenAI."),
+        AssetSpec("OPENAI", "OpenAI", "USD", "static", "openai",
+                  static_value=500_000_000_000.0,
+                  static_label="Last secondary tender · Oct 2025",
+                  note="OpenAI is private. Value shown is the implied company valuation "
+                       "from the most recent secondary tender / funding round."),
+        AssetSpec("NVDA", "NVIDIA",    "USD", "yahoo", "NVDA"),
+        AssetSpec("MSFT", "Microsoft", "USD", "yahoo", "MSFT"),
     ],
     "defense": [
         AssetSpec("PLTR",   "Palantir",      "USD", "yahoo", "PLTR"),
@@ -127,6 +132,34 @@ def rsi(values: list[float], period: int = 14) -> float | None:
         return 100.0
     rs = avg_gain / avg_loss
     return 100.0 - (100.0 / (1.0 + rs))
+
+def change_over(dates: list[str], closes: list[float], days: int) -> float | None:
+    """% change of the last close vs. the close `days` calendar days ago.
+    Walks back to the most recent date <= (last_date - days). Source-agnostic:
+    works for daily-trading (yahoo, weekends missing) and daily-calendar
+    (coingecko) alike."""
+    if not closes or len(closes) < 2:
+        return None
+    last_close = closes[-1]
+    if last_close == 0:
+        return None
+    try:
+        last_date = datetime.fromisoformat(dates[-1].replace("Z", "+00:00")).date()
+    except Exception:
+        return None
+    cutoff = last_date.toordinal() - days
+    target_close: float | None = None
+    for i in range(len(dates) - 1, -1, -1):
+        try:
+            d_ord = datetime.fromisoformat(dates[i].replace("Z", "+00:00")).date().toordinal()
+        except Exception:
+            continue
+        if d_ord <= cutoff:
+            target_close = closes[i]
+            break
+    if target_close is None or target_close == 0:
+        return None
+    return ((last_close - target_close) / target_close) * 100.0
 
 def classify(price: float | None, sma200_v: float | None, rsi_v: float | None) -> str:
     if price is None or sma200_v is None or rsi_v is None:
@@ -253,6 +286,23 @@ def to_usd(series: Series, base_ccy: str) -> Series | None:
 # ---------------------------------------------------------------------------
 
 def build_asset_payload(spec: AssetSpec) -> dict:
+    if spec.source == "static":
+        return {
+            "ticker": spec.ticker,
+            "name": spec.name,
+            "currency": "USD",
+            "price": spec.static_value,
+            "change_pct": None,
+            "change_1m": None,
+            "change_3m": None,
+            "sma50": None,
+            "sma200": None,
+            "rsi14": None,
+            "signal": "private",
+            "static_label": spec.static_label or "",
+            **({"note": spec.note} if spec.note else {}),
+        }
+
     series = fetch_history(spec)
 
     # Convert to USD if the asset is denominated in another currency. We do
@@ -275,6 +325,8 @@ def build_asset_payload(spec: AssetSpec) -> dict:
             "currency": display_currency,
             "price": None,
             "change_pct": None,
+            "change_1m": None,
+            "change_3m": None,
             "sma50": None,
             "sma200": None,
             "rsi14": None,
@@ -282,10 +334,12 @@ def build_asset_payload(spec: AssetSpec) -> dict:
             **({"note": spec.note} if spec.note else {}),
         }
 
-    closes = series[1]
+    dates, closes = series
     last = closes[-1]
     prev = closes[-2]
     change_pct = ((last - prev) / prev) * 100.0 if prev else None
+    change_1m = change_over(dates, closes, 30)
+    change_3m = change_over(dates, closes, 90)
     sma50_v = sma(closes, 50)
     sma200_v = sma(closes, 200)
     rsi14 = rsi(closes, 14)
@@ -297,6 +351,8 @@ def build_asset_payload(spec: AssetSpec) -> dict:
         "currency": display_currency,
         "price": round(last, 4),
         "change_pct": round(change_pct, 2) if change_pct is not None else None,
+        "change_1m": round(change_1m, 2) if change_1m is not None else None,
+        "change_3m": round(change_3m, 2) if change_3m is not None else None,
         "sma50":  round(sma50_v, 4) if sma50_v is not None else None,
         "sma200": round(sma200_v, 4) if sma200_v is not None else None,
         "rsi14":  round(rsi14, 2) if rsi14 is not None else None,

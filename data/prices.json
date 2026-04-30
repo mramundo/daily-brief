@@ -1,27 +1,27 @@
 {
-  "updated": "2026-04-30T05:11:13.145669+00:00",
+  "updated": "2026-04-30T06:57:34.088193+00:00",
   "categories": {
     "crypto": [
       {
         "ticker": "BTC",
         "name": "Bitcoin",
         "currency": "USD",
-        "price": 75566.9882,
-        "change_pct": -0.27,
-        "sma50": 72181.3423,
-        "sma200": 84198.4468,
-        "rsi14": 53.06,
+        "price": 75729.0661,
+        "change_pct": -0.06,
+        "sma50": 72184.5839,
+        "sma200": 84199.2572,
+        "rsi14": 53.67,
         "signal": "neutral"
       },
       {
         "ticker": "ETH",
         "name": "Ethereum",
         "currency": "USD",
-        "price": 2242.8955,
-        "change_pct": -0.47,
-        "sma50": 2202.3237,
-        "sma200": 2744.2675,
-        "rsi14": 47.71,
+        "price": 2247.054,
+        "change_pct": -0.28,
+        "sma50": 2202.4068,
+        "sma200": 2744.2883,
+        "rsi14": 48.04,
         "signal": "neutral"
       }
     ],
@@ -30,22 +30,22 @@
         "ticker": "XAUUSD",
         "name": "Gold (spot, oz)",
         "currency": "USD",
-        "price": 4556.7998,
-        "change_pct": 0.26,
-        "sma50": 4838.922,
-        "sma200": 4247.756,
-        "rsi14": 39.39,
-        "signal": "neutral"
+        "price": 4588.5,
+        "change_pct": 0.95,
+        "sma50": 4839.556,
+        "sma200": 4247.9145,
+        "rsi14": 41.68,
+        "signal": "bull"
       },
       {
         "ticker": "CL=F",
         "name": "Crude Oil (WTI, bbl)",
         "currency": "USD",
-        "price": 109.68,
-        "change_pct": 2.62,
-        "sma50": 90.5644,
-        "sma200": 68.833,
-        "rsi14": 63.62,
+        "price": 108.97,
+        "change_pct": 1.96,
+        "sma50": 90.5502,
+        "sma200": 68.8295,
+        "rsi14": 63.14,
         "signal": "bull"
       }
     ],

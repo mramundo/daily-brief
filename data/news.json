@@ -1,53 +1,54 @@
 {
-  "updated": "2026-04-30T18:47:07.850491+00:00",
+  "updated": "2026-05-01T01:15:18.776852+00:00",
   "hero": {
-    "title": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYi0yc0o1VE1YYWlUMlVGRllPVk43OGIwLWZHLUR0N2pPTHpLR1JhaEVyYlZNdklnN3UtbEMyUXlkcTQ1NERtemE5U25IMlRqZnpmdGhOVkN4MnFPZHZTNUI4RldQUHh0TEtTOWQ2UnB0YzBYNkVVUjlScXlTQmpiSHhLX2RFZTlRQWxrYm1iX3NSUWhOQ2lHNzZTVlY2bDNVRFVNOG5vbjhBS3ljRlJPc3ZUeExQYlBleGY2MW5vUHB2bmlXcU5rc20zYllPTS1jQXFzZXFVMk9Udw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-04-30T17:38:52+00:00",
-    "summary": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company Reuters",
-    "category": "tech",
-    "score": 6.3
+    "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-05-01T00:00:00+00:00",
+    "summary": "Israeli attacks on Lebanon killed at least 2,586 people and wounded more than 8,000 since March 2, local media report.",
+    "category": "conflicts",
+    "score": 5.781
   },
   "items": [
     {
-      "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
-      "source": "The Verge",
-      "published_at": "2026-04-30T18:16:57+00:00",
-      "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to p",
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "source": "TechCrunch",
+      "published_at": "2026-04-30T23:07:56+00:00",
+      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
       "category": "tech",
-      "score": 6.038
+      "score": 4.717
     },
     {
-      "title": "Bank of England says rates could rise as Iran war fuels inflation",
-      "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-04-30T15:02:26+00:00",
-      "summary": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
-      "category": "finance",
-      "score": 5.2
-    },
-    {
-      "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE4xSU9Nd09RUzAxanktcnJlQnJoUElDdGtZOXZUcHVSdDVNaU9iZFpHeU10aFp6NXM1SVVnNHVvQXRRWnlyUG95bzl0eWphR2xQd3ZoTXFpZzhrV2plNWlkdFV3S2JvVEdMVzhEYzlfQW9WeFRuTkJOMFlFQ3VxVWtwNkNROF90RjRROVRFcUhHV2tYU21DcTQ0emUtMDl4SGk1VHlSU19yN0tldElSMUpiT05EamV2ZFBWYXNySVlXQQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-04-30T16:42:04+00:00",
-      "summary": "Oil retreats after hitting four-year high on concern of US-Iran war escalation Reuters",
-      "category": "resources",
-      "score": 5.047
-    },
-    {
-      "title": "With mass evacuation warnings, Israel upends lives and reshapes south Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSld1LWRBQWxmUmlVb3U2dmhPVEVWdUV6bE1tdFd3U0cxMGFLaWs3MnFQa01zQ2V3TlhPSFo2U3p5TjJMNm1QSWpSMU1kSVJvajIxNWlBTkFCTnp4RWVqamczcXRGdDVidDFMMTE2UGJUdUs4RDgxdTZVRHAwODQzbzBhMXYtZ1A3OTZVVHN2V25NbzBzQl9IRmlRZm5PWkRWSmkySG8yVnZPOWFqN1Y5OTIwbURyR042ZEE?oc=5",
-      "source": "AP News",
-      "published_at": "2026-04-30T18:21:00+00:00",
-      "summary": "With mass evacuation warnings, Israel upends lives and reshapes south Lebanon AP News",
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-04-30T20:14:48+00:00",
+      "summary": "At least nine people - including two children - were killed, according to Lebanon's health ministry.",
       "category": "conflicts",
-      "score": 4.927
+      "score": 4.281
+    },
+    {
+      "title": "Kosovo to hold snap elections in June",
+      "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-04-30T19:01:00+00:00",
+      "summary": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but now there's a political deadlock over who shoud be elected president.",
+      "category": "politics",
+      "score": 4.228
+    },
+    {
+      "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-04-30T23:04:43+00:00",
+      "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus.",
+      "category": "tech",
+      "score": 4.124
     }
   ],
   "hero_history": [
+    "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
     "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
     "OpenAI tells ChatGPT models to stop talking about goblins",
     "Anthropic weighs $900 billion valuation in new funding round",

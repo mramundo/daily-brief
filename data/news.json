@@ -1,53 +1,54 @@
 {
-  "updated": "2026-05-01T12:38:38.127259+00:00",
+  "updated": "2026-05-01T18:39:48.625579+00:00",
   "hero": {
-    "title": "Gaza aid flotilla activists taken to Crete after Israeli interception",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGpnQlROeFRtQXdhQ0ZrYzVRLWx5MTg0R1gxVEtqX2M3bHQ1LWZLQXJJT1pvMFJoRkg2OUpxUG44UkJ0Q1FOamhSME9GVXNkdHFTMUpUamRmcjE5dFA3dFp5elBLUGFWWUR6QmJQMXdiXzRQNmFNUm1nUXpmLXM5R1RTQnNIQ3JXY2prcGhfTmNuS0UzSldkb3FadWE0NnF6ZFVOVDlPTEpiUGRIWVgwaThlOHNjdw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-01T10:03:27+00:00",
-    "summary": "Gaza aid flotilla activists taken to Crete after Israeli interception Reuters",
-    "category": "conflicts",
-    "score": 7.669
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "source": "TechCrunch",
+    "published_at": "2026-05-01T16:02:36+00:00",
+    "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "category": "tech",
+    "score": 8.96
   },
   "items": [
     {
-      "title": "Key takeaways from Musk's testimony at OpenAI trial",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkdYNENHcEpITVhkMjJsUFN5M0J0NTNBQTRmV3VkNTd5SkZsc2lsOHpSS0FJSVNtT2N3Z2VnMkhFbDFZbmgydjhJUFp6Q1RVcXZlZGNuSnVXNXlRQnd5WmxQa1J6UUVTQUNocmhYbFpGNnZ6cHAzQW9mOVRxbEoxb0VqMUp4anBiejdyNXp2eHZPTnBrR2p0QTA5MDhtal9qTUs2bkJ4RGFaU1otUXN4eVhtNVlYanRFSnc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-01T10:20:22+00:00",
-      "summary": "Key takeaways from Musk's testimony at OpenAI trial Reuters",
+      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "source": "The Verge",
+      "published_at": "2026-05-01T14:09:56+00:00",
+      "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left o",
       "category": "tech",
-      "score": 6.824
+      "score": 8.033
     },
     {
-      "title": "Nvidia, Microsoft, AWS Expanding Classified Military AI Use",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFYydjVtbXRCWC1FRk9sZWNELUw1SElYTVZNSW9JcVU1WXFrN2hCd3pZRWMwOXZiRlRSMUpEMXoyTWtZWFBKb2JwNzRJaXNVekZNSTh0TlY3YmFVX1dFT3JYa29sUmo0ZExwUEFjYlctTkU4MEx3NHVYMl9ISlEyaDRxQUZQQVRFT3ZLbXNHR3F2RHJYSGtfSTZPZUgzRGRPUXpBd201ZXJqaC1a?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-05-01T11:03:32+00:00",
-      "summary": "Nvidia, Microsoft, AWS Expanding Classified Military AI Use Bloomberg.com",
-      "category": "tech",
-      "score": 5.772
+      "title": "Trump to raise tariffs on cars, trucks from EU to 25%",
+      "url": "https://www.dw.com/en/trump-to-raise-tariffs-on-cars-trucks-from-eu-to-25/a-77014772?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-05-01T16:25:00+00:00",
+      "summary": "President Donald Trump said he's raising tariffs on cars and trucks from the European Union to 25%, saying the bloc was not complying with the terms of the trade agreement agreed to with the US.",
+      "category": "politics",
+      "score": 5.966
     },
     {
-      "title": "Hubble Spots a Starry Spiral",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
-      "source": "NASA",
-      "published_at": "2026-05-01T11:48:55+00:00",
-      "summary": "In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral galaxy, this target offers astronomers",
-      "category": "science",
-      "score": 5.262
-    },
-    {
-      "title": "Russian attack hit port infrastructure in Ukraine's Odesa region, officials say",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNmRHaW5wWHdDT0s1X3dJSmhnX3B1NlBmMjFLRUxhanpZSjNKRzNzZW5vOW5kQ3c1ZTNBR2NqVFo1Qk02TjVxM2ZSblNyNi15UmtrUjIxcUxQYTY5RU1UTlIzSC0ycGY3S2EtNklCbXB2MGE2cEZHVm0wYWhzWkJnOHE5ekpVY1Mxb252dEtnY1dXVjBTdjYxd0s0bGRPcnVtc0xVMkcxQ1NSRHZEd0xsZmM3Z0YySWRZd0VseFdXWGE?oc=5",
+      "title": "Fed should ditch rate-cut lean because of oil shock, policymakers say",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNktfZTR3cElZWm5BdVlVTHN4WHBISHdHMV9RaEdINFJ4b0FfWllFay1mbXBzN1ZBVTZKeEpPQzF4aVJBa2VPcm5iTTVBeVpfam4xV2FFdEVaRzhkUC1jQlBNZkFVQk9wX1ZpUkprYnJKVlY2Zm94bEQyYXhLc1VtYkZIRzRlSGFfTjFaOGdOdG1fM2h4dll2ekpZOWVfUG1ZaGxvNEhJWUVtTmU0ZFJKbFE5RlpZcDIzcUhmeWhB?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-01T10:24:36+00:00",
-      "summary": "Russian attack hit port infrastructure in Ukraine's Odesa region, officials say Reuters",
-      "category": "conflicts",
-      "score": 4.856
+      "published_at": "2026-05-01T18:02:28+00:00",
+      "summary": "Fed should ditch rate-cut lean because of oil shock, policymakers say Reuters",
+      "category": "finance",
+      "score": 5.193
+    },
+    {
+      "title": "Congress reduces Bolsonaro's jair term",
+      "url": "https://www.france24.com/en/congress-reduces-bolsonaro-s-jair-term",
+      "source": "France 24",
+      "published_at": "2026-05-01T13:05:33+00:00",
+      "summary": "Brazil’s Congress has voted to reduce the 27-year prison sentence of former President Jair Bolsonaro, though the highly controversial decision is expected to be appealed. Bolsonaro was convicted of plotting a coup after losing the 2022 presidential election, and the move to short",
+      "category": "politics",
+      "score": 5.011
     }
   ],
   "hero_history": [
+    "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "Gaza aid flotilla activists taken to Crete after Israeli interception",
     "The UAE dumping OPEC may not affect crude as anticipated",
     "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",

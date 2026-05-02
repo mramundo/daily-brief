@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-02T12:34:50.757514+00:00",
+  "updated": "2026-05-02T18:34:33.319988+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-05-02T08:52:35+00:00",
-    "summary": "Ukraine AP News",
-    "category": "conflicts",
-    "score": 8.81
+    "title": "Nvidia, Microsoft, Amazon Expand Classified Military AI Use",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYy14YVVmajBJa2xsUGpLUGEteXlhRzhKUDgxZ0pSZzlzbld2Wlh3dFBKbUZJanY0R3gxQ3lYTW9KZHpRWFRiTkx2WmNQYi1UVWlmdFhoYVQtTEI0bkVFR2NZNVQ4cGlvQnZqZzR6TklPVGhmdWFnQ052N1c5RGNUOC1fdF9ZQS15WmNnUWk4YkFNTnlVLW1mVFZUX1pUQWM?oc=5",
+    "source": "Advisor Perspectives",
+    "published_at": "2026-05-02T11:45:01+00:00",
+    "summary": "Nvidia, Microsoft, Amazon Expand Classified Military AI Use Advisor Perspectives",
+    "category": "tech",
+    "score": 5.999
   },
   "items": [
     {
-      "title": "Nvidia, Microsoft, Amazon Expand Classified Military AI Use",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYy14YVVmajBJa2xsUGpLUGEteXlhRzhKUDgxZ0pSZzlzbld2Wlh3dFBKbUZJanY0R3gxQ3lYTW9KZHpRWFRiTkx2WmNQYi1UVWlmdFhoYVQtTEI0bkVFR2NZNVQ4cGlvQnZqZzR6TklPVGhmdWFnQ052N1c5RGNUOC1fdF9ZQS15WmNnUWk4YkFNTnlVLW1mVFZUX1pUQWM?oc=5",
-      "source": "Advisor Perspectives",
-      "published_at": "2026-05-02T11:45:01+00:00",
-      "summary": "Nvidia, Microsoft, Amazon Expand Classified Military AI Use Advisor Perspectives",
-      "category": "tech",
-      "score": 7.701
+      "title": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWtaSThlNlVxYjNBMGo2VVlIZzh6TjNOVFFMVnZTOHNCREtwS1RvX3NQcmxlQk13QUdsNWxQZkdYVFFPY1pibmZ5VHdQbVBNNmFfNkxMdHVkQ1lYd1dLcU00cmJMaERwRkM5Q1owLUJoQ0wwT2NDTmZTZ3J1eUpNS1FBMG54cXN2cXJzNGUtN3JoWlZDRlFUeUtVY1MtTkY1bUtGTV80dHROXzc3aElrcUNsUm5uMTVuaEJyRm5WeHEycUU?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-02T14:20:49+00:00",
+      "summary": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say Reuters",
+      "category": "resources",
+      "score": 5.539
     },
     {
-      "title": "US to withdraw 5.000 troops from Germany",
-      "url": "https://www.france24.com/en/us-to-withdraw-5-000-troops-from-germany-1",
-      "source": "France 24",
-      "published_at": "2026-05-02T12:14:23+00:00",
-      "summary": "The US is moving ahead with Donald Trump’s plan to reduce its military presence in Germany. Late Friday, the United States Department of Defense said about 5,000 American troops-roughly 14 percent of the US service members currently stationed there—will be withdrawn from the NATO",
-      "category": "politics",
-      "score": 6.905
-    },
-    {
-      "title": "Israeli airstrikes on southern Lebanon kill 7 amid fragile ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaF9Fd2R3TU1zRjJHY1cwZkpXcmtodGhwVzhtc0FyZkJzNVhETGtOenNxcnhXVTFhUzVCbUd0NTRfeEYtSmFqc0Nva0ZvUk5pVlY1SHJ3SWk1V2hLajMtYWFxVFctZkJMOVZSMGptS3dXOUVBelpXeU5hQWxtRV94VnNWR1g3SHVWNFQ3NnhQOGdpWHpsNUJwMHhrbUk1OHNjOEJRaWF3Uzg?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-02T10:29:00+00:00",
-      "summary": "Israeli airstrikes on southern Lebanon kill 7 amid fragile ceasefire AP News",
+      "title": "Devastation of Southern Lebanon continues under ‘ceasefire’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-02T18:05:05+00:00",
+      "summary": "At least 41 people killed as Israel launches 50 airstrikes on southern Lebanon in 24 hours.",
       "category": "conflicts",
-      "score": 5.254
+      "score": 5.372
     },
     {
-      "title": "Kosovo to hold snap elections in June",
-      "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-05-02T07:46:00+00:00",
-      "summary": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but now there's political deadlock over who should be elected president.",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-02T16:51:18+00:00",
+      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "category": "conflicts",
+      "score": 4.91
+    },
+    {
+      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
+      "url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-02T17:01:47+00:00",
+      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
       "category": "politics",
-      "score": 4.486
+      "score": 4.749
     }
   ],
   "hero_history": [
+    "Nvidia, Microsoft, Amazon Expand Classified Military AI Use",
     "Ukraine",
     "Pentagon reaches agreements with top AI companies, but not Anthropic",
     "Trump tells Congress ceasefire means he does not need their approval for Iran war",
     "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "Gaza aid flotilla activists taken to Crete after Israeli interception",
     "The UAE dumping OPEC may not affect crude as anticipated",
-    "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
-    "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company"
+    "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action"
   ]
 }

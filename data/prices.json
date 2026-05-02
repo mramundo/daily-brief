@@ -1,31 +1,31 @@
 {
-  "updated": "2026-05-02T07:55:55.251585+00:00",
+  "updated": "2026-05-02T08:46:45.450918+00:00",
   "categories": {
     "crypto": [
       {
         "ticker": "BTC",
         "name": "Bitcoin",
         "currency": "USD",
-        "price": 78195.9214,
-        "change_pct": 0.03,
-        "change_1m": 14.84,
-        "change_3m": -0.67,
-        "sma50": 72492.8998,
-        "sma200": 83841.9905,
-        "rsi14": 60.97,
+        "price": 78310.6926,
+        "change_pct": 0.18,
+        "change_1m": 15.01,
+        "change_3m": -0.53,
+        "sma50": 72495.1953,
+        "sma200": 83842.5644,
+        "rsi14": 61.28,
         "signal": "neutral"
       },
       {
         "ticker": "ETH",
         "name": "Ethereum",
         "currency": "USD",
-        "price": 2300.7846,
-        "change_pct": 0.27,
-        "change_1m": 7.56,
-        "change_3m": -5.86,
-        "sma50": 2211.1039,
-        "sma200": 2725.4347,
-        "rsi14": 52.64,
+        "price": 2303.2292,
+        "change_pct": 0.37,
+        "change_1m": 7.67,
+        "change_3m": -5.76,
+        "sma50": 2211.1528,
+        "sma200": 2725.4469,
+        "rsi14": 52.85,
         "signal": "neutral"
       }
     ],

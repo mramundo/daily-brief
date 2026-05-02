@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-02T06:57:33.107017+00:00",
+  "updated": "2026-05-02T12:34:50.757514+00:00",
   "hero": {
-    "title": "Pentagon reaches agreements with top AI companies, but not Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0RfQUQ5d2c0NFBOYUFsNU9FTUptQTByTWw0UjI4VzN3b1Y3XzV1cnp2aHFfS1owYUJXRHkzM0hOUzhET0FMX3lXWXNVUnNJdUQ1TkpBODVXaUZ4Uk1NNTZnZUNiUkpVUGFGbjZRam41V2FuaV9ZbjkzQ2Q5R2JDRHI2RWRNdnhVSF9GQ2taaV9lelUtX2ZhamMzTzdKbXVNV09XOFlJbw?oc=5",
-    "source": "KSL News",
-    "published_at": "2026-05-02T03:18:52+00:00",
-    "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic KSL News",
-    "category": "tech",
-    "score": 5.137
+    "title": "Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+    "source": "AP News",
+    "published_at": "2026-05-02T08:52:35+00:00",
+    "summary": "Ukraine AP News",
+    "category": "conflicts",
+    "score": 8.81
   },
   "items": [
     {
-      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
-      "url": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-02T06:47:18+00:00",
-      "summary": "The UNIFIL mission has faced a growing number of casualties as Israel and Hezbollah continue to fight.",
-      "category": "conflicts",
-      "score": 4.839
-    },
-    {
-      "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-02T03:14:46+00:00",
-      "summary": "Peru's public prosecutor says many of their citizens are victims of deception, lured by ⁠the promise of jobs.",
-      "category": "conflicts",
-      "score": 4.81
-    },
-    {
-      "title": "Saudi oil prince's iron grip faces ultimate test with UAE's shock OPEC exit",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGpUZVhaSEt0SFlpVE1aczhiVDlJSmdDMXAxZkZoQjVuVnV6Q0xfSEQzbUdMUFNBRndxanNFcTFBQjFmT2l1VVhnOEt6MGNsanVqWFZzQjNEeHl4bUZrOENHX185R3J4b1hOVFpUZFpBVnhZeEZ4d1pMYXYtaFg5emF3NlJ0ZVlFc3k0MFROaDFfakM1UnIyUTFoTmoyWWxXSlRuWHV4VnUyQnFwMEFMOVNad0dqYTlYdW1oZTN5azBjWEJxRFlSalFR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-01T20:10:38+00:00",
-      "summary": "Saudi oil prince's iron grip faces ultimate test with UAE's shock OPEC exit Reuters",
-      "category": "resources",
-      "score": 4.216
-    },
-    {
-      "title": "Musk’s trial against OpenAI hits some rough spots in first week",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3YzVGxHQmFsbXhoT0RHS3d5dUhibjBTWnZObFROMXdDT1VWMzBqRTJiaXg4Z00yazk3bV9OQVZsbzRrWHJzZHR2X0VMdjZBRlJLMWhScFJPZTFiajBXQnFSTjloY2dPVjUxcmdfZGlZVTlnOTBIb2M4ZU9SSjhwT2k4S2RTUEVXXzc5T2pqMWVkYzNuSUNCcEw3NXVTNXpELS16U1hWelhwTnFXNVNXeFVYUGdXSENqRnB3SHpMRWdSLXFKWXFwS1F0aEQ5aFJwUF82RXlMZ1E2anc?oc=5",
-      "source": "MSN",
-      "published_at": "2026-05-02T04:00:10+00:00",
-      "summary": "Musk’s trial against OpenAI hits some rough spots in first week MSN",
+      "title": "Nvidia, Microsoft, Amazon Expand Classified Military AI Use",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYy14YVVmajBJa2xsUGpLUGEteXlhRzhKUDgxZ0pSZzlzbld2Wlh3dFBKbUZJanY0R3gxQ3lYTW9KZHpRWFRiTkx2WmNQYi1UVWlmdFhoYVQtTEI0bkVFR2NZNVQ4cGlvQnZqZzR6TklPVGhmdWFnQ052N1c5RGNUOC1fdF9ZQS15WmNnUWk4YkFNTnlVLW1mVFZUX1pUQWM?oc=5",
+      "source": "Advisor Perspectives",
+      "published_at": "2026-05-02T11:45:01+00:00",
+      "summary": "Nvidia, Microsoft, Amazon Expand Classified Military AI Use Advisor Perspectives",
       "category": "tech",
-      "score": 4.088
+      "score": 7.701
+    },
+    {
+      "title": "US to withdraw 5.000 troops from Germany",
+      "url": "https://www.france24.com/en/us-to-withdraw-5-000-troops-from-germany-1",
+      "source": "France 24",
+      "published_at": "2026-05-02T12:14:23+00:00",
+      "summary": "The US is moving ahead with Donald Trump’s plan to reduce its military presence in Germany. Late Friday, the United States Department of Defense said about 5,000 American troops-roughly 14 percent of the US service members currently stationed there—will be withdrawn from the NATO",
+      "category": "politics",
+      "score": 6.905
+    },
+    {
+      "title": "Israeli airstrikes on southern Lebanon kill 7 amid fragile ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaF9Fd2R3TU1zRjJHY1cwZkpXcmtodGhwVzhtc0FyZkJzNVhETGtOenNxcnhXVTFhUzVCbUd0NTRfeEYtSmFqc0Nva0ZvUk5pVlY1SHJ3SWk1V2hLajMtYWFxVFctZkJMOVZSMGptS3dXOUVBelpXeU5hQWxtRV94VnNWR1g3SHVWNFQ3NnhQOGdpWHpsNUJwMHhrbUk1OHNjOEJRaWF3Uzg?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-02T10:29:00+00:00",
+      "summary": "Israeli airstrikes on southern Lebanon kill 7 amid fragile ceasefire AP News",
+      "category": "conflicts",
+      "score": 5.254
+    },
+    {
+      "title": "Kosovo to hold snap elections in June",
+      "url": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-05-02T07:46:00+00:00",
+      "summary": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but now there's political deadlock over who should be elected president.",
+      "category": "politics",
+      "score": 4.486
     }
   ],
   "hero_history": [
+    "Ukraine",
     "Pentagon reaches agreements with top AI companies, but not Anthropic",
     "Trump tells Congress ceasefire means he does not need their approval for Iran war",
     "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "Gaza aid flotilla activists taken to Crete after Israeli interception",
     "The UAE dumping OPEC may not affect crude as anticipated",
     "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
-    "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
-    "OpenAI tells ChatGPT models to stop talking about goblins"
+    "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company"
   ]
 }

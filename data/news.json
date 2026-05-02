@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-02T01:06:44.451647+00:00",
+  "updated": "2026-05-02T06:57:33.107017+00:00",
   "hero": {
-    "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-    "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-05-02T00:41:43+00:00",
-    "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-    "category": "conflicts",
-    "score": 5.622
+    "title": "Pentagon reaches agreements with top AI companies, but not Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0RfQUQ5d2c0NFBOYUFsNU9FTUptQTByTWw0UjI4VzN3b1Y3XzV1cnp2aHFfS1owYUJXRHkzM0hOUzhET0FMX3lXWXNVUnNJdUQ1TkpBODVXaUZ4Uk1NNTZnZUNiUkpVUGFGbjZRam41V2FuaV9ZbjkzQ2Q5R2JDRHI2RWRNdnhVSF9GQ2taaV9lelUtX2ZhamMzTzdKbXVNV09XOFlJbw?oc=5",
+    "source": "KSL News",
+    "published_at": "2026-05-02T03:18:52+00:00",
+    "summary": "Pentagon reaches agreements with top AI companies, but not Anthropic KSL News",
+    "category": "tech",
+    "score": 5.137
   },
   "items": [
     {
-      "title": "Trump to raise tariffs on cars, trucks from EU to 25%",
-      "url": "https://www.dw.com/en/trump-to-raise-tariffs-on-cars-trucks-from-eu-to-25/a-77014772?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-05-01T16:25:00+00:00",
-      "summary": "President Donald Trump said he's raising tariffs on cars and trucks from the European Union to 25%, claiming the bloc was not complying with its trade agreement with the US.",
-      "category": "politics",
-      "score": 4.56
-    },
-    {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "source": "TechCrunch",
-      "published_at": "2026-05-01T22:13:27+00:00",
-      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "category": "tech",
-      "score": 4.461
-    },
-    {
-      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+      "url": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-05-01T21:10:15+00:00",
-      "summary": "Israel's strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
+      "published_at": "2026-05-02T06:47:18+00:00",
+      "summary": "The UNIFIL mission has faced a growing number of casualties as Israel and Hezbollah continue to fight.",
       "category": "conflicts",
-      "score": 4.135
+      "score": 4.839
     },
     {
-      "title": "Oscars says AI actors, writing cannot win awards",
-      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "published_at": "2026-05-01T22:30:59+00:00",
-      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
+      "title": "Peru probes trafficking of citizens to fight for Russia in Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/5/2/peru-probes-trafficking-of-citizens-to-fight-for-russia-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-02T03:14:46+00:00",
+      "summary": "Peru's public prosecutor says many of their citizens are victims of deception, lured by ⁠the promise of jobs.",
+      "category": "conflicts",
+      "score": 4.81
+    },
+    {
+      "title": "Saudi oil prince's iron grip faces ultimate test with UAE's shock OPEC exit",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGpUZVhaSEt0SFlpVE1aczhiVDlJSmdDMXAxZkZoQjVuVnV6Q0xfSEQzbUdMUFNBRndxanNFcTFBQjFmT2l1VVhnOEt6MGNsanVqWFZzQjNEeHl4bUZrOENHX185R3J4b1hOVFpUZFpBVnhZeEZ4d1pMYXYtaFg5emF3NlJ0ZVlFc3k0MFROaDFfakM1UnIyUTFoTmoyWWxXSlRuWHV4VnUyQnFwMEFMOVNad0dqYTlYdW1oZTN5azBjWEJxRFlSalFR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-01T20:10:38+00:00",
+      "summary": "Saudi oil prince's iron grip faces ultimate test with UAE's shock OPEC exit Reuters",
+      "category": "resources",
+      "score": 4.216
+    },
+    {
+      "title": "Musk’s trial against OpenAI hits some rough spots in first week",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3YzVGxHQmFsbXhoT0RHS3d5dUhibjBTWnZObFROMXdDT1VWMzBqRTJiaXg4Z00yazk3bV9OQVZsbzRrWHJzZHR2X0VMdjZBRlJLMWhScFJPZTFiajBXQnFSTjloY2dPVjUxcmdfZGlZVTlnOTBIb2M4ZU9SSjhwT2k4S2RTUEVXXzc5T2pqMWVkYzNuSUNCcEw3NXVTNXpELS16U1hWelhwTnFXNVNXeFVYUGdXSENqRnB3SHpMRWdSLXFKWXFwS1F0aEQ5aFJwUF82RXlMZ1E2anc?oc=5",
+      "source": "MSN",
+      "published_at": "2026-05-02T04:00:10+00:00",
+      "summary": "Musk’s trial against OpenAI hits some rough spots in first week MSN",
       "category": "tech",
-      "score": 4.052
+      "score": 4.088
     }
   ],
   "hero_history": [
+    "Pentagon reaches agreements with top AI companies, but not Anthropic",
     "Trump tells Congress ceasefire means he does not need their approval for Iran war",
     "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "Gaza aid flotilla activists taken to Crete after Israeli interception",
     "The UAE dumping OPEC may not affect crude as anticipated",
     "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
     "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
-    "OpenAI tells ChatGPT models to stop talking about goblins",
-    "Anthropic weighs $900 billion valuation in new funding round"
+    "OpenAI tells ChatGPT models to stop talking about goblins"
   ]
 }

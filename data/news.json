@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-01T18:39:48.625579+00:00",
+  "updated": "2026-05-02T01:06:44.451647+00:00",
   "hero": {
-    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "source": "TechCrunch",
-    "published_at": "2026-05-01T16:02:36+00:00",
-    "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-    "category": "tech",
-    "score": 8.96
+    "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+    "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-05-02T00:41:43+00:00",
+    "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+    "category": "conflicts",
+    "score": 5.622
   },
   "items": [
-    {
-      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-      "source": "The Verge",
-      "published_at": "2026-05-01T14:09:56+00:00",
-      "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left o",
-      "category": "tech",
-      "score": 8.033
-    },
     {
       "title": "Trump to raise tariffs on cars, trucks from EU to 25%",
       "url": "https://www.dw.com/en/trump-to-raise-tariffs-on-cars-trucks-from-eu-to-25/a-77014772?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
       "published_at": "2026-05-01T16:25:00+00:00",
-      "summary": "President Donald Trump said he's raising tariffs on cars and trucks from the European Union to 25%, saying the bloc was not complying with the terms of the trade agreement agreed to with the US.",
+      "summary": "President Donald Trump said he's raising tariffs on cars and trucks from the European Union to 25%, claiming the bloc was not complying with its trade agreement with the US.",
       "category": "politics",
-      "score": 5.966
+      "score": 4.56
     },
     {
-      "title": "Fed should ditch rate-cut lean because of oil shock, policymakers say",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNktfZTR3cElZWm5BdVlVTHN4WHBISHdHMV9RaEdINFJ4b0FfWllFay1mbXBzN1ZBVTZKeEpPQzF4aVJBa2VPcm5iTTVBeVpfam4xV2FFdEVaRzhkUC1jQlBNZkFVQk9wX1ZpUkprYnJKVlY2Zm94bEQyYXhLc1VtYkZIRzRlSGFfTjFaOGdOdG1fM2h4dll2ekpZOWVfUG1ZaGxvNEhJWUVtTmU0ZFJKbFE5RlpZcDIzcUhmeWhB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-01T18:02:28+00:00",
-      "summary": "Fed should ditch rate-cut lean because of oil shock, policymakers say Reuters",
-      "category": "finance",
-      "score": 5.193
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "source": "TechCrunch",
+      "published_at": "2026-05-01T22:13:27+00:00",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "category": "tech",
+      "score": 4.461
     },
     {
-      "title": "Congress reduces Bolsonaro's jair term",
-      "url": "https://www.france24.com/en/congress-reduces-bolsonaro-s-jair-term",
-      "source": "France 24",
-      "published_at": "2026-05-01T13:05:33+00:00",
-      "summary": "Brazil’s Congress has voted to reduce the 27-year prison sentence of former President Jair Bolsonaro, though the highly controversial decision is expected to be appealed. Bolsonaro was convicted of plotting a coup after losing the 2022 presidential election, and the move to short",
-      "category": "politics",
-      "score": 5.011
+      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-01T21:10:15+00:00",
+      "summary": "Israel's strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
+      "category": "conflicts",
+      "score": 4.135
+    },
+    {
+      "title": "Oscars says AI actors, writing cannot win awards",
+      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-05-01T22:30:59+00:00",
+      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
+      "category": "tech",
+      "score": 4.052
     }
   ],
   "hero_history": [
+    "Trump tells Congress ceasefire means he does not need their approval for Iran war",
     "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "Gaza aid flotilla activists taken to Crete after Israeli interception",
     "The UAE dumping OPEC may not affect crude as anticipated",
     "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
     "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company",
     "OpenAI tells ChatGPT models to stop talking about goblins",
-    "Anthropic weighs $900 billion valuation in new funding round",
-    "United Arab Emirates to Leave OPEC"
+    "Anthropic weighs $900 billion valuation in new funding round"
   ]
 }

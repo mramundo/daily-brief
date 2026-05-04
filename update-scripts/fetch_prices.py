@@ -172,10 +172,16 @@ def classify(price: float | None, sma200_v: float | None, rsi_v: float | None) -
 Series = tuple[list[str], list[float]]   # (iso dates, closes), aligned
 
 def fetch_coingecko(coin_id: str) -> Series | None:
-    """Daily close history (~365 days) from CoinGecko (free tier)."""
+    """Daily close history (~400 days) from CoinGecko (free tier).
+
+    We ask for 400 days rather than 365 so the 1Y lookback (cutoff =
+    last_date - 365) finds a sample on the older side of the cutoff.
+    With exactly 365 days the boundary point is the first sample, and
+    the lookup falls off the array.
+    """
     url = (
         f"https://api.coingecko.com/api/v3/coins/{coin_id}/market_chart"
-        "?vs_currency=usd&days=365&interval=daily"
+        "?vs_currency=usd&days=400&interval=daily"
     )
     try:
         r = requests.get(url, timeout=HTTP_TIMEOUT, headers={"User-Agent": USER_AGENT})

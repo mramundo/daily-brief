@@ -61,13 +61,16 @@ export function renderMarkets(prices) {
 
   const head = `
     <div class="market-table__head" role="row">
-      <span>Ticker</span>
-      <span>Name</span>
-      <span>Price</span>
-      <span>Δ 24h</span>
-      <span>Δ 1M</span>
-      <span>Δ 3M</span>
-      <span>Signal</span>
+      <span data-col="ticker">Ticker</span>
+      <span data-col="name">Name</span>
+      <span data-col="price">Price</span>
+      <span data-col="24h">Δ 24h</span>
+      <span data-col="1w">Δ 1W</span>
+      <span data-col="1m">Δ 1M</span>
+      <span data-col="3m">Δ 3M</span>
+      <span data-col="6m">Δ 6M</span>
+      <span data-col="1y">Δ 1Y</span>
+      <span data-col="signal">Signal</span>
     </div>
   `;
 
@@ -99,9 +102,9 @@ function changeClassFor(val) {
   return 'market-row__change--flat';
 }
 
-function changeCellHTML(val, extraClass = '') {
-  const cls = `${changeClassFor(val)} ${extraClass}`.trim();
-  return `<span class="market-row__change ${cls}">${fmtPct(val) || '—'}</span>`;
+function changeCellHTML(val, colKey) {
+  const dirCls = changeClassFor(val);
+  return `<span class="market-row__change ${dirCls}" data-col="${colKey}">${fmtPct(val) || '—'}</span>`;
 }
 
 function renderRow(a) {
@@ -109,13 +112,16 @@ function renderRow(a) {
 
   return `
     <div class="market-row" role="row" data-ticker="${escapeHTML(a.ticker || '')}">
-      <span class="market-row__ticker">${escapeHTML(a.ticker || '—')}</span>
-      <span class="market-row__name">${escapeHTML(a.name || '')}</span>
-      <span class="market-row__price">${fmtPrice(a.price, a.currency)}</span>
-      ${changeCellHTML(a.change_pct)}
-      ${changeCellHTML(a.change_1m, 'market-row__change--1m')}
-      ${changeCellHTML(a.change_3m, 'market-row__change--3m')}
-      <span class="market-row__signal-wrap">
+      <span class="market-row__ticker" data-col="ticker">${escapeHTML(a.ticker || '—')}</span>
+      <span class="market-row__name" data-col="name">${escapeHTML(a.name || '')}</span>
+      <span class="market-row__price" data-col="price">${fmtPrice(a.price, a.currency)}</span>
+      ${changeCellHTML(a.change_pct, '24h')}
+      ${changeCellHTML(a.change_1w, '1w')}
+      ${changeCellHTML(a.change_1m, '1m')}
+      ${changeCellHTML(a.change_3m, '3m')}
+      ${changeCellHTML(a.change_6m, '6m')}
+      ${changeCellHTML(a.change_1y, '1y')}
+      <span class="market-row__signal-wrap" data-col="signal">
         <span class="signal signal--${sig}" title="${signalLabel(sig)}">${signalLabel(sig)}</span>
       </span>
       ${a.note ? `<p class="market-row__note">${escapeHTML(a.note)}</p>` : ''}

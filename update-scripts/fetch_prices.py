@@ -303,8 +303,11 @@ def build_asset_payload(spec: AssetSpec) -> dict:
             "currency": display_currency,
             "price": None,
             "change_pct": None,
+            "change_1w": None,
             "change_1m": None,
             "change_3m": None,
+            "change_6m": None,
+            "change_1y": None,
             "sma50": None,
             "sma200": None,
             "rsi14": None,
@@ -316,8 +319,11 @@ def build_asset_payload(spec: AssetSpec) -> dict:
     last = closes[-1]
     prev = closes[-2]
     change_pct = ((last - prev) / prev) * 100.0 if prev else None
+    change_1w = change_over(dates, closes, 7)
     change_1m = change_over(dates, closes, 30)
     change_3m = change_over(dates, closes, 90)
+    change_6m = change_over(dates, closes, 180)
+    change_1y = change_over(dates, closes, 365)
     sma50_v = sma(closes, 50)
     sma200_v = sma(closes, 200)
     rsi14 = rsi(closes, 14)
@@ -329,8 +335,11 @@ def build_asset_payload(spec: AssetSpec) -> dict:
         "currency": display_currency,
         "price": round(last, 4),
         "change_pct": round(change_pct, 2) if change_pct is not None else None,
+        "change_1w": round(change_1w, 2) if change_1w is not None else None,
         "change_1m": round(change_1m, 2) if change_1m is not None else None,
         "change_3m": round(change_3m, 2) if change_3m is not None else None,
+        "change_6m": round(change_6m, 2) if change_6m is not None else None,
+        "change_1y": round(change_1y, 2) if change_1y is not None else None,
         "sma50":  round(sma50_v, 4) if sma50_v is not None else None,
         "sma200": round(sma200_v, 4) if sma200_v is not None else None,
         "rsi14":  round(rsi14, 2) if rsi14 is not None else None,

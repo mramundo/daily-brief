@@ -580,8 +580,8 @@ main > * + * { margin-top: var(--section-gap); }
 }
 .market-table__head {
   display: grid;
-  grid-template-columns: 1.3fr 1.6fr 1fr 0.85fr 0.85fr 0.85fr 1fr;
-  gap: 12px;
+  grid-template-columns: 1fr 1.3fr 0.9fr 0.7fr 0.7fr 0.7fr 0.7fr 0.7fr 0.7fr 0.9fr;
+  gap: 10px;
   padding: 10px 18px;
   background: var(--text);
   color: var(--bg);
@@ -590,11 +590,14 @@ main > * + * { margin-top: var(--section-gap); }
   font-weight: 700;
   text-transform: uppercase; letter-spacing: .14em;
 }
-.market-table__head span:nth-child(3),
-.market-table__head span:nth-child(4),
-.market-table__head span:nth-child(5),
-.market-table__head span:nth-child(6),
-.market-table__head span:nth-child(7) { text-align: right; }
+.market-table__head [data-col="price"],
+.market-table__head [data-col="24h"],
+.market-table__head [data-col="1w"],
+.market-table__head [data-col="1m"],
+.market-table__head [data-col="3m"],
+.market-table__head [data-col="6m"],
+.market-table__head [data-col="1y"],
+.market-table__head [data-col="signal"] { text-align: right; }
 
 .market-table__cat {
   padding: 14px 18px 8px;
@@ -619,8 +622,8 @@ main > * + * { margin-top: var(--section-gap); }
 
 .market-row {
   display: grid;
-  grid-template-columns: 1.3fr 1.6fr 1fr 0.85fr 0.85fr 0.85fr 1fr;
-  gap: 12px;
+  grid-template-columns: 1fr 1.3fr 0.9fr 0.7fr 0.7fr 0.7fr 0.7fr 0.7fr 0.7fr 0.9fr;
+  gap: 10px;
   padding: 12px 18px;
   align-items: center;
   border-top: 1px solid var(--border);
@@ -826,18 +829,42 @@ main > * + * { margin-top: var(--section-gap); }
 @keyframes rise { to { opacity: 1; transform: translateY(0); } }
 
 /* ====== Responsive ====== */
+/* Markets table: progressively hide cols by data-col. Keep 24H, 6M, 1Y as
+   long as possible so the user can still see the time horizons that matter
+   on phone. Drop 1W → 3M → name → 1M → signal as space tightens. */
+@media (max-width: 1180px) {
+  .market-table__head { grid-template-columns: 1fr 1.3fr 0.9fr 0.75fr 0.75fr 0.75fr 0.75fr 0.75fr 0.95fr; }
+  .market-row        { grid-template-columns: 1fr 1.3fr 0.9fr 0.75fr 0.75fr 0.75fr 0.75fr 0.75fr 0.95fr; }
+  [data-col="1w"]    { display: none; }
+}
+@media (max-width: 1020px) {
+  .market-table__head { grid-template-columns: 1fr 1.3fr 0.9fr 0.8fr 0.8fr 0.8fr 0.8fr 0.95fr; }
+  .market-row        { grid-template-columns: 1fr 1.3fr 0.9fr 0.8fr 0.8fr 0.8fr 0.8fr 0.95fr; }
+  [data-col="3m"]    { display: none; }
+}
 @media (max-width: 900px) {
+  .market-table__head { grid-template-columns: 1fr 0.9fr 0.85fr 0.85fr 0.85fr 0.85fr 1fr; }
+  .market-row        { grid-template-columns: 1fr 0.9fr 0.85fr 0.85fr 0.85fr 0.85fr 1fr; }
+  [data-col="name"]  { display: none; }
+}
+@media (max-width: 780px) {
   .market-table__head { grid-template-columns: 1fr 0.95fr 0.9fr 0.9fr 0.9fr 1fr; }
-  .market-table__head span:nth-child(2) { display: none; }
-  .market-row { grid-template-columns: 1fr 0.95fr 0.9fr 0.9fr 0.9fr 1fr; }
-  .market-row__name { display: none; }
+  .market-row        { grid-template-columns: 1fr 0.95fr 0.9fr 0.9fr 0.9fr 1fr; }
+  [data-col="1m"]    { display: none; }
 }
-@media (max-width: 760px) {
-  .market-table__head { grid-template-columns: 1fr 1fr 0.9fr 0.9fr 1fr; }
-  .market-table__head span:nth-child(6) { display: none; }
-  .market-row { grid-template-columns: 1fr 1fr 0.9fr 0.9fr 1fr; }
-  .market-row__change--3m { display: none; }
+@media (max-width: 640px) {
+  .market-table__head { grid-template-columns: 1fr 1fr 0.9fr 0.9fr 0.9fr; padding: 10px 14px; }
+  .market-row        { grid-template-columns: 1fr 1fr 0.9fr 0.9fr 0.9fr; padding: 10px 14px; }
+  [data-col="signal"] { display: none; }
+  .market-row__change { font-size: .76rem; }
+  .market-row__price  { font-size: .85rem; }
 }
+@media (max-width: 480px) {
+  .market-table__head { grid-template-columns: 0.85fr 1fr 1fr 1fr; padding: 9px 12px; }
+  .market-row        { grid-template-columns: 0.85fr 1fr 1fr 1fr; padding: 9px 12px; }
+  [data-col="price"] { display: none; }
+}
+
 @media (max-width: 860px) {
   .nav { display: none; }
   .last-update { display: none; }
@@ -846,16 +873,6 @@ main > * + * { margin-top: var(--section-gap); }
 @media (max-width: 640px) {
   .hero__actions { flex-direction: column; align-items: stretch; }
   .btn { width: 100%; }
-  .market-table__head { grid-template-columns: 1fr 1fr 0.9fr 1fr; }
-  .market-table__head span:nth-child(5) { display: none; }
-  .market-row { grid-template-columns: 1fr 1fr 0.9fr 1fr; padding: 10px 14px; }
-  .market-row__change--1m { display: none; }
-}
-@media (max-width: 480px) {
-  .market-table__head { grid-template-columns: 1fr 0.9fr 0.9fr; }
-  .market-table__head span:nth-child(7) { display: none; }
-  .market-row { grid-template-columns: 1fr 0.9fr 0.9fr; }
-  .market-row__signal-wrap { display: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {

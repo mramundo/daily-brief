@@ -860,9 +860,9 @@ main > * + * { margin-top: var(--section-gap); }
   .market-row__price  { font-size: .85rem; }
 }
 @media (max-width: 480px) {
-  .market-table__head { grid-template-columns: 0.85fr 1fr 1fr 1fr; padding: 9px 12px; }
-  .market-row        { grid-template-columns: 0.85fr 1fr 1fr 1fr; padding: 9px 12px; }
-  [data-col="price"] { display: none; }
+  .market-table__head { grid-template-columns: 0.75fr 1fr 0.9fr 0.9fr; padding: 9px 12px; }
+  .market-row        { grid-template-columns: 0.75fr 1fr 0.9fr 0.9fr; padding: 9px 12px; }
+  [data-col="1y"] { display: none; }
 }
 
 @media (max-width: 860px) {

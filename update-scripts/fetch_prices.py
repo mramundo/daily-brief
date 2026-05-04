@@ -132,7 +132,13 @@ def change_over(dates: list[str], closes: list[float], days: int) -> float | Non
     """% change of the last close vs. the close `days` calendar days ago.
     Walks back to the most recent date <= (last_date - days). Source-agnostic:
     works for daily-trading (yahoo, weekends missing) and daily-calendar
-    (coingecko) alike."""
+    (coingecko) alike.
+
+    If no sample lies on or before the cutoff but the series begins within
+    `tolerance` days of it, fall back to the oldest available sample. This
+    covers CoinGecko's 365-day free tier where the first sample lands a
+    day or two after the exact cutoff for the 1Y lookback.
+    """
     if not closes or len(closes) < 2:
         return None
     last_close = closes[-1]
@@ -143,15 +149,27 @@ def change_over(dates: list[str], closes: list[float], days: int) -> float | Non
     except Exception:
         return None
     cutoff = last_date.toordinal() - days
+    tolerance = 3
     target_close: float | None = None
+    oldest_d_ord: int | None = None
+    oldest_close: float | None = None
     for i in range(len(dates) - 1, -1, -1):
         try:
             d_ord = datetime.fromisoformat(dates[i].replace("Z", "+00:00")).date().toordinal()
         except Exception:
             continue
+        oldest_d_ord = d_ord
+        oldest_close = closes[i]
         if d_ord <= cutoff:
             target_close = closes[i]
             break
+    if target_close is None:
+        if (
+            oldest_d_ord is not None
+            and oldest_close is not None
+            and oldest_d_ord - cutoff <= tolerance
+        ):
+            target_close = oldest_close
     if target_close is None or target_close == 0:
         return None
     return ((last_close - target_close) / target_close) * 100.0
@@ -172,16 +190,15 @@ def classify(price: float | None, sma200_v: float | None, rsi_v: float | None) -
 Series = tuple[list[str], list[float]]   # (iso dates, closes), aligned
 
 def fetch_coingecko(coin_id: str) -> Series | None:
-    """Daily close history (~400 days) from CoinGecko (free tier).
+    """Daily close history (~365 days) from CoinGecko (free tier).
 
-    We ask for 400 days rather than 365 so the 1Y lookback (cutoff =
-    last_date - 365) finds a sample on the older side of the cutoff.
-    With exactly 365 days the boundary point is the first sample, and
-    the lookup falls off the array.
+    Public API caps historical range at 365 days. The 1Y change_over
+    therefore degrades gracefully: when no sample lies before the
+    cutoff, change_over returns None and the UI shows '—'.
     """
     url = (
         f"https://api.coingecko.com/api/v3/coins/{coin_id}/market_chart"
-        "?vs_currency=usd&days=400&interval=daily"
+        "?vs_currency=usd&days=365&interval=daily"
     )
     try:
         r = requests.get(url, timeout=HTTP_TIMEOUT, headers={"User-Agent": USER_AGENT})

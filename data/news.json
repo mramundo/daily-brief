@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-05T07:04:39.429059+00:00",
+  "updated": "2026-05-05T12:47:42.746417+00:00",
   "hero": {
-    "title": "OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd1gtYXlSSDJ4RDdiTjI5Y2ZYU2ZHbXJTUUF1dGpwX2o1WUs2OWdrQUdYd0cyemV3dWlWOTZtSGxHem80dXd2REZOSU8xYkdzZVVoNC0tLXdic2FHeEhXUkVmT2hGbFVpNFUyN05aSkZWUUVaRkRST1VnQUE5NXBVY19oN3kxampUV29fSmZXTWNiV3lJbmJMZ3V3NGZDd2lUZVhCNlQ3NG12LThHM0YteHlValV6SnlWSlVEVHYxTWc3aHNnNUtTWXltNW1PSG5jWDR5bFY0Z3NyRnNIOWxZSDBhMA?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-04T23:57:46+00:00",
-    "summary": "OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman Reuters",
-    "category": "tech",
-    "score": 4.911
+    "title": "Romania's pro-EU coalition government collapses after prime minister loses no-confidence vote",
+    "url": "https://www.france24.com/en/europe/20260505-romania-s-pro-eu-coalition-government-collapses-after-prime-minister-loses-no-confidence-vote",
+    "source": "© Octav Ganea, Inquam Photos via Reuters (file photo)",
+    "published_at": "2026-05-05T11:47:07+00:00",
+    "summary": "Romania’s pro-European coalition collapsed Tuesday after its parliament voted in a no-confidence motion against Prime Minister Ilie Bolojan, triggering a fresh period of turmoil in the EU and NATO country bordering Ukraine less than a year after the coalition was sworn in.",
+    "category": "politics",
+    "score": 6.651
   },
   "items": [
     {
-      "title": "Meta picks Morgan Stanley, JPMorgan for El Paso data center financing, source says",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeDZ5WThoSHh0bHJLajhKZnFCbDB2eFRsdG5NZWNlSFAxbER5RFpmX2NBX0F6TWtmRmtaTWhGNWJRY0lnV2VpRmJkYTMxbHNIcldOM1M5SmlIcEh4TkRWdTNkOG9TWlBoN3h0ZHRTYXB2UFlCUXd0dkQxSDVILXpMczN0UzAtVHJJdXJocVZSb0t2YXExMXFhNEVzZ0k4S21wS255cXp5OGVfMUptSFhORjdCM1BmNHBncXRMX29zUndkOVFON2lzYg?oc=5",
+      "title": "ADNOC set to push shale-style oil, gas projects after UAE's OPEC exit",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOXzB6aG91Z1RwOGJBU05pM1l0LTNvRGFPZS1tTzNBSno4UkRwb3BldWJiT1kwSnFkRWRBbHYtcC1uUEstSlNUd0IyeUtYRHZvX3hJRi1Mal9LWmViS1ZESGMxT3V6ZTdWT09xVzJxWlZhdTAxV1FmX1BZb2gyaFZ2am1MWW1BaE5VdVhBRXpQQVcyU0JkdEVuaGNaLWtnbmdzZXd0aXV1QjB0Wk1UNVhtX1g1a2tiNjA?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-04T23:19:00+00:00",
-      "summary": "Meta picks Morgan Stanley, JPMorgan for El Paso data center financing, source says Reuters",
-      "category": "tech",
-      "score": 4.781
+      "published_at": "2026-05-05T11:43:20+00:00",
+      "summary": "ADNOC set to push shale-style oil, gas projects after UAE's OPEC exit Reuters",
+      "category": "resources",
+      "score": 6.317
     },
     {
-      "title": "Person shot near Washington Monument, US Secret Service says",
-      "url": "https://www.dw.com/en/person-shot-near-washington-monument-us-secret-service-says/a-77045301?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-05-04T23:06:00+00:00",
-      "summary": "The White House was briefly locked down on Monday after the US Secret Service said an individual was shot by law enforcement near the Washington Monument.",
+      "title": "Armenia hosts historic EU summit as it charts path away from Russia",
+      "url": "https://www.france24.com/en/video/20260505-armenia-hosts-historic-eu-summit-as-it-charts-path-away-from-russia",
+      "source": "France 24",
+      "published_at": "2026-05-05T09:03:17+00:00",
+      "summary": "Armenia hosts its first bilateral summit with the European Union on Tuesday, a landmark diplomatic moment for the Caucasus Mountains nation that has formally declared its ambition to join the bloc and is cautiously loosening its ties with longtime ally Russia. France 24's corresp",
       "category": "politics",
-      "score": 4.027
+      "score": 6.18
     },
     {
-      "title": "Australia and Japan deepen critical minerals collaboration",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhGZkF4YnZnMHNRRVFmdDRqTXUxOVpLT2gwRE54Nk9xVmVzQ0s1ZDFiQloxZVlVbTY1cllyR005dWUxUldsMDhBYk5FVHZXUjA2TGRsZGJpNVF2UmdfaVdWd3NIN0M5N2h6YmpxOEwwZHpqVEdQY3VSMWh1eDJHVnJnOWFTTXpVX0xYSzk3X0d6dklr?oc=5",
-      "source": "The Energy Year",
-      "published_at": "2026-05-05T06:21:53+00:00",
-      "summary": "Australia and Japan deepen critical minerals collaboration The Energy Year",
-      "category": "resources",
-      "score": 3.821
+      "title": "Move Over Nvidia: Why Alphabet's Surprising Decision to Sell Custom AI Chips Changes Everything.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFFiZFBYNEJTMHVBcWJuVXdjYVVucG9aSk1UT1JoTmpTVTcyb1FIcjRfaEVURWRrMUd5dVpEelo5bVVRQ2ZZQ3I2Q29QQkRrbEQxWldvdnRNNDNtY05lTjhZckF3dzAtQmRKOWpWeUltaGtxX01rdFA5VjBWWHhMQXhpdi1vMzBpNkJVQi10VU9oRmdXVTFnSjRjSm5uZnlS?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-05T09:22:00+00:00",
+      "summary": "Move Over Nvidia: Why Alphabet's Surprising Decision to Sell Custom AI Chips Changes Everything. Yahoo Finance",
+      "category": "tech",
+      "score": 5.345
     },
     {
-      "title": "Rainbow Rare Earths eyeing a listing on a US stock exchange",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNU9KZVVUT0lHQWotcm83VEU0LVYwUmE5TjN3N25fZjNjZVhXQUtkYnJwdGVXQW4tU0xRLTdUVGtMOW9paFNqc3VZLWxMODJHLWhIT3BOMUtPS19Oek1jTWtUcHgtUDY5SWNEZVBDVThSWkhVTXF6WmNHVWN3bnhnQTNkdlJzU1VYNWJiUUZnaTFmZFlmRGJIX1V4T1o3c2YxSG9vLWJHTTZhS0x2OFVBaGFjcDNTbkZYSHZMVnVMSEN4ZkFFSk95YVZB?oc=5",
-      "source": "Proactive financial news",
-      "published_at": "2026-05-05T06:51:15+00:00",
-      "summary": "Rainbow Rare Earths eyeing a listing on a US stock exchange Proactive financial news",
-      "category": "resources",
-      "score": 3.818
+      "title": "Meta Taps Morgan Stanley, JPMorgan for El Paso Data Center Deal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWVaMnJ6NTVWZVpycDFjSnA5LUhsMWRpRGtuTjk1SEZIQ0gtc2RkcXEwcDloZVJKWUdDSTlKZVV5eHJSZDN4eGNGbWctMFFtMzh6a01XNWNwanNoWjBmVER0a0ZjcTRLZVc4NXViYUE3dnljUi11ZEhRc3UtUmlhODZmdm4wTWJ5TzVnQTVzM3IxY0x3SE8wOGQyWmZVTVpwa0V6dWNrMzFmalNkOHI3MnJrbw?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-05-05T10:37:09+00:00",
+      "summary": "Meta Taps Morgan Stanley, JPMorgan for El Paso Data Center Deal Bloomberg.com",
+      "category": "tech",
+      "score": 4.224
     }
   ],
   "hero_history": [
+    "Romania's pro-EU coalition government collapses after prime minister loses no-confidence vote",
     "OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman",
     "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
     "Gold Terra to Present at the Precious Metals & Critical Minerals Virtual Investor Conference May 6, 2026",
     "Japan and Australia agree to deepen cooperation on energy, defense and critical minerals",
     "Iran war",
     "UK set to enter talks to join the European Union's $105.9 billion Ukraine loan",
-    "OPEC+ countries agree modest rise in production as Iran retains chokehold on key Strait of Hormuz",
-    "OPEC+ agrees third oil output quota hike since Hormuz closure"
+    "OPEC+ countries agree modest rise in production as Iran retains chokehold on key Strait of Hormuz"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-05T18:47:59.298621+00:00",
+  "updated": "2026-05-06T01:06:01.874565+00:00",
   "hero": {
-    "title": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFZhSnhTN3pkLVhxNVBraXhnZG5UTjdnQ2g0bUltN3VzQmRXN1hzb21iR3ZFRlRIR1FEdndNdHJoV1pIN0daSnJvVWMwbWtxME9hWVhRdnpoZDJ5Mk5wcXZPTG5DdE1oWGtacldZQjlUWmpZQ3pZaVhQaHBTeUJud3QzYW1ZQXdkdS0yRnpfZ0xlRGl0M1JJSHZtcFdNYlAxZkhKcVBQVUUtdDA?oc=5",
+    "title": "Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTFGNndTSEMzZjkzNllLbmphX1V6V1V4bVEzOTM5UUhFSmJLY2gyU0I5VTFMamhyZGIyOGUxQWV2V0ZadkFock5ISEtkbUx5STltM1laejJxZEFBZ1J3dVRhMXlNS1FERVZJMGlGS3lvTlJRMkJqZUsyQ2FpVTlHdUVzQ2NGLVdfRVJNdGZXRHVXcldkQXZHTWs1V2Fac3BscDJkYWZpWWZqMEtUVHhGTllnVGxoRGp4TXZSX1p2Y0c?oc=5",
     "source": "Reuters",
-    "published_at": "2026-05-05T16:16:29+00:00",
-    "summary": "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say Reuters",
+    "published_at": "2026-05-05T21:54:15+00:00",
+    "summary": "Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports Reuters",
     "category": "tech",
-    "score": 7.929
+    "score": 6.746
   },
   "items": [
     {
-      "title": "Anthropic Releases New AI Agents for Financial Services Firms",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1VJOGdFSmZtNUJCc09BSGJncEdzRVRpbmN1RU1sNThZYUEzSDk2MHVfMjJoQnY1U0NLa1dMTEY0NXFiRko1bWg2Z3F1VWFoWWZjQTRfbVd3WkZzRVFyMWxVOFNMWW1qdmRRRHFfUTgya01wNDB0aGc3V25xRTJWOG1ldkdRTFhuYy1RYkFkSkFCdl9uOV9UMXZiUk9hdVk?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-05-05T17:23:00+00:00",
-      "summary": "Anthropic Releases New AI Agents for Financial Services Firms WSJ",
+      "title": "Apple to pay $250m to iPhone buyers over AI features lawsuit",
+      "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-05-06T00:15:14+00:00",
+      "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
       "category": "tech",
-      "score": 6.74
+      "score": 5.604
     },
     {
-      "title": "NASA Research Shows Early Life Relied on Rare Metal",
-      "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/",
-      "source": "NASA",
-      "published_at": "2026-05-05T16:34:49+00:00",
-      "summary": "NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time. The study, published in Nature Communications on Tuesday, is the first to show that molybdenum was used b",
-      "category": "science",
-      "score": 4.966
+      "title": "Wall Street rallies to records after oil prices ease and corporate profits keep topping expectations",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEd0NzBZZEVzZGZscGJ5R01lMnlkMEJqa05vRWYzdlV2LVJNQ3IteHZxbmlHekMyZDRlZjdNN0pBd0gzbk9SREYyUE1HdldEQlBpbnZkVW8zWi00dGtpUnoxR09mQ2ZzVWtjYU5kZzB1YVlXVVNSMzRTam1hRFFhYnFCeXJVNE1ja3BlSGM2LUpoY1k?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-05T21:50:00+00:00",
+      "summary": "Wall Street rallies to records after oil prices ease and corporate profits keep topping expectations AP News",
+      "category": "finance",
+      "score": 5.427
     },
     {
-      "title": "France convenes G7 on critical minerals to curb China's grip",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWFuQkVhNkItRUNBQ2lKT2FCaFc2NlE4ZENBSU5uUnpiWllTSWdhcWktZE90TXV4SWxscTd1TFVVWHRMVUFINGFmMEVLVmliYURTbWhkMTdlSHlKekdOR21zT3h0M3BsSDNTZzM5bG5UUFhpNFlOalNzRzFCOFdBdU9Ybm00bG16X3QzS1pXMHIxODFjOU55WFBvV1JQR3EtUHRiWFF2eGo?oc=5",
+      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-06T00:48:00+00:00",
+      "summary": "\"Project Freedom\", which began less than 48 hours ago, will be halted because progress has been made toward a deal with Iran, the US president says.",
+      "category": "politics",
+      "score": 5.002
+    },
+    {
+      "title": "S&P 500 and Nasdaq notch records as AI chip stocks surge",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXJmbTJ1QXlUbzNTS1ZhOXF6RHZmZjJGekJSRzZHRWRYQ05FSmEzMnlCaHJpbG0zSVB5WGRTNzUyYWtzY0JtSVNkRWdpWVo0Z2VrM1JLSW02UzRLWXQwaEhoMWgzYnNLdkhRdktMbGJlRnFxY2s5SzNDYkF3Y3ExVWdHTjJuMy1qT200WVo1WmxlT2hnYXJPWmpPTTlXWXhPTnI3N0dn?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-05T14:21:58+00:00",
-      "summary": "France convenes G7 on critical minerals to curb China's grip Reuters",
-      "category": "resources",
-      "score": 4.577
-    },
-    {
-      "title": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-05T16:50:32+00:00",
-      "summary": "Ukraine strikes multiple sites in Moscow, following Russia’s strikes on a Ukrainian gas production facility.",
-      "category": "conflicts",
-      "score": 4.492
+      "published_at": "2026-05-05T22:29:12+00:00",
+      "summary": "S&P 500 and Nasdaq notch records as AI chip stocks surge Reuters",
+      "category": "finance",
+      "score": 4.499
     }
   ],
   "hero_history": [
+    "Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",
     "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say",
     "Romania's pro-EU coalition government collapses after prime minister loses no-confidence vote",
     "OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman",
     "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
     "Gold Terra to Present at the Precious Metals & Critical Minerals Virtual Investor Conference May 6, 2026",
     "Japan and Australia agree to deepen cooperation on energy, defense and critical minerals",
-    "Iran war",
-    "UK set to enter talks to join the European Union's $105.9 billion Ukraine loan"
+    "Iran war"
   ]
 }

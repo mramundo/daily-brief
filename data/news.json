@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-06T07:13:16.262145+00:00",
+  "updated": "2026-05-06T12:56:45.188713+00:00",
   "hero": {
-    "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
-    "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Tech",
-    "published_at": "2026-05-06T07:10:16+00:00",
-    "summary": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
-    "category": "tech",
-    "score": 5.933
+    "title": "Massive Alaska megatsunami was second largest ever recorded",
+    "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "published_at": "2026-05-06T12:00:25+00:00",
+    "summary": "A new scientific analysis of the event shows tiny earthquakes triggered a massive landslide.",
+    "category": "science",
+    "score": 6.297
   },
   "items": [
     {
-      "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-      "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "published_at": "2026-05-06T00:15:14+00:00",
-      "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
-      "category": "tech",
-      "score": 4.342
-    },
-    {
-      "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
-      "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-06T04:55:02+00:00",
-      "summary": "Iran's foreign minister meets his Chinese counterpart one week before President Donald Trump's visit to Beijing.",
-      "category": "politics",
-      "score": 3.874
-    },
-    {
-      "title": "Watch: BBC traces how huge wave of Israeli strikes brought chaos to Lebanon",
-      "url": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-06T06:39:27+00:00",
-      "summary": "The BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s recent history.",
-      "category": "conflicts",
-      "score": 3.864
-    },
-    {
-      "title": "Zelenskyy slams Russia's ‘utter cynicism’ as strikes kill 22 in Ukraine before announced ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdG1Gb0k2YXJQWkVrOFI5Z0szbHBZTm50dTEwWlB4VWcxSmlvbklhcjJNMkJibS1xTktlTW9yYnVpbG9QUnZCcTRMbk9RN3p1NHlHek02dVFmWWhWemNmN2NiN3hVS3lwcWVwOXNLbE5QcHNDSWl0bkROU1JQSjE2REpLcjdCODB6YllMUmNCNDUxY0lTTkhxZ2FoMUt4TDUxcHVyRA?oc=5",
+      "title": "China’s top envoy calls for a ‘comprehensive ceasefire’ in the Iran war",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXpOYTBfMDBEV2NQWUZwcmI1TEJJR21DNHVsTTNnQm41MC1MZ0ZSWUh2cFYwOTBkRmhrcUluQTRLWnMtYTdPWXFHUXZQWExIZFktRnZGVkZERTVTRTFtdDRCQnhTeVhFUzNnSWlxbzI3dHY1MG1hMUZmZDdHVjVwbXpJU0VpZVhzZUo1UzJMRV9HTDlQeEN3QVlhUQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-05-06T00:38:00+00:00",
-      "summary": "Zelenskyy slams Russia's ‘utter cynicism’ as strikes kill 22 in Ukraine before announced ceasefire AP News",
+      "published_at": "2026-05-06T09:55:00+00:00",
+      "summary": "China’s top envoy calls for a ‘comprehensive ceasefire’ in the Iran war AP News",
       "category": "conflicts",
-      "score": 3.813
+      "score": 5.823
+    },
+    {
+      "title": "Wall Street soars, oil plunges as China calls for comprehensive ceasefire in Iran-US war",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHJjc0lpTWZJdWdIZGNBV1N6aFhxT3V1Zm0zQlRCT2ZzajIzeDdvbXZkZVEtSFRKaVNIVjREVHlmLWNmQUpkbW12blBuRTdGWjVVOFlLWVRRNVZ2dC1VRVRPLVNTWEVhV1V3cjE2RXdoeHJHMmtyZ2dSbUNSNjVxVGNlVm1XTG80N0NPeFBNVTk5MEdnLUE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-06T11:50:00+00:00",
+      "summary": "Wall Street soars, oil plunges as China calls for comprehensive ceasefire in Iran-US war AP News",
+      "category": "conflicts",
+      "score": 5.786
+    },
+    {
+      "title": "Webb & Hubble find massive star clusters emerge faster",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster",
+      "source": "ESA",
+      "published_at": "2026-05-06T10:00:00+00:00",
+      "summary": "Astronomers using the NASA/ESA/CSA James Webb Space Telescope together with the NASA/ESA Hubble Space Telescope have looked deeply at thousands of young star clusters in four nearby galaxies, studying clusters at different stages of evolution. Their findings show that more massiv",
+      "category": "science",
+      "score": 5.249
+    },
+    {
+      "title": "Aurum Resources Limited to Present at the Precious Metals & Critical Minerals Virtual Investor Conference Wednesday, May 6th",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQM3BNU0RMeUpwVW5zc0RxMEFjdko4MjF0cjcwdjFSdV9TbXQwSTJNU1ZZelZpNlJjOHdyVU9uMzlmdnpFcGN6TW91WF9yTExaNjl1TDgxcW04NjR0Y0EwZEZ5V0VUel9UV1o4dE9IV1hPS1gwQXgxX2lybzBybXNEOUtqdlUtVDU4Zlk5T1N6LWlsVmhQdDZkdkV4VGg1QlVoV1FPS3Q1eU9fV3pSSXlURzJ6bkxSeTRsSzlKNlVSQlhVTXhZYkNBSkJkWnhqaXd4RDFNWkdlR3gwRVRFY1lWZGZERWJpc05tX2E2YlVTT04wM3o3Y3pBRVZnUnN6elQwQm5FbnEySjB5RW1zVHlCWHRhNF8tUTFKbmxBcFlR?oc=5",
+      "source": "StreetInsider",
+      "published_at": "2026-05-06T12:40:58+00:00",
+      "summary": "Aurum Resources Limited to Present at the Precious Metals & Critical Minerals Virtual Investor Conference Wednesday, May 6th StreetInsider",
+      "category": "resources",
+      "score": 4.928
     }
   ],
   "hero_history": [
+    "Massive Alaska megatsunami was second largest ever recorded",
     "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
     "Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",
     "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say",
     "Romania's pro-EU coalition government collapses after prime minister loses no-confidence vote",
     "OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman",
     "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
-    "Gold Terra to Present at the Precious Metals & Critical Minerals Virtual Investor Conference May 6, 2026",
-    "Japan and Australia agree to deepen cooperation on energy, defense and critical minerals"
+    "Gold Terra to Present at the Precious Metals & Critical Minerals Virtual Investor Conference May 6, 2026"
   ]
 }

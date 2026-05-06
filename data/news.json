@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-06T01:06:01.874565+00:00",
+  "updated": "2026-05-06T07:13:16.262145+00:00",
   "hero": {
-    "title": "Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTFGNndTSEMzZjkzNllLbmphX1V6V1V4bVEzOTM5UUhFSmJLY2gyU0I5VTFMamhyZGIyOGUxQWV2V0ZadkFock5ISEtkbUx5STltM1laejJxZEFBZ1J3dVRhMXlNS1FERVZJMGlGS3lvTlJRMkJqZUsyQ2FpVTlHdUVzQ2NGLVdfRVJNdGZXRHVXcldkQXZHTWs1V2Fac3BscDJkYWZpWWZqMEtUVHhGTllnVGxoRGp4TXZSX1p2Y0c?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-05T21:54:15+00:00",
-    "summary": "Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports Reuters",
+    "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
+    "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Tech",
+    "published_at": "2026-05-06T07:10:16+00:00",
+    "summary": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
     "category": "tech",
-    "score": 6.746
+    "score": 5.933
   },
   "items": [
     {
-      "title": "Apple to pay $250m to iPhone buyers over AI features lawsuit",
+      "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
       "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
       "published_at": "2026-05-06T00:15:14+00:00",
       "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
       "category": "tech",
-      "score": 5.604
+      "score": 4.342
     },
     {
-      "title": "Wall Street rallies to records after oil prices ease and corporate profits keep topping expectations",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEd0NzBZZEVzZGZscGJ5R01lMnlkMEJqa05vRWYzdlV2LVJNQ3IteHZxbmlHekMyZDRlZjdNN0pBd0gzbk9SREYyUE1HdldEQlBpbnZkVW8zWi00dGtpUnoxR09mQ2ZzVWtjYU5kZzB1YVlXVVNSMzRTam1hRFFhYnFCeXJVNE1ja3BlSGM2LUpoY1k?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-05T21:50:00+00:00",
-      "summary": "Wall Street rallies to records after oil prices ease and corporate profits keep topping expectations AP News",
-      "category": "finance",
-      "score": 5.427
-    },
-    {
-      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-06T00:48:00+00:00",
-      "summary": "\"Project Freedom\", which began less than 48 hours ago, will be halted because progress has been made toward a deal with Iran, the US president says.",
+      "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+      "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-06T04:55:02+00:00",
+      "summary": "Iran's foreign minister meets his Chinese counterpart one week before President Donald Trump's visit to Beijing.",
       "category": "politics",
-      "score": 5.002
+      "score": 3.874
     },
     {
-      "title": "S&P 500 and Nasdaq notch records as AI chip stocks surge",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXJmbTJ1QXlUbzNTS1ZhOXF6RHZmZjJGekJSRzZHRWRYQ05FSmEzMnlCaHJpbG0zSVB5WGRTNzUyYWtzY0JtSVNkRWdpWVo0Z2VrM1JLSW02UzRLWXQwaEhoMWgzYnNLdkhRdktMbGJlRnFxY2s5SzNDYkF3Y3ExVWdHTjJuMy1qT200WVo1WmxlT2hnYXJPWmpPTTlXWXhPTnI3N0dn?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-05T22:29:12+00:00",
-      "summary": "S&P 500 and Nasdaq notch records as AI chip stocks surge Reuters",
-      "category": "finance",
-      "score": 4.499
+      "title": "Watch: BBC traces how huge wave of Israeli strikes brought chaos to Lebanon",
+      "url": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-06T06:39:27+00:00",
+      "summary": "The BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s recent history.",
+      "category": "conflicts",
+      "score": 3.864
+    },
+    {
+      "title": "Zelenskyy slams Russia's ‘utter cynicism’ as strikes kill 22 in Ukraine before announced ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdG1Gb0k2YXJQWkVrOFI5Z0szbHBZTm50dTEwWlB4VWcxSmlvbklhcjJNMkJibS1xTktlTW9yYnVpbG9QUnZCcTRMbk9RN3p1NHlHek02dVFmWWhWemNmN2NiN3hVS3lwcWVwOXNLbE5QcHNDSWl0bkROU1JQSjE2REpLcjdCODB6YllMUmNCNDUxY0lTTkhxZ2FoMUt4TDUxcHVyRA?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-06T00:38:00+00:00",
+      "summary": "Zelenskyy slams Russia's ‘utter cynicism’ as strikes kill 22 in Ukraine before announced ceasefire AP News",
+      "category": "conflicts",
+      "score": 3.813
     }
   ],
   "hero_history": [
+    "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
     "Anthropic commits to spending $200 billion on Google's cloud and chips, the Information reports",
     "OpenAI, Anthropic ventures in talks to buy AI services firms, sources say",
     "Romania's pro-EU coalition government collapses after prime minister loses no-confidence vote",
     "OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman",
     "NASA Welcomes Ireland as Newest Artemis Accords Signatory",
     "Gold Terra to Present at the Precious Metals & Critical Minerals Virtual Investor Conference May 6, 2026",
-    "Japan and Australia agree to deepen cooperation on energy, defense and critical minerals",
-    "Iran war"
+    "Japan and Australia agree to deepen cooperation on energy, defense and critical minerals"
   ]
 }

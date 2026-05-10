@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-10T07:11:47.559013+00:00",
+  "updated": "2026-05-10T12:36:34.506789+00:00",
   "hero": {
-    "title": "Twelve Pakistani policemen killed in car bombing",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWF2WnFuT21VdVpHTjlUOFRHWDRfMGp3TWJnYi1XTVFya2FuVUNFSkVPUUJuMzdLckhpX0NWUkVwRGNPTE1kSE9WNjdvTGhVVDRJbTI4eC00akF2R1BtUTJkZ2Z5STk0dVEzdjN1MlB6elZPT2VHS04zbWNEdDZYMXV5ZVdpRFViOE1CbGZUVEw0RW50S21aNHMtZ3lBZ1FwSVE?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-10T04:37:00+00:00",
-    "summary": "Twelve Pakistani policemen killed in car bombing Reuters",
+    "title": "Israel deports two activists detained on board Gaza flotilla",
+    "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-05-10T11:55:09+00:00",
+    "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
     "category": "conflicts",
-    "score": 4.944
+    "score": 7.635
   },
   "items": [
     {
-      "title": "Claude down: Anthropic AI users hit by ‘errors’ as chatbot not working properly",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56WVhrbEQySTYtZHU4eWxUZXNKeW1xZ1QySFVFaURfNHktZjZHN1BSWjBjc3Vvb2JpeGRVVHdBcTY2SVhGSk1JMF9PaEJHbjdERDdlNXRyUnRiNWxBRE1RT1V3Rk1fdGtvUl9LaXh3Y0J1YTg?oc=5",
-      "source": "AOL.com",
-      "published_at": "2026-05-10T04:00:25+00:00",
-      "summary": "Claude down: Anthropic AI users hit by ‘errors’ as chatbot not working properly AOL.com",
+      "title": "Prediction: Nvidia Will Outperform Alphabet and Amazon Combined Over the Next 3 Years",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlI2WUxFazdsLTF0SHMwVEJiZml4NkVVRW5yaE9hVjUzS0VRN3pZOEN1SlBKMGh0d1pTZTFkMnhlbG1pVVdOLUt4ZWR3azNHNGZnWVdLZ1BxVkhoV1FMdkRIdm0yREwyMFJabTktUGFEZWtyOWpjVXFHMmx2alhrdEhGUzJDcHJuTkZQT0hoZUVuM3ZQT3RkUg?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-05-10T10:38:00+00:00",
+      "summary": "Prediction: Nvidia Will Outperform Alphabet and Amazon Combined Over the Next 3 Years The Motley Fool",
       "category": "tech",
-      "score": 4.724
+      "score": 4.969
     },
     {
-      "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
-      "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-10T04:17:38+00:00",
-      "summary": "Russian president also says he is willing to meet Zelenskyy in a third country if a long-term peace deal is reached.",
-      "category": "conflicts",
-      "score": 4.683
+      "title": "$200 'socketed' Nvidia AI GPU for servers hacked into a PCIe card with custom PCB and 3D-printed cooling — modded Tesla V100 SMX data center GPU runs AI LLMs and is more efficient than many modern midrange offerings in AI inference",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZW5NZE9rUFRrRFJzbHNMTnVIUFgwUXVHeG40ZmJqcVFScV8zSXlvWEEwdWJ2RlNSNWY3ZzdUai02TVZlVXlNZHBIMjROYm9DLTVtdHVZSjhma1NzcDRSbnJIMWZWQ3R6RktfVVZxMndhLTFJQWVaSUgwWE9oaUczUXlxVVl6cE12ejNUcWJEMTM3WWtxS0hhanRxU191MTJSOGVGbGE3czFQY0s3X1VnM2Z4aUwzQXhBbzFmdFU4ZGJCLUZ6WTVpR1RoYkU2RWFEZUI2M0UtM0xsa2VBTFlhUU5meUdZV3NTTmN1M3ZmZ3BCSDRrY2FwUThxcEJJNmp6TFF3Z3loUHlkbnhZTFdJN2RRSWNXNEhNekhEVk9VMTBpSXhYUXI1dGtFVk5CRl9ic0pORTR2VWZXeHhFZkdRNURZcE41NU1TaFBsT25CTEg4YWhFODhvR0xjNW9WdUcxLVJVVlBPNVNmRVNzdVJlcGw1U2hXeE1TcGxWQ2dpLVFibC1pR0gwclFUSQ?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-05-10T10:50:00+00:00",
+      "summary": "$200 'socketed' Nvidia AI GPU for servers hacked into a PCIe card with custom PCB and 3D-printed cooling — modded Tesla V100 SMX data center GPU runs AI LLMs and is more efficient than many modern midrange offerings in AI inference Tom's Hardware",
+      "category": "tech",
+      "score": 4.659
     },
     {
-      "title": "Magyar sworn in as Hungary's prime minister on promises of change",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnlWRGctZnNnS1dTNTlWY0JZZGdkcE8tS3Fic3dGaENfNTNQYXpDN01GUFFrWUxxUWZHT3NFZ05JTmpKWlJsb1FmNjlLTG8zYUw2MUg4ek5VUTBOV1BFLUFkSURHMC1FLUROMUR0MVdUQ05zY1R6R1hwQXlMeXRBbGs2dngtdTlENFEtLWs3YkJqSzg0RlUxUktn?oc=5",
+      "title": "Russia says Ukraine violates ceasefire by launching drones and artillery attacks, Ifax reports",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVm1iWEZYX0dseGszXzV1TjBWanBZWm1KTUF3R0VmYXh0ZUhkSHRyQ05CUmlHLVdwTHhXdG9nSVlLdC12bm92NmlUd0RBU3hqNTdIdEUxR3hQNlVSQ2ljTHk4RDFQOG5tZ3d3REQ3VXdUSVRDWkpIZG05SmxqRWkwY194b3p6TU4xdURLOVRMa3ZjM1RzTDBCMktkdWhEd3dySmJOSWVOQlN6enZQb01iZ0JuSVRVd3MtajRrU0hCd0o1NGNaQWdzNm9HQnhNT3NYUFhoMU9R?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-09T21:12:14+00:00",
-      "summary": "Magyar sworn in as Hungary's prime minister on promises of change Reuters",
-      "category": "politics",
-      "score": 4.513
+      "published_at": "2026-05-10T09:37:22+00:00",
+      "summary": "Russia says Ukraine violates ceasefire by launching drones and artillery attacks, Ifax reports Reuters",
+      "category": "conflicts",
+      "score": 4.43
     },
     {
-      "title": "Award for scientist who brought space to millions",
-      "url": "https://www.bbc.com/news/articles/cx2181jew0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-05-10T06:27:25+00:00",
-      "summary": "James O'Donoghue, from the University of Reading, is awarded the 2026 Carl Sagan medal.",
-      "category": "science",
-      "score": 3.836
+      "title": "Indian o/n rates at 7-yr low, bond yields fall",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUJwRmZUWXhIdkdNdGVxMDV1bzBHSlZmTy1Kb2hnU2l4M2RELTRkTDBMbUtZeEJHRzllT0R2akJqNnJNd2RNVEtTZU01TFBaZ3JmMEhRN0t4UFJpRUhlYkZFNlJTZUdFdE13bXM3c2FXTElIb3Y1V0pMb2F2aXU1SXFFRlhyVHg4WklYeTgtZjhqbmVBaGh0dnpTUGN4OTQ3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-10T08:34:47+00:00",
+      "summary": "Indian o/n rates at 7-yr low, bond yields fall Reuters",
+      "category": "finance",
+      "score": 4.241
     }
   ],
   "hero_history": [
+    "Israel deports two activists detained on board Gaza flotilla",
     "Twelve Pakistani policemen killed in car bombing",
     "Putin says he thinks Ukraine conflict 'coming to an end'",
     "Magyar sworn in as Hungary's prime minister on promises of change",
     "Magyar to succeed Orban as Hungary's new prime minister",
     "Trump announces three-day ceasefire between Ukraine and Russia",
     "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports",
-    "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap",
-    "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand"
+    "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap"
   ]
 }

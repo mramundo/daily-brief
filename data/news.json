@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-10T18:36:52.850895+00:00",
+  "updated": "2026-05-11T01:16:15.965225+00:00",
   "hero": {
-    "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-05-10T13:52:07+00:00",
-    "summary": "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’",
-    "category": "conflicts",
-    "score": 6.144
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "source": "TechCrunch",
+    "published_at": "2026-05-10T20:40:41+00:00",
+    "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "category": "tech",
+    "score": 6.383
   },
   "items": [
     {
       "title": "Rare earths deal between US and China is still in effect, US official says",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3ZuLW9xbmNscWF6VTVsS084a1o0dDJNb3B3ZjJ5U1NFYll6MWRlUTBEdm9FRVVnVzdoN1l2UDlaMUNvWWdxV1FWeXZlVnV3Z0RUdWF2OFZUczgxaThFYXJNZ1pBR1UydGRreXNwaFQ0RjZxcS1WSWlVNU40cHFIX2NrVzdBUlhCZkh3ZExDU3Z3VnM2S2s4dl9UWnRRLTZXbHQ0OU9VWFdTTndZV3RHTTI5Z3Y?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-10T18:27:44+00:00",
-      "summary": "Rare earths deal between US and China is still in effect, US official says Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEFjMUptYXJrdVp0OXhsN2FHdXVQdVpnRnJ4cjBKNmdBUWNOZXlCYVI2cmxTbzNOYWRDaHJvOXpGd24tc3JSX29qUmVpeHhpQWNocFRhTXdYcEIyRHlLcE1jb0pfSFkyUXVCeGFTVjhVT2V6Z3VTU3VoanQyOUtVREhxZ1NnWE1vN21Mb1hhT2tpbDVMSkt6YzFHMlFLY04yeHg5bzFwUU4xQzFDMVd3UmVCVjVVZG0xUEJRd25BQQ?oc=5",
+      "source": "The Straits Times",
+      "published_at": "2026-05-10T18:46:30+00:00",
+      "summary": "Rare earths deal between US and China is still in effect, US official says The Straits Times",
       "category": "resources",
-      "score": 5.47
+      "score": 5.203
     },
     {
-      "title": "Microsoft’s African Data Center Falters on Payment Demands",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGpwTVZsRXBhLXc4alA0eEFFQ0YwRG5wUWViZG53ekh4SWlyRUR4UXU2Wm1LT2pJdEFjMTJVTTExY3REdGZNLUtsWkZ6ZVdQNmw1REE0RHlkdFVRSnJmOEdhWXZneksxM1cwRGRmalBzcGFjS0VvaVN0TFpJN1IzLTZoQmlBRUxjUHE0UnM3N0NadXFGTC16RXVfR3U2X2NmNFhoNlJTNzJEb1Bvb0E?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-05-10T13:05:48+00:00",
-      "summary": "Microsoft’s African Data Center Falters on Payment Demands Bloomberg",
-      "category": "tech",
-      "score": 4.987
+      "title": "Saudi oil giant Aramco sees 25% jump in Q1 profit after shifting exports from Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMV9WX0dXOXhCNTVHZ25oaU5LQTMzNVZrZWdZMFdPQjd2OXRIc3JHeVRXOG5DREtKM1Z6c1FYVUo1UHRUVkZBYWpmUmFYMUhabVlHWmRXUHFDZWFQQ2Y0TF9QUUdZeXBaTWhZajRGbVRLMWFrdmNuVkpJWE5Nc2lPdV82d1lzWmNCb3RiMA?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-11T00:12:00+00:00",
+      "summary": "Saudi oil giant Aramco sees 25% jump in Q1 profit after shifting exports from Strait of Hormuz AP News",
+      "category": "resources",
+      "score": 4.248
     },
     {
-      "title": "AI Wins Have Alphabet Poised to Become World’s Biggest Company",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWk2b1VzOXM2SVR2dWwwOC1uMEhmSGVIVmhIY1pHR2pieC1EMWpMT3RMQUJ0Ny1oUnpkMkM0SG1wN25wSHJDZU4zUzVqR081Z29wbzNWZHUwRVlPSkt5MWRVVEFoRmMxV2JhMmNndk9hbzJuRjR1RnI2RVdxbWNEdXF3cmtTdzFzeWdPeVhqR1hLekxldzFQamJMTzgyUEVqbWd6aEZ2UGtVdC15NlVENkZzSQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-05-10T13:00:07+00:00",
-      "summary": "AI Wins Have Alphabet Poised to Become World’s Biggest Company Bloomberg",
-      "category": "tech",
-      "score": 4.967
-    },
-    {
-      "title": "Ukraine, Russia trade accusations of violating US-backed ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEhLekc5Q0owa2N5UzNzd01WaUluenEybHZTakdPN1IzX3pFRW13RjVoS1l4eFZMTTE5aWFoVzI0MnNFdm9BRHZlbkhMeEtmTV9RQmpyVGljY0x0by1DTlBPRHh6dzladzZZdEcyTkswakhIRGZ5Vlg3THJCNGVsby1MMzVNQUJJWTNuYXJFeGhKcURfMEFmZXBmMXZyVm9UQVp3bE1LS21OdHYxY3J6cFhsX1RfOGs?oc=5",
+      "title": "India's most active bond yield drops after buyback",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkZvQVZHdkhrOHpCTnN5dWFqWmVycml5UjdUT3FvelNDYk9yU2xzeHB4OGJCV01WbTBwNjFTREEwRnBBM0k5bmlkRlJMQ0ZsZXg0QzFYX3FRb1VYV0NWLVN4RVJlcHBGdXIySzg0S29CTWViVWh3M091RHZ3Zk85eDlFbTlSUkRWUGpKNjdpcUxVVTlZZzY0NTlCV2h1RElhZTRjOTRYMWg?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-10T17:32:54+00:00",
-      "summary": "Ukraine, Russia trade accusations of violating US-backed ceasefire Reuters",
+      "published_at": "2026-05-11T00:01:04+00:00",
+      "summary": "India's most active bond yield drops after buyback Reuters",
+      "category": "finance",
+      "score": 4.081
+    },
+    {
+      "title": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-11T00:00:00+00:00",
+      "summary": "US president says Tehran's response 'unacceptable', as Iranian military warns it is ready if US-Israel war resumes.",
       "category": "conflicts",
-      "score": 4.799
+      "score": 4.044
     }
   ],
   "hero_history": [
+    "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
     "Stories of those killed in a single day of Israeli strikes on Lebanon",
     "Israel deports two activists detained on board Gaza flotilla",
     "Twelve Pakistani policemen killed in car bombing",
     "Putin says he thinks Ukraine conflict 'coming to an end'",
     "Magyar sworn in as Hungary's prime minister on promises of change",
     "Magyar to succeed Orban as Hungary's new prime minister",
-    "Trump announces three-day ceasefire between Ukraine and Russia",
-    "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports"
+    "Trump announces three-day ceasefire between Ukraine and Russia"
   ]
 }

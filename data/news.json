@@ -1,13 +1,13 @@
 {
-  "updated": "2026-05-11T18:56:39.354352+00:00",
+  "updated": "2026-05-12T01:09:14.421722+00:00",
   "hero": {
-    "title": "Trump says Iran ceasefire is on 'massive life support'",
-    "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+    "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
+    "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
-    "published_at": "2026-05-11T18:17:34+00:00",
-    "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-    "category": "conflicts",
-    "score": 9.145
+    "published_at": "2026-05-11T19:37:17+00:00",
+    "summary": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
+    "category": "politics",
+    "score": 7.983
   },
   "items": [
     {
@@ -17,16 +17,25 @@
       "published_at": "2026-05-11T17:31:37+00:00",
       "summary": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet Reuters",
       "category": "tech",
-      "score": 8.303
+      "score": 6.41
     },
     {
-      "title": "OPEC oil output hits new low in April on Hormuz export disruption, Reuters survey finds",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFkyWS1GOUpEZ2ZONlZDWXJJVjV0QWg4N1hzYU5Vc1oxQld5dnRQeWlOY0hTS0pvQkFnQldPN3FBM3VsN1hfTGttM3g5WU1YbFY4bXhWbGFCRGxMYThQZDgwTG9oWXBlRmRBa1RNb1BkRWZCX3FVMldPbHkwTmtmcTVPNml0N1VpVG4zUFExaHlnT1JIZVo1WmVsbHItMU9WcnlnUzdtVS1KSHV2dThrb1hCTFNnd2taVmNsMzNJaGk0ci1iQTlzVllVbHM?oc=5",
+      "title": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejRjVEZaWTlmSWZJQkRSWDhNYkFqNm51UXNxTmNsVjFueEhEeTUwZUpvYkpPYjZLMGR5NGVYblpuZFo1cmJsLTNkVXk4OVFpdmwzS005N0hLWDRuNy1OcXhSVkFHT1FxcXBFa09GV2VqaGkxM3hPb2ltak1YU05jdVc3S2dUOGhMZGRiWHJFcnlGS2FCeEotQ0dPYWpPb2JneFpVSlhtZ181TmdZTEhEUEduU1BtWEs5X1B3?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-11T14:03:44+00:00",
-      "summary": "OPEC oil output hits new low in April on Hormuz export disruption, Reuters survey finds Reuters",
-      "category": "resources",
-      "score": 6.969
+      "published_at": "2026-05-11T21:48:09+00:00",
+      "summary": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty Reuters",
+      "category": "tech",
+      "score": 5.745
+    },
+    {
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-12T00:59:12+00:00",
+      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "category": "conflicts",
+      "score": 5.491
     },
     {
       "title": "Washington dinner shooting suspect pleads not guilty",
@@ -35,26 +44,17 @@
       "published_at": "2026-05-11T14:52:12+00:00",
       "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
       "category": "politics",
-      "score": 6.631
-    },
-    {
-      "title": "Family of Florida mass shooting victim sues OpenAI in US court",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYklVTzNFUUxyTTdLYzh4ZmgwWHRSRUtnN0x1c2tqdS00M00wSC1hbDNxRm5YeENXNFEzY1I4YlVrQVNlWlhEVGJSVjR1ZGtRZzE0YTBpeG8zYXExS0NnQkN6MWxoNTJrcm5aUWU1WGF5N2QyQjhrV0c5UGFCQ2VqaVM5aGM3cDBZQlQwQVlrdFBTeFp1TDBidnBHYjg5NVd1bkItbFdyRHBrTWpKcUE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-11T18:01:44+00:00",
-      "summary": "Family of Florida mass shooting victim sues OpenAI in US court Reuters",
-      "category": "tech",
-      "score": 6.359
+      "score": 5.12
     }
   ],
   "hero_history": [
+    "EU agrees sanctions on Israeli settlers over West Bank violence",
     "Trump says Iran ceasefire is on 'massive life support'",
     "EU Commission in talks with OpenAI and Anthropic over AI models",
     "Iran war",
     "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
     "Stories of those killed in a single day of Israeli strikes on Lebanon",
     "Israel deports two activists detained on board Gaza flotilla",
-    "Twelve Pakistani policemen killed in car bombing",
-    "Putin says he thinks Ukraine conflict 'coming to an end'"
+    "Twelve Pakistani policemen killed in car bombing"
   ]
 }

@@ -1,15 +1,24 @@
 {
-  "updated": "2026-05-12T01:09:14.421722+00:00",
+  "updated": "2026-05-12T07:17:12.884599+00:00",
   "hero": {
-    "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
-    "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-05-11T19:37:17+00:00",
-    "summary": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
-    "category": "politics",
-    "score": 7.983
+    "title": "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblVmbDNUMWl1TnJGZ1lvSlBUWkZPOGswWWk2MGxGczB0TVMwZVliUGpicUp5M0dKUTg1cEFBblQtZ3lfc0ZXZDUwTy1KcERsLUxHWTRPYnJ4bElJWG8ta3J2X1ZVTkg1am9jN3ZvNkJncFFzQXhvWV9ScnFsbFA4S3doU0d3Y0pIUE5nNEVtVm91eTQ0MDdCVE1ybTY5WmZEUnBTeVBDRG9GWjZSNC1IRTRYTVY?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-12T02:12:36+00:00",
+    "summary": "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports Reuters",
+    "category": "tech",
+    "score": 6.238
   },
   "items": [
+    {
+      "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-12T04:11:42+00:00",
+      "summary": "Israel passes a law that permits the death penalty and public trials for those involved in the unprecedented Hamas-led attacks.",
+      "category": "conflicts",
+      "score": 5.343
+    },
     {
       "title": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5",
@@ -17,16 +26,16 @@
       "published_at": "2026-05-11T17:31:37+00:00",
       "summary": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet Reuters",
       "category": "tech",
-      "score": 6.41
+      "score": 4.965
     },
     {
-      "title": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejRjVEZaWTlmSWZJQkRSWDhNYkFqNm51UXNxTmNsVjFueEhEeTUwZUpvYkpPYjZLMGR5NGVYblpuZFo1cmJsLTNkVXk4OVFpdmwzS005N0hLWDRuNy1OcXhSVkFHT1FxcXBFa09GV2VqaGkxM3hPb2ltak1YU05jdVc3S2dUOGhMZGRiWHJFcnlGS2FCeEotQ0dPYWpPb2JneFpVSlhtZ181TmdZTEhEUEduU1BtWEs5X1B3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-11T21:48:09+00:00",
-      "summary": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty Reuters",
-      "category": "tech",
-      "score": 5.745
+      "title": "EU sanctions Russian officials over abduction of thousands of Ukrainian children",
+      "url": "https://www.france24.com/en/europe/20260512-eu-sanctions-russian-officials-over-deportation-of-ukrainian-children",
+      "source": "© Omar Havana, AP",
+      "published_at": "2026-05-12T03:09:41+00:00",
+      "summary": "The European Union on Monday imposed sanctions on more than a dozen Russian officials suspected of helping Moscow to abduct thousands of children from Ukraine.",
+      "category": "politics",
+      "score": 4.543
     },
     {
       "title": "Trump says Iran ceasefire is on 'massive life support'",
@@ -35,26 +44,17 @@
       "published_at": "2026-05-12T00:59:12+00:00",
       "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
       "category": "conflicts",
-      "score": 5.491
-    },
-    {
-      "title": "Washington dinner shooting suspect pleads not guilty",
-      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-11T14:52:12+00:00",
-      "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
-      "category": "politics",
-      "score": 5.12
+      "score": 4.428
     }
   ],
   "hero_history": [
+    "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",
     "EU agrees sanctions on Israeli settlers over West Bank violence",
     "Trump says Iran ceasefire is on 'massive life support'",
     "EU Commission in talks with OpenAI and Anthropic over AI models",
     "Iran war",
     "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
     "Stories of those killed in a single day of Israeli strikes on Lebanon",
-    "Israel deports two activists detained on board Gaza flotilla",
-    "Twelve Pakistani policemen killed in car bombing"
+    "Israel deports two activists detained on board Gaza flotilla"
   ]
 }

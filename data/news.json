@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-12T07:17:12.884599+00:00",
+  "updated": "2026-05-12T12:59:19.136480+00:00",
   "hero": {
-    "title": "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblVmbDNUMWl1TnJGZ1lvSlBUWkZPOGswWWk2MGxGczB0TVMwZVliUGpicUp5M0dKUTg1cEFBblQtZ3lfc0ZXZDUwTy1KcERsLUxHWTRPYnJ4bElJWG8ta3J2X1ZVTkg1am9jN3ZvNkJncFFzQXhvWV9ScnFsbFA4S3doU0d3Y0pIUE5nNEVtVm91eTQ0MDdCVE1ybTY5WmZEUnBTeVBDRG9GWjZSNC1IRTRYTVY?oc=5",
+    "title": "OpenAI gives European companies access to its latest models to bolster resilience",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ1haZU5WMkFTcXJ2QW5iS24ydEZMYkNMN3owRmE0UVRkQWpoWW53b1JlbXVGdTdSOWt2bjhQcFpDNGlNOER5NElsSmE1bGlzandNcEpmcmlZUWJRa3lEZFBwX1l3MDR5cWJYNF9EbWhuc2FsVmF6N2xlbG4xSC0wQ0R3eXBaVFRWbHVRRWZyOV9YdUE0Uml2ZHUxSGZ2d3QwdnYwQ2s1RnZ3LVN0Qk8xaXRWanNEendGQ1Z0akFKUjNYZVdNM2s3WTVWZmlPV2N4UkNOVUtlWUtyZ1RPQnAwOEZDanNrUQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-05-12T02:12:36+00:00",
-    "summary": "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports Reuters",
+    "published_at": "2026-05-12T11:34:58+00:00",
+    "summary": "OpenAI gives European companies access to its latest models to bolster resilience Reuters",
     "category": "tech",
-    "score": 6.238
+    "score": 6.23
   },
   "items": [
     {
-      "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
-      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-12T04:11:42+00:00",
-      "summary": "Israel passes a law that permits the death penalty and public trials for those involved in the unprecedented Hamas-led attacks.",
-      "category": "conflicts",
-      "score": 5.343
-    },
-    {
-      "title": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmMycEVRUGxZV2VUU05oZ0JzMC14Q0JnS2lCZkg1Z1BJSEwzRW52OXVBcFJRdzJLSEYzWGpyQlk5X2x2TC1IalZTdGctLW9RNDdQeHdURG5meFRSU3B3TmVaYTBRTEFuVDlHS3NUMzNiczBSWFlMYmxnYUxiZWJnTF9TZXpOSkZPamZ2bEtsMHN0T3dfdDB4XzQycy1qNmkyd3JfNjVfRl9OVm40U1BDQlp4RGtwVmp2R3o0cloyTzN3OXB6ZHFVdEZRTGk?oc=5",
+      "title": "India, Russia in advanced talks on critical minerals pact, sources say",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHVseXZxTGNCZ1BPblIzcklYWE1ZNFBqWFg2djBWNnhfRTZPZzNuT3dSTlB6Q1oycDkzQmRmazJNNjRWVDJ0TVlMSDdHUEZxY1lqcVYxQVEzTHdPSE9HeW53Ym8tQmVHbm9JM1I5WmJGQmlIc0NNYlltcGl1Q3kxN0lvakRuTG12cDIxY01yOGlfRXNJNWZNa3pPUm5kUGRWdkY2VlNIdXlFblNwNzBr?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-11T17:31:37+00:00",
-      "summary": "EU says OpenAI offers to open access to cybersecurity model, Anthropic not there yet Reuters",
+      "published_at": "2026-05-12T09:31:33+00:00",
+      "summary": "India, Russia in advanced talks on critical minerals pact, sources say Reuters",
+      "category": "resources",
+      "score": 6.162
+    },
+    {
+      "title": "OpenAI chief Altman to take stand in OpenAI-Musk trial on Tuesday",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWlDX29DYm9TTEdFcTFmSUYxbEd2eFlxd2FPSHg3NmRHS1lERlVFOERPWTBmM3FVRzM3V2pxUkk1UmNxQmRoY1FUaEczbnJFY1ctUllsNmF6a1dxSDFGUmVqS09wNld3M1Z6Z1J2X0xWRlo4RVJSSkhyY0E0SkpsX1VISzA3aDlDaDlUa1NjMGNiSkVUbHdfd093M25aNVB4enBsaVNrcGNvMFBuWGc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-12T10:41:55+00:00",
+      "summary": "OpenAI chief Altman to take stand in OpenAI-Musk trial on Tuesday Reuters",
       "category": "tech",
-      "score": 4.965
+      "score": 6.005
     },
     {
-      "title": "EU sanctions Russian officials over abduction of thousands of Ukrainian children",
-      "url": "https://www.france24.com/en/europe/20260512-eu-sanctions-russian-officials-over-deportation-of-ukrainian-children",
-      "source": "© Omar Havana, AP",
-      "published_at": "2026-05-12T03:09:41+00:00",
-      "summary": "The European Union on Monday imposed sanctions on more than a dozen Russian officials suspected of helping Moscow to abduct thousands of children from Ukraine.",
+      "title": "European Union adopts new sanctions Israeli settlers over violence in West Bank",
+      "url": "https://www.france24.com/en/european-union-adopts-new-sanctions-israeli-settlers-over-violence-in-west-bank",
+      "source": "France 24",
+      "published_at": "2026-05-12T11:06:48+00:00",
+      "summary": "European Union foreign ministers on May 12 agreed new sanctions on Israeli settlers over violence against Palestinians, as a change of government in Hungary ended months of blockage. The bloc also moved to sanction leaders from the Palestinian militant group Hamas. Israel has con",
       "category": "politics",
-      "score": 4.543
+      "score": 5.063
     },
     {
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-12T00:59:12+00:00",
-      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-      "category": "conflicts",
-      "score": 4.428
+      "title": "First US visit to China since 2017 amid geopolitical tension",
+      "url": "https://www.france24.com/en/first-us-visit-to-china-since-2017-amid-geopolitical-tension",
+      "source": "France 24",
+      "published_at": "2026-05-12T10:11:14+00:00",
+      "summary": "China says it is ready to work with the United States in the pursuit of \"more stability\" globally, ahead of this week's meeting between leaders Xi Jinping and Donald Trump. The White House has said the visit - the first of an American president to China since 2017 - is of \"tremen",
+      "category": "politics",
+      "score": 4.183
     }
   ],
   "hero_history": [
+    "OpenAI gives European companies access to its latest models to bolster resilience",
     "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",
     "EU agrees sanctions on Israeli settlers over West Bank violence",
     "Trump says Iran ceasefire is on 'massive life support'",
     "EU Commission in talks with OpenAI and Anthropic over AI models",
     "Iran war",
     "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "Stories of those killed in a single day of Israeli strikes on Lebanon",
-    "Israel deports two activists detained on board Gaza flotilla"
+    "Stories of those killed in a single day of Israeli strikes on Lebanon"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-12T18:55:54.225430+00:00",
+  "updated": "2026-05-13T01:14:38.660777+00:00",
   "hero": {
-    "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
-    "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
-    "source": "NASA",
-    "published_at": "2026-05-12T16:48:31+00:00",
-    "summary": "NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on wh",
-    "category": "science",
-    "score": 7.428
+    "title": "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWlDX29DYm9TTEdFcTFmSUYxbEd2eFlxd2FPSHg3NmRHS1lERlVFOERPWTBmM3FVRzM3V2pxUkk1UmNxQmRoY1FUaEczbnJFY1ctUllsNmF6a1dxSDFGUmVqS09wNld3M1Z6Z1J2X0xWRlo4RVJSSkhyY0E0SkpsX1VISzA3aDlDaDlUa1NjMGNiSkVUbHdfd093M25aNVB4enBsaVNrcGNvMFBuWGc?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-12T22:06:52+00:00",
+    "summary": "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial Reuters",
+    "category": "tech",
+    "score": 6.593
   },
   "items": [
     {
       "title": "Anthropic expands Claude's AI tools for law firms, lawyers",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-12T17:42:07+00:00",
+      "published_at": "2026-05-12T19:48:45+00:00",
       "summary": "Anthropic expands Claude's AI tools for law firms, lawyers Reuters",
       "category": "tech",
-      "score": 7.322
+      "score": 6.146
     },
     {
-      "title": "OpenAI chief Altman says Elon Musk wanted control of ChatGPT maker, denies betrayal",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWlDX29DYm9TTEdFcTFmSUYxbEd2eFlxd2FPSHg3NmRHS1lERlVFOERPWTBmM3FVRzM3V2pxUkk1UmNxQmRoY1FUaEczbnJFY1ctUllsNmF6a1dxSDFGUmVqS09wNld3M1Z6Z1J2X0xWRlo4RVJSSkhyY0E0SkpsX1VISzA3aDlDaDlUa1NjMGNiSkVUbHdfd093M25aNVB4enBsaVNrcGNvMFBuWGc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-12T17:09:23+00:00",
-      "summary": "OpenAI chief Altman says Elon Musk wanted control of ChatGPT maker, denies betrayal Reuters",
-      "category": "tech",
-      "score": 7.158
+      "title": "Japan’s Sojitz eyes Southeast Asia for new rare earths supply",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0tfaFZESEZwV0hNT1JDdEhtMS1yR3NMSllNOUJtQ0JIWGR0ZjBUM0JIcy1uM0haSGlGM3h2T1RfX1hfWnNUcGJZUGR0b096TjhLS3ZDcThNdUVLNjlMRGZMaGRxUEUyd3dBTUJmN21TSDNVSEtfNW5TRkRtM2diaW5tVFlicVlOaTgxSUNaaHZ6VXVOVnFacw?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-05-13T00:52:00+00:00",
+      "summary": "Japan’s Sojitz eyes Southeast Asia for new rare earths supply The Japan Times",
+      "category": "resources",
+      "score": 5.865
     },
     {
-      "title": "Uganda's president sworn in for record seventh term",
-      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-12T14:58:18+00:00",
-      "summary": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
-      "category": "politics",
-      "score": 6.663
-    },
-    {
-      "title": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd09LLTRKSHdCV0doQ3k5bXlHajdMdXFrOWhZeUZlUDQtR0tlVVRvOEFScDJSaXFjSnU4UXNYdGdORHVCOXNyakFkRlptWWQwOWI0enZ5ZkNCZmdJQVIwMGRfYm9rUUkxdlhRSkJaTHFKMTlTY21VbENtWmc3aXkzT2x2aVlmWjBBVENUbzF2a3o5YVBHWUNtaVVJbG5RWThnRjUtWA?oc=5",
+      "title": "Trump downplays differences with China's Xi over Iran as he heads to Beijing for high-stakes summit",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFZBVEVjTWR0WnJiM3ZLWnFId1B0eUNZMnFsYTNCdmNIV3hlc0FNdXdiUXBTOUVqTHRhSEhYYndlNHJtRGtzVEhvNE9uY0JvS0dMOExjazZsQ0tEUVA1Y2xoNEc1Y2p3dnpBeTVoc3VEVk9YTVU4RTZJSkhrTUlhOEtTdjVFRlFfdWczTmJ3QlhWX0k?oc=5",
       "source": "AP News",
-      "published_at": "2026-05-12T17:48:26+00:00",
-      "summary": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine AP News",
+      "published_at": "2026-05-12T19:47:00+00:00",
+      "summary": "Trump downplays differences with China's Xi over Iran as he heads to Beijing for high-stakes summit AP News",
+      "category": "politics",
+      "score": 5.262
+    },
+    {
+      "title": "Iran war live: Trump travels to China as conflict with Tehran looms large",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-13T00:00:00+00:00",
+      "summary": "Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since March 2, Lebanon's Health Ministry says.",
       "category": "conflicts",
-      "score": 4.787
+      "score": 5.206
     }
   ],
   "hero_history": [
+    "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial",
     "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
     "OpenAI gives European companies access to its latest models to bolster resilience",
     "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",
     "EU agrees sanctions on Israeli settlers over West Bank violence",
     "Trump says Iran ceasefire is on 'massive life support'",
     "EU Commission in talks with OpenAI and Anthropic over AI models",
-    "Iran war",
-    "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts"
+    "Iran war"
   ]
 }

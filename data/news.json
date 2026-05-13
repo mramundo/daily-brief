@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-13T07:23:05.118177+00:00",
+  "updated": "2026-05-13T13:02:48.114386+00:00",
   "hero": {
-    "title": "Anthropic expands Claude's AI tools for law firms, lawyers",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
+    "title": "OPEC lowers 2026 global oil demand growth forecast",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTFUaEM0ZnFyUERTT1FFSlROcVJUQjRMMmFRNFZ3bk9UREx2M1RHRzBxSzRHaVlWdnlhNGlUUThoYWxSM25NUE00dlVWUFV0cVR0NUVzck9JZ096cEJyQlJBNl8zanY2NDQ1aDZUblJodjc5RFNBOUNsbnZKSTdYbkNZYjNGb3BKeTMzSUVpazBBbW9WX2ZFODE0RXk4VlFoa015cA?oc=5",
     "source": "Reuters",
-    "published_at": "2026-05-12T19:48:45+00:00",
-    "summary": "Anthropic expands Claude's AI tools for law firms, lawyers Reuters",
-    "category": "tech",
-    "score": 4.759
+    "published_at": "2026-05-13T12:05:26+00:00",
+    "summary": "OPEC lowers 2026 global oil demand growth forecast Reuters",
+    "category": "resources",
+    "score": 9.815
   },
   "items": [
     {
-      "title": "OpenAI faces lawsuit in California court claiming chatbot gave advice that led to fatal overdose",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM29QUTU4aVpUak5Zb1BydWUySzROUTdWNE9fMGNVekRlREpZQnBHdmpOUFFMendrQ0szbWdJRC1iQk03VGl6eEJxUm1nV3pRRmg1ZWMzVlF1M0I3TFRDTnJzMXJMdUp5VXdJbC00dWJ0dlo2VXhiamtFeWlpcHBMeTZoZlZhbzdnVE1FQ2xYMHF3bWxhVFdoVnFaWGFjMzZWb2tvOTUyQVRob3ZVU09QZjd0ejFSMFhWeUNuWkN5QVVyMW5ZNjk4?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-12T19:47:50+00:00",
-      "summary": "OpenAI faces lawsuit in California court claiming chatbot gave advice that led to fatal overdose Reuters",
-      "category": "tech",
-      "score": 4.756
-    },
-    {
-      "title": "Bahamas prime minister re-elected in early election victory",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmgwdjlNOVZxQVUtX1FFYTNvN3kyaVB2TThic3ZQZE5xT2FRQVBhV1ZZV05CMkJfbVVJLTUxaTh1MVQ5WEMyajRNNkNFc3pkaVVwMEYxdDNWaEVUZ0tPQWRSUjJfNUZrRXVUUVNxai1YUWR1VjZTV1hCbmwtZ2lwWDJKdVdIRFJYcTNEcW5YaGxzcVFnZ2p1TGRzREUzQ0RPNkRpaG1oSkU5NWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-13T02:23:00+00:00",
-      "summary": "Bahamas prime minister re-elected in early election victory Reuters",
+      "title": "Ahead of Trump-Xi summit, China warns on US arms sales to Taiwan",
+      "url": "https://www.france24.com/en/video/20260513-ahead-of-trump-xi-summit-china-warns-on-us-arms-sales-to-taiwan",
+      "source": "France 24",
+      "published_at": "2026-05-13T12:24:07+00:00",
+      "summary": "China reiterated its strong opposition to US arms sales to Taiwan on Wednesday, calling on Washington to honour its commitments ahead of US President Donald Trump's arrival for a summit in Beijing. The issue of democratically governed Taiwan, which China views as its own territor",
       "category": "politics",
-      "score": 4.073
+      "score": 7.031
     },
     {
-      "title": "Iran war live: Trump travels to China as conflict with Tehran looms large",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
+      "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+      "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-05-13T00:00:00+00:00",
-      "summary": "Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since March 2, Lebanon's Health Ministry says.",
+      "published_at": "2026-05-13T12:39:17+00:00",
+      "summary": "Conflict monitor ACLED notes the increase in Israeli attacks on Gaza in April in its latest report.",
       "category": "conflicts",
-      "score": 4.031
+      "score": 4.795
     },
     {
-      "title": "Soaring inflation and plummeting economy test Iran's ability to withstand war and US blockade",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWxCcGttSWhmVlgyT1JvZkVJWi1WMDVXOWw3cXpDa3NjRVB6ckNHTUw2SFpaZE5PVXJtSkRNb0t6R0lWR1BHcXZPZThoM1lPektFOXNtSTJiR3FhSXJxSkstYWtmbUkyb21Qdk1hOGNBTlVyRThESkQtbHJxLVJ1bnlGcG5kQWZrUTViQkFZTnhhWW9Y?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-13T04:06:00+00:00",
-      "summary": "Soaring inflation and plummeting economy test Iran's ability to withstand war and US blockade AP News",
-      "category": "finance",
-      "score": 3.873
+      "title": "Trump vows to push Xi to 'open up' China at superpower summit",
+      "url": "https://www.france24.com/en/video/20260513-trump-vows-to-push-xi-to-open-up-china-at-superpower-summit",
+      "source": "France 24",
+      "published_at": "2026-05-13T12:22:55+00:00",
+      "summary": "US President Donald Trump said he would ask Xi Jinping to \"open up\" China to American firms as he headed to Beijing on Wednesday for a high-stakes summit that will also bring up the Iran war. \"I will be asking President Xi, a Leader of extraordinary distinction, to 'open up' Chin",
+      "category": "politics",
+      "score": 4.573
+    },
+    {
+      "title": "Nvidia’s CEO Joins Trump in China With AI in the Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGhDLXBYb1pWVUY1SmY5RTdIZmxkYmpwcXByY3ZaOXZkTEJ2OXpVZWlXODZBX243WE9XaG1aQTlJQUxab3JHRHZrLU0yUkhmRUpqMW9keUtJRm5mcDVGVHJkUU41VlktSkZRcjQxc0N2R2xWb0lpaHp4VHlXbVFjbDEyZ2kydk5jT1paZ0xadzQ0SWJBOG5peVI5Z1R0TnpVbnIwMU5XV3dHVnFaRUwxZGNpUUc?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-05-13T12:14:32+00:00",
+      "summary": "Nvidia’s CEO Joins Trump in China With AI in the Spotlight Bloomberg.com",
+      "category": "tech",
+      "score": 4.472
     }
   ],
   "hero_history": [
+    "OPEC lowers 2026 global oil demand growth forecast",
     "Anthropic expands Claude's AI tools for law firms, lawyers",
     "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial",
     "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
     "OpenAI gives European companies access to its latest models to bolster resilience",
     "OpenAI, Microsoft agree to cap revenue-sharing at $38 billion, The Information reports",
     "EU agrees sanctions on Israeli settlers over West Bank violence",
-    "Trump says Iran ceasefire is on 'massive life support'",
-    "EU Commission in talks with OpenAI and Anthropic over AI models"
+    "Trump says Iran ceasefire is on 'massive life support'"
   ]
 }

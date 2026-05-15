@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-14T18:55:19.681758+00:00",
+  "updated": "2026-05-15T01:13:17.597938+00:00",
   "hero": {
-    "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmFZS3BkVlpLam83ekJJNVQ2N0ZBVERuU2R3Y0R5VWZMZzgtdk0zaHZPdWoyc1hpVTNOZElZdGRma0lIeFZWWGpjaFIzUG5ORUtnWFVpUmFEazkyblRiVHNLVlpXTFdKaVZrS3Q5LXdGeEg4QW9ycDV4M0pNNEpCb2xVNjRVdV9XNDVnYXFram9QRWg1YTNGZ193bE44UzR2QUdPamV3Z0JSb285c0M0U09RN29ZdGR0TTdvcEZkcmNJeHFmOENrLXNkMjJzUHFBc2NaSA?oc=5",
+    "title": "OpenAI explores legal options against Apple, source says",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlZZbWlPQmhLZEJnNXM3Yy1rLTdsUkg2NE5KMVhOejMyUERySElSNlVaVTMyeGQ5bTRTWEt3M2lManU0U2p0a2tVaVZVdGQzSC0yV0ozY0E3REN0QWpRTzRPbVdndTlael9JVW0yaGVXOFo1RnJSbm0weHZBaHBIaTFlQXRfbGVHY2MyRW5RdGRJZF9nU1VXeC16V3Z5RXQ3QTFEMDFOd1l1V0NjdDlTbA?oc=5",
     "source": "Reuters",
-    "published_at": "2026-05-14T18:03:51+00:00",
-    "summary": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education Reuters",
+    "published_at": "2026-05-14T22:21:15+00:00",
+    "summary": "OpenAI explores legal options against Apple, source says Reuters",
     "category": "tech",
-    "score": 9.855
+    "score": 6.839
   },
   "items": [
     {
-      "title": "OpenAI explores legal options against Apple, Bloomberg News reports",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlZZbWlPQmhLZEJnNXM3Yy1rLTdsUkg2NE5KMVhOejMyUERySElSNlVaVTMyeGQ5bTRTWEt3M2lManU0U2p0a2tVaVZVdGQzSC0yV0ozY0E3REN0QWpRTzRPbVdndTlael9JVW0yaGVXOFo1RnJSbm0weHZBaHBIaTFlQXRfbGVHY2MyRW5RdGRJZF9nU1VXeC16V3Z5RXQ3QTFEMDFOd1l1V0NjdDlTbA?oc=5",
+      "title": "OpenAI brings Codex coding tool to ChatGPT mobile app",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHdiVlQ2dFdMb2JpRDlfdURfNFVpZFNVdWQ0bDBWTkpDQXp4V1h6TVgwNnNUaldGdE54dWRWUVZubTc3VU5xNUgwSUFSYWVkNWpxdnQ2UlVLT2RPd2k1cWNWRXpKV2JYOUxSOFBubHhzeVNZdnhSeXhGdmR5dEFVS0I4RlFzdDlYaTBnaDdVdjNpUDBuMS0zR0pSaE1HclBGMi1va0ZWS1RCVi1NQ1E?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-14T17:05:09+00:00",
-      "summary": "OpenAI explores legal options against Apple, Bloomberg News reports Reuters",
+      "published_at": "2026-05-14T21:16:09+00:00",
+      "summary": "OpenAI brings Codex coding tool to ChatGPT mobile app Reuters",
       "category": "tech",
-      "score": 7.14
+      "score": 6.537
     },
     {
-      "title": "Mobix Labs to Acquire U.S. Rare Earth and Critical Minerals Company Powering Defense and National Security",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZm1mVlh6RHExZkZ6RHpNeW90QnowLU11dHB1NjVObEZKSVdPc2MyN3RZc2FSLXphY2JMNmNzNWpISEVya2ZHWGFMVGN2RDNuc0pDVnplTkZ1X2pYTjdpb2VocmRjUmJuTjgzZWdCcVVmbzllb2ZsbXlxM3oyYXVsUEgtSGZnNmthamJDLTBILW1EWEhCUjB2ZHIyRzZtYmNFdFZwdE0yNlpZZXoyeXBZUV9qMDV2WnM5MlFFOA?oc=5",
-      "source": "afp.com",
-      "published_at": "2026-05-14T15:27:17+00:00",
-      "summary": "Mobix Labs to Acquire U.S. Rare Earth and Critical Minerals Company Powering Defense and National Security afp.com",
-      "category": "resources",
-      "score": 5.175
-    },
-    {
-      "title": "Israel to sue New York Times over article on rape of Palestinian detainees, Netanyahu says",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTFSQVVkc0p2VjRmaWN0R3ZEYkVkZ3FLVGxTM3VfUWItSnZoaG9yS2NHdFpKVUlQbGF1bGxxNzQ1ZkJLc2dYUWFXQ25OMGNhREY0bWVrLUJna3NQTkJTb0RLX3h2ZU1oQ1lvQWNiVWdZaWt4VGtqSkd0OTJCUVd1aWNlbUUzUngxdmhNNlBlcXlHa3VrQnJ2MmI3M01Xbm80eGFSRXFrbURlTXRpckJSZWFWUS16VmdoYzQ3a1RfM1U0T3pYOWtxUDdXaDVSdkNpc2JqM3FB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-14T14:24:41+00:00",
-      "summary": "Israel to sue New York Times over article on rape of Palestinian detainees, Netanyahu says Reuters",
+      "title": "New round of Lebanon-Israel talks kicks off as fighting between Israel and Hezbollah continues",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObE9Nb3NWbXVDNVlDVm9QUFJFdUNYMThfellvYlBhbjlKdlNVaEp3VGx0NXJTUkFPTENOU2hINWxGeWdrWUQ5dWhMS2ZPQ29RODc5bkxGZmZ3aDdaclZ6cFF0ZEpWV0FWVVYzckpBMUVFWVQwYkJ6QnlkMEs0NzdvVU8yc0JlY2o2ak9WSi1rQzJqYk0?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-14T21:48:00+00:00",
+      "summary": "New round of Lebanon-Israel talks kicks off as fighting between Israel and Hezbollah continues AP News",
       "category": "conflicts",
-      "score": 4.562
+      "score": 3.729
     },
     {
-      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-14T13:16:32+00:00",
-      "summary": "Two children are among at least 12 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
+      "title": "Eurovision braces for new protests over Israel’s participation",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-15T00:35:47+00:00",
+      "summary": "Eurovision is heading towards its grand final, but organisers are bracing for more demonstrations against Israel.",
       "category": "conflicts",
-      "score": 4.169
+      "score": 3.561
+    },
+    {
+      "title": "In new lawsuit, Justice Department challenges efforts to sanction Trump administration lawyers",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1o3R3B2Qmw0ZjZnNGwwak54enhiVWQ5LTVRRHdWd2lLM01RcVNCYUFua21qOHZ1Tkg1aW5idWN2Z2oxOXUtczBqNkNrOWdqdGVlRUxyY1ViZnBuTHd3dTFzdzl2Zm03d0NHblctd1RmRkhUSzF0Q2o0TFZ1NDhPWEZOOVp5dWhFVWdsNHRhaFJBUHliWmtJcDRNVDVxOUJ0?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-15T00:22:00+00:00",
+      "summary": "In new lawsuit, Justice Department challenges efforts to sanction Trump administration lawyers AP News",
+      "category": "politics",
+      "score": 3.458
     }
   ],
   "hero_history": [
+    "OpenAI explores legal options against Apple, source says",
     "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
     "Latvian Prime Minister resigns over handling of Ukrainian drone incidents",
     "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
     "Exclusive: Microsoft eyeing startup deals for life after OpenAI",
     "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
     "OPEC lowers 2026 global oil demand growth forecast",
-    "Anthropic expands Claude's AI tools for law firms, lawyers",
-    "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial"
+    "Anthropic expands Claude's AI tools for law firms, lawyers"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-15T07:26:54.845967+00:00",
+  "updated": "2026-05-15T12:55:16.510303+00:00",
   "hero": {
-    "title": "OpenAI brings Codex coding tool to ChatGPT mobile app",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHdiVlQ2dFdMb2JpRDlfdURfNFVpZFNVdWQ0bDBWTkpDQXp4V1h6TVgwNnNUaldGdE54dWRWUVZubTc3VU5xNUgwSUFSYWVkNWpxdnQ2UlVLT2RPd2k1cWNWRXpKV2JYOUxSOFBubHhzeVNZdnhSeXhGdmR5dEFVS0I4RlFzdDlYaTBnaDdVdjNpUDBuMS0zR0pSaE1HclBGMi1va0ZWS1RCVi1NQ1E?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-14T21:16:09+00:00",
-    "summary": "OpenAI brings Codex coding tool to ChatGPT mobile app Reuters",
-    "category": "tech",
-    "score": 5.043
+    "title": "Trump leaves Beijing with few wins, many warm words for Xi",
+    "url": "https://www.france24.com/en/video/20260515-trump-leaves-beijing-with-few-wins-many-warm-words-for-xi",
+    "source": "France 24",
+    "published_at": "2026-05-15T09:17:38+00:00",
+    "summary": "US President Donald Trump departed China on Friday touting business deals that gave markets little to cheer, while Beijing warned Washington about mishandling Taiwan and said its war with Iran should never have started. Trump's visit to America's main strategic and economic rival",
+    "category": "politics",
+    "score": 6.21
   },
   "items": [
     {
-      "title": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckQtRG1PRWF5M3ZYU2dGb043NXpaSmd3UWt3cmdyeFJKc0J1aWRCbGVPbXZuYV9HUm9LSlhZQ2pRNUNSRlItS21YVC1xcWVMSDFncTRXRmFVN1Bhb2wyLWZIVjgzZTRTaGFVMW5reEtWN2gzRXlCWlB2TG55dWtqaGxMdjRsZjMtWUZLSWNiRmtIWGVpTlFXeFc3T3U3ZjVnLUFfZDV1YUhNY1UwT0dBaHlOamhLRzcyQVJjbg?oc=5",
+      "title": "Wall St Week Ahead Nvidia, retailer reports to shed light on AI boom, consumer spending",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUp4ckdjeHVMbndkZTlTRFd5ZWp0MV9QQlVTWEZmRmRYMlR2TUxMRmhPRk42VWxyLVh2enE4SHVWR01iWmI0V0tmRmRkSHpkVTJuQTF6cEc1T2tRYjdQbVd1bWpjQ0MwSFl5c0ttaV9FNU1FX0tzcmhDaGRJY2tNYzh0MGJDT0lVNDZDSzY1VVBjaDBFSFBFbU52dzVsaUhQV3dGTGFJLTVZWmNibWFkZC1IS1A5T2NuOXc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-14T23:51:01+00:00",
-      "summary": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit Reuters",
+      "published_at": "2026-05-15T10:07:23+00:00",
+      "summary": "Wall St Week Ahead Nvidia, retailer reports to shed light on AI boom, consumer spending Reuters",
       "category": "tech",
-      "score": 4.813
+      "score": 5.879
     },
     {
-      "title": "Carry on trading: rate-based G10 currency bets make a comeback",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjBpV3dMM193VWZ4dXJOMmxTWGl5Q21LLUtqSUFyODNJcmREb1JENXBqb2FUUVhESU5YVUtDdjFXMWpZVWpJZXhEVFc2dnNSWkNSWmU2anFhekNQMkFPWk5JNlNJeDhCeE5mMFhkYUpsVm90bjhJTUxydlhtMFBLXzBLRk0tS1NNSEx1Slk3NzhGLXFIXzhsMWhDSndNYl9uYm40YV9fMzVvV3M?oc=5",
+      "title": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeTNmdTVpN0dxLVFBZHpDV29WRlBMUnptWDhuTVFCTmUtV2hSMkplWkxUWGdFSVB5bWNzdHN6d051cGttaXdjSEd2c3pLLXlIdkNJc3Zsa3NxNFZic1VnOFRzeS1xcE14WGlDMHo3QWt1NEdXWGxuZEZ1WU55SlItcmhIbVBwa2NRSkE?oc=5",
+      "source": "Fortune",
+      "published_at": "2026-05-15T10:45:00+00:00",
+      "summary": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration Fortune",
+      "category": "tech",
+      "score": 5.633
+    },
+    {
+      "title": "Global shares drop, bond yields climb on inflation worries",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXdkc1k2VjFGcUx2RHhvb1BKVW9HNmp3ZnNyTmxQTElPSVY0OERvUThQNVRab0luYVdLbTFkREU1MkZfZVNld3BMNkdwV2RPcWgwTFVrQ0ZCZFRhY2pweVhGUmpOdlotOU96OUhndzdLQWpPdjNNVWdma2NZdzJNYVkwRQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-15T05:03:00+00:00",
-      "summary": "Carry on trading: rate-based G10 currency bets make a comeback Reuters",
+      "published_at": "2026-05-15T12:10:30+00:00",
+      "summary": "Global shares drop, bond yields climb on inflation worries Reuters",
       "category": "finance",
-      "score": 3.891
+      "score": 4.863
     },
     {
-      "title": "Mining Partnership Targets Critical Minerals",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDA3RXRBUW84eHJzTjI5UjhSZkxkLUw4blJtWk9sNVdUUjlHYVhOVWppZHBkR3Q4ajRTb0ZJOWlLSHlmYWZVLXpwSWVfdWx2VnF5NXVyQzh3V1BpM2Q1dXdHcTRLYW56Yi10NkUwd2V1X0d4X3VocXNuR09wN0JQM0Z0VU91Z1RlNmtyRmlyNzU?oc=5",
-      "source": "BW Education",
-      "published_at": "2026-05-15T07:03:47+00:00",
-      "summary": "Mining Partnership Targets Critical Minerals BW Education",
-      "category": "resources",
-      "score": 3.792
-    },
-    {
-      "title": "Trump departs Beijing after whirlwind China visit",
-      "url": "https://www.dw.com/en/trump-departs-beijing-after-whirlwind-china-visit/live-77140304?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-05-15T03:32:00+00:00",
-      "summary": "US President Donald Trump is headed home to Washington after spending two days with China's Xi Jinping in Beijing. Both leaders struck a cordial tone despite deep differences on Iran and Taiwan.",
-      "category": "politics",
-      "score": 3.622
+      "title": "Israel-Hamas war",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0VXJDZjI2LWhKOFNtNWxuWVFLbl8xR19uSVNjRGhHeUh5d1N3a1dpYjR6Y1JKUUhnNlJkNGFWVU1nbl9HZnp4a0E0VndQMFhK?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-15T10:48:28+00:00",
+      "summary": "Israel-Hamas war AP News",
+      "category": "conflicts",
+      "score": 4.594
     }
   ],
   "hero_history": [
+    "Trump leaves Beijing with few wins, many warm words for Xi",
     "OpenAI brings Codex coding tool to ChatGPT mobile app",
     "OpenAI explores legal options against Apple, source says",
     "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
     "Latvian Prime Minister resigns over handling of Ukrainian drone incidents",
     "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
     "Exclusive: Microsoft eyeing startup deals for life after OpenAI",
-    "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
-    "OPEC lowers 2026 global oil demand growth forecast"
+    "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi"
   ]
 }

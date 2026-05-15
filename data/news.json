@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-15T12:55:16.510303+00:00",
+  "updated": "2026-05-15T18:50:12.406666+00:00",
   "hero": {
-    "title": "Trump leaves Beijing with few wins, many warm words for Xi",
-    "url": "https://www.france24.com/en/video/20260515-trump-leaves-beijing-with-few-wins-many-warm-words-for-xi",
-    "source": "France 24",
-    "published_at": "2026-05-15T09:17:38+00:00",
-    "summary": "US President Donald Trump departed China on Friday touting business deals that gave markets little to cheer, while Beijing warned Washington about mishandling Taiwan and said its war with Iran should never have started. Trump's visit to America's main strategic and economic rival",
+    "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+    "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-05-15T17:50:59+00:00",
+    "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
     "category": "politics",
-    "score": 6.21
+    "score": 6.805
   },
   "items": [
     {
-      "title": "Wall St Week Ahead Nvidia, retailer reports to shed light on AI boom, consumer spending",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUp4ckdjeHVMbndkZTlTRFd5ZWp0MV9QQlVTWEZmRmRYMlR2TUxMRmhPRk42VWxyLVh2enE4SHVWR01iWmI0V0tmRmRkSHpkVTJuQTF6cEc1T2tRYjdQbVd1bWpjQ0MwSFl5c0ttaV9FNU1FX0tzcmhDaGRJY2tNYzh0MGJDT0lVNDZDSzY1VVBjaDBFSFBFbU52dzVsaUhQV3dGTGFJLTVZWmNibWFkZC1IS1A5T2NuOXc?oc=5",
+      "title": "Israel targets Hamas militant chief in Gaza, medics say three killed",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzZGMUxEazNqYjlURG1FMFhiQUpEckpucW1mYV9wenVlWWR3MmhMVlpwaF9KU2Rub1FxdXpFY1FRVXlXTFVxR2RyQXlpOUZUVDNoNDFIM2gtS183bEtvTVBWdmRnSE43RDVxZ3dzbGFYel91X0ZJX2c1bnQzSE00MUc1b252Q29CVGctRWRXN3lFekNfdEtSVDFuNmp2ZXE3Uld3RExsMVNVdWs?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-15T10:07:23+00:00",
-      "summary": "Wall St Week Ahead Nvidia, retailer reports to shed light on AI boom, consumer spending Reuters",
-      "category": "tech",
-      "score": 5.879
-    },
-    {
-      "title": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeTNmdTVpN0dxLVFBZHpDV29WRlBMUnptWDhuTVFCTmUtV2hSMkplWkxUWGdFSVB5bWNzdHN6d051cGttaXdjSEd2c3pLLXlIdkNJc3Zsa3NxNFZic1VnOFRzeS1xcE14WGlDMHo3QWt1NEdXWGxuZEZ1WU55SlItcmhIbVBwa2NRSkE?oc=5",
-      "source": "Fortune",
-      "published_at": "2026-05-15T10:45:00+00:00",
-      "summary": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration Fortune",
-      "category": "tech",
-      "score": 5.633
-    },
-    {
-      "title": "Global shares drop, bond yields climb on inflation worries",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXdkc1k2VjFGcUx2RHhvb1BKVW9HNmp3ZnNyTmxQTElPSVY0OERvUThQNVRab0luYVdLbTFkREU1MkZfZVNld3BMNkdwV2RPcWgwTFVrQ0ZCZFRhY2pweVhGUmpOdlotOU96OUhndzdLQWpPdjNNVWdma2NZdzJNYVkwRQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-15T12:10:30+00:00",
-      "summary": "Global shares drop, bond yields climb on inflation worries Reuters",
-      "category": "finance",
-      "score": 4.863
-    },
-    {
-      "title": "Israel-Hamas war",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0VXJDZjI2LWhKOFNtNWxuWVFLbl8xR19uSVNjRGhHeUh5d1N3a1dpYjR6Y1JKUUhnNlJkNGFWVU1nbl9HZnp4a0E0VndQMFhK?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-15T10:48:28+00:00",
-      "summary": "Israel-Hamas war AP News",
+      "published_at": "2026-05-15T18:08:41+00:00",
+      "summary": "Israel targets Hamas militant chief in Gaza, medics say three killed Reuters",
       "category": "conflicts",
-      "score": 4.594
+      "score": 5.571
+    },
+    {
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+      "source": "The Verge",
+      "published_at": "2026-05-15T16:00:00+00:00",
+      "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000",
+      "category": "tech",
+      "score": 5.478
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "source": "TechCrunch",
+      "published_at": "2026-05-15T16:00:00+00:00",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+      "category": "tech",
+      "score": 5.342
+    },
+    {
+      "title": "BRICS talks end without joint statement, exposing divisions over war in Iran",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlBvVS1CSFpOWHFpd3NPbEROQlhLVDMxMm9PN1BBNjlzYVFPMnlFUW9na3JoMkxoQlo0bXQwcFVtZGY0VjNIcExteXNhNm8xSmJydkNHTDlWOFlZUjQybjJGWGx1Wks5MEJlREJYc2o2Yy1hbWpvY013Q2M3N3RfZmplMml3NFdvRmJYZjFkT1NOVWNlMjc5OWdHX3BGMmNETjk3bHFXTW9TTnFwRFZCTmdIbVFudWdzeFBDTDY3SXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-15T17:28:11+00:00",
+      "summary": "BRICS talks end without joint statement, exposing divisions over war in Iran Reuters",
+      "category": "conflicts",
+      "score": 5.2
     }
   ],
   "hero_history": [
+    "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
     "Trump leaves Beijing with few wins, many warm words for Xi",
     "OpenAI brings Codex coding tool to ChatGPT mobile app",
     "OpenAI explores legal options against Apple, source says",
     "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
     "Latvian Prime Minister resigns over handling of Ukrainian drone incidents",
     "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
-    "Exclusive: Microsoft eyeing startup deals for life after OpenAI",
-    "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi"
+    "Exclusive: Microsoft eyeing startup deals for life after OpenAI"
   ]
 }

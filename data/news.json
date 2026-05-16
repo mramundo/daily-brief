@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-16T01:08:40.967098+00:00",
+  "updated": "2026-05-16T07:03:23.868726+00:00",
   "hero": {
-    "title": "Seven killed in Gaza as Israel says it targets Hamas leader",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzZGMUxEazNqYjlURG1FMFhiQUpEckpucW1mYV9wenVlWWR3MmhMVlpwaF9KU2Rub1FxdXpFY1FRVXlXTFVxR2RyQXlpOUZUVDNoNDFIM2gtS183bEtvTVBWdmRnSE43RDVxZ3dzbGFYel91X0ZJX2c1bnQzSE00MUc1b252Q29CVGctRWRXN3lFekNfdEtSVDFuNmp2ZXE3Uld3RExsMVNVdWs?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-15T19:27:57+00:00",
-    "summary": "Seven killed in Gaza as Israel says it targets Hamas leader Reuters",
+    "title": "Trump says senior IS leader killed by US and Nigerian forces",
+    "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-05-16T06:26:06+00:00",
+    "summary": "The US president says the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
     "category": "conflicts",
-    "score": 6.952
+    "score": 5.612
   },
   "items": [
-    {
-      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-15T23:59:07+00:00",
-      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-      "category": "conflicts",
-      "score": 6.23
-    },
     {
       "title": "Wall St Week Ahead Nvidia, retailer reports to shed light on AI boom, consumer spending",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUp4ckdjeHVMbndkZTlTRFd5ZWp0MV9QQlVTWEZmRmRYMlR2TUxMRmhPRk42VWxyLVh2enE4SHVWR01iWmI0V0tmRmRkSHpkVTJuQTF6cEc1T2tRYjdQbVd1bWpjQ0MwSFl5c0ttaV9FNU1FX0tzcmhDaGRJY2tNYzh0MGJDT0lVNDZDSzY1VVBjaDBFSFBFbU52dzVsaUhQV3dGTGFJLTVZWmNibWFkZC1IS1A5T2NuOXc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-15T21:04:56+00:00",
+      "published_at": "2026-05-15T22:16:20+00:00",
       "summary": "Wall St Week Ahead Nvidia, retailer reports to shed light on AI boom, consumer spending Reuters",
       "category": "tech",
-      "score": 5.578
+      "score": 4.581
     },
     {
-      "title": "Stock markets worldwide drop from records as worries about oil prices rattle the bond market",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1BOUzJhU0pMVUs2bUVZTTY4SkEtbXhBZ0VUcWtrMEdSb1RZNjhncXk0b0ZMNnVUM3lZbm1yaVVvWGVic0g3QUlldEtQVnh6anFYdml4eWJ5VFJqenJ5cldxYkJZMTN3T0lwblZGWk1GZUFucmF2QWl1bDNPUGM0Rmo3TUNIUlNMZWVjTXdCUUxEb3NfWVlYaw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-15T21:30:00+00:00",
-      "summary": "Stock markets worldwide drop from records as worries about oil prices rattle the bond market AP News",
+      "title": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extension",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-16T00:00:00+00:00",
+      "summary": "Lebanon's Ministry of Health said Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
+      "category": "conflicts",
+      "score": 4.54
+    },
+    {
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-16T05:53:41+00:00",
+      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "category": "politics",
+      "score": 4.526
+    },
+    {
+      "title": "Global shares stumble while bond yields climb on inflation worries",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXdkc1k2VjFGcUx2RHhvb1BKVW9HNmp3ZnNyTmxQTElPSVY0OERvUThQNVRab0luYVdLbTFkREU1MkZfZVNld3BMNkdwV2RPcWgwTFVrQ0ZCZFRhY2pweVhGUmpOdlotOU96OUhndzdLQWpPdjNNVWdma2NZdzJNYVkwRQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-15T22:26:20+00:00",
+      "summary": "Global shares stumble while bond yields climb on inflation worries Reuters",
       "category": "finance",
-      "score": 4.579
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "source": "TechCrunch",
-      "published_at": "2026-05-15T16:00:00+00:00",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "category": "tech",
-      "score": 4.107
+      "score": 3.503
     }
   ],
   "hero_history": [
+    "Trump says senior IS leader killed by US and Nigerian forces",
     "Seven killed in Gaza as Israel says it targets Hamas leader",
     "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
     "Trump leaves Beijing with few wins, many warm words for Xi",
     "OpenAI brings Codex coding tool to ChatGPT mobile app",
     "OpenAI explores legal options against Apple, source says",
     "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
-    "Latvian Prime Minister resigns over handling of Ukrainian drone incidents",
-    "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough"
+    "Latvian Prime Minister resigns over handling of Ukrainian drone incidents"
   ]
 }

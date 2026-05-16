@@ -1,32 +1,41 @@
 {
-  "updated": "2026-05-15T18:50:12.406666+00:00",
+  "updated": "2026-05-16T01:08:40.967098+00:00",
   "hero": {
-    "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-    "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-05-15T17:50:59+00:00",
-    "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-    "category": "politics",
-    "score": 6.805
+    "title": "Seven killed in Gaza as Israel says it targets Hamas leader",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzZGMUxEazNqYjlURG1FMFhiQUpEckpucW1mYV9wenVlWWR3MmhMVlpwaF9KU2Rub1FxdXpFY1FRVXlXTFVxR2RyQXlpOUZUVDNoNDFIM2gtS183bEtvTVBWdmRnSE43RDVxZ3dzbGFYel91X0ZJX2c1bnQzSE00MUc1b252Q29CVGctRWRXN3lFekNfdEtSVDFuNmp2ZXE3Uld3RExsMVNVdWs?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-15T19:27:57+00:00",
+    "summary": "Seven killed in Gaza as Israel says it targets Hamas leader Reuters",
+    "category": "conflicts",
+    "score": 6.952
   },
   "items": [
     {
-      "title": "Israel targets Hamas militant chief in Gaza, medics say three killed",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzZGMUxEazNqYjlURG1FMFhiQUpEckpucW1mYV9wenVlWWR3MmhMVlpwaF9KU2Rub1FxdXpFY1FRVXlXTFVxR2RyQXlpOUZUVDNoNDFIM2gtS183bEtvTVBWdmRnSE43RDVxZ3dzbGFYel91X0ZJX2c1bnQzSE00MUc1b252Q29CVGctRWRXN3lFekNfdEtSVDFuNmp2ZXE3Uld3RExsMVNVdWs?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-15T18:08:41+00:00",
-      "summary": "Israel targets Hamas militant chief in Gaza, medics say three killed Reuters",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-15T23:59:07+00:00",
+      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
       "category": "conflicts",
-      "score": 5.571
+      "score": 6.23
     },
     {
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "source": "The Verge",
-      "published_at": "2026-05-15T16:00:00+00:00",
-      "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000",
+      "title": "Wall St Week Ahead Nvidia, retailer reports to shed light on AI boom, consumer spending",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUp4ckdjeHVMbndkZTlTRFd5ZWp0MV9QQlVTWEZmRmRYMlR2TUxMRmhPRk42VWxyLVh2enE4SHVWR01iWmI0V0tmRmRkSHpkVTJuQTF6cEc1T2tRYjdQbVd1bWpjQ0MwSFl5c0ttaV9FNU1FX0tzcmhDaGRJY2tNYzh0MGJDT0lVNDZDSzY1VVBjaDBFSFBFbU52dzVsaUhQV3dGTGFJLTVZWmNibWFkZC1IS1A5T2NuOXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-15T21:04:56+00:00",
+      "summary": "Wall St Week Ahead Nvidia, retailer reports to shed light on AI boom, consumer spending Reuters",
       "category": "tech",
-      "score": 5.478
+      "score": 5.578
+    },
+    {
+      "title": "Stock markets worldwide drop from records as worries about oil prices rattle the bond market",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1BOUzJhU0pMVUs2bUVZTTY4SkEtbXhBZ0VUcWtrMEdSb1RZNjhncXk0b0ZMNnVUM3lZbm1yaVVvWGVic0g3QUlldEtQVnh6anFYdml4eWJ5VFJqenJ5cldxYkJZMTN3T0lwblZGWk1GZUFucmF2QWl1bDNPUGM0Rmo3TUNIUlNMZWVjTXdCUUxEb3NfWVlYaw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-15T21:30:00+00:00",
+      "summary": "Stock markets worldwide drop from records as worries about oil prices rattle the bond market AP News",
+      "category": "finance",
+      "score": 4.579
     },
     {
       "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
@@ -35,26 +44,17 @@
       "published_at": "2026-05-15T16:00:00+00:00",
       "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
       "category": "tech",
-      "score": 5.342
-    },
-    {
-      "title": "BRICS talks end without joint statement, exposing divisions over war in Iran",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlBvVS1CSFpOWHFpd3NPbEROQlhLVDMxMm9PN1BBNjlzYVFPMnlFUW9na3JoMkxoQlo0bXQwcFVtZGY0VjNIcExteXNhNm8xSmJydkNHTDlWOFlZUjQybjJGWGx1Wks5MEJlREJYc2o2Yy1hbWpvY013Q2M3N3RfZmplMml3NFdvRmJYZjFkT1NOVWNlMjc5OWdHX3BGMmNETjk3bHFXTW9TTnFwRFZCTmdIbVFudWdzeFBDTDY3SXc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-15T17:28:11+00:00",
-      "summary": "BRICS talks end without joint statement, exposing divisions over war in Iran Reuters",
-      "category": "conflicts",
-      "score": 5.2
+      "score": 4.107
     }
   ],
   "hero_history": [
+    "Seven killed in Gaza as Israel says it targets Hamas leader",
     "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
     "Trump leaves Beijing with few wins, many warm words for Xi",
     "OpenAI brings Codex coding tool to ChatGPT mobile app",
     "OpenAI explores legal options against Apple, source says",
     "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education",
     "Latvian Prime Minister resigns over handling of Ukrainian drone incidents",
-    "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
-    "Exclusive: Microsoft eyeing startup deals for life after OpenAI"
+    "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough"
   ]
 }

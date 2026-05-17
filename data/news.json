@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-17T07:16:14.950049+00:00",
+  "updated": "2026-05-17T12:37:21.593389+00:00",
   "hero": {
-    "title": "Is a Chinese invasion of Taiwan imminent?",
-    "url": "https://www.france24.com/en/video/20260517-is-a-chinese-invasion-of-taiwan-imminent",
-    "source": "France 24",
-    "published_at": "2026-05-17T05:50:25+00:00",
-    "summary": "🇺🇸🇨🇳After nearly a decade since his last visit, US President Donald Trump is meeting Chinese President Xi Jinping in Beijing in a historic summit focused on global trade, technological rivalry and rising tensions over Taiwan, one of the world’s most sensitive flashpoints. 🇹🇼China",
-    "category": "politics",
-    "score": 4.429
+    "title": "Drone strike sparks a fire on the perimeter of UAE's nuclear power plant, shaking Iran war ceasefire",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXdMSm5tbGgtQUh3NXJ1dF9tUUxpT19yemJSLUU1c08tb0llNFZxcWJhMlNkMGs3MkNEV1p4al91QkY0cUE0WlpvNG8tRnNXM0t6b2c5WVpDMW5CQnRTTnlKYTRGS0lXQmNOM0VrNlQ4bWRvNzJqNV9oUmxuUUxmWGJuU0xoQlY4R2drWnlPcw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-05-17T11:11:00+00:00",
+    "summary": "Drone strike sparks a fire on the perimeter of UAE's nuclear power plant, shaking Iran war ceasefire AP News",
+    "category": "conflicts",
+    "score": 4.725
   },
   "items": [
     {
-      "title": "Ukraine drone attack kills at least three in Moscow region, governor says",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOay12bVZiX0tPeG5GVGpHX3NNcDkxTFQ2VU5VU3dxYmFMRVBfdnRIbU1NdW1kalBwb1VUcS1reC1ERmM4SGQ4Nm53ajJJMm9uMmIxQzBJZW5VS3FWc1dtYWhwRW8tR1p0VDB3U0phM2o1SW1nM2VTQV9IcExYM3h0bUdnMHdXMUhtVTJvYjk1aFp2S2dhWEZSUE1EeE55YzBWelVzbnRiQ0ctSi05ZDN2Tl9GdWM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-17T04:43:00+00:00",
-      "summary": "Ukraine drone attack kills at least three in Moscow region, governor says Reuters",
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-17T11:28:02+00:00",
+      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
       "category": "conflicts",
-      "score": 3.993
+      "score": 4.673
     },
     {
-      "title": "How Nvidia & Apple can be the Global, US Open Source AI Champions vs China. AI-RTZ #1089",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13NXJ1MTItMHU3c1ZocVM4SjVRTEo3TG9hRzZCTGRxdWxVc1pvMXMyM2lEUVU1bEU4eG1ITXhGOF9xaHF5MVB1QlFoNDBnaVB5akJZX2ZUd0VEZXJhR2hQeXVqckNXcXBpMFlBN0FMMXdpaTlnSy1laS1ndw?oc=5",
-      "source": "AI: Reset to Zero",
-      "published_at": "2026-05-17T05:02:24+00:00",
-      "summary": "How Nvidia & Apple can be the Global, US Open Source AI Champions vs China. AI-RTZ #1089 AI: Reset to Zero",
+      "title": "Tim Cook Finds Purpose, OpenAI-Apple Relationship Sours, Intel Strikes Deal: This Week In Appleverse",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1dOb0tWZGdvbElTOFVSS1dpcHJsemoxN2xJeWNheEc0RGJJRjk3czh6YlRwLTZnUFJQMU5RLTU5RlVfSy1WUGk3NFNXbmc3ZlNQU1FlVkFCcFJtU1RXMXkxRmJadDVoamFJUUhWQTJfdE5oZmNzUFVyX0JiQTgxX3VMdHdyWnFyZnp2b3VUSF9ZN3h4UDlaYWtfMmNGVHJDSDRJRDlMVkIxa1FJc2hkVXFoaU9zdnBVaVFIb2puMXQ3c0F4SW4tME1CZ1pjdUhRNnBoTUI4VnZyZjl2bW8tOEJ1Y08?oc=5",
+      "source": "Benzinga",
+      "published_at": "2026-05-17T11:00:33+00:00",
+      "summary": "Tim Cook Finds Purpose, OpenAI-Apple Relationship Sours, Intel Strikes Deal: This Week In Appleverse Benzinga",
       "category": "tech",
-      "score": 3.657
+      "score": 3.752
     },
     {
-      "title": "Senate parliamentarian deals blow to $1 billion security proposal for White House",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlBzV2tKcHNUQXJCYUVXSGZBWnFzRDNkZE5UeHM3dF94NHljZnkyWUVwNXlPTHZvYjVCLTFZaElkZWlVT0dLR2dDSXBUaFFMRnVaczhqQTNXRUsxS1AwWm5ZZ1loTGhfdkhJZlJnUVJXRnNrMTlFeVJ1RkVVdTdCeE4wT05aTEFXdHRSclRxcVo0eE5DLXk1c01LdTJDUkhObjUzNzcyRmF1MzJFX0xWT2NFa0lOVzE2ZFdKLW1HNXM?oc=5",
+      "title": "It’s official: Wes Streeting of the Labour Party wants to be Britain’s next prime minister",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0dpRWh0dG1laWdrOWdndUdCOEFQUzFVNmthTl9JdTQyeU9uQ0E0akpuaEw3MUJKTDcwczJNb0RFVmNqT2FWNXdjZUZkb1RUdzVYcTdmZDQ0UHRSVmNjcVhjS1poOFFZYjhwR1NOR1BxdGhRMDlqV2dqS09DaWwwMkF0d2I1LWpmOUZoSm05QmtQblVKWjdLUHJkdFJZSWhtTVpyTmU5TDZvV21ObFE?oc=5",
       "source": "AP News",
-      "published_at": "2026-05-17T03:15:00+00:00",
-      "summary": "Senate parliamentarian deals blow to $1 billion security proposal for White House AP News",
+      "published_at": "2026-05-17T08:26:00+00:00",
+      "summary": "It’s official: Wes Streeting of the Labour Party wants to be Britain’s next prime minister AP News",
       "category": "politics",
-      "score": 3.637
+      "score": 3.611
     },
     {
-      "title": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-17T00:00:00+00:00",
-      "summary": "Iran to reveal its plan for Strait of Hormuz soon as Israel attacks Lebanon and Gaza, killing and wounding dozens.",
-      "category": "conflicts",
-      "score": 3.6
+      "title": "'Taiwan independence' means we don't belong to Beijing, president says",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVlidEFSbG1ZNGtJZllJSVZscEFvZGRrX0FQYkwydzlQeDN1WkhnSkUtNlZBZm5lOTFRUVdSTXR4VjRjaGRGMGozMDIwaUZNTWhsTVhZeFVBb2N0cFFzODJoRWV2d3dQNmx6Y2pqdzlWdm13eDlxZ01tb1QzNDFpdWNhMmFXbEUyNGtRVUViWTNmX1hnbzV3MUl5Rk1JMEpXbHBHQkhlUGNua0ZqUE80SA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-17T08:12:24+00:00",
+      "summary": "'Taiwan independence' means we don't belong to Beijing, president says Reuters",
+      "category": "politics",
+      "score": 3.577
     }
   ],
   "hero_history": [
+    "Drone strike sparks a fire on the perimeter of UAE's nuclear power plant, shaking Iran war ceasefire",
     "Is a Chinese invasion of Taiwan imminent?",
     "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
     "OpenAI co-founder Greg Brockman takes charge of product strategy",
     "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move",
     "Trump says senior IS leader killed by US and Nigerian forces",
     "Seven killed in Gaza as Israel says it targets Hamas leader",
-    "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-    "Trump leaves Beijing with few wins, many warm words for Xi"
+    "Trump warns Taiwan against declaring independence, hours after summit with China's Xi"
   ]
 }

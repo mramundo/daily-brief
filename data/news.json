@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-17T12:37:21.593389+00:00",
+  "updated": "2026-05-17T18:38:13.666929+00:00",
   "hero": {
-    "title": "Drone strike sparks a fire on the perimeter of UAE's nuclear power plant, shaking Iran war ceasefire",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXdMSm5tbGgtQUh3NXJ1dF9tUUxpT19yemJSLUU1c08tb0llNFZxcWJhMlNkMGs3MkNEV1p4al91QkY0cUE0WlpvNG8tRnNXM0t6b2c5WVpDMW5CQnRTTnlKYTRGS0lXQmNOM0VrNlQ4bWRvNzJqNV9oUmxuUUxmWGJuU0xoQlY4R2drWnlPcw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-05-17T11:11:00+00:00",
-    "summary": "Drone strike sparks a fire on the perimeter of UAE's nuclear power plant, shaking Iran war ceasefire AP News",
+    "title": "Three community kitchen workers among five killed by Israel in Gaza",
+    "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-05-17T16:31:20+00:00",
+    "summary": "Israeli attacks on Gaza have killed at least 871 Palestinians since the so-called ceasefire started last year.",
     "category": "conflicts",
-    "score": 4.725
+    "score": 4.462
   },
   "items": [
     {
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-17T11:28:02+00:00",
-      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
-      "category": "conflicts",
-      "score": 4.673
-    },
-    {
-      "title": "Tim Cook Finds Purpose, OpenAI-Apple Relationship Sours, Intel Strikes Deal: This Week In Appleverse",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1dOb0tWZGdvbElTOFVSS1dpcHJsemoxN2xJeWNheEc0RGJJRjk3czh6YlRwLTZnUFJQMU5RLTU5RlVfSy1WUGk3NFNXbmc3ZlNQU1FlVkFCcFJtU1RXMXkxRmJadDVoamFJUUhWQTJfdE5oZmNzUFVyX0JiQTgxX3VMdHdyWnFyZnp2b3VUSF9ZN3h4UDlaYWtfMmNGVHJDSDRJRDlMVkIxa1FJc2hkVXFoaU9zdnBVaVFIb2puMXQ3c0F4SW4tME1CZ1pjdUhRNnBoTUI4VnZyZjl2bW8tOEJ1Y08?oc=5",
-      "source": "Benzinga",
-      "published_at": "2026-05-17T11:00:33+00:00",
-      "summary": "Tim Cook Finds Purpose, OpenAI-Apple Relationship Sours, Intel Strikes Deal: This Week In Appleverse Benzinga",
-      "category": "tech",
-      "score": 3.752
-    },
-    {
-      "title": "It’s official: Wes Streeting of the Labour Party wants to be Britain’s next prime minister",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0dpRWh0dG1laWdrOWdndUdCOEFQUzFVNmthTl9JdTQyeU9uQ0E0akpuaEw3MUJKTDcwczJNb0RFVmNqT2FWNXdjZUZkb1RUdzVYcTdmZDQ0UHRSVmNjcVhjS1poOFFZYjhwR1NOR1BxdGhRMDlqV2dqS09DaWwwMkF0d2I1LWpmOUZoSm05QmtQblVKWjdLUHJkdFJZSWhtTVpyTmU5TDZvV21ObFE?oc=5",
+      "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding a dozen others",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXlmX1k4LTM3YmxmVHBUSVpQTzBuaVJBSWxDdWlpWGJianNEbnl6ekQtMktpSkRuMEJFQ1JLNlBJaUVYOUJTTXd2VG1oR1dEZDI2VVlXbm9hNkZMMUo1aXBZVTZCaExDRWxJRld0dUZxdFJ4enJJVkJsSy16TXFwdDRsR2lyUUVsQ2I5N1dmNGppazBJRjlKbWVXWFdMSDVJYUxlVWl4dHlRekNQTkE?oc=5",
       "source": "AP News",
-      "published_at": "2026-05-17T08:26:00+00:00",
-      "summary": "It’s official: Wes Streeting of the Labour Party wants to be Britain’s next prime minister AP News",
-      "category": "politics",
-      "score": 3.611
+      "published_at": "2026-05-17T14:36:00+00:00",
+      "summary": "Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding a dozen others AP News",
+      "category": "conflicts",
+      "score": 4.24
     },
     {
-      "title": "'Taiwan independence' means we don't belong to Beijing, president says",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVlidEFSbG1ZNGtJZllJSVZscEFvZGRrX0FQYkwydzlQeDN1WkhnSkUtNlZBZm5lOTFRUVdSTXR4VjRjaGRGMGozMDIwaUZNTWhsTVhZeFVBb2N0cFFzODJoRWV2d3dQNmx6Y2pqdzlWdm13eDlxZ01tb1QzNDFpdWNhMmFXbEUyNGtRVUViWTNmX1hnbzV3MUl5Rk1JMEpXbHBHQkhlUGNua0ZqUE80SA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-17T08:12:24+00:00",
-      "summary": "'Taiwan independence' means we don't belong to Beijing, president says Reuters",
+      "title": "Son of Palestinian President Mahmoud Abbas elected to top Fatah body",
+      "url": "https://www.aljazeera.com/news/2026/5/17/son-of-palestinian-president-mahmoud-abbas-elected-to-top-fatah-body?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-17T14:03:43+00:00",
+      "summary": "Businessman Yasser Abbas, 64, secured a place on the central committee despite spending most of his time in Canada.",
       "category": "politics",
-      "score": 3.577
+      "score": 3.867
+    },
+    {
+      "title": "Taiwan’s president defends US arms purchases that Trump called ‘bargaining chip’",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcU9Db2VqSkFPMy0xd2dIejRvZUxuX1ppay1EZnB2UTVMRlZiUXFib0JweURDMEpkV2M3RUdaT0xDMlllWlIyZEF0blFZZlJkcVlQVE9DMVNuRWt1UXNpWXhNQ1Y5Y0dNaUVrY1Y5eEtLVFNYbzNNNmEyLVdVQy1JejF1V25Sa1I4eWZFbmRRSQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-17T15:53:00+00:00",
+      "summary": "Taiwan’s president defends US arms purchases that Trump called ‘bargaining chip’ AP News",
+      "category": "tech",
+      "score": 3.834
+    },
+    {
+      "title": "CORRECTED - CORRECTED-Thai 28-day c.bank bond yield 1.09103 pct",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTFxdHJGamwxOEtDZXFqcnp2WHUtU21ITVYwZmhHREo5TWttX3V2QXFRSVM1bEg3b3I0bDRaZHpueWVkbmxaemt4T014bDZHTkZBMjJodFNxcmpVdnh0cS1HZEU0djRVRTAzclE2OWNYWmFlWWE5U0pSdi1wUGNpYzltdWVlU3hFUG12bEVqTjZjaWdkWlNCQl9waEF3a1VkcHdLUWgyM0xYTDcxRVhlSENB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-17T15:34:25+00:00",
+      "summary": "CORRECTED - CORRECTED-Thai 28-day c.bank bond yield 1.09103 pct Reuters",
+      "category": "finance",
+      "score": 3.785
     }
   ],
   "hero_history": [
+    "Three community kitchen workers among five killed by Israel in Gaza",
     "Drone strike sparks a fire on the perimeter of UAE's nuclear power plant, shaking Iran war ceasefire",
     "Is a Chinese invasion of Taiwan imminent?",
     "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
     "OpenAI co-founder Greg Brockman takes charge of product strategy",
     "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move",
     "Trump says senior IS leader killed by US and Nigerian forces",
-    "Seven killed in Gaza as Israel says it targets Hamas leader",
-    "Trump warns Taiwan against declaring independence, hours after summit with China's Xi"
+    "Seven killed in Gaza as Israel says it targets Hamas leader"
   ]
 }

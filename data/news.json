@@ -1,15 +1,33 @@
 {
-  "updated": "2026-05-16T18:36:09.050924+00:00",
+  "updated": "2026-05-17T01:17:12.953426+00:00",
   "hero": {
-    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "source": "TechCrunch",
-    "published_at": "2026-05-16T15:33:33+00:00",
-    "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-    "category": "tech",
-    "score": 6.847
+    "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+    "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-05-16T22:27:44+00:00",
+    "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+    "category": "conflicts",
+    "score": 4.689
   },
   "items": [
+    {
+      "title": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-17T00:00:00+00:00",
+      "summary": "Iran to reveal its plan for Strait of Hormuz soon as Israel attacks Lebanon and Gaza, killing and wounding dozens.",
+      "category": "conflicts",
+      "score": 4.619
+    },
+    {
+      "title": "ASIA LOCAL BONDS-Philippine yields ease ahead of c.bank news",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVc1LUxNX2dielY1Z3U5Mzhfc2ZaQjBXc0hXd25FaWtRbVlLS2dfQkpEU3dBOHkyY3drYUcwNzFfQjBuSHJYSUFsaDIxY256RmJUM1BBYUZvWi1iWkh1REJhWGxVYThKR1QzSjNjOEt5U3VHbDBjUDhPVFFLUU13b0NRcUpNakNUblVsVDNWUHZkQlE3X1lOa3NsZU9CU1pEMEc3YlJ5TkJIZGlSbFVWcjZB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-16T23:15:34+00:00",
+      "summary": "ASIA LOCAL BONDS-Philippine yields ease ahead of c.bank news Reuters",
+      "category": "finance",
+      "score": 4.61
+    },
     {
       "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2FfNVN5cmZ5SWF4WFBlOWluNFRfdEpkdVVwNXpKZUNyanhWN3RvZURrQkVNWFFILWptTzlkVGFpSlg2V1FKbWZIUlhGSXdJc3g4TmdQUEM1QkpsM2ctVjFWTjUxcUhvTS0teFFxekE0YnhhQ0tLZWNwNUdZZTQ5VFB2cF96STV0ZWQ2N2ladko0N1NXbzVLRWlHMnFQdHlheXlfVDJDUDE?oc=5",
@@ -17,44 +35,26 @@
       "published_at": "2026-05-16T10:31:40+00:00",
       "summary": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus Reuters",
       "category": "tech",
-      "score": 5.505
+      "score": 4.167
     },
     {
-      "title": "Israel kills Hamas armed wing leader Haddad in Gaza strike",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXRieDYzVldHX1ZQNDRVQ21ZWmdZelQ0QWdJc1FaOEJnUzNNMWZqbC16QUpBYUZ0OER2RFhCTm5YZXk5S3FhQ0psZ2FlR1FsdnpiczZiM3M4ODNfVGtuTWlYRWhIRFRBalFPdUxQc0k0TlpLNU1FNTBGbU9YUVRWZ0ttRVFGQk5rb1JoZVo0cS1CbzZCR1RVSmswZmJmeUZTNHJBWDZrcTdFOFBIa1phY2dVX1F3YUFTcmdEYzVGaUg2ejYyUHZ6RmtwSVdNUQ?oc=5",
+      "title": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOEJpODNJRzJ5ci1ZSEhOa1Y0QnJyc3gxWC1UNFEtTWt2X01oTThWSGZoU1ExdWVKQUxiWGRFWW93VGhQZnIweVhwRVBUREw0VlJlVXRIZjJDRXlEbndzM0UtczhOcDNzYmpzNVREcG1fbUpnYmY3a0JBcDg4Q2dtblk5aGRqd2tPUHcwdGNubkhUV1phTWM3a2JZdURDaU9uWkk4Q2pYMU9kTlNjODkyT3g0d29yTmRXTVpKZ0hQVU9yUGxZN2c?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-16T16:06:07+00:00",
-      "summary": "Israel kills Hamas armed wing leader Haddad in Gaza strike Reuters",
-      "category": "conflicts",
-      "score": 5.166
-    },
-    {
-      "title": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
-      "url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-16T16:02:33+00:00",
-      "summary": "Israel targeted Izz al-Din al-Haddad, the head of Hamas's armed wing in Gaza, in an attack that killed seven others.",
-      "category": "conflicts",
-      "score": 4.928
-    },
-    {
-      "title": "Putin to hold taks with Xi in China days after Trump’s trip to Beijing",
-      "url": "https://www.france24.com/en/asia-pacific/20260516-putin-to-hold-taks-with-xi-in-china-days-after-trump-s-trip-to-beijing",
-      "source": "© Sergei Bobylev, AP",
-      "published_at": "2026-05-16T09:33:09+00:00",
-      "summary": "Russian President Vladimir Putin will meet with Chinese leader Xi Jinping during a two-day trip to Beijing next week, the Kremlin said Saturday. The meeting comes days after US President Donald Trump's state visit to China, which ended with warm diplomatic optics but few resoluti",
-      "category": "politics",
-      "score": 4.758
+      "published_at": "2026-05-16T09:25:51+00:00",
+      "summary": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move Reuters",
+      "category": "resources",
+      "score": 3.754
     }
   ],
   "hero_history": [
+    "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
     "OpenAI co-founder Greg Brockman takes charge of product strategy",
     "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move",
     "Trump says senior IS leader killed by US and Nigerian forces",
     "Seven killed in Gaza as Israel says it targets Hamas leader",
     "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
     "Trump leaves Beijing with few wins, many warm words for Xi",
-    "OpenAI brings Codex coding tool to ChatGPT mobile app",
-    "OpenAI explores legal options against Apple, source says"
+    "OpenAI brings Codex coding tool to ChatGPT mobile app"
   ]
 }

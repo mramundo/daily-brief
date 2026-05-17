@@ -1,15 +1,42 @@
 {
-  "updated": "2026-05-17T01:17:12.953426+00:00",
+  "updated": "2026-05-17T07:16:14.950049+00:00",
   "hero": {
-    "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-    "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-05-16T22:27:44+00:00",
-    "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-    "category": "conflicts",
-    "score": 4.689
+    "title": "Is a Chinese invasion of Taiwan imminent?",
+    "url": "https://www.france24.com/en/video/20260517-is-a-chinese-invasion-of-taiwan-imminent",
+    "source": "France 24",
+    "published_at": "2026-05-17T05:50:25+00:00",
+    "summary": "🇺🇸🇨🇳After nearly a decade since his last visit, US President Donald Trump is meeting Chinese President Xi Jinping in Beijing in a historic summit focused on global trade, technological rivalry and rising tensions over Taiwan, one of the world’s most sensitive flashpoints. 🇹🇼China",
+    "category": "politics",
+    "score": 4.429
   },
   "items": [
+    {
+      "title": "Ukraine drone attack kills at least three in Moscow region, governor says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOay12bVZiX0tPeG5GVGpHX3NNcDkxTFQ2VU5VU3dxYmFMRVBfdnRIbU1NdW1kalBwb1VUcS1reC1ERmM4SGQ4Nm53ajJJMm9uMmIxQzBJZW5VS3FWc1dtYWhwRW8tR1p0VDB3U0phM2o1SW1nM2VTQV9IcExYM3h0bUdnMHdXMUhtVTJvYjk1aFp2S2dhWEZSUE1EeE55YzBWelVzbnRiQ0ctSi05ZDN2Tl9GdWM?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-17T04:43:00+00:00",
+      "summary": "Ukraine drone attack kills at least three in Moscow region, governor says Reuters",
+      "category": "conflicts",
+      "score": 3.993
+    },
+    {
+      "title": "How Nvidia & Apple can be the Global, US Open Source AI Champions vs China. AI-RTZ #1089",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13NXJ1MTItMHU3c1ZocVM4SjVRTEo3TG9hRzZCTGRxdWxVc1pvMXMyM2lEUVU1bEU4eG1ITXhGOF9xaHF5MVB1QlFoNDBnaVB5akJZX2ZUd0VEZXJhR2hQeXVqckNXcXBpMFlBN0FMMXdpaTlnSy1laS1ndw?oc=5",
+      "source": "AI: Reset to Zero",
+      "published_at": "2026-05-17T05:02:24+00:00",
+      "summary": "How Nvidia & Apple can be the Global, US Open Source AI Champions vs China. AI-RTZ #1089 AI: Reset to Zero",
+      "category": "tech",
+      "score": 3.657
+    },
+    {
+      "title": "Senate parliamentarian deals blow to $1 billion security proposal for White House",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlBzV2tKcHNUQXJCYUVXSGZBWnFzRDNkZE5UeHM3dF94NHljZnkyWUVwNXlPTHZvYjVCLTFZaElkZWlVT0dLR2dDSXBUaFFMRnVaczhqQTNXRUsxS1AwWm5ZZ1loTGhfdkhJZlJnUVJXRnNrMTlFeVJ1RkVVdTdCeE4wT05aTEFXdHRSclRxcVo0eE5DLXk1c01LdTJDUkhObjUzNzcyRmF1MzJFX0xWT2NFa0lOVzE2ZFdKLW1HNXM?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-17T03:15:00+00:00",
+      "summary": "Senate parliamentarian deals blow to $1 billion security proposal for White House AP News",
+      "category": "politics",
+      "score": 3.637
+    },
     {
       "title": "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
       "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss",
@@ -17,44 +44,17 @@
       "published_at": "2026-05-17T00:00:00+00:00",
       "summary": "Iran to reveal its plan for Strait of Hormuz soon as Israel attacks Lebanon and Gaza, killing and wounding dozens.",
       "category": "conflicts",
-      "score": 4.619
-    },
-    {
-      "title": "ASIA LOCAL BONDS-Philippine yields ease ahead of c.bank news",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVc1LUxNX2dielY1Z3U5Mzhfc2ZaQjBXc0hXd25FaWtRbVlLS2dfQkpEU3dBOHkyY3drYUcwNzFfQjBuSHJYSUFsaDIxY256RmJUM1BBYUZvWi1iWkh1REJhWGxVYThKR1QzSjNjOEt5U3VHbDBjUDhPVFFLUU13b0NRcUpNakNUblVsVDNWUHZkQlE3X1lOa3NsZU9CU1pEMEc3YlJ5TkJIZGlSbFVWcjZB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-16T23:15:34+00:00",
-      "summary": "ASIA LOCAL BONDS-Philippine yields ease ahead of c.bank news Reuters",
-      "category": "finance",
-      "score": 4.61
-    },
-    {
-      "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2FfNVN5cmZ5SWF4WFBlOWluNFRfdEpkdVVwNXpKZUNyanhWN3RvZURrQkVNWFFILWptTzlkVGFpSlg2V1FKbWZIUlhGSXdJc3g4TmdQUEM1QkpsM2ctVjFWTjUxcUhvTS0teFFxekE0YnhhQ0tLZWNwNUdZZTQ5VFB2cF96STV0ZWQ2N2ladko0N1NXbzVLRWlHMnFQdHlheXlfVDJDUDE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-16T10:31:40+00:00",
-      "summary": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus Reuters",
-      "category": "tech",
-      "score": 4.167
-    },
-    {
-      "title": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOEJpODNJRzJ5ci1ZSEhOa1Y0QnJyc3gxWC1UNFEtTWt2X01oTThWSGZoU1ExdWVKQUxiWGRFWW93VGhQZnIweVhwRVBUREw0VlJlVXRIZjJDRXlEbndzM0UtczhOcDNzYmpzNVREcG1fbUpnYmY3a0JBcDg4Q2dtblk5aGRqd2tPUHcwdGNubkhUV1phTWM3a2JZdURDaU9uWkk4Q2pYMU9kTlNjODkyT3g0d29yTmRXTVpKZ0hQVU9yUGxZN2c?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-16T09:25:51+00:00",
-      "summary": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move Reuters",
-      "category": "resources",
-      "score": 3.754
+      "score": 3.6
     }
   ],
   "hero_history": [
+    "Is a Chinese invasion of Taiwan imminent?",
     "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
     "OpenAI co-founder Greg Brockman takes charge of product strategy",
     "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move",
     "Trump says senior IS leader killed by US and Nigerian forces",
     "Seven killed in Gaza as Israel says it targets Hamas leader",
     "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-    "Trump leaves Beijing with few wins, many warm words for Xi",
-    "OpenAI brings Codex coding tool to ChatGPT mobile app"
+    "Trump leaves Beijing with few wins, many warm words for Xi"
   ]
 }

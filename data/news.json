@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-19T13:27:53.856306+00:00",
+  "updated": "2026-05-19T18:56:56.293338+00:00",
   "hero": {
-    "title": "Anthropic is letting Project Glasswing partners share AI-found cybersecurity findings more broadly",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSy15andMQlhHaEplZVBNRE15OHBjZTNVLVkwODRiY1AwRW5veVpCUElQM2d4cGdQNTFEcktyUVNUOU9BaHF5YXRIRC1kQ0pYVElhQ25GcUpsM3pZSnp1el9oa1hWSzM1OC1LcE1NbFJWUTdZSVlwUlVfMVQ4ekk?oc=5",
-    "source": "qz.com",
-    "published_at": "2026-05-19T12:51:11+00:00",
-    "summary": "Anthropic is letting Project Glasswing partners share AI-found cybersecurity findings more broadly qz.com",
+    "title": "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVGY5aXh3VWF5NnFfXzE0ZGlXUlFWMjZZd2Fma0NncENURmhIbWF3SHcwTjhON0E1dGNYS2NBZTJwaTNQUEllSnNDWTk5RmR1dXl4XzlEbkNTRm1PM3h4RklFYnZlYS1yTGdlaW4tSndtN1BXQnJ0TFF5YUJpRnR0dFJfbm1uSjM3VG1kUXpjOHBNUk82WVEwUjFwVHhtWngtQUxtQldJakpUSWFueFRkdzVBX0NsV1ZSSUprcDhFOVRiNjR3OXRvODIzbWpfWFNVQzBlejV1SWtiRjlpMXlF?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-19T16:15:59+00:00",
+    "summary": "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic Reuters",
     "category": "tech",
-    "score": 6.8
+    "score": 10.184
   },
   "items": [
     {
-      "title": "Israeli far-right minister Smotrich says ICC seeks his arrest",
-      "url": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-19T12:26:06+00:00",
-      "summary": "Smotrich is the third Israeli official targeted by the ICC, after Netanyahu and Gallant, for war crimes in Gaza.",
-      "category": "conflicts",
-      "score": 6.276
-    },
-    {
-      "title": "OpenAI chief Sam Altman makes a high-stakes appearance in his court bout with Elon Musk",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzVMT2FIUXdhdWtkeW1HYzVrYVFEX1h1Rm5BV1lGUkFSZUs2WFMxTXZudU5tRXdiTFJEcml1d3R1bDJHdUIyeEtaYjUyZjU2YUFoSEliU3lWX2QzRzFMLWRFLUtQODlTang3VWdaU2x5QjNuOENNcmd2YkZhd2dtTkxBbjlVaXFNdzZYSA?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-19T12:07:25+00:00",
-      "summary": "OpenAI chief Sam Altman makes a high-stakes appearance in his court bout with Elon Musk AP News",
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "source": "TechCrunch",
+      "published_at": "2026-05-19T15:43:04+00:00",
+      "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
       "category": "tech",
-      "score": 6.247
+      "score": 7.764
     },
     {
-      "title": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/",
-      "source": "NASA",
-      "published_at": "2026-05-19T13:05:00+00:00",
-      "summary": "NASA’s Magnetospheric Multiscale (MMS) mission has collected more than ten years of data from this zone – more than scientists can analyze alone. As Shock Detectives, you’ll help sort the chaotic from peaceful regions of the data, giving researchers a crucial set of clues.",
-      "category": "science",
-      "score": 5.361
+      "title": "G7 finance ministers agree need for action on economic imbalances",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnhudmJ5VG1fcTE3Y1RXSEhSN2diRjQ3Z3hwNVRUd1dwdlFadlBNMDRzak13VjMwdFU1enNmbDZzMFhyNW9ManBTYkJueW5UMnkwMjdsRGNTSE8zRVd5cEFGaWwwVWRiU2t0LXcwSDZYdGpCMXFBLWJzWXZBUk5QTVJSbnR1SjFOdVpUY2dFQ2NONUUwdzZlQmdLTVZxY19RblhUNjhn?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-19T16:06:36+00:00",
+      "summary": "G7 finance ministers agree need for action on economic imbalances Reuters",
+      "category": "politics",
+      "score": 5.869
     },
     {
-      "title": "Smile launch highlights",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/05/Smile_launch_highlights",
-      "source": "ESA",
-      "published_at": "2026-05-19T08:00:00+00:00",
-      "summary": "Video: 00:04:00 ESA’s Smile satellite launched aboard a Vega-C rocket from Europe’s Spaceport in French Guiana. The rocket lifted off on at 04:52 BST / 05:52 CEST (00:52 local time) on 19 May 2026. Smile flew to space on Vega-C flight VV29. At 35 m tall, a Vega-C weighs 210 tonne",
-      "category": "science",
-      "score": 4.201
+      "title": "Putin arrives in China for talks with Chinese leader Xi Jinping",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-19T17:46:06+00:00",
+      "summary": "Russian President Vladimir Putin has arrived in Beijing for talks with Chinese leader Xi Jinping.",
+      "category": "politics",
+      "score": 5.346
+    },
+    {
+      "title": "Israel’s far-right Finance Minister Smotrich says ICC seeking his arrest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-19T17:35:16+00:00",
+      "summary": "After an ICC warrant request, Israel's Smotrich threatened to displace Palestinians from the West Bank.",
+      "category": "conflicts",
+      "score": 5.306
     }
   ],
   "hero_history": [
+    "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic",
     "Anthropic is letting Project Glasswing partners share AI-found cybersecurity findings more broadly",
     "Elon Musk loses US lawsuit against OpenAI",
     "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft",
     "Elon Musk loses lawsuit against OpenAI",
     "Australia acts to protect rare earths project from Chinese influence",
     "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports",
-    "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
-    "Three community kitchen workers among five killed by Israel in Gaza"
+    "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future"
   ]
 }

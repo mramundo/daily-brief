@@ -1,32 +1,23 @@
 {
-  "updated": "2026-05-18T18:55:15.291203+00:00",
+  "updated": "2026-05-19T01:19:07.354061+00:00",
   "hero": {
-    "title": "Elon Musk loses lawsuit against OpenAI",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUxNM3REVGdHdjAzd3g4WEtOb3gxTmdsRGxIZXJ0bUFZZGdKLXAxVUZEQUhCTFFWbUhsdnFKdy1Hd3N2YncxcERpcEloNUZEbkdOZldab3lGRVdLMENiZTJwUlZ4MWZoV1BRTUJpcTJ5V3p6SVlYVC1pdU9CbFoyZG1Vd1JqZ183eElQMDVlYzNaYzk0VXc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-18T17:58:06+00:00",
-    "summary": "Elon Musk loses lawsuit against OpenAI Reuters",
-    "category": "tech",
-    "score": 22.273
+    "title": "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/",
+    "source": "NASA",
+    "published_at": "2026-05-19T00:33:45+00:00",
+    "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, May 15, 2026 After freeing the rover’s arm from the “Atacama” block, we are ready to drill again! The new drill target will represent the same geologic stratum as Atacama, wh",
+    "category": "science",
+    "score": 4.618
   },
   "items": [
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-18T13:43:47+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 12.228
-    },
-    {
-      "title": "Elon Musk Loses $150 Billion AI Lawsuit Against OpenAI and Sam Altman",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMzNyZHJxbUZKVEpaQVRNUldRNU9ZdU56eW1ObzlZelI2VllmUFJRckJxb1NKUnpVWW80b1AwRFlwaWhNYlJGbkZuVlE0R2hoUVhzdWpNVF9CTDZXbC1SZXpCNmlaUUNEX29mYThQZ3BhRS1UMkdSaGZXM3M1MGRPd1J3c0VuSmxjQXd0bkFMQ1FGa0Z6QUN0LV9n0gGiAUFVX3lxTE5ZdHltY3k1bTdYazJEQ01YOGVtYWhnWWluUlRjZy10NEJNVjlpSzU3WTFEU0J5eGhNTDUyZ0JGQUNmQ1NhT3Y5Nldqc2UzNDdJWnJPWUZiT3NyS045c295SzNjdHZtZ1BNTUhJT0NjSTN5a3VkRWRWZnc2a1VHUTZFQ0dwVFRoWjdacGV3UlJBZkM2U2ZnQV9VcnF6VDVQdlktdw?oc=5",
-      "source": "Decrypt",
-      "published_at": "2026-05-18T17:47:34+00:00",
-      "summary": "Elon Musk Loses $150 Billion AI Lawsuit Against OpenAI and Sam Altman Decrypt",
+      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-05-18T22:08:37+00:00",
+      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
       "category": "tech",
-      "score": 6.655
+      "score": 4.202
     },
     {
       "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
@@ -35,7 +26,16 @@
       "published_at": "2026-05-18T16:16:38+00:00",
       "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
       "category": "conflicts",
-      "score": 5.315
+      "score": 4.071
+    },
+    {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "source": "TechCrunch",
+      "published_at": "2026-05-18T19:27:52+00:00",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+      "category": "tech",
+      "score": 3.942
     },
     {
       "title": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars",
@@ -44,17 +44,17 @@
       "published_at": "2026-05-18T17:09:43+00:00",
       "summary": "In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scie",
       "category": "science",
-      "score": 5.062
+      "score": 3.877
     }
   ],
   "hero_history": [
+    "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft",
     "Elon Musk loses lawsuit against OpenAI",
     "Australia acts to protect rare earths project from Chinese influence",
     "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports",
     "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
     "Three community kitchen workers among five killed by Israel in Gaza",
     "Drone strike sparks a fire on the perimeter of UAE's nuclear power plant, shaking Iran war ceasefire",
-    "Is a Chinese invasion of Taiwan imminent?",
-    "Lebanon says six killed in Israeli strike as US announces ceasefire extension"
+    "Is a Chinese invasion of Taiwan imminent?"
   ]
 }

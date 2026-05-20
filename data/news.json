@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-19T18:56:56.293338+00:00",
+  "updated": "2026-05-20T01:19:54.603668+00:00",
   "hero": {
-    "title": "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVGY5aXh3VWF5NnFfXzE0ZGlXUlFWMjZZd2Fma0NncENURmhIbWF3SHcwTjhON0E1dGNYS2NBZTJwaTNQUEllSnNDWTk5RmR1dXl4XzlEbkNTRm1PM3h4RklFYnZlYS1yTGdlaW4tSndtN1BXQnJ0TFF5YUJpRnR0dFJfbm1uSjM3VG1kUXpjOHBNUk82WVEwUjFwVHhtWngtQUxtQldJakpUSWFueFRkdzVBX0NsV1ZSSUprcDhFOVRiNjR3OXRvODIzbWpfWFNVQzBlejV1SWtiRjlpMXlF?oc=5",
+    "title": "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2lPb0JoR1lpbXJ5M3U3ZXFDVkRVY0dOamc1VEFVUmdyS19fVHRiaWViSDdGUGZtaTBWNkxwYkZuZmNCWXlXLVY0M05XU3NLS2VvUGwxNVBZcmJZYTJ3UGp0WjdRT1JZNWxjWTJMRjdkQnhlNlk1TjkzUGRFWVcxU3J0Ym1FTFNBdHhuMGwxWTNVaXRUTjkydUNmUWg5R09ZUHpUaTl3UHZuUjZYNnlaTlNTOXdzNXNxLTZEMXVBU3ZGVGE2WkFmR2tMd18?oc=5",
     "source": "Reuters",
-    "published_at": "2026-05-19T16:15:59+00:00",
-    "summary": "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic Reuters",
+    "published_at": "2026-05-19T23:24:25+00:00",
+    "summary": "Google DeepMind hires staff from Contextual AI in licensing deal, source says Reuters",
     "category": "tech",
-    "score": 10.184
+    "score": 6.097
   },
   "items": [
     {
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "source": "TechCrunch",
-      "published_at": "2026-05-19T15:43:04+00:00",
-      "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
-      "category": "tech",
-      "score": 7.764
+      "title": "NASA’s Psyche Mission Images the Crescent of Mars",
+      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/",
+      "source": "NASA",
+      "published_at": "2026-05-19T20:28:51+00:00",
+      "summary": "Description This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist. Captured by the spacecraft’s multispectral imager instrument, this was the last view of the whole planet before",
+      "category": "science",
+      "score": 5.982
     },
     {
-      "title": "G7 finance ministers agree need for action on economic imbalances",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnhudmJ5VG1fcTE3Y1RXSEhSN2diRjQ3Z3hwNVRUd1dwdlFadlBNMDRzak13VjMwdFU1enNmbDZzMFhyNW9ManBTYkJueW5UMnkwMjdsRGNTSE8zRVd5cEFGaWwwVWRiU2t0LXcwSDZYdGpCMXFBLWJzWXZBUk5QTVJSbnR1SjFOdVpUY2dFQ2NONUUwdzZlQmdLTVZxY19RblhUNjhn?oc=5",
+      "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXNuQ2V6WndSRFJ5QURnaUpudHRZYUREU0VTU1BPeTVPdEo2NVdZcHRyUXhjX3pVOXl6Z1MxQTlWa3Q4bDZhSXhqMm9vaVd6N1l1bWV0RlBiSGZta3JhcS1QS0JKWkVHMnlZVlQxanJxVF84SzluVE9Fdy1FenZ5TUJjVDBQQ01ZUklJcGx0b1FFQjJDTEVEeWZQVmxVTFFUNkxHaGxLZGhvbGlMNmVPcTFjbkVHM241WFBBMF8wTFlYMVJUa0E?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-19T16:06:36+00:00",
-      "summary": "G7 finance ministers agree need for action on economic imbalances Reuters",
-      "category": "politics",
-      "score": 5.869
+      "published_at": "2026-05-19T19:55:59+00:00",
+      "summary": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation Reuters",
+      "category": "tech",
+      "score": 5.275
     },
     {
-      "title": "Putin arrives in China for talks with Chinese leader Xi Jinping",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-19T17:46:06+00:00",
-      "summary": "Russian President Vladimir Putin has arrived in Beijing for talks with Chinese leader Xi Jinping.",
-      "category": "politics",
-      "score": 5.346
+      "title": "UK should set maximum working temperature rules, advisers say",
+      "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-05-19T23:40:12+00:00",
+      "summary": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
+      "category": "science",
+      "score": 4.726
     },
     {
-      "title": "Israel’s far-right Finance Minister Smotrich says ICC seeking his arrest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-19T17:35:16+00:00",
-      "summary": "After an ICC warrant request, Israel's Smotrich threatened to displace Palestinians from the West Bank.",
-      "category": "conflicts",
-      "score": 5.306
+      "title": "US stocks fall further from their records after bond markets crank up the pressure",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSy11OFdvMW9MTTZCaFM0UXFsUXVJTUd4VTQzNkJoc1M2cFRLTEhWWHhhcmsteVpyckdPMVZtZy1iSlhJVl9acFpSdFZURE1WNDR5b080QTRfeFJEZEp2Q2hHeHp3ODZrcTdPdFVVQ3J5dlNSdG9PU0ppMTF5YnNPbV9xTzZKbkRRR204aVJqMDQ0RVA0eWFNTUtJMGs?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-19T21:03:00+00:00",
+      "summary": "US stocks fall further from their records after bond markets crank up the pressure AP News",
+      "category": "finance",
+      "score": 4.197
     }
   ],
   "hero_history": [
+    "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
     "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic",
     "Anthropic is letting Project Glasswing partners share AI-found cybersecurity findings more broadly",
     "Elon Musk loses US lawsuit against OpenAI",
     "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft",
     "Elon Musk loses lawsuit against OpenAI",
     "Australia acts to protect rare earths project from Chinese influence",
-    "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports",
-    "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future"
+    "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports"
   ]
 }

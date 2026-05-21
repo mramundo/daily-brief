@@ -1,15 +1,33 @@
 {
-  "updated": "2026-05-20T19:05:37.494631+00:00",
+  "updated": "2026-05-21T01:20:13.069824+00:00",
   "hero": {
-    "title": "OpenAI Is Preparing to File for an IPO in the Coming Weeks",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzZOZXNXNlpLX1N2a0MzSFFDRmdMY2xLRk9BNkw3M3N4aG9DNXV4MEkxeUdqcTl1V1dQeXZBQmdpNURYZG1nTEduUXFpU0x1ZUc1MS04dU40NXFLVDd5S3Z6aE0tS05yYUd2T0JYbWlPVWMySm5PeUNkakdBcmtBbWlsd21ubXVEUm5obktmT1RTSmlmc2ZQT016MU5WYUdrbGlrbDJ0ZUU4MFVwTUgxLQ?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-05-20T16:48:01+00:00",
-    "summary": "OpenAI Is Preparing to File for an IPO in the Coming Weeks Bloomberg.com",
+    "title": "Nvidia bets on new data center chips for growth as sales outlook tops estimates",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMTFWZ3NKWnlKVTRtaWVfMnhGSjZtd014djQxZEhPdElOeDBSdXBEVEwyMVZaNlpRZDJTdDM2dm5xMXhhZzM2QmVHV1RZVzRQNUdrTU1NX2VRQmc3dU5tVzhjYXJrbHBqOXVTUWpJTGR2V2QyZkVLRVlYSFE0MzFIaHk5OU9nazVlUnZYaXBrUTktVDVFRkJkN0JxaDE2ZW5lNlhtOE5nMDVHREpoTFlzeGpraEl5VnBBZ2RheUd3QnZWVUh0MVhTZDhCRWJDYzVuWXVmVA?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-20T23:59:46+00:00",
+    "summary": "Nvidia bets on new data center chips for growth as sales outlook tops estimates Reuters",
     "category": "tech",
-    "score": 7.581
+    "score": 7.289
   },
   "items": [
+    {
+      "title": "OpenAI aiming for speedy IPO, source says",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMnZDYW4zd0pDVEQxVFRhNlozSDdMaTVma1FrQVhaZVZKd1lXTGtVdk9QUVVmN2pDbmc1SG8xVkRSTElVNThiZVlpV3dmLTZSVEdvaVhScGh3bm5oRk11WFZ6V05QbUk4a19ZcWlXRVVkeVUtRnZRYjFBQ0JUczRvNmJCam11YzN2U0NGeUlPUVA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-20T23:41:12+00:00",
+      "summary": "OpenAI aiming for speedy IPO, source says Reuters",
+      "category": "tech",
+      "score": 7.195
+    },
+    {
+      "title": "EU shortlists tungsten, rare earths for first stockpile to curb China reliance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUJIN3R3b1d6N05STE43dUs2WXFub0N3STlEdjRvMkdYOEF0YWpwcktKT203SE4zOWt3SnEtVDlvQzZRR045Q1puWTNKV2VCdGRuMkxNZlB3OE9ySlpzbHQzY24tenljcUFHZmR3bGNfVjR2ZUNHekc4V1pvZmFMa28tZ3F1WGdqOVhQS21MU1EtQmM1OXJBYmdCRmZwNmVoSlBCQlo1NzRmM2laOVlyOW9QOWlIRUFCNzI2clZsZ3Ywb3c?oc=5",
+      "source": "MSN",
+      "published_at": "2026-05-20T23:08:06+00:00",
+      "summary": "EU shortlists tungsten, rare earths for first stockpile to curb China reliance MSN",
+      "category": "resources",
+      "score": 6.523
+    },
     {
       "title": "NASA-developed AI Could Help Track Harmful Algae",
       "url": "https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/",
@@ -17,44 +35,26 @@
       "published_at": "2026-05-20T17:39:10+00:00",
       "summary": "NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal",
       "category": "science",
-      "score": 6.412
+      "score": 4.943
     },
     {
-      "title": "Wall St rises on chip rally ahead of Nvidia results",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVR5TjBBVTlmVVVNanRmaUZVaDVsMFNaR0FTMUE0MlByMXpCdlR5TW9aQ3ZHWVJ6c0l4REtMSkNrWndxc3NqT2FqaklnbVlvb3drZi14RjRiWjZjRU8tSlZTVlJpRXBjaXlnU2I4RE9IdmxPQklVQWVoVlZqbldLQW1Uem9xQ0VFOElmZGRuWlB6LTNnbTRnV2RTTDJ2b2d4UWZYUHM1MlFpT2hH?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-20T16:33:24+00:00",
-      "summary": "Wall St rises on chip rally ahead of Nvidia results Reuters",
-      "category": "tech",
-      "score": 5.944
-    },
-    {
-      "title": "US indicts former Cuban President Raul Castro",
-      "url": "https://www.dw.com/en/us-indicts-former-cuban-president-raul-castro/a-77233317?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-05-20T17:19:00+00:00",
-      "summary": "It's the latest step by the Trump administration to punish Cuba's communist government and officials. Raul stepped down from the presidency in 2018.",
-      "category": "politics",
-      "score": 5.618
-    },
-    {
-      "title": "EU shortlists tungsten, rare earths for first stockpile to curb reliance on China",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmhvVmxQbzA1anZ0Q2p2WXpFMm83M0VwOW1sZ0ZnN0k0OWNyeF9KZGtvMmxJYUhWWGF5RWlOck82TEtsN0dMSmxjNm10TmMxOFd0TW9fRTQ3OHFza2tXZzhqNkFLVU5oUHVaNGQxNkczaHRDQjR6endqTXNldDNRSWFlUHlOUUdSY1NtQWxGOXlqVWVFY3BaczRkMVBvUFpob0FPOVp1T2hRcXMwa3NuUkR5N1hsLUF1bGc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-20T14:18:07+00:00",
-      "summary": "EU shortlists tungsten, rare earths for first stockpile to curb reliance on China Reuters",
-      "category": "resources",
-      "score": 5.411
+      "title": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-21T00:00:00+00:00",
+      "summary": "Israeli attacks have killed 3,073 people across Lebanon since March, according to Lebanese Health Ministry.",
+      "category": "conflicts",
+      "score": 4.609
     }
   ],
   "hero_history": [
+    "Nvidia bets on new data center chips for growth as sales outlook tops estimates",
     "OpenAI Is Preparing to File for an IPO in the Coming Weeks",
     "Ukraine ally Britain eases new sanctions on Russian oil as fuel prices surge over Iran war",
     "Russian President Vladimir Putin in Beijing for talks with Chinese leader Xi Jinping",
     "Google DeepMind hires staff from Contextual AI in licensing deal, source says",
     "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic",
     "Anthropic is letting Project Glasswing partners share AI-found cybersecurity findings more broadly",
-    "Elon Musk loses US lawsuit against OpenAI",
-    "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft"
+    "Elon Musk loses US lawsuit against OpenAI"
   ]
 }

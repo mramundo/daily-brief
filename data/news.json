@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-23T12:38:26.491821+00:00",
+  "updated": "2026-05-23T18:37:23.324659+00:00",
   "hero": {
-    "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGJtaGk0ZTdTcS10ZjF0Q3U1SXlwbFVQbEpjQVJwbENYc0NibFFpVF9MN29UNE5uZ205eGliMTh6QXUxem5Dd0g0dVdWT2h2c3ZhemRaMWdPN2VabWtBOWlzVmt5a2doREhnYkU5T3pVTFE2Vm1SQTMweFkycmRBTFFJemdTV21nd202QkRtS29YMGUxZzZHYXdjSUxkLTNFNjdBX3FNcjVMNFcxWkZz?oc=5",
+    "title": "Russia says 18 killed in strike on student dorm that it blamed on Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXV2V3Vsc194TEZJM2N3WTFZbXJ4YUowYlMzaWhkVGZUS3VoTlVRYXQ1LVF1MnVHRUN6TlM0cjFPcHNwZzFYRWdSeFFEQklrbV9nZEpfeVBQUjBEYkdfbHdkUnNkM3JwVjRsSkVBZ29pYVpuckNNOU1hV19WZzRuOTdGbmVfdDM3MFhTQ3pua2U3TTVUa0VvX2RnYk9hSV9LTU1iSUlHNjVWbTQ3YnVqUFhzWHFEQlZOdE1SYw?oc=5",
     "source": "Reuters",
-    "published_at": "2026-05-23T11:12:50+00:00",
-    "summary": "Nvidia says its forecast for $200 billion CPU market includes China Reuters",
-    "category": "tech",
-    "score": 7.334
+    "published_at": "2026-05-23T16:34:16+00:00",
+    "summary": "Russia says 18 killed in strike on student dorm that it blamed on Ukraine Reuters",
+    "category": "conflicts",
+    "score": 7.076
   },
   "items": [
     {
-      "title": "Mexico, EU sign stalled trade deal as they aim to diversify from US",
-      "url": "https://www.france24.com/en/mexico-eu-sign-stalled-trade-deal-as-they-aim-to-diversify-from-us",
-      "source": "France 24",
-      "published_at": "2026-05-23T10:02:37+00:00",
-      "summary": "Mexico and the European Union signed a long-stalled free trade agreement on Friday as they seek to decrease dependence on the U.S. and partially insulate themselves from U.S. President Donald ‌Trump's tariffs.",
+      "title": "Israeli minister Ben-Gvir banned from French territory",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLThRUGhjSTMzSEVwYkV1NjhLUUpSUzE5dUcwZ1hUb0xQcVhsdF8wTFVPLUhRZU5pdUJ2WGROb2JIUzJhU0VCME5STUFiWHVFOTZZY1M2ZGphcUtLZHlqa3BlcnNrbDhSUVAta3JLNkJUSmRBZDBEbVZoNi1CUS02d2licEdWeGdRajFHdktqYUVBTnB0QkE3dXc4NENWREFkdDl0RzM0YXhmekFSYktF?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-23T13:13:03+00:00",
+      "summary": "Israeli minister Ben-Gvir banned from French territory Reuters",
       "category": "politics",
-      "score": 5.672
+      "score": 6.795
     },
     {
-      "title": "Senegal's President Faye fires prime minister after years of tensions",
-      "url": "https://www.france24.com/en/senegal-s-president-faye-fires-prime-minister-after-years-of-tensions",
-      "source": "France 24",
-      "published_at": "2026-05-23T09:40:59+00:00",
-      "summary": "Senegal’s President Bassirou Diomaye Faye has fired Prime Minister Ousmane Sonko after years of simmering tension.",
-      "category": "politics",
-      "score": 5.587
-    },
-    {
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-23T08:10:51+00:00",
-      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
+      "title": "Russia preparing strike on Ukraine using hypersonic 'Oreshnik' missile, Zelenskiy says",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXlkdVBNNk50dlU3elVGaE1XYm1RX21FZHlwRFI4eTFFR1RBTVB1R0w5OU0tdHNqTGVhMlQtcTR6VEg5bjEwOE1ycHFlRkh2R0FEYjZZcEFPbXJHNkNMblVYNDZMREQycmZwUlN5Tlp3RWtoaklWOS1tNVdwR0Q5c1FaMlFWYlN1OTEwRjdUWi1RNGtFelBVSVpfWnYzMHRLQUw2NW9nbDl0X0s3Vzk0cVJOajI4Sld3R3VIRVVkVWVPTUlMSWFJRmU4LU55b25ZSF94LU1QSlZxa28?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-23T16:31:52+00:00",
+      "summary": "Russia preparing strike on Ukraine using hypersonic 'Oreshnik' missile, Zelenskiy says Reuters",
       "category": "conflicts",
-      "score": 5.047
+      "score": 4.598
     },
     {
-      "title": "These stocks are today’s movers: Nvidia, IBM, D-Wave Quantum, Rocket Lab, Intuit, Walmart, Deere, and more",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUTdCbGxSMW9sbF9xZkgzNm10MWwwdmJsb1JmMmx5Y01pZmI2enptdUNWUDdUX2IwTkxJZWFzMnRmUVQ2elg1d1JJLWdiYkxoVmFyWFY3cVllUWliOHJMekpmcVpNX2t2UlhEUlhCWF9YUWpEZjZ3d2tzbi0tbllNUFdpcmlvY1NNMzhMTGo0azB4RVNvd1FFUm5ZaFZZSF9hOGdkZTk0Y05WaEprRDhkTDJkdXhuMG5TT1FTNV9hSjhvY19CVW9QMk05aEh0VFgzTEJPLUpMcE9CUjU1aF84bldlWUtMVzQ?oc=5",
-      "source": "MSN",
-      "published_at": "2026-05-23T11:52:25+00:00",
-      "summary": "These stocks are today’s movers: Nvidia, IBM, D-Wave Quantum, Rocket Lab, Intuit, Walmart, Deere, and more MSN",
+      "title": "European Lithium's Merger Momentum Gets a Rare Earths Kick and a Cash Countdown",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWJwelV5cm1JV1NzdlBFTW1tTmJoN0dEVVdpM2F0cjBYUDd6YWxFdTgwSFhzM1NrTXRGNmVhM09VUHhEbE5NU2tUbF9tVVpqc09INWRVd2J0RERfS3NtMU95eXJfRE1CbGlQSWg0N1BMTl94S1l2ZHZqS1ZFSEUzZWFmd1luZkktdVAwdTRlaGl2dUZTbG0tMV9oak1HUzgyck1XVWdUMVFtcXJSSzhuM2VYSjBKbmlUN19fa3c3WEs3UDZWTjRz?oc=5",
+      "source": "AD HOC NEWS",
+      "published_at": "2026-05-23T17:41:26+00:00",
+      "summary": "European Lithium's Merger Momentum Gets a Rare Earths Kick and a Cash Countdown AD HOC NEWS",
+      "category": "resources",
+      "score": 4.448
+    },
+    {
+      "title": "Nvidia says its forecast for $200 billion CPU market includes China",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGJtaGk0ZTdTcS10ZjF0Q3U1SXlwbFVQbEpjQVJwbENYc0NibFFpVF9MN29UNE5uZ205eGliMTh6QXUxem5Dd0g0dVdWT2h2c3ZhemRaMWdPN2VabWtBOWlzVmt5a2doREhnYkU5T3pVTFE2Vm1SQTMweFkycmRBTFFJemdTV21nd202QkRtS29YMGUxZzZHYXdjSUxkLTNFNjdBX3FNcjVMNFcxWkZz?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-23T17:23:41+00:00",
+      "summary": "Nvidia says its forecast for $200 billion CPU market includes China Reuters",
       "category": "tech",
-      "score": 4.479
+      "score": 4.067
     }
   ],
   "hero_history": [
+    "Russia says 18 killed in strike on student dorm that it blamed on Ukraine",
     "Nvidia says its forecast for $200 billion CPU market includes China",
     "Senegal’s president fires prime minister after months of tensions",
     "The space race to create gym equipment for future astronauts",
     "UAE left OPEC to pump more as end of oil era looms, presidential adviser says",
     "Anthropic in talks to use Microsoft's custom Maia AI chips - report",
     "US sanctions Tanzanian police official over 'torture' of rights activists",
-    "Meta settles social media addiction case brought by rural Kentucky school district",
-    "US to invest $2 billion in IBM, other quantum computing firms"
+    "Meta settles social media addiction case brought by rural Kentucky school district"
   ]
 }

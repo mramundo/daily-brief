@@ -1,15 +1,42 @@
 {
-  "updated": "2026-05-22T18:55:28.811541+00:00",
+  "updated": "2026-05-23T01:14:29.742749+00:00",
   "hero": {
-    "title": "UAE left OPEC to pump more as end of oil era looms, presidential adviser says",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSl91M3pZc1Q2RGJPcWlJMG9leFNpbHJxZHd0RGhqcGhXLV9SNTdES0pYWWJyNF9uTW9VZHF2SmxXdGpjVDhRa1lYcnRjMjhzbEVnV0dQOTlDOUs5WHJsN0JoZXRZWXBqLXNDUmxjdm5SVmNCaTB6WVJ5RVBoRmRHVk9hM1ozQzZZS3ZLRm9lQUsxZ0ktZ2E5M2JwSG1IdkljTnE3RTZRTFUxMVhpblJXWVRYT19yY1JEQlpHaXdOdw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-22T12:33:20+00:00",
-    "summary": "UAE left OPEC to pump more as end of oil era looms, presidential adviser says Reuters",
-    "category": "resources",
-    "score": 6.551
+    "title": "The space race to create gym equipment for future astronauts",
+    "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "published_at": "2026-05-22T23:42:07+00:00",
+    "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+    "category": "science",
+    "score": 5.7
   },
   "items": [
+    {
+      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-22T20:52:35+00:00",
+      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
+      "category": "conflicts",
+      "score": 5.067
+    },
+    {
+      "title": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-23T00:00:00+00:00",
+      "summary": "Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.",
+      "category": "conflicts",
+      "score": 4.628
+    },
+    {
+      "title": "Trump disappointed in NATO: Plan B?",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260522-trump-disappointed-in-nato-plan-b",
+      "source": "France 24",
+      "published_at": "2026-05-22T19:15:42+00:00",
+      "summary": "As NATO foreign ministers gather in southern Sweden, fresh questions are growing over President Trump’s commitment to the alliance. The message from Washington today came via Secretary of State Marco Rubio, amid continuing uncertainty over Article 5 — NATO’s collective defence gu",
+      "category": "politics",
+      "score": 4.123
+    },
     {
       "title": "Webb Studies Star Clusters",
       "url": "https://www.nasa.gov/image-article/webb-studies-star-clusters/",
@@ -17,44 +44,17 @@
       "published_at": "2026-05-22T18:23:38+00:00",
       "summary": "This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive",
       "category": "science",
-      "score": 5.328
-    },
-    {
-      "title": "Arafura Rare Earths plans 250 million share sale backed by Australia's richest person http:// reut.rs/3RfFUVY",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGRaR2xobEFrcGJxWFlSVjk4dXJESFFvVF9UVC15Wnl1NHJnUXU5V3hNV2F5ZnNGWS1uSU5obVFxUU1DZTdmMXU3VVNWMklkVXhNUmFzVElmaVByVUwzYjFhbnZwMnJVSGhDLU0yNEh1MThvQm5RazhvRW9KQmtqUUNJcEx6REo2bjRJSFYwellnTXpLSWJ4RjJ5ZUFRbU1YWmNic3U2STlsdUVxOTE3Rk9tOHZOa25FNjBWQ0VNdGdENWNWWTFmTnM5MA?oc=5",
-      "source": "Startup Fortune",
-      "published_at": "2026-05-22T13:24:34+00:00",
-      "summary": "Arafura Rare Earths plans 250 million share sale backed by Australia's richest person http:// reut.rs/3RfFUVY Startup Fortune",
-      "category": "resources",
-      "score": 4.735
-    },
-    {
-      "title": "Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3RnLUVNQXdSdzBYRXl3QlJfSDkzSFNVVXlmWkJnU2V6clRIQ0tSUHNMYXpjQU5RUHBJTlh5Q0d3Rl9ralI4OTU4YXF2OHhkNU45VXZuUlJ6UVkyMks1aXBValFZaWl2TjhoalhoYWtSaW9rbTV0VW1NcENoS3dVcGpES3hNeHJfU2pMeDhSUW1mY1V0Uk9pUzEyUjZiaXBlZmUxZ2syX3Frek1BWmhKSjZIc3dpTldqMDV3NFVuUDhmMHJscmRSTUl3?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-22T15:24:00+00:00",
-      "summary": "Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say AP News",
-      "category": "conflicts",
-      "score": 4.332
-    },
-    {
-      "title": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
-      "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
-      "source": "The Verge",
-      "published_at": "2026-05-22T17:27:08+00:00",
-      "summary": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. Rather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google",
-      "category": "tech",
-      "score": 4.314
+      "score": 4.095
     }
   ],
   "hero_history": [
+    "The space race to create gym equipment for future astronauts",
     "UAE left OPEC to pump more as end of oil era looms, presidential adviser says",
     "Anthropic in talks to use Microsoft's custom Maia AI chips - report",
     "US sanctions Tanzanian police official over 'torture' of rights activists",
     "Meta settles social media addiction case brought by rural Kentucky school district",
     "US to invest $2 billion in IBM, other quantum computing firms",
     "Anthropic in talks to use Microsoft's AI chips, The Information reports",
-    "Australia's Ionic Rare Earths inks deal with US-based Nth Cycle to boost output outside China",
-    "Nvidia bets on new data center chips for growth as sales outlook tops estimates"
+    "Australia's Ionic Rare Earths inks deal with US-based Nth Cycle to boost output outside China"
   ]
 }

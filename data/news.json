@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-23T18:37:23.324659+00:00",
+  "updated": "2026-05-24T01:20:08.947922+00:00",
   "hero": {
-    "title": "Russia says 18 killed in strike on student dorm that it blamed on Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXV2V3Vsc194TEZJM2N3WTFZbXJ4YUowYlMzaWhkVGZUS3VoTlVRYXQ1LVF1MnVHRUN6TlM0cjFPcHNwZzFYRWdSeFFEQklrbV9nZEpfeVBQUjBEYkdfbHdkUnNkM3JwVjRsSkVBZ29pYVpuckNNOU1hV19WZzRuOTdGbmVfdDM3MFhTQ3pua2U3TTVUa0VvX2RnYk9hSV9LTU1iSUlHNjVWbTQ3YnVqUFhzWHFEQlZOdE1SYw?oc=5",
+    "title": "Nvidia says its forecast for $200 billion CPU market includes China",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGJtaGk0ZTdTcS10ZjF0Q3U1SXlwbFVQbEpjQVJwbENYc0NibFFpVF9MN29UNE5uZ205eGliMTh6QXUxem5Dd0g0dVdWT2h2c3ZhemRaMWdPN2VabWtBOWlzVmt5a2doREhnYkU5T3pVTFE2Vm1SQTMweFkycmRBTFFJemdTV21nd202QkRtS29YMGUxZzZHYXdjSUxkLTNFNjdBX3FNcjVMNFcxWkZz?oc=5",
     "source": "Reuters",
-    "published_at": "2026-05-23T16:34:16+00:00",
-    "summary": "Russia says 18 killed in strike on student dorm that it blamed on Ukraine Reuters",
-    "category": "conflicts",
-    "score": 7.076
+    "published_at": "2026-05-23T18:31:14+00:00",
+    "summary": "Nvidia says its forecast for $200 billion CPU market includes China Reuters",
+    "category": "tech",
+    "score": 4.593
   },
   "items": [
     {
-      "title": "Israeli minister Ben-Gvir banned from French territory",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLThRUGhjSTMzSEVwYkV1NjhLUUpSUzE5dUcwZ1hUb0xQcVhsdF8wTFVPLUhRZU5pdUJ2WGROb2JIUzJhU0VCME5STUFiWHVFOTZZY1M2ZGphcUtLZHlqa3BlcnNrbDhSUVAta3JLNkJUSmRBZDBEbVZoNi1CUS02d2licEdWeGdRajFHdktqYUVBTnB0QkE3dXc4NENWREFkdDl0RzM0YXhmekFSYktF?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-23T13:13:03+00:00",
-      "summary": "Israeli minister Ben-Gvir banned from French territory Reuters",
-      "category": "politics",
-      "score": 6.795
-    },
-    {
-      "title": "Russia preparing strike on Ukraine using hypersonic 'Oreshnik' missile, Zelenskiy says",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXlkdVBNNk50dlU3elVGaE1XYm1RX21FZHlwRFI4eTFFR1RBTVB1R0w5OU0tdHNqTGVhMlQtcTR6VEg5bjEwOE1ycHFlRkh2R0FEYjZZcEFPbXJHNkNMblVYNDZMREQycmZwUlN5Tlp3RWtoaklWOS1tNVdwR0Q5c1FaMlFWYlN1OTEwRjdUWi1RNGtFelBVSVpfWnYzMHRLQUw2NW9nbDl0X0s3Vzk0cVJOajI4Sld3R3VIRVVkVWVPTUlMSWFJRmU4LU55b25ZSF94LU1QSlZxa28?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-23T16:31:52+00:00",
-      "summary": "Russia preparing strike on Ukraine using hypersonic 'Oreshnik' missile, Zelenskiy says Reuters",
-      "category": "conflicts",
-      "score": 4.598
-    },
-    {
-      "title": "European Lithium's Merger Momentum Gets a Rare Earths Kick and a Cash Countdown",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWJwelV5cm1JV1NzdlBFTW1tTmJoN0dEVVdpM2F0cjBYUDd6YWxFdTgwSFhzM1NrTXRGNmVhM09VUHhEbE5NU2tUbF9tVVpqc09INWRVd2J0RERfS3NtMU95eXJfRE1CbGlQSWg0N1BMTl94S1l2ZHZqS1ZFSEUzZWFmd1luZkktdVAwdTRlaGl2dUZTbG0tMV9oak1HUzgyck1XVWdUMVFtcXJSSzhuM2VYSjBKbmlUN19fa3c3WEs3UDZWTjRz?oc=5",
-      "source": "AD HOC NEWS",
-      "published_at": "2026-05-23T17:41:26+00:00",
-      "summary": "European Lithium's Merger Momentum Gets a Rare Earths Kick and a Cash Countdown AD HOC NEWS",
-      "category": "resources",
-      "score": 4.448
-    },
-    {
-      "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGJtaGk0ZTdTcS10ZjF0Q3U1SXlwbFVQbEpjQVJwbENYc0NibFFpVF9MN29UNE5uZ205eGliMTh6QXUxem5Dd0g0dVdWT2h2c3ZhemRaMWdPN2VabWtBOWlzVmt5a2doREhnYkU5T3pVTFE2Vm1SQTMweFkycmRBTFFJemdTV21nd202QkRtS29YMGUxZzZHYXdjSUxkLTNFNjdBX3FNcjVMNFcxWkZz?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-23T17:23:41+00:00",
-      "summary": "Nvidia says its forecast for $200 billion CPU market includes China Reuters",
+      "title": "Nvidia Earnings May 2026: AI Chip Giant Beats Estimates Despite Stock Dip",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsQ1BqeDh0QWktYnVoRXZJM2M5ZnRYNXZZQTlnNUJnalR3NjZtWllRV0xKMGhFaUFTTzNKWUpCVnloUWlaVlk4VnppZnlEOVFLRXN4QkdwNW5mNGdNbG1jM2E1clVGdERXSnlOS3ln?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "2026-05-24T00:11:15+00:00",
+      "summary": "Nvidia Earnings May 2026: AI Chip Giant Beats Estimates Despite Stock Dip Intellectia AI",
       "category": "tech",
-      "score": 4.067
+      "score": 3.826
+    },
+    {
+      "title": "US: Suspect dies after gunfire near White House",
+      "url": "https://www.dw.com/en/us-suspect-dies-after-gunfire-near-white-house/a-77276529?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-05-24T01:11:00+00:00",
+      "summary": "There was a massive emergency police response after gunshots were heard near the White House, where President Donald Trump was working on a deal with Iran. The suspect has been shot and killed by law enforcement.",
+      "category": "politics",
+      "score": 3.632
+    },
+    {
+      "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-23T21:14:39+00:00",
+      "summary": "Funerals were held for paramedics killed by two Israeli air strikes in southern Lebanon on Friday.",
+      "category": "conflicts",
+      "score": 3.596
+    },
+    {
+      "title": "Facing intense internal pressure, DNC releases postelection autopsy that criticizes Kamala Harris",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2cxWmlnMnA3eV9hWHVwdXVIeXpEM2ZISTRXSl9zQTA0aGNMRHI4YURjcVBEWnQ2Y1BNLWFiSmlGblNpa2JRRDJvSDF4c2VTVGhQLVNTSVZqTERHa3c2YzNxcno3eE51aEJYQ2dIbDFLeEJkZWdwdzVUbEZmWHZmU002a3ZxQlZYbDhVU3ZOMFphVHF0SnlpT1ZDTmpnVUt1M3ZLWkpja1Y3ZUtROW9JU2I2NA?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-24T01:18:06+00:00",
+      "summary": "Facing intense internal pressure, DNC releases postelection autopsy that criticizes Kamala Harris AP News",
+      "category": "politics",
+      "score": 3.578
     }
   ],
   "hero_history": [
+    "Nvidia says its forecast for $200 billion CPU market includes China",
     "Russia says 18 killed in strike on student dorm that it blamed on Ukraine",
     "Nvidia says its forecast for $200 billion CPU market includes China",
     "Senegal’s president fires prime minister after months of tensions",
     "The space race to create gym equipment for future astronauts",
     "UAE left OPEC to pump more as end of oil era looms, presidential adviser says",
     "Anthropic in talks to use Microsoft's custom Maia AI chips - report",
-    "US sanctions Tanzanian police official over 'torture' of rights activists",
-    "Meta settles social media addiction case brought by rural Kentucky school district"
+    "US sanctions Tanzanian police official over 'torture' of rights activists"
   ]
 }

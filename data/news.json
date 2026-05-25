@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-25T07:55:20.417306+00:00",
+  "updated": "2026-05-25T13:27:05.296322+00:00",
   "hero": {
-    "title": "Oil prices slide on hopes of US-Iran peace deal",
-    "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "published_at": "2026-05-25T07:16:37+00:00",
-    "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-    "category": "resources",
-    "score": 3.978
+    "title": "Anthropic's Olah says AI must be guided from outside Big Tech",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjdKY25UdUNKeUJ2dU96T2Jrc0xHNTJ3bkwtMFpkS0s3SjYtU0NDNUxXTVZGM2xoOXM3eWNVSVFXUVJOdk9vT3ZXNlVpcXZVSXd3MU1JQXZaanc4RXNGRUQ0blFUejc4a2Nzak85dzQ5a3A5WlRuSHNNa3drSVd1QTdGRnl0d0VEVWFiTm1FQVZHaWw2bmQ1c2cwWkRYYWl1Vi13YTVqUQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-25T11:15:49+00:00",
+    "summary": "Anthropic's Olah says AI must be guided from outside Big Tech Reuters",
+    "category": "tech",
+    "score": 7.797
   },
   "items": [
     {
-      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
-      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-05-25T06:52:59+00:00",
-      "summary": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
-      "category": "science",
-      "score": 3.788
-    },
-    {
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-25T04:45:13+00:00",
-      "summary": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "title": "Missile and drone strikes kill eight in Russia and Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTE9RZDZ2N2FHck1HakdlV2RReHlYR2dWUnRGbHB2VHBxbW91cEtJMWFrOUxDNF9Bckp6QWN4dTFkcU0xekw4WUVmMjZrcW1sZmdPZW1xTmY5TW5VUGNZUnZhWUNNaWdNX2tRR3Z0YUtjUVRHSGR5OFB4S3pPUkFlbnllN3VuQ3llTS04TUcyTlUwcFE5djVjX2c3YmpzTy1mNXpUcWlScWVaZ1lZdm5ES3FoU1R5OG5RSzJHT2JtZWhQanFk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-25T05:12:00+00:00",
+      "summary": "Missile and drone strikes kill eight in Russia and Ukraine Reuters",
       "category": "conflicts",
-      "score": 3.195
+      "score": 6.246
     },
     {
-      "title": "Rubio says 'solid' Iran deal may come on Monday",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-25T06:41:43+00:00",
-      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, US media reports.",
-      "category": "conflicts",
-      "score": 3.132
+      "title": "Pope calls for robust regulation of AI in manifesto that ponders the future of humanity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjMxWVlpUUhJb1JjYnFPRXpkeE1qaTc3aDNQQXltRWZYNmo4T1dmN095X3R6bDY5NmkxdHBwTERrNkg1ajFIZDFZR09VQzd6a2oyalZTM2tkcjRwMFVyXzM5RUhkZWNQQ216cExQbkI1OGN0RS1CazVJV1dvTV9aYUt2cVVsc3Z6LVJDanZySTdMOHdEWmlIVTI4VVI?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-25T11:47:00+00:00",
+      "summary": "Pope calls for robust regulation of AI in manifesto that ponders the future of humanity AP News",
+      "category": "tech",
+      "score": 5.136
     },
     {
-      "title": "Senegal parliament speaker steps down as political crisis worsens",
-      "url": "https://www.aljazeera.com/news/2026/5/24/senegal-parliament-speaker-steps-down-as-political-crisis-worsens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-24T20:43:21+00:00",
-      "summary": "The move by speaker El Malick Ndiaye clears the way for sacked premier Ousmane Sonko to run for head of parliament.",
+      "title": "Senegal's parliament speaker quits two days after prime minister sacked",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUktcVZwaXZBSWloeWsyTmtOU2plRGRCX28zXzNZNG1vcUR3OFpvV2JmOUZWWkVlSGhNcG9SeUtwRVBnWUktSVFJdDB3VDdhLWdKbDBQdVZoSHZHNXlYXzRqbHZIMURIQUtBTVRyaUpvOGstMU5mT3d5NDh0VFVQUTM2d0FZR1hXQlJIcnhXZWFlVXdhQ1A3UTNKTkVLMXdraXN1UEVJV0FVbHhyQnI2RGwxRTVLcUF4QzBB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-25T08:41:45+00:00",
+      "summary": "Senegal's parliament speaker quits two days after prime minister sacked Reuters",
       "category": "politics",
-      "score": 2.934
+      "score": 4.115
+    },
+    {
+      "title": "Oil and LNG tankers exit Hormuz, heading for Pakistan and China",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVVSQnVDcHd0cUZHRnpsSjdXUUhHT0Q0eDVUNElUVTdhNml5WGVQWFBIVnBsVTM4RUZ1WWVhVHROVk9uaFNzbS1keFZWdW9jSDFXc0g3OWl1bmFVNUZZMW9kd2tHRDN1alFxWUM2RnBVZzM2Sk9fNTNtZXdrQ0lUblEySXBUVHpUa1lKbkNIemVJclh3dmEwdXNkTjRFR3NxQ0pkaUVDSTBjbHp0WHgxUUVnanVqaHkyRUJ6MQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-25T12:18:57+00:00",
+      "summary": "Oil and LNG tankers exit Hormuz, heading for Pakistan and China Reuters",
+      "category": "resources",
+      "score": 4.101
     }
   ],
   "hero_history": [
+    "Anthropic's Olah says AI must be guided from outside Big Tech",
     "Oil prices slide on hopes of US-Iran peace deal",
     "Republicans who have drawn a hard line on Iran pan Trump's emerging proposal to end the war",
     "Suspect killed after opening fire on Secret Service near White House",
     "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
     "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
     "Nvidia says its forecast for $200 billion CPU market includes China",
-    "Russia says 18 killed in strike on student dorm that it blamed on Ukraine",
-    "Nvidia says its forecast for $200 billion CPU market includes China"
+    "Russia says 18 killed in strike on student dorm that it blamed on Ukraine"
   ]
 }

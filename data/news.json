@@ -1,41 +1,41 @@
 {
-  "updated": "2026-05-25T01:21:34.735634+00:00",
+  "updated": "2026-05-25T07:55:20.417306+00:00",
   "hero": {
-    "title": "Republicans who have drawn a hard line on Iran pan Trump's emerging proposal to end the war",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmYxWHhTZUNmRUNIZFVrakVCTVZVVXdqMHdrX1FzNER3QWktYlYyMldJemZ6el9fS2IyS0I0VmlaRmFOWFkxVkdpNW81M0ZDS1JZam1Pa2Y3ZkkxQjlkOVZneHNMdExNN2VOVEhKSHU2ODh0eW5ZVVBVc05SZ19tNFJpY1MxS0lfbUpaLTlmUV9xMW5sRngtaDBlYllJbjNJRTZ1TWtsUjhyQQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-05-24T18:59:25+00:00",
-    "summary": "Republicans who have drawn a hard line on Iran pan Trump's emerging proposal to end the war AP News",
-    "category": "conflicts",
-    "score": 4.222
+    "title": "Oil prices slide on hopes of US-Iran peace deal",
+    "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published_at": "2026-05-25T07:16:37+00:00",
+    "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+    "category": "resources",
+    "score": 3.978
   },
   "items": [
     {
-      "title": "Stocks rise, oil and dollar slide on Middle East peace hopes",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80REpkZUY0REpKR1N0dkFWY29kaGdsYVlCdnhDdTNGNTYyWTVZSF9NOGl0bE5iM0ZoY1BjNnY3S0NGLXFFTVg0RkkycW90SG1oX3JNTXVuZlVHN182UUlkX29mNndnRktCTEozdk5IaF9UVDVnb19wc1RNUQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-24T23:37:28+00:00",
-      "summary": "Stocks rise, oil and dollar slide on Middle East peace hopes Reuters",
-      "category": "finance",
-      "score": 4.132
+      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
+      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-05-25T06:52:59+00:00",
+      "summary": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
+      "category": "science",
+      "score": 3.788
     },
     {
-      "title": "The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalFQa3RzX1NBWW5TWGJzYUxxb2dHWWFvR2J5N2FlZ01WQXM1LVlBUVlCQ01qTnJYWGRJWXpkTUtMejNEZjlCT1JIM245bkp0akkzOGVGVUNXenZoempkdm9md3kzZl9rU2xxd3M5Yk1mVnVwSFF4QWlwTmdCbmJDcjBtOWVDNE5JSUE1LTQtMkpoTGxNNjVz?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "2026-05-24T22:30:00+00:00",
-      "summary": "The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom The Motley Fool",
-      "category": "tech",
-      "score": 4.105
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-25T04:45:13+00:00",
+      "summary": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "category": "conflicts",
+      "score": 3.195
     },
     {
-      "title": "Vessels carrying Middle East oil, LNG exit Hormuz, head for Pakistan, China",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVVSQnVDcHd0cUZHRnpsSjdXUUhHT0Q0eDVUNElUVTdhNml5WGVQWFBIVnBsVTM4RUZ1WWVhVHROVk9uaFNzbS1keFZWdW9jSDFXc0g3OWl1bmFVNUZZMW9kd2tHRDN1alFxWUM2RnBVZzM2Sk9fNTNtZXdrQ0lUblEySXBUVHpUa1lKbkNIemVJclh3dmEwdXNkTjRFR3NxQ0pkaUVDSTBjbHp0WHgxUUVnanVqaHkyRUJ6MQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-25T00:14:00+00:00",
-      "summary": "Vessels carrying Middle East oil, LNG exit Hormuz, head for Pakistan, China Reuters",
-      "category": "resources",
-      "score": 4.103
+      "title": "Rubio says 'solid' Iran deal may come on Monday",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-25T06:41:43+00:00",
+      "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, US media reports.",
+      "category": "conflicts",
+      "score": 3.132
     },
     {
       "title": "Senegal parliament speaker steps down as political crisis worsens",
@@ -44,17 +44,17 @@
       "published_at": "2026-05-24T20:43:21+00:00",
       "summary": "The move by speaker El Malick Ndiaye clears the way for sacked premier Ousmane Sonko to run for head of parliament.",
       "category": "politics",
-      "score": 3.857
+      "score": 2.934
     }
   ],
   "hero_history": [
+    "Oil prices slide on hopes of US-Iran peace deal",
     "Republicans who have drawn a hard line on Iran pan Trump's emerging proposal to end the war",
     "Suspect killed after opening fire on Secret Service near White House",
     "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
     "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
     "Nvidia says its forecast for $200 billion CPU market includes China",
     "Russia says 18 killed in strike on student dorm that it blamed on Ukraine",
-    "Nvidia says its forecast for $200 billion CPU market includes China",
-    "Senegal’s president fires prime minister after months of tensions"
+    "Nvidia says its forecast for $200 billion CPU market includes China"
   ]
 }

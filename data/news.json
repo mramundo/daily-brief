@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-25T13:27:05.296322+00:00",
+  "updated": "2026-05-25T18:51:16.218077+00:00",
   "hero": {
-    "title": "Anthropic's Olah says AI must be guided from outside Big Tech",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjdKY25UdUNKeUJ2dU96T2Jrc0xHNTJ3bkwtMFpkS0s3SjYtU0NDNUxXTVZGM2xoOXM3eWNVSVFXUVJOdk9vT3ZXNlVpcXZVSXd3MU1JQXZaanc4RXNGRUQ0blFUejc4a2Nzak85dzQ5a3A5WlRuSHNNa3drSVd1QTdGRnl0d0VEVWFiTm1FQVZHaWw2bmQ1c2cwWkRYYWl1Vi13YTVqUQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-25T11:15:49+00:00",
-    "summary": "Anthropic's Olah says AI must be guided from outside Big Tech Reuters",
-    "category": "tech",
-    "score": 7.797
+    "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+    "url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-05-25T17:46:09+00:00",
+    "summary": "Analysts warn Netanyahu is exploiting a failing \"ceasefire\" to prolong the destruction of Gaza ahead of Israeli election",
+    "category": "conflicts",
+    "score": 7.156
   },
   "items": [
     {
-      "title": "Missile and drone strikes kill eight in Russia and Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTE9RZDZ2N2FHck1HakdlV2RReHlYR2dWUnRGbHB2VHBxbW91cEtJMWFrOUxDNF9Bckp6QWN4dTFkcU0xekw4WUVmMjZrcW1sZmdPZW1xTmY5TW5VUGNZUnZhWUNNaWdNX2tRR3Z0YUtjUVRHSGR5OFB4S3pPUkFlbnllN3VuQ3llTS04TUcyTlUwcFE5djVjX2c3YmpzTy1mNXpUcWlScWVaZ1lZdm5ES3FoU1R5OG5RSzJHT2JtZWhQanFk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-25T05:12:00+00:00",
-      "summary": "Missile and drone strikes kill eight in Russia and Ukraine Reuters",
+      "title": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-25T16:29:32+00:00",
+      "summary": "Ukraine AP News",
       "category": "conflicts",
-      "score": 6.246
+      "score": 6.451
     },
     {
       "title": "Pope calls for robust regulation of AI in manifesto that ponders the future of humanity",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjMxWVlpUUhJb1JjYnFPRXpkeE1qaTc3aDNQQXltRWZYNmo4T1dmN095X3R6bDY5NmkxdHBwTERrNkg1ajFIZDFZR09VQzd6a2oyalZTM2tkcjRwMFVyXzM5RUhkZWNQQ216cExQbkI1OGN0RS1CazVJV1dvTV9aYUt2cVVsc3Z6LVJDanZySTdMOHdEWmlIVTI4VVI?oc=5",
       "source": "AP News",
-      "published_at": "2026-05-25T11:47:00+00:00",
+      "published_at": "2026-05-25T14:56:00+00:00",
       "summary": "Pope calls for robust regulation of AI in manifesto that ponders the future of humanity AP News",
       "category": "tech",
-      "score": 5.136
+      "score": 4.675
     },
     {
-      "title": "Senegal's parliament speaker quits two days after prime minister sacked",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSUktcVZwaXZBSWloeWsyTmtOU2plRGRCX28zXzNZNG1vcUR3OFpvV2JmOUZWWkVlSGhNcG9SeUtwRVBnWUktSVFJdDB3VDdhLWdKbDBQdVZoSHZHNXlYXzRqbHZIMURIQUtBTVRyaUpvOGstMU5mT3d5NDh0VFVQUTM2d0FZR1hXQlJIcnhXZWFlVXdhQ1A3UTNKTkVLMXdraXN1UEVJV0FVbHhyQnI2RGwxRTVLcUF4QzBB?oc=5",
+      "title": "Iran's top envoys discussing potential peace deal with Qatar prime minister, official says",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVngxZVRLZ1JuQXprdzRzMDIwazZnY2tvWExLS2ZlNkhEMWYxeVF4YTVldGFYSEt4dVU1NEo5bng1Sm9EUFFZNzN3bTJZR1Z1akRjd1o2emJhU0J3TGMtZVZfcWI4ejdyNWhvd1hXRmRPVkFXYmFKUWl0YVM4Q2pyeHJmQW1jSWxsaDdfVXBORmFWQjcwamxWSXFHYlE4ZDFtcGo1SlRzT3RwSHJ3?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-25T08:41:45+00:00",
-      "summary": "Senegal's parliament speaker quits two days after prime minister sacked Reuters",
+      "published_at": "2026-05-25T18:41:43+00:00",
+      "summary": "Iran's top envoys discussing potential peace deal with Qatar prime minister, official says Reuters",
       "category": "politics",
-      "score": 4.115
+      "score": 4.272
     },
     {
-      "title": "Oil and LNG tankers exit Hormuz, heading for Pakistan and China",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVVSQnVDcHd0cUZHRnpsSjdXUUhHT0Q0eDVUNElUVTdhNml5WGVQWFBIVnBsVTM4RUZ1WWVhVHROVk9uaFNzbS1keFZWdW9jSDFXc0g3OWl1bmFVNUZZMW9kd2tHRDN1alFxWUM2RnBVZzM2Sk9fNTNtZXdrQ0lUblEySXBUVHpUa1lKbkNIemVJclh3dmEwdXNkTjRFR3NxQ0pkaUVDSTBjbHp0WHgxUUVnanVqaHkyRUJ6MQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-25T12:18:57+00:00",
-      "summary": "Oil and LNG tankers exit Hormuz, heading for Pakistan and China Reuters",
-      "category": "resources",
-      "score": 4.101
+      "title": "Nvidia Is Still a Top Artificial Intelligence (AI) Stock to Buy Right Now",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0hwaWJJdEROYkpnXzZfcjBaaGkzU250SlcteldKbmF3UlVieEkzTmVTOVpiY3Y0X29lQ1JTRlVXUy1KbDRoVi0xbGMtYmxwSVBMQkFvYmplSlJZb25BOHh1b0c4M3ZvcXlzbkFxdmFsMThuZ0RXY1RGTmFpZ0NPdV95QlhjU3hpQnMyS0Z1VXRmUG04TVhKOQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-05-25T18:18:45+00:00",
+      "summary": "Nvidia Is Still a Top Artificial Intelligence (AI) Stock to Buy Right Now The Motley Fool",
+      "category": "tech",
+      "score": 3.924
     }
   ],
   "hero_history": [
+    "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
     "Anthropic's Olah says AI must be guided from outside Big Tech",
     "Oil prices slide on hopes of US-Iran peace deal",
     "Republicans who have drawn a hard line on Iran pan Trump's emerging proposal to end the war",
     "Suspect killed after opening fire on Secret Service near White House",
     "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
     "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
-    "Nvidia says its forecast for $200 billion CPU market includes China",
-    "Russia says 18 killed in strike on student dorm that it blamed on Ukraine"
+    "Nvidia says its forecast for $200 billion CPU market includes China"
   ]
 }

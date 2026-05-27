@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-27T13:34:28.749277+00:00",
+  "updated": "2026-05-27T19:04:22.488156+00:00",
   "hero": {
-    "title": "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2Vra2c2dGNEcGhJcHV4dTRIOFRORXhpdDZvdUg1RzhPYnNxc1IwbGJlaDZoeW56cXhQSWpLTlowc0JtOEhjR0pKQXZGeDQxRGNldnMtRzNpWWpHVElPbkVHVGRzSkFod3VCMVAtOVBwamRNX0FPaVdOTUd0djF1Tk9ldkNKQnBGS183NWRkTXJJTWZIQnBtWFRsRnFmazlTM05nTHBKUQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-27T11:06:18+00:00",
-    "summary": "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO Reuters",
-    "category": "tech",
-    "score": 7.706
+    "title": "Webb reveals black hole that formed before its galaxy",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy",
+    "source": "ESA",
+    "published_at": "2026-05-27T15:00:00+00:00",
+    "summary": "Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composition of gas orbiting a black hole in the centre of Abell2744-QSO1, a tiny galaxy more than 13 billion light-years away. The result",
+    "category": "science",
+    "score": 7.694
   },
   "items": [
     {
-      "title": "Israel says it killed new Hamas military leader in Gaza",
+      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-27T15:07:47+00:00",
+      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption Reuters",
+      "category": "tech",
+      "score": 7.247
+    },
+    {
+      "title": "Hamas says Israeli airstrikes killed its new military leader in Gaza",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm90QVozM2l6cm5tMUUwSmxzekw0OHBxNTQwUDAwX0NIN25ONkRTa0M3allISHlvMmY2UkljVFFHY2hLaUNRQmJSR0lFWHN2UjhWRk5nbnJ3TG9zSk5abzE5WEJCNjVBQURNNFhJRzNwVVV6N0lxV2c3a3EteTFTSHAxdE1pck0wemI0eHhDT2RtUkhmOTNDS2cwODUxamFvYXRodUJLaDBsWEVtaWJMYzNaSU0?oc=5",
       "source": "AP News",
-      "published_at": "2026-05-27T12:21:00+00:00",
-      "summary": "Israel says it killed new Hamas military leader in Gaza AP News",
+      "published_at": "2026-05-27T14:33:00+00:00",
+      "summary": "Hamas says Israeli airstrikes killed its new military leader in Gaza AP News",
       "category": "conflicts",
-      "score": 5.952
+      "score": 5.342
     },
     {
-      "title": "SK Hynix joins $1 trillion club after Samsung, Micron on AI chip boom",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHBoSENFcFNsS1NHYVpHbGhmaVZKNmNoNi1IeC1SUFE4MTd1X05JbzExVGhUYkNxUzRsQWEyaWNObHQwLVZOd3BpQWZGQkFGQk1Ea0g3SndkeTBTRU5aQ3dseXFuU0NBYnUxUGw3M21SVG5PcVo1S1RpQnFQbnI1N3d6b1AzbVNMSFB1Zm5oV0dHYWo5dHQ5WnFrdTBkUQ?oc=5",
+      "title": "Lululemon ends proxy battle with founder Chip Wilson",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0FQSXJBd0hBdHhLVGlvNDJ3MmhVZ1QwdnNFMDJ0UjUzM3Z4SDNLcmhDN3VTNjZSZWJ1ZjhhUVlBMWFBdEhHX011Ulp1djVFVVU3d1BCa3BGeW5aVFU3dmtzNUQ0c05MNTRKaC1pbXhxR3g0WWpsMWJKdzFHNmZORWZZeld1d0ZNcTk5Nml3SlZBbjZyQ0NHNWpvdjZYdw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-27T08:56:27+00:00",
-      "summary": "SK Hynix joins $1 trillion club after Samsung, Micron on AI chip boom Reuters",
+      "published_at": "2026-05-27T16:13:38+00:00",
+      "summary": "Lululemon ends proxy battle with founder Chip Wilson Reuters",
       "category": "tech",
-      "score": 5.446
+      "score": 4.89
     },
     {
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
+      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-05-27T13:15:26+00:00",
-      "summary": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
+      "published_at": "2026-05-27T15:59:57+00:00",
+      "summary": "GCHQ's director Anne Keast-Butler set out the threats facing the UK in her inaugural public speech.",
       "category": "conflicts",
-      "score": 5.206
-    },
-    {
-      "title": "NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/",
-      "source": "NASA",
-      "published_at": "2026-05-27T13:02:09+00:00",
-      "summary": "Resilient. Efficient. Autonomous. These are qualities NASA demands of its hardware, especially as the agency accelerates plans for a permanent Moon Base. NASA’s 2026 Lunabotics Challenge put those traits on full display, as college student engineers from across the country gather",
-      "category": "science",
-      "score": 4.66
+      "score": 4.641
     }
   ],
   "hero_history": [
+    "Webb reveals black hole that formed before its galaxy",
     "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
     "Israel says it killed Hamas' new armed wing chief in Gaza",
     "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
     "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
     "Russia maintains attacks on Ukraine as Kyiv warned to brace for possible major barrage",
     "Russia's Putin provides debt relief to new Ukraine war recruits and their families",
-    "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
-    "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls"
+    "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-27T01:20:49.037170+00:00",
+  "updated": "2026-05-27T07:44:59.932469+00:00",
   "hero": {
-    "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-    "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-05-26T23:15:47+00:00",
-    "summary": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in.",
+    "title": "Israel says it killed Hamas' new armed wing chief in Gaza",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemtsS3VoVVBUdExGWHcxbXFEN3B5YkJuM3NBX2pPenhtaU9rQU93YXc4YnZrY19LdmlqdnI4bUE2dzEwb25xVlIyVkRkNGFuLXZqV0RHVWprMThnRlhpdVg2dHNoMGZtMFdyWlMxT1NISlV2Y1drNm1La2JTUjgyUE5rMllzY19tZTY4NWpTaVZrTlVDNTFPdzU1cmFIWW92TGx1bXU2RmhuRFE?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-27T06:54:00+00:00",
+    "summary": "Israel says it killed Hamas' new armed wing chief in Gaza Reuters",
     "category": "conflicts",
-    "score": 5.245
+    "score": 9.565
   },
   "items": [
     {
-      "title": "Nasa unveils next steps to build permanent Moon base",
-      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-05-26T20:25:50+00:00",
-      "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
-      "category": "science",
-      "score": 4.952
-    },
-    {
-      "title": "US, India set up framework for critical minerals pact",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2U2OFJ4am1EeDV2amFHckdSajlOREdoQ2lxRzhhcVNYczhhV2dmaE1SWFNEcGVZbFNjcWt5aXA3Z2xmaDJSSmoyRTdzaEdNWmI4cDlwQUN0TUkyNFNYTDBiTTdnZWxabmNNVlNIRUNVdkl4QlI2dGU5UXV6THZNalZGT1hYVzM2MTMzSmZ4Q1NLa0tjZ2JBelJwUnhQVFNl?oc=5",
-      "source": "The Northern Miner",
-      "published_at": "2026-05-26T20:44:04+00:00",
-      "summary": "US, India set up framework for critical minerals pact The Northern Miner",
-      "category": "resources",
-      "score": 4.916
-    },
-    {
-      "title": "Three killed and dozens injured in Israeli strike on Gaza City, medics and witnesses say",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-26T22:50:46+00:00",
-      "summary": "Israel says it was targeting a Hamas commander whose predecessor was killed in a similar strike earlier in May.",
+      "title": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+      "url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-27T06:48:51+00:00",
+      "summary": "Israeli strikes kill 31 in Lebanon as attacks intensify and displacement orders spread.",
       "category": "conflicts",
-      "score": 4.753
+      "score": 7.201
     },
     {
-      "title": "NASA picks Blue Origin, other space firms for moon missions",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOai1aWjJsQmY4WFBlZGR2Vm5OcXE5RkRVTU1VamRQNGRLeEFCOEt5Qm1CZ2hXalBObWxYczNTcjVyMzFIUDFuMmYwZHhTV1AxZEVyQWhxbHVpb3FZaEtKLWhvX3JSYUp3N2VKOEl6Q2hvcU1YUkdIbjMzUE4wdUZ1eUpna3lPRHNnMzBCZWU2aTJHLTcycnlDX1I0SzNaSXc?oc=5",
+      "title": "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2Vra2c2dGNEcGhJcHV4dTRIOFRORXhpdDZvdUg1RzhPYnNxc1IwbGJlaDZoeW56cXhQSWpLTlowc0JtOEhjR0pKQXZGeDQxRGNldnMtRzNpWWpHVElPbkVHVGRzSkFod3VCMVAtOVBwamRNX0FPaVdOTUd0djF1Tk9ldkNKQnBGS183NWRkTXJJTWZIQnBtWFRsRnFmazlTM05nTHBKUQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-26T22:52:51+00:00",
-      "summary": "NASA picks Blue Origin, other space firms for moon missions Reuters",
-      "category": "science",
-      "score": 4.527
+      "published_at": "2026-05-27T02:52:00+00:00",
+      "summary": "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO Reuters",
+      "category": "tech",
+      "score": 6.969
+    },
+    {
+      "title": "SpaceX's Starship test strengthens IPO case, though hurdles remain",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVlfNk9rNFdwTmY3SFhxNUtpVlBJWV8tRmhtclJ5VS0yWHc5dm9xMmM3RHNjYTZPOUxjSmp5MnRrRGg1N21YN0FhRzJsODNnZW16ZS03SmRscDNaakhEcTVyQ2xHZ3NSYWFWREVHNFFKd0F2SDkzRUFnMlRuRjlfTUYwNkpUUk9uVXBZcm9PcTBDRU4yYmJMWEVzVWppOFg2QXhQNHQzamFyS1BGaldJT2loRE1lUER2cjc3aU5fTjc2YnFNN2c?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-27T06:03:00+00:00",
+      "summary": "SpaceX's Starship test strengthens IPO case, though hurdles remain Reuters",
+      "category": "tech",
+      "score": 4.965
+    },
+    {
+      "title": "Goldman Sachs lifts S&P 500 year-end target to 8,000 on strong earnings outlook",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3VNY3Z1b3lPTkNTbUUyYlRZZUhfaE43YXJqX2JKaHM0OTByZ3EzVU9HalkzZDhHeG5aT1dRa2xpR3NVSlFMNU5zMnJlQ2VPaWFvUWQ2TTlUV1JqV0NLdWtHQlJmaVRLRlN1Zk9VQU1IVVR4dlZhR1hKZnhLSzdVNzBDUlhQOWs1bDV1SGY2TjdNUmdMdmdyMGxrYm1vQ295b2dtNUxuWi1fSXM2NXMxenRyUjFxeWs?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-27T03:38:00+00:00",
+      "summary": "Goldman Sachs lifts S&P 500 year-end target to 8,000 on strong earnings outlook Reuters",
+      "category": "finance",
+      "score": 4.49
     }
   ],
   "hero_history": [
+    "Israel says it killed Hamas' new armed wing chief in Gaza",
     "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
     "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
     "Russia maintains attacks on Ukraine as Kyiv warned to brace for possible major barrage",
     "Russia's Putin provides debt relief to new Ukraine war recruits and their families",
     "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
     "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
-    "Anthropic's Olah says AI must be guided from outside Big Tech",
-    "Oil prices slide on hopes of US-Iran peace deal"
+    "Anthropic's Olah says AI must be guided from outside Big Tech"
   ]
 }

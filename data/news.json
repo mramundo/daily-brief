@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-28T07:41:19.465064+00:00",
+  "updated": "2026-05-28T13:36:11.871965+00:00",
   "hero": {
-    "title": "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVZYQ2xGT0NRV2Q1ajB0UkhPekFoWlJiM0R4MWpSR1g2Zlg5Q0J6eW1EOWVoZ1MzRzc5X2ViZEs0dkVtbHNSUFduTnlEeUprMFFBTFJtSkZlN2Nmc09mUWZHWVViQVNqUW9oendTRWFsSnh5X2FTbS0ySGlxVzFCSUtUXzlIM0NfNE11bEtuaWw3MGZIU0NkdzlETV9wOVAzQk0tcWFVeHNwTWQ0aVBTOFhJRkI?oc=5",
-    "source": "Bloomberg",
-    "published_at": "2026-05-28T02:57:00+00:00",
-    "summary": "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan Bloomberg",
+    "title": "Musk says SpaceX agreed only six-month Colossus AI lease to Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUJnR2NCZXZsbWVsbGRvNTVSTk1XRk9Vc2k0aWVJZHZSanVDeGNTMzBTSTJVcThHY3B2Yi0yLVpvS0NuTk5hRVNIdFUtblUwdV85OWh6N0NWNkZCaXhoWUFVZWtlMlRpcWRMSGJJQVFjYnJNdEhzUGdxYk5TWWVCRTlNZG0taTkteGVOd3BENE11UXlyZXF0UTNMbFZtWGpmMVBOWjhNNjVFWWNxYXp0eTcydFFYRjBjOXc?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-28T06:38:00+00:00",
+    "summary": "Musk says SpaceX agreed only six-month Colossus AI lease to Anthropic Reuters",
     "category": "tech",
-    "score": 6.01
+    "score": 4.941
   },
   "items": [
     {
-      "title": "Israel strikes southern Lebanon after evacuation orders",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-28T06:26:41+00:00",
-      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
+      "title": "Shaky ceasefire in Iran war is challenged again as Kuwait faces a missile attack",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkpNTFpBTDhFTFczZnNxSVpaSDRnYnZiX2pKSmFIWTFJZVh0ZG5Ka2o1SmxjVHl0MzVoTEVIZUMySGRmYWdPbGcyNVEwRWJCdGdHQTNIbXNadWJCMV9IeVB3TVh2S21NUEZoXzhTNWxjdTdmSFdTSUFwQ2w4UWQ4aVBqMHdwQ24yQ0xIS05rNUc?oc=5",
+      "source": "AP News",
+      "published_at": "2026-05-28T12:01:00+00:00",
+      "summary": "Shaky ceasefire in Iran war is challenged again as Kuwait faces a missile attack AP News",
       "category": "conflicts",
-      "score": 5.771
+      "score": 4.696
     },
     {
-      "title": "Nvidia chief Jensen Huang to join board of Beijing's Tsinghua University, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0pUSGwyYnJVX3pnZnlGb05Fb1RMODZwRURTaEMxWlBkZHpEN3hObTdPNW1mOXozMlJHRS1iam1seGVYZHJRd1ctb0lWbUxyMXcyVk5tNmg3UXA2TlNqd3pab1VacmJqZUt0bTI0TEx0eWpVVUpGNUJhSTVKeUdDR2lQdng3WjhpcFlGanZSRFNGM1Q3MEttWk9sdjl2LXZYSkN4UXJjbjREbTRiT01IWFZvSjh3U1lBZDZEMWZiaF9XeEZIbTl3ZGhsZw?oc=5",
+      "title": "How Israel has emptied southern Lebanon far beyond the front lines",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3pQdWJHRF9NZVpRVnBxNXpYVXZ2TEh2alNxX2pIaXQ5eElJOEVid3JSRkFNbC1yMXNNRmlWTGhDbzE3RU9jb3huaEtCdmhrejhVdzAxQkNPMVhQeGs0by1vcVhTQ2tRMmp3bU1GWERBSnR6cmN3d0hZNVpQN3M2Vnl3aTJZdDRzQzJTbFo0TmFTT3NTQTRRaTVhVV9VLUMwWFEwY0M3MS04Q25aa0ZtRTBhc0wzdWM?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-28T00:41:00+00:00",
-      "summary": "Nvidia chief Jensen Huang to join board of Beijing's Tsinghua University, FT reports Reuters",
-      "category": "tech",
-      "score": 5.316
-    },
-    {
-      "title": "US strikes Iran military site as Tehran says it has targeted American base",
-      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-28T07:18:55+00:00",
-      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "published_at": "2026-05-28T11:59:14+00:00",
+      "summary": "How Israel has emptied southern Lebanon far beyond the front lines Reuters",
       "category": "conflicts",
-      "score": 4.544
+      "score": 4.69
     },
     {
-      "title": "Trump endorses Armenian Prime Minister Nikol Pashinyan ahead of tense June poll",
-      "url": "https://www.france24.com/en/asia-pacific/20260528-trump-endorses-armenian-prime-minister-nikol-pashinyan-ahead-of-tense-june-poll",
-      "source": "© Andrew Caballero-Reynolds, AFP",
-      "published_at": "2026-05-28T06:29:00+00:00",
-      "summary": "US President Donald Trump announced on Wednesday that he would support Prime Minister Nikol Pashinyan in Armenia’s June 7 parliamentary elections, a vote that serves as a litmus test for the government of the South Caucasus nation which has recently shifted its alignment toward t",
+      "title": "Private equity firm EQT partners with Google Cloud for AI rollout",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU3RNdVBoMjZScTZmTlBNYUxSQVhsUFNDTUNtR0RzbGVnaFM5QlczYkZtdkpyNUJEbUdRaTltVlFUNk9IeThMckNjZHo3LXRIVGY3WUFwYVpGWXpWOEo5bEtkM2pYR09RcnBNdXRkclFob2xfRFRsYk14NkhKeTlUOVBhX3dpdi1OWVlidi1qWlpUQXpfa1RJcUg4T3d2eEZwQU5wdEpzZzRfRWVGc05oc3ZldHZiaWlOTjFxVQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-28T11:03:46+00:00",
+      "summary": "Private equity firm EQT partners with Google Cloud for AI rollout Reuters",
+      "category": "tech",
+      "score": 4.513
+    },
+    {
+      "title": "Norway will come under France's nuclear umbrella",
+      "url": "https://www.france24.com/en/video/20260528-norway-will-come-under-france-s-nuclear-umbrella",
+      "source": "France 24",
+      "published_at": "2026-05-28T09:08:20+00:00",
+      "summary": "Norway will open talks with France on joining its nuclear umbrella, French President Emmanuel Macron and Norwegian Prime Minister Jonas Gahr Stoere said on Wednesday, reflecting growing European concerns about relying on the United States for security. The move signals a shift by",
       "category": "politics",
-      "score": 4.294
+      "score": 3.903
     }
   ],
   "hero_history": [
+    "Musk says SpaceX agreed only six-month Colossus AI lease to Anthropic",
     "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan",
     "Iran war live: Israel orders mass forced displacement for all south Lebanon",
     "Webb reveals black hole that formed before its galaxy",
     "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
     "Israel says it killed Hamas' new armed wing chief in Gaza",
     "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-    "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
-    "Russia maintains attacks on Ukraine as Kyiv warned to brace for possible major barrage"
+    "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation"
   ]
 }

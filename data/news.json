@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-27T19:04:22.488156+00:00",
+  "updated": "2026-05-28T01:12:32.346503+00:00",
   "hero": {
-    "title": "Webb reveals black hole that formed before its galaxy",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_black_hole_that_formed_before_its_galaxy",
-    "source": "ESA",
-    "published_at": "2026-05-27T15:00:00+00:00",
-    "summary": "Using the unprecedented imaging and spectroscopic power of the NASA/ESA/CSA James Webb Space Telescope, researchers have mapped the motion and composition of gas orbiting a black hole in the centre of Abell2744-QSO1, a tiny galaxy more than 13 billion light-years away. The result",
-    "category": "science",
-    "score": 7.694
+    "title": "Iran war live: Israel orders mass forced displacement for all south Lebanon",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-05-28T00:00:00+00:00",
+    "summary": "The Lebanese Health Ministry reports that Israeli attacks have killed 3,269 people since March 2.",
+    "category": "conflicts",
+    "score": 7.119
   },
   "items": [
     {
-      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-27T15:07:47+00:00",
-      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption Reuters",
-      "category": "tech",
-      "score": 7.247
-    },
-    {
-      "title": "Hamas says Israeli airstrikes killed its new military leader in Gaza",
+      "title": "Hamas confirms that Israeli airstrikes killed its new military leader in Gaza City",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcm90QVozM2l6cm5tMUUwSmxzekw0OHBxNTQwUDAwX0NIN25ONkRTa0M3allISHlvMmY2UkljVFFHY2hLaUNRQmJSR0lFWHN2UjhWRk5nbnJ3TG9zSk5abzE5WEJCNjVBQURNNFhJRzNwVVV6N0lxV2c3a3EteTFTSHAxdE1pck0wemI0eHhDT2RtUkhmOTNDS2cwODUxamFvYXRodUJLaDBsWEVtaWJMYzNaSU0?oc=5",
       "source": "AP News",
-      "published_at": "2026-05-27T14:33:00+00:00",
-      "summary": "Hamas says Israeli airstrikes killed its new military leader in Gaza AP News",
+      "published_at": "2026-05-27T21:46:00+00:00",
+      "summary": "Hamas confirms that Israeli airstrikes killed its new military leader in Gaza City AP News",
       "category": "conflicts",
-      "score": 5.342
+      "score": 5.588
     },
     {
-      "title": "Lululemon ends proxy battle with founder Chip Wilson",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0FQSXJBd0hBdHhLVGlvNDJ3MmhVZ1QwdnNFMDJ0UjUzM3Z4SDNLcmhDN3VTNjZSZWJ1ZjhhUVlBMWFBdEhHX011Ulp1djVFVVU3d1BCa3BGeW5aVFU3dmtzNUQ0c05MNTRKaC1pbXhxR3g0WWpsMWJKdzFHNmZORWZZeld1d0ZNcTk5Nml3SlZBbjZyQ0NHNWpvdjZYdw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-27T16:13:38+00:00",
-      "summary": "Lululemon ends proxy battle with founder Chip Wilson Reuters",
+      "title": "Where does Europe's far-right turn? Populists look to distance themselves from Trump",
+      "url": "https://www.france24.com/en/where-does-europe-s-far-right-turn-populists-look-to-distance-themselves-from-trump",
+      "source": "France 24",
+      "published_at": "2026-05-27T20:04:13+00:00",
+      "summary": "If the first thing Europeans think of when they fill up at the pump is Donald Trump's decision to attack Iran, it's little wonder that previously pro-Maga populists are quietly distancing themselves from the president of the United States. In fact, Trump actively campaigning for",
+      "category": "politics",
+      "score": 4.27
+    },
+    {
+      "title": "NASA Develops Sensor to Improve Firefighter Safety",
+      "url": "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/",
+      "source": "NASA",
+      "published_at": "2026-05-27T21:45:25+00:00",
+      "summary": "With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with impor",
+      "category": "science",
+      "score": 4.127
+    },
+    {
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "source": "TechCrunch",
+      "published_at": "2026-05-27T20:10:00+00:00",
+      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
       "category": "tech",
-      "score": 4.89
-    },
-    {
-      "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
-      "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-27T15:59:57+00:00",
-      "summary": "GCHQ's director Anne Keast-Butler set out the threats facing the UK in her inaugural public speech.",
-      "category": "conflicts",
-      "score": 4.641
+      "score": 4.078
     }
   ],
   "hero_history": [
+    "Iran war live: Israel orders mass forced displacement for all south Lebanon",
     "Webb reveals black hole that formed before its galaxy",
     "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
     "Israel says it killed Hamas' new armed wing chief in Gaza",
     "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
     "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
     "Russia maintains attacks on Ukraine as Kyiv warned to brace for possible major barrage",
-    "Russia's Putin provides debt relief to new Ukraine war recruits and their families",
-    "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah"
+    "Russia's Putin provides debt relief to new Ukraine war recruits and their families"
   ]
 }

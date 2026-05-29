@@ -1,32 +1,41 @@
 {
-  "updated": "2026-05-29T01:20:50.692226+00:00",
+  "updated": "2026-05-29T07:39:15.405085+00:00",
   "hero": {
-    "title": "Anthropic's valuation surges to $965 billion, surpassing OpenAI",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-28T19:57:33+00:00",
-    "summary": "Anthropic's valuation surges to $965 billion, surpassing OpenAI Reuters",
+    "title": "Watch Anthropic Eclipses Rival OpenAI With Valuation of $965 Billion",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzNLQ1JBOE9ldHcweHVHV1dRaWltUXMyNTE5VnI1aHhlUmVSV1MzY1g1ckRUY0dfSVAyOGpMdWJ6MnYzQUFNRWktYkU5aHQxd2xzQ1pkbGJLSXdfQmc1ci1xR3pUQWxjUEV6SXRXbWV2eWRhOXF1NmFIZU55OFpzTDJ6WTc1SkRYREdhN1ExRWlGUzdZMEJNeW5LT204RWRIQjJuaGxpWGR1WHFBdlFj?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-05-29T05:00:16+00:00",
+    "summary": "Watch Anthropic Eclipses Rival OpenAI With Valuation of $965 Billion Bloomberg.com",
     "category": "tech",
-    "score": 6.157
+    "score": 7.469
   },
   "items": [
     {
-      "title": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-05-28T23:48:28+00:00",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu says he has ordered the military to take control of 70 percent of Gaza.",
-      "category": "conflicts",
-      "score": 5.988
+      "title": "World's most valuable AI start-up: Anthropic nears $1 trillion valuation as it overtakes OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1FjZGtIbVJDWml5UDhPdHVUZWJyTm8xN0xFcFc1c3dQMUZmS2VON3VTaHR0ZHktSGlYRV9STE9LSnQ2b0ZBWktDdjk2U1FyeEg2MC14ZFc5T3VJdE1xd2kzdEVaOTZmWUs0Y1NPN2E2OXJteTk4TGlNRVBWLXVLTl92RWpQQXZqMVgtaWZfX3JvdlNnbXNsS2xsRV9nMEtPVEpDeDhaYTBneHZrSDJOQWRHSWdMRU9sanFGNFdzTVozSjQ?oc=5",
+      "source": "Euronews.com",
+      "published_at": "2026-05-29T06:01:44+00:00",
+      "summary": "World's most valuable AI start-up: Anthropic nears $1 trillion valuation as it overtakes OpenAI Euronews.com",
+      "category": "tech",
+      "score": 6.519
     },
     {
-      "title": "Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFNzQ1NmSlNQcWFVamd2WW5yYWtldHRTN3VDakZPbjZCLXoxeF9URGpSbW1lUm55c0FtUmdlNzlyQmV2bTItcHFxREo2YjV6UVlpY3pFYmVBR2RyUmxtMEx4SlBIZU1iOGpTMVB3Zmp3di1rMWlUdVYzX0duaXRhWERFX0VhR0pDOU1yTEl1WGVlTmE2R2xycWxYMm5VUS1kWEJtX2hhSzRMMXc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-28T17:17:57+00:00",
-      "summary": "Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8 Reuters",
-      "category": "tech",
-      "score": 4.724
+      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-29T02:24:52+00:00",
+      "summary": "The expansion in control by Israel would contradict the terms of the ceasefire Israel and Hamas agreed to in October 2025.",
+      "category": "conflicts",
+      "score": 4.24
+    },
+    {
+      "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+      "url": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-29T06:39:24+00:00",
+      "summary": "Studies and officials report rising PTSD, suicide and social strain in Israel amid sustained conflicts since 2023",
+      "category": "conflicts",
+      "score": 4.091
     },
     {
       "title": "Brazil rare earths miner Viridis to sell to US, European buyers, not China, CEO says",
@@ -35,26 +44,17 @@
       "published_at": "2026-05-28T21:04:55+00:00",
       "summary": "Brazil rare earths miner Viridis to sell to US, European buyers, not China, CEO says Reuters",
       "category": "resources",
-      "score": 4.609
-    },
-    {
-      "title": "Temu faces €200m EU fine over toxic, unsafe products",
-      "url": "https://www.france24.com/en/tv-shows/business/20260528-temu-faces-%E2%82%AC200m-eu-fine-over-toxic-unsafe-products",
-      "source": "France 24",
-      "published_at": "2026-05-28T20:39:01+00:00",
-      "summary": "The European Union has slapped a €200 million fine on Chinese retailer Temu, for selling products it considers toxic or unsafe, including baby toys and electronics. The e-commerce giant disputes the ruling, which came under the EU's Digital Services Act, requiring online platform",
-      "category": "politics",
-      "score": 4.454
+      "score": 3.544
     }
   ],
   "hero_history": [
+    "Watch Anthropic Eclipses Rival OpenAI With Valuation of $965 Billion",
     "Anthropic's valuation surges to $965 billion, surpassing OpenAI",
     "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
     "Musk says SpaceX agreed only six-month Colossus AI lease to Anthropic",
     "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan",
     "Iran war live: Israel orders mass forced displacement for all south Lebanon",
     "Webb reveals black hole that formed before its galaxy",
-    "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
-    "Israel says it killed Hamas' new armed wing chief in Gaza"
+    "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO"
   ]
 }

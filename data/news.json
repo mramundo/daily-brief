@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-28T19:11:17.955213+00:00",
+  "updated": "2026-05-29T01:20:50.692226+00:00",
   "hero": {
-    "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
-    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "source": "TechCrunch",
-    "published_at": "2026-05-28T18:52:51+00:00",
-    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+    "title": "Anthropic's valuation surges to $965 billion, surpassing OpenAI",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-05-28T19:57:33+00:00",
+    "summary": "Anthropic's valuation surges to $965 billion, surpassing OpenAI Reuters",
     "category": "tech",
-    "score": 6.783
+    "score": 6.157
   },
   "items": [
     {
-      "title": "Latvia parliament approves new government after drone dispute topples coalition",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRGRVTTRzZlJJdGdfcE84cVlaamF0SEJDeUZMazBnRG5YSVZsdXF2VmZESVZhT3VyYU9yT2k4eUZwSFAyRzZjOThOVkpVdlIzdktuU1VtdGU1bTNOZi04T3Z6UlJSaXZMSF9SZHZnMGl5QzUtSzZBdEVfS2J5WG0ybzg1bG9uUmFjTDl6SW1xOERocHFZc1loMERpOXlrcjVGUmx6azVnQmtxcFdsNFZjRjQ1aFVpLXFO?oc=5",
+      "title": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-28T23:48:28+00:00",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says he has ordered the military to take control of 70 percent of Gaza.",
+      "category": "conflicts",
+      "score": 5.988
+    },
+    {
+      "title": "Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFNzQ1NmSlNQcWFVamd2WW5yYWtldHRTN3VDakZPbjZCLXoxeF9URGpSbW1lUm55c0FtUmdlNzlyQmV2bTItcHFxREo2YjV6UVlpY3pFYmVBR2RyUmxtMEx4SlBIZU1iOGpTMVB3Zmp3di1rMWlUdVYzX0duaXRhWERFX0VhR0pDOU1yTEl1WGVlTmE2R2xycWxYMm5VUS1kWEJtX2hhSzRMMXc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-28T16:54:47+00:00",
-      "summary": "Latvia parliament approves new government after drone dispute topples coalition Reuters",
-      "category": "conflicts",
-      "score": 6.474
-    },
-    {
-      "title": "Anthropic leapfrogs OpenAI as the most valuable AI startup — and drops a new model",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXRZcVpiZVlxYV8taFN1a3B0VF9vTmZia1dyRUh1Zk9VdVcwcExBbGNta0dwNnI2SlF0Qm45MHc4QWhWNzNRZDBzYkU3Q1VDblFYSjlPazJUX1ZFWG1IbHNiNEJuNGRvUGFtWDlFQXZnWGZxSE9jeWcwODZqaFZJMHhBeUJFNnk2M2twWi12V3V0XzNtNm9nSzFnZlhhT29IRnNZ?oc=5",
-      "source": "Business Insider",
-      "published_at": "2026-05-28T18:59:00+00:00",
-      "summary": "Anthropic leapfrogs OpenAI as the most valuable AI startup — and drops a new model Business Insider",
+      "published_at": "2026-05-28T17:17:57+00:00",
+      "summary": "Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8 Reuters",
       "category": "tech",
-      "score": 6.113
+      "score": 4.724
     },
     {
-      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-28T16:20:50+00:00",
-      "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
-      "category": "conflicts",
-      "score": 4.686
+      "title": "Brazil rare earths miner Viridis to sell to US, European buyers, not China, CEO says",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzREZnkxTEUtSVNjaVJ3eTRYMjMydnhERnJrb3RWX01uVVdJVjJneEU5VEtNVk10dWFSS25lVk9uemtKcEdKd0NrdG1kTzV1VXZ1YnJfZHU1S0xoSTdCbFZXMEFUcXc2NFRmMDFyY0hGRzRKM3RpYWhXNHpacUFTdVV0NzBCWm9BdjM5b24zYmlVUGk4ZXVGMTJuUlA2M3RqOW5acjRNMVl5Q2ExdHYwS25oWW5WNVNaNEZpeW1GRmM?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-28T21:04:55+00:00",
+      "summary": "Brazil rare earths miner Viridis to sell to US, European buyers, not China, CEO says Reuters",
+      "category": "resources",
+      "score": 4.609
     },
     {
-      "title": "NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds",
-      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
-      "source": "NASA",
-      "published_at": "2026-05-28T14:40:33+00:00",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope is poised to make a major leap in the hunt for worlds outside our solar system, known as exoplanets. Scientists expect the mission to reveal around 100,000 worlds — a staggering leap compared to the nearly 6,300 found so far thanks to NASA",
-      "category": "science",
-      "score": 4.513
+      "title": "Temu faces €200m EU fine over toxic, unsafe products",
+      "url": "https://www.france24.com/en/tv-shows/business/20260528-temu-faces-%E2%82%AC200m-eu-fine-over-toxic-unsafe-products",
+      "source": "France 24",
+      "published_at": "2026-05-28T20:39:01+00:00",
+      "summary": "The European Union has slapped a €200 million fine on Chinese retailer Temu, for selling products it considers toxic or unsafe, including baby toys and electronics. The e-commerce giant disputes the ruling, which came under the EU's Digital Services Act, requiring online platform",
+      "category": "politics",
+      "score": 4.454
     }
   ],
   "hero_history": [
+    "Anthropic's valuation surges to $965 billion, surpassing OpenAI",
     "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
     "Musk says SpaceX agreed only six-month Colossus AI lease to Anthropic",
     "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan",
     "Iran war live: Israel orders mass forced displacement for all south Lebanon",
     "Webb reveals black hole that formed before its galaxy",
     "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
-    "Israel says it killed Hamas' new armed wing chief in Gaza",
-    "Can EU find a Russia whisperer to mediate an end to war in Ukraine?"
+    "Israel says it killed Hamas' new armed wing chief in Gaza"
   ]
 }

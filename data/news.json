@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-29T13:29:32.819676+00:00",
+  "updated": "2026-05-29T19:10:24.861472+00:00",
   "hero": {
-    "title": "In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOenc2VTkxWDAwWWhITVY3dkhZZktPRTZIVVNtRE0wMFRraXQtY3FnWXljVmFjd0dsMjRMekE0aktuRnNWMW9tTzZZR3JLbHpPWTA3eDc0dkkxSGp2M1NLLUlpNTBPb2J1X0VseVpncTZpYl9mSU9lT0VBel95ZnlqZzAzbVFZUUxFZlJqdkEzYVVvdWlhVHVINnlidVUwTVRpUmNCVk1NNkMyMzBxakpoNDVOMHZEQnRRY0QzTFVqOWI?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-29T09:38:21+00:00",
-    "summary": "In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz Reuters",
+    "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "source": "TechCrunch",
+    "published_at": "2026-05-29T17:27:13+00:00",
+    "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
     "category": "tech",
-    "score": 5.626
+    "score": 6.395
   },
   "items": [
     {
-      "title": "Dell rallies about 40% on strong Nvidia‑powered AI server demand",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVJqdDdzRnFib0ZkeU1rd1F6WlZrOHF4cTB2MGVoLUhqRlNJNzY1RXY0MHBpcHhNUXBQODVMSlNRd0c5N292QnRTcUZpRkpvR2dVYnVLSm1YalVEUkZ0blV6UllTZTJPaUtlU2VfbDZjWk1ESWYwcGtwRzAzWHV3UjN0dS1Oc1ExNXNLSHVmRmRBQy1xOWFyN3ZaNjFFdDVzYWxEcGN4UTBmdUs1bV9ySnpBaTVRSkdQMkZqcg?oc=5",
+      "title": "OpenAI gives Japan banks access to latest model, Japan's finance minister says",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTm9fVFJxYTdFUlRXNnNJWXlPaElHU2UyLUhoOHl3Ukx1RHJRUl9SVTFrSXd4WXpnOUR5X3Z4ZnVCLXM2UjBqMDBZdDd4SktsUHp2dkw4c29fQUhydEc4bzBRQkstMzFmNXREc0xqU2tCUTR0X2hnUFR5NXNCdy1yUndGeDVKLVBUczZVZVpnVGMtbFUwd0hiWEdIUnIwd0FpSzVTbEVVdG9TWFRDRHEybkhHUWRVREcxSDk2bVk0T0ZvRGFHWVJr?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-29T09:35:29+00:00",
-      "summary": "Dell rallies about 40% on strong Nvidia‑powered AI server demand Reuters",
+      "published_at": "2026-05-29T14:31:22+00:00",
+      "summary": "OpenAI gives Japan banks access to latest model, Japan's finance minister says Reuters",
       "category": "tech",
-      "score": 5.615
+      "score": 5.442
     },
     {
-      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
-      "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-05-29T10:38:46+00:00",
-      "summary": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
-      "category": "science",
-      "score": 5.398
+      "title": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnpBWnZINGo1aU12NnEtczN6TWh3RWVVMlNMNlpZVGRWM193WFZPR183ZUZ5Tm9TandfYXM4OTZ1U3dnLW5mSml5Vk1OV0pKbWtUd19KVGs3NUNiVGpqV0VvNXNBZUlXc0lTV2tscWdnLTJ4TjBiQXhBcXA2b21yRTE1NExOOUV5dXhmaVBHR1RvTW8xWml4NXBBNDhmVnYwODZKWWpvcmw2WGlqTm9ZeWJMbjVQOGswU0JSS1Ztdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-29T17:33:38+00:00",
+      "summary": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation Reuters",
+      "category": "conflicts",
+      "score": 5.361
     },
     {
-      "title": "What does Blue Origin rocket mishap mean for Nasa's Moon mission?",
-      "url": "https://www.bbc.com/news/videos/cg4pd3n30w6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-05-29T12:48:24+00:00",
-      "summary": "Science correspondent Pallab Ghosh explains why the explosion is a setback for space exploration.",
-      "category": "science",
-      "score": 4.485
-    },
-    {
-      "title": "Russian drone hits Romania apartment block, drawing NATO, EU outrage",
-      "url": "https://www.france24.com/en/video/20260529-russian-drone-hits-romania-apartment-block-drawing-nato-eu-outrage",
+      "title": "Romania: Russian drone hits apartment building",
+      "url": "https://www.france24.com/en/video/20260529-romania-russian-drone-hits-apartment-building",
       "source": "France 24",
-      "published_at": "2026-05-29T10:33:35+00:00",
-      "summary": "A Russian drone struck an apartment building in NATO-member Romania early Friday, wounding two people in the latest spillover from the war in Ukraine and prompting strong condemnation from the Atlantic alliance and the European Union. NATO-member states bordering Ukraine or Russi",
+      "published_at": "2026-05-29T15:01:38+00:00",
+      "summary": "🇷🇴 🇷🇺 🇺🇦 A #Russian drone launched at #Ukraine struck an apartment building in #Romania early Friday. The incident injured two people in the #NATO-member country, prompting strong condemnation from the military alliance and the #EU.",
       "category": "politics",
-      "score": 4.161
+      "score": 4.558
+    },
+    {
+      "title": "Wall Street follows global stocks higher, crude prices ease on potential US-Iran truce extension",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTVlS2Y4YzBmWGowUkNTSF94M21QQjZ1TzViNVJhaEgwZFBJa200R1hydjhQYWgzUXJlcENFSjlaZndHVms5eXd5VW5XT3ljUllpcVZ1emhFT1plNUhLVzNJOEg2Wi1zUVRkUzZCVENaVS1sQWhTN2V4cVZPXzZmY1VpcmpBeTFh?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-29T15:16:33+00:00",
+      "summary": "Wall Street follows global stocks higher, crude prices ease on potential US-Iran truce extension Reuters",
+      "category": "finance",
+      "score": 4.531
     }
   ],
   "hero_history": [
+    "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
     "In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz",
     "Watch Anthropic Eclipses Rival OpenAI With Valuation of $965 Billion",
     "Anthropic's valuation surges to $965 billion, surpassing OpenAI",
     "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
     "Musk says SpaceX agreed only six-month Colossus AI lease to Anthropic",
     "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan",
-    "Iran war live: Israel orders mass forced displacement for all south Lebanon",
-    "Webb reveals black hole that formed before its galaxy"
+    "Iran war live: Israel orders mass forced displacement for all south Lebanon"
   ]
 }

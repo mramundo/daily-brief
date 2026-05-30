@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-30T07:18:27.431600+00:00",
+  "updated": "2026-05-30T12:42:59.498665+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-05-30T07:14:07+00:00",
-    "summary": "Ukraine AP News",
-    "category": "conflicts",
-    "score": 10.815
+    "title": "Anthropic Cuts Unauthorized Platform List by Half After Pushback",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFNIcDUxdjdPLXJIVTRSQnhJYmJ4b3pra3BlbU9DMndOdkdHZjdoQXdzRWdxeUNoNVZIN0gwM3kwNW5QRmhEUjVXZTE2VE1veHlrbkZ3a2xQYlNJWjdYN3FiWXhsY3BEamFZRlBtRlNpMGxWT2c2dWs0NXdubm02MmV1QkUxcXFtVDNFWE1PbUpTa1ZZdWdtM2phV1BTcjczOG5aUUtsYVFpZUtMTk5DM0llTy01QQ?oc=5",
+    "source": "Bloomberg",
+    "published_at": "2026-05-30T10:17:43+00:00",
+    "summary": "Anthropic Cuts Unauthorized Platform List by Half After Pushback Bloomberg",
+    "category": "tech",
+    "score": 6.113
   },
   "items": [
     {
-      "title": "Anthropic now most valuable AI startup company",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhtY3V3aEJiVWpkLTVid09VMTctYU5vYnBOeWhzV2Q5emFNYlVJTGpQb0hUdnBmZm41M2tlREtRRGVhYV9lZzhVOXRxVEl5RlVwb3ZCaEoxeURLRjhlWGVqZ3FGTHNiQnJEdGxKeW9MNHpUS2xDMFJidHRxR3hMcGFZeHFPeGtDcWRfR2pBLVV4X1RHUFN4Rl91NzlaNkVJc2ItaVBPeThMenA0UU9xNUNWaGNsSzBLNnh1RENoUFhMTENCV1cxYQ?oc=5",
-      "source": "WANDTV.com",
-      "published_at": "2026-05-30T03:28:44+00:00",
-      "summary": "Anthropic now most valuable AI startup company WANDTV.com",
+      "title": "Anthropic surpasses OpenAI to become world’s most valuable AI startup",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3c3ek5Ob25KbTY3YUE5V0w3eHpRLUNsU3dnZHN2OXg1QUdVNDMtNEVWNWFTQ3ZwQm9lNXFxNlNyeHZwMXUwMnJrQm9Nekl5MVJPTF9seTZzZ00taHRGWTRmWjBXUXpaTDlmZXpXTHpLWTJXRlhLdGVyQ3hQSUZMNkYzTmh6SWhYWGZORHBPN2s4YmFjWjg5clo4VdIBmwFBVV95cUxNNVFVRVVfTzIyb1VmSG51amg1dlNQeENfem9RckEtd0RseTh1djhJX2JuY1dGVFFCX3k4MmcyaTFWVEhHTzZ6MTJQekFkSExlblRZT3R1aGlXOFJaQmVyZ1ZnN3lfTFY2ZDJNUkJoT0psYzVIZmljNzREZnJjWnk0TElVc2Zzd3JUdVp5cXhCMTY0WmhxS09VdENTYw?oc=5",
+      "source": "Qazinform",
+      "published_at": "2026-05-30T08:35:46+00:00",
+      "summary": "Anthropic surpasses OpenAI to become world’s most valuable AI startup Qazinform",
       "category": "tech",
-      "score": 5.947
+      "score": 5.193
     },
     {
-      "title": "Israeli soldiers share rare accounts from Gaza, describing ongoing killings despite the ceasefire",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclA0NlpjUUJjcGhkUjFBZHh3dkxEeFJ3cXRwQUhVTW9nUGY3eW5uWEhkaHZEOUg2enF5M2ZMUnhnWUxuMF96NDFYYjE0M25EWGlSTi1zZHNpRVF0MlUtLWZrMFRHaTNxRFl2REc0SkRRNnpObXdFM2pTdXdlSzdvU3NzRkl3QXJqOXNiQlpsaVh1Snd0Mm9SYVluWk5aZw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-05-30T05:09:00+00:00",
-      "summary": "Israeli soldiers share rare accounts from Gaza, describing ongoing killings despite the ceasefire AP News",
+      "title": "Markets",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-05-30T06:02:30+00:00",
+      "summary": "Markets Bloomberg",
+      "category": "finance",
+      "score": 5.12
+    },
+    {
+      "title": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMnpBWnZINGo1aU12NnEtczN6TWh3RWVVMlNMNlpZVGRWM193WFZPR183ZUZ5Tm9TandfYXM4OTZ1U3dnLW5mSml5Vk1OV0pKbWtUd19KVGs3NUNiVGpqV0VvNXNBZUlXc0lTV2tscWdnLTJ4TjBiQXhBcXA2b21yRTE1NExOOUV5dXhmaVBHR1RvTW8xWml4NXBBNDhmVnYwODZKWWpvcmw2WGlqTm9ZeWJMbjVQOGswU0JSS1Ztdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-05-29T23:03:44+00:00",
+      "summary": "Israeli push to take more of Gaza raises alarm as Hamas warns against escalation Reuters",
       "category": "conflicts",
-      "score": 4.585
+      "score": 4.987
     },
     {
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-30T04:19:32+00:00",
-      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-      "category": "politics",
-      "score": 4.473
-    },
-    {
-      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
-      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-      "source": "The Verge",
-      "published_at": "2026-05-29T23:03:29+00:00",
-      "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" ea",
-      "category": "tech",
-      "score": 4.372
+      "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+      "url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-05-30T12:04:35+00:00",
+      "summary": "Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse.",
+      "category": "conflicts",
+      "score": 4.745
     }
   ],
   "hero_history": [
+    "Anthropic Cuts Unauthorized Platform List by Half After Pushback",
     "Ukraine",
     "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
     "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
     "In China, AMD CEO Lisa Su is understated while Nvidia's Huang is more razzmatazz",
     "Watch Anthropic Eclipses Rival OpenAI With Valuation of $965 Billion",
     "Anthropic's valuation surges to $965 billion, surpassing OpenAI",
-    "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
-    "Musk says SpaceX agreed only six-month Colossus AI lease to Anthropic"
+    "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO"
   ]
 }

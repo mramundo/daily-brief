@@ -1,60 +1,60 @@
 {
-  "updated": "2026-05-31T12:47:28.643266+00:00",
+  "updated": "2026-05-31T18:41:42.240321+00:00",
   "hero": {
-    "title": "Malta's Labour Party wins record fourth term in parliamentary election",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzZTLUFHeE9RLW5IOC0wbVY4OWhuSTlGbXZIWUZ5aFM5TUxtWGJ3MEdCZW0yWVFfdHlwQ0xCMkxpSThpZHFZcmdhcUtnRHN1aEFzYmJVUnJpRjZmT0plNi1RUHpKRnB5MHNiTDZHbEkwM05Tc25PQi01N3hEUzZfTE5ENzVaLTlpUF9NMldNdEF3OUU5aHpreEk3WWJPUkxSSm93a2UzeU10dUlM?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-31T10:05:43+00:00",
-    "summary": "Malta's Labour Party wins record fourth term in parliamentary election Reuters",
+    "title": "Colombia’s presidential election pits outgoing leader’s ally against pro-Trump candidates",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd2tKcXA1Zk9GaW1VX3JOS1B3NlZWSzI5Z2JwWmp3REo2YVdQZE5uSDBlYzZLLWEyTUtCMGpQM05fd2R5OXNScXFILUl6LWx1MDE0LXR6Vk9RMmpfaG9BZk9jMDIzUU9YXy1hV2tqTk1MaWYyRG1FVFZxdVFmT0RUd0YxZnJLZ3g1enNGdURZYk9QYUVTVGFGdUV5d1phNUtL?oc=5",
+    "source": "AP News",
+    "published_at": "2026-05-31T16:45:00+00:00",
+    "summary": "Colombia’s presidential election pits outgoing leader’s ally against pro-Trump candidates AP News",
     "category": "politics",
-    "score": 5.904
+    "score": 6.092
   },
   "items": [
     {
-      "title": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-31T11:13:49+00:00",
-      "summary": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah Reuters",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-05-31T18:06:57+00:00",
+      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
       "category": "conflicts",
-      "score": 4.994
+      "score": 5.584
     },
     {
-      "title": "How Trump’s Ukraine aid cuts undermine justice for Russian war crimes",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3owaFpGUmRoeDZ3enhUbXJ2YVJndVdaUmo2M0F5Ujk5NEFkZzhVdFJvb01ORWlxbzhRdzl2ckY2ekxKNmJTTEJTZklJLUs4UEtrVzRaU1JUX1liWUtpUWdxVXpObER1YXQ4MnN5N3dNSXZSQVpadWhqalpKWnFwS2VHTUV2LXRTdFRUcHA4bjRNNXR3TkNJaHF2blJMYU8zWE5XQ2FWNnNWaXZ3Xzh3RzZpSTkyMTZRUGlZMDBpdWZ6ZnM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-31T10:54:28+00:00",
-      "summary": "How Trump’s Ukraine aid cuts undermine justice for Russian war crimes Reuters",
-      "category": "conflicts",
-      "score": 4.638
+      "title": "Colombia: Polls open in tight presidential election",
+      "url": "https://www.dw.com/en/colombia-polls-open-in-tight-presidential-election/a-77365446?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-05-31T14:48:00+00:00",
+      "summary": "Surveys are predicting a close, three-way race between a veteran leftist candidate, a right-wing senator and an independent businessman, which is likely to go to a second-round run-off.",
+      "category": "politics",
+      "score": 5.57
     },
     {
       "title": "Nvidia Recently Plowed $3.8 Billion Into These 2 Artificial Intelligence (AI) Stocks",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXd0VWx0dnl0YVBsdXd2YURISmM2bVk1aXpPOGtqenNhM1pRTlcwMUNxRVNOaFkxNkxMSzhnZ2VnRGpWM09XNm56SzZsU204UGhNNHVRSmNKbm5nUnhaRGJJMlhzd2tibFZkdFlVMDZ2WlNZOEV2dGkxcU02M3FFZDlqT1JYeU5PejhCQVczZ092ZGRVR0FpeA?oc=5",
       "source": "The Motley Fool",
-      "published_at": "2026-05-31T12:28:12+00:00",
+      "published_at": "2026-05-31T13:25:00+00:00",
       "summary": "Nvidia Recently Plowed $3.8 Billion Into These 2 Artificial Intelligence (AI) Stocks The Motley Fool",
       "category": "tech",
-      "score": 3.96
+      "score": 4.949
     },
     {
-      "title": "Samsung, SK hynix Join Anthropic Funding Round, Raising Expectations for AI Chip Cooperation",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zWWpkb2NLN1V6YTdnNTllZ3JadWhFRkZfQ0VnYVJEQi1wTWxwUlVzMTRmc0lEZXhnS3N1TWJTY002SEdXMndQc2Z2S2ZweFVfY0Itd1k2eDBodkpVR2VsZEdNVVR4MTQ?oc=5",
-      "source": "thelec.net",
-      "published_at": "2026-05-31T09:18:53+00:00",
-      "summary": "Samsung, SK hynix Join Anthropic Funding Round, Raising Expectations for AI Chip Cooperation thelec.net",
+      "title": "Missed Out on Nvidia? Here's 1 AI Stock You Can Buy Right Now.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOW84SXVzNUVJZFdETXBjalJaaVp1djVGazFBUXZCemRYUzJNX2w5Yzd3Q0JpYzYyN2FTczhwLU94MkxfZmFBYjdIbTJJNFdqRzZvcjBfOGJiSmc4Wk9hcGs1ejVIbk9UdENwOFJFbjJWTEVCcjlpSm5OQjBiVm5aUDBLalV3WDlrTVJwWGNKSzUtZms?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-05-31T16:50:00+00:00",
+      "summary": "Missed Out on Nvidia? Here's 1 AI Stock You Can Buy Right Now. Yahoo Finance",
       "category": "tech",
-      "score": 3.472
+      "score": 4.279
     }
   ],
   "hero_history": [
+    "Colombia’s presidential election pits outgoing leader’s ally against pro-Trump candidates",
     "Malta's Labour Party wins record fourth term in parliamentary election",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
     "Anthropic Cuts Unauthorized Platform List by Half After Pushback",
     "Ukraine",
-    "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-    "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M"
+    "Iran war live: Trump due to make ‘final determination’ on deal with Tehran"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-01T01:28:20.889486+00:00",
+  "updated": "2026-06-01T08:12:13.811691+00:00",
   "hero": {
-    "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-05-31T23:57:02+00:00",
-    "summary": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China Reuters",
+    "title": "Nvidia announces new AI chip for personal computers",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGOUR1ZWt4cjBrc2hua05UUThBNFkzRVFyYUZ5NU9uRzFjQjlJWmZBX2ZESk43eUNzSURoN041QUhSWGM4ZXBLRVhKVmV6UXlWcUkyTE9UVUVzdw?oc=5",
+    "source": "BBC World",
+    "published_at": "2026-06-01T05:48:27+00:00",
+    "summary": "Nvidia announces new AI chip for personal computers BBC",
     "category": "tech",
-    "score": 12.801
+    "score": 8.297
   },
   "items": [
     {
-      "title": "Nvidia CEO to kick off and dominate Computex gathering in Taipei",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzY0VHRMYTFjbjNtOGVXVGtlUUJtS3gtc045endOejNZbXQ4WHpTYWEtRzRSMTlXemFiTWd0Zl81NU9UVzFvMWVGaXVlSkZOVUVIdEs1WjNkMnd3bXNKNjVkckdxVUlZWllCR1QyMGFMSkRLaHB2WkcyYUNUcDJteXd0YnNkU2dwS3RhMV9DajlVSTNKM2JaTTZTQy1VM2hRcHpLZQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-05-31T23:05:50+00:00",
-      "summary": "Nvidia CEO to kick off and dominate Computex gathering in Taipei Reuters",
-      "category": "tech",
-      "score": 5.984
-    },
-    {
-      "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
-      "url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
+      "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
+      "url": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-05-31T23:02:53+00:00",
-      "summary": "The left-wing senator and far-right newcomer will face each other in a run-off on June 21, with security a top issue.",
-      "category": "politics",
-      "score": 5.922
-    },
-    {
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-05-31T22:39:12+00:00",
-      "summary": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
+      "published_at": "2026-06-01T07:40:23+00:00",
+      "summary": "While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.",
       "category": "conflicts",
-      "score": 5.087
+      "score": 8.239
     },
     {
-      "title": "Oil prices rise more than 2% as Israel steps up incursion into Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVUzT01wRHRkOHYyXzBCUnRuMkhYYnRJbzZwcWtxaWt6R3BqTm1nUjZaNHVFZWVPT2JlVVJtMU9xdmo0Skc5VEh1MDVmcWFIaw?oc=5",
+      "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
+      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "source": "The Verge",
+      "published_at": "2026-06-01T04:28:53+00:00",
+      "summary": "This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many months of leaks, it's finally announcing the RTX Spark, the first",
+      "category": "tech",
+      "score": 6.789
+    },
+    {
+      "title": "Israel airstrike kills at least two Palestinians at Gaza port",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-airstrike-kills-at-least-two-palestinians-at-gaza-port?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-01T05:16:51+00:00",
+      "summary": "At least two Palestinians were killed and around a dozen wounded when an Israeli air strike hit a crowded cafe.",
+      "category": "conflicts",
+      "score": 4.854
+    },
+    {
+      "title": "Insight: A bachelor's in rare earths? In China, there are schools for that",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0tRd2h0YlVxWE1qUzB0N2ZGVUNhaG9pcEpDTjBiRTQzMnlqN3RCbWVlc0ZxdEhWUUpLOUZoOWpEdGpQb1ZvZW8yQ0oyZ3BRczZxbFRZMHVDakxKZUxrS1BuNmNWQ0NBWkhYNnhjbUVtSDV3bjNncy1jRWJtTHlLZUQ0NjdrYkFrSDY0SjJEUzNuTWpHQUtYQ3dB?oc=5",
       "source": "Reuters",
-      "published_at": "2026-05-31T23:44:49+00:00",
-      "summary": "Oil prices rise more than 2% as Israel steps up incursion into Lebanon Reuters",
-      "category": "conflicts",
-      "score": 4.96
+      "published_at": "2026-06-01T04:02:00+00:00",
+      "summary": "Insight: A bachelor's in rare earths? In China, there are schools for that Reuters",
+      "category": "resources",
+      "score": 4.627
     }
   ],
   "hero_history": [
+    "Nvidia announces new AI chip for personal computers",
     "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
     "Colombia’s presidential election pits outgoing leader’s ally against pro-Trump candidates",
     "Malta's Labour Party wins record fourth term in parliamentary election",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
-    "Anthropic Cuts Unauthorized Platform List by Half After Pushback",
-    "Ukraine"
+    "Anthropic Cuts Unauthorized Platform List by Half After Pushback"
   ]
 }

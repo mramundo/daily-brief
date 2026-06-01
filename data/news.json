@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-01T08:12:13.811691+00:00",
+  "updated": "2026-06-01T14:23:17.501373+00:00",
   "hero": {
-    "title": "Nvidia announces new AI chip for personal computers",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGOUR1ZWt4cjBrc2hua05UUThBNFkzRVFyYUZ5NU9uRzFjQjlJWmZBX2ZESk43eUNzSURoN041QUhSWGM4ZXBLRVhKVmV6UXlWcUkyTE9UVUVzdw?oc=5",
-    "source": "BBC World",
-    "published_at": "2026-06-01T05:48:27+00:00",
-    "summary": "Nvidia announces new AI chip for personal computers BBC",
+    "title": "These are the first Nvidia RTX Spark laptops",
+    "url": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+    "source": "The Verge",
+    "published_at": "2026-06-01T11:29:52+00:00",
+    "summary": "Nvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it. Microsoft, Asus, HP, MSI, Lenovo, and Dell are expected to launch RTX Spark laptops sometime this fall, and some of those partner",
     "category": "tech",
-    "score": 8.297
+    "score": 6.247
   },
   "items": [
     {
-      "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
-      "url": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-01T07:40:23+00:00",
-      "summary": "While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.",
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-01T14:13:53+00:00",
+      "summary": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
       "category": "conflicts",
-      "score": 8.239
+      "score": 6.038
     },
     {
-      "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
-      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
-      "source": "The Verge",
-      "published_at": "2026-06-01T04:28:53+00:00",
-      "summary": "This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and mini-PCs. After many months of leaks, it's finally announcing the RTX Spark, the first",
-      "category": "tech",
-      "score": 6.789
-    },
-    {
-      "title": "Israel airstrike kills at least two Palestinians at Gaza port",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-airstrike-kills-at-least-two-palestinians-at-gaza-port?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-01T05:16:51+00:00",
-      "summary": "At least two Palestinians were killed and around a dozen wounded when an Israeli air strike hit a crowded cafe.",
-      "category": "conflicts",
-      "score": 4.854
-    },
-    {
-      "title": "Insight: A bachelor's in rare earths? In China, there are schools for that",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0tRd2h0YlVxWE1qUzB0N2ZGVUNhaG9pcEpDTjBiRTQzMnlqN3RCbWVlc0ZxdEhWUUpLOUZoOWpEdGpQb1ZvZW8yQ0oyZ3BRczZxbFRZMHVDakxKZUxrS1BuNmNWQ0NBWkhYNnhjbUVtSDV3bjNncy1jRWJtTHlLZUQ0NjdrYkFrSDY0SjJEUzNuTWpHQUtYQ3dB?oc=5",
+      "title": "Ukraine attacks Russian energy sites - what has been hit?",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGJxTzhpY1JocUh1UkdzZmpuTUFXUVMtZnVVRmJGV1JuSHRGdWtENUNCeTlSRmdXd3BwNHlhSmcxd2I3b0tVWGJ1MEhXcGlSOHg4aFVjV2ZRYmppUVRCcXR5bHFSalA2Q2VYdjR1QmtnQm16ajVrQkZJTE9SSnVXQnRON2ZMTHFlUXZnWjJlNnFCRlUyNERrSGg4aUd3VkJUSVdlV05KWVRZQQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-01T04:02:00+00:00",
-      "summary": "Insight: A bachelor's in rare earths? In China, there are schools for that Reuters",
+      "published_at": "2026-06-01T10:16:32+00:00",
+      "summary": "Ukraine attacks Russian energy sites - what has been hit? Reuters",
+      "category": "conflicts",
+      "score": 5.566
+    },
+    {
+      "title": "India, Myanmar to stay in touch on issue of critical minerals, rare earths; take cooperation forward: MEA",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWkhBYTlHZi1lWEpjMlhDeC1aOEtQa2VaeHgyYkVPTGVDRElBS1pJdUlKQXk1dEtZS0xlSF8xYnZ4RmhpQVYwZmpza2Jlb0Nac1k4Y2xZT0ZIamM1RktzbXZsU3dwYWZpeEN2dW9XZ25yT3ZIU0pvdnVxelB2Q0VVTFJ4NmUyUFhJTTRyTmhDamgxcDM4NGNoZlllUGZuWVo5Qm4zQU13dE41Qy1HM3RkN3gxLWNhYmhYYlB4VDBqVHJsN25UQTNDcGtWN1B2emRjTTRGb3Y3a1g1UkROQkhOZ21WUHRVWWx3NXcxS3NiLTVkVHEtVzFhOUVWVndmd9IB_gFBVV95cUxNWkhBYTlHZi1lWEpjMlhDeC1aOEtQa2VaeHgyYkVPTGVDRElBS1pJdUlKQXk1dEtZS0xlSF8xYnZ4RmhpQVYwZmpza2Jlb0Nac1k4Y2xZT0ZIamM1RktzbXZsU3dwYWZpeEN2dW9XZ25yT3ZIU0pvdnVxelB2Q0VVTFJ4NmUyUFhJTTRyTmhDamgxcDM4NGNoZlllUGZuWVo5Qm4zQU13dE41Qy1HM3RkN3gxLWNhYmhYYlB4VDBqVHJsN25UQTNDcGtWN1B2emRjTTRGb3Y3a1g1UkROQkhOZ21WUHRVWWx3NXcxS3NiLTVkVHEtVzFhOUVWVndmdw?oc=5",
+      "source": "ETEnergyworld.com",
+      "published_at": "2026-06-01T11:49:26+00:00",
+      "summary": "India, Myanmar to stay in touch on issue of critical minerals, rare earths; take cooperation forward: MEA ETEnergyworld.com",
       "category": "resources",
-      "score": 4.627
+      "score": 5.373
+    },
+    {
+      "title": "Nvidia Enters Windows Laptop Market, Taking On Intel and AMD",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXVnbXZ1MFp3ZmREN1h0Z3E0QUxIVHFpQm8zWTB4Nk5XNU9fMGV5SWtSVWlLbjR4SHhELXN5VUxjNm9LWEM0OTAteWVYUlpDYV9pR1NTSnN4M2IyRUYtZ04wV2NYeko5bGc2cjM2QzFpSEFnYndhZ3ZkNXkwNnU0MWJIblp1ZWdaeXJGZVZjbzlHZzZmOWo5X0Q0Sks0MkI3clRLZWFzR1BYT0ZoMmFN?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-06-01T13:35:12+00:00",
+      "summary": "Nvidia Enters Windows Laptop Market, Taking On Intel and AMD Bloomberg.com",
+      "category": "tech",
+      "score": 5.218
     }
   ],
   "hero_history": [
+    "These are the first Nvidia RTX Spark laptops",
     "Nvidia announces new AI chip for personal computers",
     "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
     "Colombia’s presidential election pits outgoing leader’s ally against pro-Trump candidates",
     "Malta's Labour Party wins record fourth term in parliamentary election",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
-    "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
-    "Anthropic Cuts Unauthorized Platform List by Half After Pushback"
+    "First Windows PC powered by Nvidia chips to debut next week, Axios reports"
   ]
 }

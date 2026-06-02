@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-01T19:55:45.512630+00:00",
+  "updated": "2026-06-02T01:26:42.245010+00:00",
   "hero": {
-    "title": "Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkcyb3ptMkVkTVREMWdpLWR5YlJTOHlJbHUxYkRVNzQ5VEhGU3FOZmFuX2YzN3lIVkcxelhMV3RjM2ctb2pVYTdERHZaRjVOV0hOM0p1Zks5Nm03QmJ1WDM3d0d4aVQ5Z00wZGVqRWRQMTVnUzNFcGhHc2VuRXdyTUJuU0c2aGdaMDZJ?oc=5",
-    "source": "NBC News",
-    "published_at": "2026-06-01T17:06:50+00:00",
-    "summary": "Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public NBC News",
+    "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-01T21:37:00+00:00",
+    "summary": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT AP News",
     "category": "tech",
-    "score": 12.155
+    "score": 10.159
   },
   "items": [
     {
       "title": "Anthropic moves toward IPO, stepping up race with OpenAI",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-01T18:30:04+00:00",
+      "published_at": "2026-06-01T21:04:21+00:00",
       "summary": "Anthropic moves toward IPO, stepping up race with OpenAI Reuters",
       "category": "tech",
-      "score": 9.437
+      "score": 8.348
     },
     {
-      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "title": "Four dead and several injured after massive Russian strikes across Ukraine",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-06-01T18:34:14+00:00",
-      "summary": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.",
+      "published_at": "2026-06-02T01:13:25+00:00",
+      "summary": "Thousands of Kyiv residents ran for shelter following what officials said were ballistic missile strikes on the city centre.",
       "category": "conflicts",
-      "score": 7.658
+      "score": 7.026
     },
     {
-      "title": "Ethiopia votes in elections expected to give Abiy's party a landslide win",
-      "url": "https://www.france24.com/en/africa/20260601-ethiopia-votes-in-elections-expected-to-give-abiy-s-party-a-landslide-win",
-      "source": "© Amanuel Sileshi, AP",
-      "published_at": "2026-06-01T15:14:01+00:00",
-      "summary": "Ethiopians voted on Monday in parliamentary and regional elections expected to hand Prime Minister Abiy Ahmed’s ruling Prosperity Party a landslide win. There was no election in the Tigray region due to “unfavourable conditions”, and voting in the Oromo and Amhara regions were in",
-      "category": "politics",
-      "score": 6.555
+      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-02T00:00:00+00:00",
+      "summary": "Death toll from Israel's attacks on Lebanon since March has reached 3,433, with 10,395 injured, says Health Ministry.",
+      "category": "conflicts",
+      "score": 6.168
     },
     {
-      "title": "Trump says Israel and Hezbollah have agreed to dial back fighting",
-      "url": "https://www.france24.com/en/video/20260601-trump-says-israel-and-hezbollah-have-agreed-to-dial-back-fighting",
-      "source": "France 24",
-      "published_at": "2026-06-01T18:42:52+00:00",
-      "summary": "US President Donald Trump said Monday he had persuaded Israel and Hezbollah to de-escalate, with Prime Minister Benjamin Netanyahu agreeing not to send troops to southern Beirut and the Lebanese militant group promising to stop attacks. Reporting from Jerusalem, FRANCE 24's Noga",
-      "category": "politics",
-      "score": 5.54
+      "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/",
+      "source": "NASA",
+      "published_at": "2026-06-01T23:45:59+00:00",
+      "summary": "NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is",
+      "category": "science",
+      "score": 4.444
     }
   ],
   "hero_history": [
+    "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
     "Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public",
     "These are the first Nvidia RTX Spark laptops",
     "Nvidia announces new AI chip for personal computers",
     "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
     "Colombia’s presidential election pits outgoing leader’s ally against pro-Trump candidates",
     "Malta's Labour Party wins record fourth term in parliamentary election",
-    "First Windows PC powered by Nvidia chips to debut next week, Axios reports",
     "First Windows PC powered by Nvidia chips to debut next week, Axios reports"
   ]
 }

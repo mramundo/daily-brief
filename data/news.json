@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-02T01:26:42.245010+00:00",
+  "updated": "2026-06-02T07:58:51.816603+00:00",
   "hero": {
-    "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-01T21:37:00+00:00",
-    "summary": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT AP News",
-    "category": "tech",
-    "score": 10.159
+    "title": "At least nine people killed, dozens wounded in Russian attacks on Ukraine",
+    "url": "https://www.aljazeera.com/news/2026/6/2/at-least-nine-people-killed-dozens-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-02T07:07:21+00:00",
+    "summary": "Russia launches 656 drones and 73 missiles at Ukraine overnight, according to Ukraine's air force.",
+    "category": "conflicts",
+    "score": 8.127
   },
   "items": [
     {
-      "title": "Anthropic moves toward IPO, stepping up race with OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-01T21:04:21+00:00",
-      "summary": "Anthropic moves toward IPO, stepping up race with OpenAI Reuters",
-      "category": "tech",
-      "score": 8.348
-    },
-    {
-      "title": "Four dead and several injured after massive Russian strikes across Ukraine",
-      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-02T01:13:25+00:00",
-      "summary": "Thousands of Kyiv residents ran for shelter following what officials said were ballistic missile strikes on the city centre.",
-      "category": "conflicts",
-      "score": 7.026
-    },
-    {
-      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
+      "title": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks",
+      "url": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-06-02T00:00:00+00:00",
-      "summary": "Death toll from Israel's attacks on Lebanon since March has reached 3,433, with 10,395 injured, says Health Ministry.",
+      "published_at": "2026-06-02T06:55:14+00:00",
+      "summary": "Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.",
       "category": "conflicts",
-      "score": 6.168
+      "score": 6.268
     },
     {
-      "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/",
-      "source": "NASA",
-      "published_at": "2026-06-01T23:45:59+00:00",
-      "summary": "NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is",
-      "category": "science",
-      "score": 4.444
+      "title": "Nvidia bets on AI personal computers with new ‘superchip’ powering Windows laptops",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWpZSlFaZXNLTmpwQUdUR0h0RHY2MVAwYlZaNWxXUDEzazFrZlZKOVFiblJjTlB4SkRSUlJva1pOV0gxYVJZdlBjOGR5STlZWFNSLUhyc25ZbDV3QzFQcGpSeHQ3TkMzT0d6T3dOT2E1MVl4MGQ0b3pxZ20zUE5sSmk4bVhCajVEZUVLZDFzWmFxbEVYM3pndXkzeVlKM1J2?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-02T02:01:00+00:00",
+      "summary": "Nvidia bets on AI personal computers with new ‘superchip’ powering Windows laptops AP News",
+      "category": "tech",
+      "score": 6.011
+    },
+    {
+      "title": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEhKM2VqMGUweGdtYjBzWHJVUVNBTUo0QWV0eEpPVmtDNkZHN0twdVNVenlWVElxVWtSUEc0eTNzWFlUV1hjWm9sc2k5U0t4cWM5QkpSMS1sVEJIR3pjY3VfRGtuRkN6QW1FVmFneXZNMndFUFYxMi00NjlUNFdudXBUVVVVTUFWSGlRRXRxMW5IZFpyTTFEb3dfV0xjRmo1Yl8xWG5uTTM1aTVW?oc=5",
+      "source": "The Washington Post",
+      "published_at": "2026-06-02T00:49:21+00:00",
+      "summary": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO The Washington Post",
+      "category": "tech",
+      "score": 5.177
+    },
+    {
+      "title": "Denmark's Frederiksen secures third term as prime minister",
+      "url": "https://www.dw.com/en/denmark-s-frederiksen-secures-third-term-as-prime-minister/a-77383696?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-06-02T02:17:00+00:00",
+      "summary": "After her party's weakest showing since 1903, Mette Frederiksen spent months negotiating a coalition to stay in power.",
+      "category": "politics",
+      "score": 4.429
     }
   ],
   "hero_history": [
+    "At least nine people killed, dozens wounded in Russian attacks on Ukraine",
     "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT",
     "Anthropic files for IPO before OpenAI as trillion-dollar startups race to go public",
     "These are the first Nvidia RTX Spark laptops",
     "Nvidia announces new AI chip for personal computers",
     "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
     "Colombia’s presidential election pits outgoing leader’s ally against pro-Trump candidates",
-    "Malta's Labour Party wins record fourth term in parliamentary election",
-    "First Windows PC powered by Nvidia chips to debut next week, Axios reports"
+    "Malta's Labour Party wins record fourth term in parliamentary election"
   ]
 }

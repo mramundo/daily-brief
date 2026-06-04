@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-03T19:35:30.715915+00:00",
+  "updated": "2026-06-04T01:32:16.570066+00:00",
   "hero": {
-    "title": "OpenAI's Altman to urge US lawmakers not to require AI model approvals",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNnd1b0RYcWdFY0pNdzRoM0w5eXkxYTNIZTNMOGxCVWx0ZUlVcmFuMXBMRnRjbl9FdVN0Mm1KeGFMTUpNM3o4YVF2WGZkeUhVWkdmNnRBNEc5YmQ5N2FXNEZhbFFsUUYtLU1NS2cxaEJ0U0hHSmxWZHEza3FvbmExd1NBUnBfUFdWLUcwT2I1T09GYXNDNjVGU1k5ekw2U1NMczJDaHp5UHhyU29M?oc=5",
+    "title": "Israel and Lebanon agree to implementation of ceasefire",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHZVSDV2aHBYOHM1bjdsRUdfWGFMSzNySlMxNElEaUhvWElEVmdBdnlXd2dKekZsSnB0RHNpbXMzV2o0ZEhESjJGYUlpZjgwT2x5NWEwUHZ0UnB5bV9zOEhFUEROQlJtZkM3LXdGSG9fLTFJa2RnSk40V3ZVWUNnSnRoa0N2STlsYi1aT0JQckpkM05nSml0VA?oc=5",
     "source": "Reuters",
-    "published_at": "2026-06-03T18:28:29+00:00",
-    "summary": "OpenAI's Altman to urge US lawmakers not to require AI model approvals Reuters",
-    "category": "tech",
-    "score": 7.17
+    "published_at": "2026-06-03T23:05:00+00:00",
+    "summary": "Israel and Lebanon agree to implementation of ceasefire Reuters",
+    "category": "conflicts",
+    "score": 6.958
   },
   "items": [
     {
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-03T19:10:01+00:00",
-      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
-      "category": "conflicts",
-      "score": 5.182
+      "title": "Morgan Stanley and Goldman Sachs Land Anthropic IPO",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR1JPVDNvRmhBZGg2NkhlYU96R01JTDdKNy1SV1RxRVRXbFVFVERLUlBwc0FCSkhjcVREdkNhT21TRW5NR1BURjVHUUVCaGVkc2tic1YtMm9pUG55UFVGbEh2aFFDYlVsc3BFUXRYc2Fod3ZHcXVEejZpSnVnU0pabm5mekdnS0ZqbTNBM2xkZHFUWVk?oc=5",
+      "source": "PYMNTS.com",
+      "published_at": "2026-06-03T22:43:54+00:00",
+      "summary": "Morgan Stanley and Goldman Sachs Land Anthropic IPO PYMNTS.com",
+      "category": "tech",
+      "score": 5.319
     },
     {
-      "title": "Journey to the Center of the Virgo Cluster",
-      "url": "https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/",
-      "source": "NASA",
-      "published_at": "2026-06-03T15:48:44+00:00",
-      "summary": "The focus of this NASA/ESA Hubble Space Telescope image released on May 29, 2026, is an active spiral galaxy on a journey lasting hundreds of millions of years. The galaxy Messier 88 (M88), also known as NGC 4501, is located about 63 million light-years away in the constellation",
-      "category": "science",
-      "score": 4.653
-    },
-    {
-      "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
-      "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
-      "source": "NASA",
-      "published_at": "2026-06-03T18:01:00+00:00",
-      "summary": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The st",
-      "category": "science",
-      "score": 4.463
-    },
-    {
-      "title": "NATO chief warns young Russians they would die in Ukraine war",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenpzOTFjZ3N5NWo4WVZjcGFnb1MzUERKV1dDMzlCTW85MkxXdG5uMGJMQXI5U3kwcXViX1p6WVE1ZjlxV3MtczlhdDRmZkc4bVZfdmtmRnF4MkdGejZXODNyTWtEekxQX0FUNFcxZmZlTERWdFJpdm1rVUlYRUY0Z0ZiRGZ4SFpVTlM5X0s2Rms3RWZQaW5rT1U1TjhSbG1yVFE?oc=5",
+      "title": "US House votes for measure that would end Iran war, in blow to Trump",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXZBVGtQRWNUQXJnZ1ZIRy1ESnlmMTR6MXZMeGotWEJEV0JwTnJmVXdHYUJZazB3cjhrU2FLN0gyMk0tUlNPZDVYYUpLMzhhTUZFam9aLWpNWjNManFDVzFVTGFudDBCQnJja0V4YXFLNldHRUtvYTZBdVR5eTlZaHFKb1dHSjBHSXNMRHpZR3JGY21Kb1NONEJ3ckoxR3N4d3c?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-03T15:36:40+00:00",
-      "summary": "NATO chief warns young Russians they would die in Ukraine war Reuters",
+      "published_at": "2026-06-03T23:36:07+00:00",
+      "summary": "US House votes for measure that would end Iran war, in blow to Trump Reuters",
       "category": "conflicts",
-      "score": 4.25
+      "score": 5.079
+    },
+    {
+      "title": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkM0cTZiejFqYzlidnF4Vm5ndDE3Z2JvOVhIQ2hWSUlscFlvYzdjRVVsVWFMVl9fS0tlWEROLTVIb0t5YjRET3Y0U0M0UDIyQW94Rk5IbEl5Qkx5NlhGMl9EVlNaX1pkel9ZRHc2YXpsX0dZTmtlSXhYT0xCZlVPWVIwUFVJaGsyNmxHdmxXN3pfa2ZINVl2Q2ZEMlUtWFRLOHZ1bFRJb29odw?oc=5",
+      "source": "9to5Mac",
+      "published_at": "2026-06-04T00:25:00+00:00",
+      "summary": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri 9to5Mac",
+      "category": "tech",
+      "score": 4.309
+    },
+    {
+      "title": "Oil prices climb back toward $100, and US stocks halt their record-breaking rally",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjVMZXBoRXVQS3ZaWHI2UUFfXzY1ZHIyYTRsWmRsQ0R1SG1qY0w4VDFPMV9pRmRfdExYM3ZKeDhJTUhJN2pYZnBfNzJVY2ttSERKRVVGaGxTanpZdGhJaHB5akFXS2drQUpQX1I4ZXdxeDMtMHhaaVN4ZGdwMWo4QVZ3RVVaZkdWcFhrdGJsa0QtSnRHUEF3?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-03T21:29:00+00:00",
+      "summary": "Oil prices climb back toward $100, and US stocks halt their record-breaking rally AP News",
+      "category": "finance",
+      "score": 3.751
     }
   ],
   "hero_history": [
+    "Israel and Lebanon agree to implementation of ceasefire",
     "OpenAI's Altman to urge US lawmakers not to require AI model approvals",
     "NVIDIA vs. AMD: Which AI Chip Belongs in Your Retirement Portfolio?",
     "Iran war",
     "UN chief proposes options to help end Israel-Hezbollah conflict after peacekeepers leave Lebanon",
     "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029",
     "Marvell Technology surges after Nvidia's Huang calls it 'next trillion-dollar company'",
-    "At least nine people killed, dozens wounded in Russian attacks on Ukraine",
-    "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT"
+    "At least nine people killed, dozens wounded in Russian attacks on Ukraine"
   ]
 }

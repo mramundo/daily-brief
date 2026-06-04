@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-04T13:27:47.104599+00:00",
+  "updated": "2026-06-04T19:04:38.729661+00:00",
   "hero": {
-    "title": "Israel and Lebanon agree on ceasefire framework in US-led talks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israel-and-lebanon-agree-on-ceasefire-framework-in-us-led-talks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-04T09:50:17+00:00",
-    "summary": "The US announced an Israel-Lebanon ceasefire framework, but Hezbollah's absence leaves questions over enforcement.",
+    "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+    "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-06-04T17:50:20+00:00",
+    "summary": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
     "category": "conflicts",
-    "score": 7.283
+    "score": 7.696
   },
   "items": [
     {
-      "title": "Australia's Lynas Rare Earths names Pol Le Roux as interim CEO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2NJdTBrLUJjdVlPOXdpNnZvNkVjbjlSQjRDaXo5U01ORzZyN0dDTHZlWWg3eUFIQ1EyV3IzWC11alpZdWktTmFuTTBYNUNqYm1IZlNhZWVFTmJHY1gzNGNIU0FUbTJJRDdQamNtRXBEM3JJdTVOaVAyY0EtZlFQb3A5QXBTbENuWDc0TzZ1MF9HcWpBSjBEWG8zeUlWY05ieXNLWkVmTG1PMzVQTENSc0E5bw?oc=5",
+      "title": "OPEC secretary general says oil demand to remain robust, no change to estimates",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFRmMW0xVUdpd2VFQmticXJfelRJVjM1UXVWaFItSENDaUYzN1F3c183MGZTQ1g3QjdWeWxMeExYNlNoMk56emtBNWRRZ2JrVVFsZEROeTFfMm8wODRSTXZIZ1RfWGcyUllMVGN4ZkdQaTY2VXkyYlpsa0lqUjU0aVFVQVllWjhycWRreGNDOVhNZExybllDUFpYOE9fT2hPQnczVDFKX1JSWHdDc2NsbHlWMDdKY21QaVRFUGs5NGtIZw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-04T07:52:49+00:00",
-      "summary": "Australia's Lynas Rare Earths names Pol Le Roux as interim CEO Reuters",
+      "published_at": "2026-06-04T13:32:12+00:00",
+      "summary": "OPEC secretary general says oil demand to remain robust, no change to estimates Reuters",
       "category": "resources",
-      "score": 6.745
+      "score": 6.781
     },
     {
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-04T11:07:12+00:00",
-      "summary": "Women and children were among those killed when Israeli aircraft struck at least four residential buildings in several areas.",
-      "category": "conflicts",
-      "score": 6.431
-    },
-    {
-      "title": "Oil prices fall, Wall Street mixed after record-breaking S&P rally runs out of steam",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXZLR3lZUjlfN3phOENCbElUVUFpVEtpY3FDZG0xZUFPYzJuTjlzT09mQkFaZTZMQU51RmptenpIQk01OUlTdkltUnZEcXNJMXk5X2ZVRXlVQm1LNTdhdThTcE9pTjJJa1l6VFNIYTE4d1pnZ1EyUWplMVpXMXNJRllxX1h1NV9FUXRWSkVnclVvWms?oc=5",
+      "title": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWxhTXE4RVFMNzZSeHRMdVdCRkIzeHktVTdfazU4ZVAxVkU4eUJJZlpOdUxTYVhuVUphemMtNFIxYmJXcFRYTTl2V3UyeTAwS0VoY3dPRmN5aDRLUzVtU2pNZ1UycTd1RFpSOHNmZk9OOEZXWXoxdWRtd3JEVnJWTUxFMUx6VWpORGt5V3lzMHRTc0NZaFdzSUJGaVFxd0pWXzlYUG0tdUs1QQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-04T11:53:00+00:00",
-      "summary": "Oil prices fall, Wall Street mixed after record-breaking S&P rally runs out of steam AP News",
-      "category": "finance",
-      "score": 4.99
+      "published_at": "2026-06-04T18:27:00+00:00",
+      "summary": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon AP News",
+      "category": "conflicts",
+      "score": 4.887
     },
     {
-      "title": "Honeywell's Quantinuum heads for Nasdaq debut as quantum computing gains momentum",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDhiWmdEaFMzb05UYVVQY2tTOEZpb2c1eEdGRUlwbDlRVE1HSXNSd0pTTS1WT1R2U0ozU0poM0xIUXpRSHd0elFfWFphSmthbXVJS2hOVWNlUGtIaThaOVFRZVA0U2VoS3lKYlRqaEhTYmoydGM5WFN2VHBvOUd5VFVRS1l4OTRCSGNyWngtMU5qbjFWSTVrTkRoQ1NkYnFOXzkxOEM5aFExT3dfa3ZROWhNVWFMU1Q2elE?oc=5",
+      "title": "Gold climbs as Middle East ceasefire hopes pressure dollar, bond yields",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjhKMVBpMWNDenNvOHdVMjYtaTN3NEZLeWVsR0MyLWtxNGY0WjV2Z1libmZLOFRscU5RaUhtWnZka0JHRWpYbDZpNTJIUzJzRkdpV2Z0YVRyTUctMEVqUWtHVG1VMVlPMmhNWlJNMGNRUlQ4eWtiYlhQVkhWdFE5dnJkdzR6STlEakQ5bTRHUFlHbXUyYVNfSnRKTFltSE53eU9QZ1E0X0pHUHJMNXlB?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-04T10:50:11+00:00",
-      "summary": "Honeywell's Quantinuum heads for Nasdaq debut as quantum computing gains momentum Reuters",
+      "published_at": "2026-06-04T16:07:03+00:00",
+      "summary": "Gold climbs as Middle East ceasefire hopes pressure dollar, bond yields Reuters",
+      "category": "finance",
+      "score": 4.711
+    },
+    {
+      "title": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkl0dWo1cmVmQTAwa3FPOUlhUGdKUU45U1N0STUxWEtodnpqT1FnaHlGQ1ZNTFo4M3d2S3IxSGFYVHE5X2hZQ05rMUFZUFYtQ1g5Wjc4MVhsSW40SVBWS3otU1hBMjRlOWRaZFZaM2hVMTd6elFPY0pSa2V0V3F5XzlrTVhRT1lzcEUtRXhNLVJtZV82QmJvUFY2OUFuZ3FVNDFSYUxFSFVnbHpzZ2k3YkJ5TGh5QQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-06-04T12:30:05+00:00",
+      "summary": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion Bloomberg.com",
       "category": "tech",
-      "score": 4.777
+      "score": 4.688
     }
   ],
   "hero_history": [
+    "Israeli strikes kill 11 people in Gaza City, medics say",
     "Israel and Lebanon agree on ceasefire framework in US-led talks",
     "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
     "Israel and Lebanon agree to implementation of ceasefire",
     "OpenAI's Altman to urge US lawmakers not to require AI model approvals",
     "NVIDIA vs. AMD: Which AI Chip Belongs in Your Retirement Portfolio?",
     "Iran war",
-    "UN chief proposes options to help end Israel-Hezbollah conflict after peacekeepers leave Lebanon",
-    "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029"
+    "UN chief proposes options to help end Israel-Hezbollah conflict after peacekeepers leave Lebanon"
   ]
 }

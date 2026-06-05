@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-04T19:04:38.729661+00:00",
+  "updated": "2026-06-05T01:22:02.361856+00:00",
   "hero": {
-    "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-    "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-06-04T17:50:20+00:00",
-    "summary": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
+    "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-05T00:00:00+00:00",
+    "summary": "Israel's supreme court annuls government ban on international Red Cross visiting Palestinian prisoners in Israeli jails.",
     "category": "conflicts",
-    "score": 7.696
+    "score": 6.188
   },
   "items": [
     {
-      "title": "OPEC secretary general says oil demand to remain robust, no change to estimates",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFRmMW0xVUdpd2VFQmticXJfelRJVjM1UXVWaFItSENDaUYzN1F3c183MGZTQ1g3QjdWeWxMeExYNlNoMk56emtBNWRRZ2JrVVFsZEROeTFfMm8wODRSTXZIZ1RfWGcyUllMVGN4ZkdQaTY2VXkyYlpsa0lqUjU0aVFVQVllWjhycWRreGNDOVhNZExybllDUFpYOE9fT2hPQnczVDFKX1JSWHdDc2NsbHlWMDdKY21QaVRFUGs5NGtIZw?oc=5",
+      "title": "Anthropic says AI labs need coordinated plan to halt development if risks rise",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGoxa3dtZXpiZGo2TmpRNTJoeHY5TXV2U2VQN3Z3M0l0TDB1Mm5SSkZMOElLNlR0TGFRWDZzTXZKNU0wS3N5dEZaaUFQenE5OXYtc0RycnUwOE8wMm82TXJqTFlUdi1zV0ZrQzlPaUY4eHQ1MWEwYllGdmVhczZlb0JXeHFVLU1BU2tZdThBd2ZDNi1pUjlNclJLSlRQXzNHWFRjM1VBU2FpZGVpNmxEaVVsZ3NQY1BNU2doTQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-04T13:32:12+00:00",
-      "summary": "OPEC secretary general says oil demand to remain robust, no change to estimates Reuters",
-      "category": "resources",
-      "score": 6.781
-    },
-    {
-      "title": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWxhTXE4RVFMNzZSeHRMdVdCRkIzeHktVTdfazU4ZVAxVkU4eUJJZlpOdUxTYVhuVUphemMtNFIxYmJXcFRYTTl2V3UyeTAwS0VoY3dPRmN5aDRLUzVtU2pNZ1UycTd1RFpSOHNmZk9OOEZXWXoxdWRtd3JEVnJWTUxFMUx6VWpORGt5V3lzMHRTc0NZaFdzSUJGaVFxd0pWXzlYUG0tdUs1QQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-04T18:27:00+00:00",
-      "summary": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon AP News",
-      "category": "conflicts",
-      "score": 4.887
-    },
-    {
-      "title": "Gold climbs as Middle East ceasefire hopes pressure dollar, bond yields",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjhKMVBpMWNDenNvOHdVMjYtaTN3NEZLeWVsR0MyLWtxNGY0WjV2Z1libmZLOFRscU5RaUhtWnZka0JHRWpYbDZpNTJIUzJzRkdpV2Z0YVRyTUctMEVqUWtHVG1VMVlPMmhNWlJNMGNRUlQ4eWtiYlhQVkhWdFE5dnJkdzR6STlEakQ5bTRHUFlHbXUyYVNfSnRKTFltSE53eU9QZ1E0X0pHUHJMNXlB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-04T16:07:03+00:00",
-      "summary": "Gold climbs as Middle East ceasefire hopes pressure dollar, bond yields Reuters",
-      "category": "finance",
-      "score": 4.711
-    },
-    {
-      "title": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkl0dWo1cmVmQTAwa3FPOUlhUGdKUU45U1N0STUxWEtodnpqT1FnaHlGQ1ZNTFo4M3d2S3IxSGFYVHE5X2hZQ05rMUFZUFYtQ1g5Wjc4MVhsSW40SVBWS3otU1hBMjRlOWRaZFZaM2hVMTd6elFPY0pSa2V0V3F5XzlrTVhRT1lzcEUtRXhNLVJtZV82QmJvUFY2OUFuZ3FVNDFSYUxFSFVnbHpzZ2k3YkJ5TGh5QQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-06-04T12:30:05+00:00",
-      "summary": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion Bloomberg.com",
+      "published_at": "2026-06-04T23:39:15+00:00",
+      "summary": "Anthropic says AI labs need coordinated plan to halt development if risks rise Reuters",
       "category": "tech",
-      "score": 4.688
+      "score": 6.151
+    },
+    {
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-06-04T23:11:15+00:00",
+      "summary": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "category": "science",
+      "score": 5.98
+    },
+    {
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-04T20:37:46+00:00",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+      "category": "conflicts",
+      "score": 5.82
+    },
+    {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-04T22:43:26+00:00",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "category": "tech",
+      "score": 5.385
     }
   ],
   "hero_history": [
+    "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
     "Israeli strikes kill 11 people in Gaza City, medics say",
     "Israel and Lebanon agree on ceasefire framework in US-led talks",
     "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
     "Israel and Lebanon agree to implementation of ceasefire",
     "OpenAI's Altman to urge US lawmakers not to require AI model approvals",
     "NVIDIA vs. AMD: Which AI Chip Belongs in Your Retirement Portfolio?",
-    "Iran war",
-    "UN chief proposes options to help end Israel-Hezbollah conflict after peacekeepers leave Lebanon"
+    "Iran war"
   ]
 }

@@ -1,23 +1,41 @@
 {
-  "updated": "2026-06-05T01:22:02.361856+00:00",
+  "updated": "2026-06-05T07:47:34.377462+00:00",
   "hero": {
-    "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-05T00:00:00+00:00",
-    "summary": "Israel's supreme court annuls government ban on international Red Cross visiting Palestinian prisoners in Israeli jails.",
-    "category": "conflicts",
-    "score": 6.188
+    "title": "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises'",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzAyaDJINHJWeF8xZEdQSVR6aDBObTZzeW1RYmhrSXlBQWl5QkQ3OWVFbFZyOGhfVVkzcHlhdWVoaTJ5VVRkQ3FtRDV2UlNDMEY2Qkxual9aQVVySVdYdXR0M0tTUmRVN21OSGNQN3hSeEl1RndFVWJtREtDSDJaVWhYNG94U0plRnM0WGxBVVI1OVdpeHlZWHdnM2l3b09Za0g4NVBWWDF1VlpVNVN6NGFVdw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-05T04:55:00+00:00",
+    "summary": "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises' Reuters",
+    "category": "tech",
+    "score": 5.86
   },
   "items": [
     {
-      "title": "Anthropic says AI labs need coordinated plan to halt development if risks rise",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGoxa3dtZXpiZGo2TmpRNTJoeHY5TXV2U2VQN3Z3M0l0TDB1Mm5SSkZMOElLNlR0TGFRWDZzTXZKNU0wS3N5dEZaaUFQenE5OXYtc0RycnUwOE8wMm82TXJqTFlUdi1zV0ZrQzlPaUY4eHQ1MWEwYllGdmVhczZlb0JXeHFVLU1BU2tZdThBd2ZDNi1pUjlNclJLSlRQXzNHWFRjM1VBU2FpZGVpNmxEaVVsZ3NQY1BNU2doTQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-04T23:39:15+00:00",
-      "summary": "Anthropic says AI labs need coordinated plan to halt development if risks rise Reuters",
+      "title": "Anthropic calls for pause of global AI development",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2h6dGJrQU15R1BSZmVYZWFmNUVEaVdPV2hiS0dqZHNXa2toamlvaDZGQ1NSUDh6aVI5aHRnTUM0YVhZZlh0WkIxVENYT1czQktTbWdzZ1pVek50Rm01cnFGVkc2UWxDOS1wUVZkbUhHalVCUFhqUnpqcEtyRkdYMXVZREt0Z3JXR2RSRGVaSm4yM2tk?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-06-05T06:58:00+00:00",
+      "summary": "Anthropic calls for pause of global AI development Yahoo",
       "category": "tech",
-      "score": 6.151
+      "score": 5.777
+    },
+    {
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-05T01:44:16+00:00",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+      "category": "conflicts",
+      "score": 5.51
+    },
+    {
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-05T05:20:57+00:00",
+      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "category": "conflicts",
+      "score": 5.167
     },
     {
       "title": "Mangrove forests are healing after decades of human destruction",
@@ -26,35 +44,17 @@
       "published_at": "2026-06-04T23:11:15+00:00",
       "summary": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
       "category": "science",
-      "score": 5.98
-    },
-    {
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-04T20:37:46+00:00",
-      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "category": "conflicts",
-      "score": 5.82
-    },
-    {
-      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-04T22:43:26+00:00",
-      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-      "category": "tech",
-      "score": 5.385
+      "score": 4.575
     }
   ],
   "hero_history": [
+    "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises'",
     "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
     "Israeli strikes kill 11 people in Gaza City, medics say",
     "Israel and Lebanon agree on ceasefire framework in US-led talks",
     "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
     "Israel and Lebanon agree to implementation of ceasefire",
     "OpenAI's Altman to urge US lawmakers not to require AI model approvals",
-    "NVIDIA vs. AMD: Which AI Chip Belongs in Your Retirement Portfolio?",
-    "Iran war"
+    "NVIDIA vs. AMD: Which AI Chip Belongs in Your Retirement Portfolio?"
   ]
 }

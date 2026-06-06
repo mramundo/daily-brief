@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-05T18:56:30.416405+00:00",
+  "updated": "2026-06-06T01:17:21.576771+00:00",
   "hero": {
-    "title": "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzBTUlhlNzdLejQ4LTZzMlJpZXBQalFXanV0NThyYnNTVEI2SWRHRUpqN2ZxVHc2MTBuYVJUN1RLc25xY3QxN0szY1BhWDFDLTZrQjhjOWpTR0xRN0NnYmJWLVBWSTFvXzUyTmZISFpMMFpTWkVOUFhDRnZobWpRWFJWa3RNdTRaaEE1ODRpdkd4RXZxRTd2UnlPT3lCX0paNmlzZnZLRE14R2U0TlR4dlBXMjJyX1FSbjJOWkFfejcxMXJ3VmZiOVNiNGtGNUhYZVJYN0RWdnZZVFE?oc=5",
+    "title": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmJaWjFuRkZ4dWpWN2RkYnU4S3FpZ1FEOHFNa09HVnZ0ODdrTzBFMm0wcjQ4SWhTb1l4ZHBlVmNobGNhVG56LWRQQVdJc3poTjBMN2RxeFBVY0xDSXdNRkRJaFpaMHJzZHdqZnFDMmRCbTZPTkQ1bVlYdWpWNmk1X0QxM3BKczRQcjRfVUVhLWYyVU5FLUZmTjVB?oc=5",
     "source": "Reuters",
-    "published_at": "2026-06-05T14:59:21+00:00",
-    "summary": "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say Reuters",
+    "published_at": "2026-06-05T20:04:54+00:00",
+    "summary": "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO Reuters",
     "category": "tech",
-    "score": 6.537
+    "score": 6.204
   },
   "items": [
     {
-      "title": "US imposes sanctions on Cuban president, Castro family members",
-      "url": "https://www.france24.com/en/video/20260605-us-imposes-sanctions-on-cuban-president-castro-family-members",
-      "source": "France 24",
-      "published_at": "2026-06-05T14:04:17+00:00",
-      "summary": "The United States announced new sanctions Thursday on Cuba's president and some of his immediate family, alongside members of the Castro family, in Washington's latest ramping up of pressure on its communist-led neighbor. Among those targeted were the son and a grandson of former",
-      "category": "politics",
-      "score": 5.159
-    },
-    {
-      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-05T18:16:15+00:00",
-      "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+      "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-05T18:45:16+00:00",
+      "summary": "Israel and Hezbollah continue fighting after truce announcement.",
       "category": "conflicts",
-      "score": 4.488
+      "score": 4.99
     },
     {
-      "title": "OPEC Output Plunges Further as US Squeezes Iran, Survey Shows",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGNYbWdMWjIzV004emthSVhEcEh0cUNaeWQwVEYzRXN1MkJWUGxDV3pFWnBwampDTVdWUUtONWxkSXV2bmlDVngwd1I2M0NtMlh5RVBaODRfQ1c1NDdkR0JRQ0tWR0ZlQUdZQ044SHZ4Ni1kS3EzOEZLcFViY0d2czVuYU9nUmRaQ3IwVGVsOFJTYnMwWTJoVnVsME4zckhyWVh3dEx6RTRiV3RnQURSTQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-06-05T13:51:45+00:00",
-      "summary": "OPEC Output Plunges Further as US Squeezes Iran, Survey Shows Bloomberg",
-      "category": "resources",
-      "score": 4.232
+      "title": "Anthropic urges industry coordination to allow for a ‘pause’ in AI development if risks grow",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3J3bngwa1U4LVVvNDhaWlc3cVRJanNHMlNteWFPZnlOdEFXb2o1RW1uMlVNbVdYVnBIWDhtMElNSDQyZXF6MWZ3TVl5YXFhSFJxT0hEakNDSzBPLWJYUDBnTEI4bEs1NVlpdHVNWGNfeXE0cTg4NXN5VFNjTFU5Y1VTcUVZcERQeW9JMlNDOGFKbVVsRV9rckEtcFU?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-05T17:22:00+00:00",
+      "summary": "Anthropic urges industry coordination to allow for a ‘pause’ in AI development if risks grow AP News",
+      "category": "tech",
+      "score": 4.749
     },
     {
-      "title": "Russia accuses Ukraine of killing Azerbaijani nationals in drone attack on ships",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWdUUEJZbTNveUVPX2dLTzRtSzR4U3o0b1k4SVE5eDBBdzEwUnhrUEIzZEs2Vl90cVd3UGZSMmxVbjQ5MzNXOWZxRkJMQllLajZGLURLRmYyNG42akFMRWNzc0hKX2hNTXpoUGx0TkthMUhWRFZtSXl3UDJQd1JfYVNHZWVpQmd3c0haLXdIVUN4S0dHZnBWN0tIV3phM3hfZnc5SDhKM3FwQnZ1T0EzRk01SGs?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-05T17:51:43+00:00",
-      "summary": "Russia accuses Ukraine of killing Azerbaijani nationals in drone attack on ships Reuters",
-      "category": "conflicts",
-      "score": 4.111
+      "title": "NASA Announces Winners of 2026 University Innovation Competition",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
+      "source": "NASA",
+      "published_at": "2026-06-05T20:17:11+00:00",
+      "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in",
+      "category": "science",
+      "score": 4.422
+    },
+    {
+      "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
+      "url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
+      "source": "NASA",
+      "published_at": "2026-06-05T19:16:48+00:00",
+      "summary": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these scien",
+      "category": "science",
+      "score": 4.24
     }
   ],
   "hero_history": [
+    "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
     "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say",
     "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs",
     "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises'",
     "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
     "Israeli strikes kill 11 people in Gaza City, medics say",
     "Israel and Lebanon agree on ceasefire framework in US-led talks",
-    "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
-    "Israel and Lebanon agree to implementation of ceasefire"
+    "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon"
   ]
 }

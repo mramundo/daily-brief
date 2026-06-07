@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-06T18:43:23.802496+00:00",
+  "updated": "2026-06-07T01:26:23.947883+00:00",
   "hero": {
-    "title": "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVdzOEVPbFJxNUQ0eFZyNlVPZVJBNG41R0NreDNpeXJBZ3FmenRmdDkyRXpCWUpJcUk1Z3laTDNmaDYwRFRBUTFyWmRUMkJ2VWgwQWd0cjF0Y2p2eEdyVkFPa2RhOXpoWDExRlJnMnp5Vk9UTXFBcFpubjVjaEp0MVp5XzlRY3pWRWIwMWZIMHk3OEFyMHA0YmFEUzNRNFI1RmlmNlhrODY?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-06T16:32:00+00:00",
-    "summary": "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title AP News",
-    "category": "conflicts",
-    "score": 5.025
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "source": "TechCrunch",
+    "published_at": "2026-06-06T20:32:24+00:00",
+    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "category": "tech",
+    "score": 4.901
   },
   "items": [
     {
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-06T16:17:21+00:00",
-      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-      "category": "tech",
-      "score": 4.656
-    },
-    {
-      "title": "Bernadette Chirac, former first lady of France, dies aged 93",
-      "url": "https://www.france24.com/en/video/20260606-bernadette-chirac-former-first-lady-of-france-dies-aged-93",
-      "source": "France 24",
-      "published_at": "2026-06-06T13:09:12+00:00",
-      "summary": "Bernadette Chirac, the steel-willed former first lady of France who spent 12 years at the Élysée Palace from 1995 to 2007 beside President Jacques Chirac while building her own political power in rural Corrèze and turning a children’s hospital charity into a national institution,",
-      "category": "politics",
-      "score": 4.628
-    },
-    {
-      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-06T17:12:39+00:00",
-      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "title": "Israeli attack on Gaza City tent camp kills at least seven",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-06T14:38:50+00:00",
+      "summary": "Latest Israeli attack comes as Hamas readies for meetings in Egypt on full implementation of Gaza 'ceasefire' agreement.",
       "category": "conflicts",
-      "score": 4.334
+      "score": 4.775
     },
     {
-      "title": "White House AI policy adviser Krishnan to leave position",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1VVeGR4TVFlbXlnb29KQnBtQ1BqUVFUWWFBQnpuempZNmNaREFVUjZ5YlprYXZMSGctdFhwd0lZMVJlYkY0UC1xek5CS21OZGw1bVE3Ni01Z056SjNleW5XQnhKOGhDd1VpQTVsckRuNjEySW5qRVFMdDJZZlU4THJVd1poZXRFQ25uaS1SbU9sZWN3Y1JYS3dyQVNSTHBad0JjYkhFcVVkeWFBbjlEVFYxZ2laLWVyMmc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-06T17:29:26+00:00",
-      "summary": "White House AI policy adviser Krishnan to leave position Reuters",
-      "category": "politics",
-      "score": 4.219
+      "title": "Nvidia CEO Jensen Huang Says This Is the Next Trillion-Dollar AI Chip Stock. Is He Right?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZy1HaG9BYnVYQXpDOV94UGpfSnc1NmZ3YjJtMHpGcUtrdTZuV2ppMkFWTVJtdWRVeUpHNXIzY0hVV0lsRVIzZzM3ampkNkM3VllmZXNOYnJrZVNoc3Y4RDNsR2p2a2J0Ujh6eGVsUW1iLWN5V1VOSU5XTnBPd1JTUnQ2QVBNOUswNDFHMjdEUFJkTG8?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-06-06T21:37:00+00:00",
+      "summary": "Nvidia CEO Jensen Huang Says This Is the Next Trillion-Dollar AI Chip Stock. Is He Right? The Motley Fool",
+      "category": "tech",
+      "score": 4.601
+    },
+    {
+      "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkg2TTloZGVNcDV1NVAwX2luNms1UXIwcG1MNkpod2NDT1VMS0lzTzNVeWp3a3dWTjFUWkhPWDRuR0piT1RVMVhrWDVKVkNJYTJlLWxXMVBONkx5OFdoR2FEMkwxNzhuLURNS3RJaG9vVUlwaEE1d2cxMmY0LWdIeHBJQzNDN0d4QXhFSVQ1ODdHOUZMUDhtd1p2WGVhaWo3VTdlMjhCcFVoTGo5R0hoeHdOX0tTQQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-06T20:00:00+00:00",
+      "summary": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal AP News",
+      "category": "conflicts",
+      "score": 3.999
+    },
+    {
+      "title": "Cuba ex-President Raúl Castro makes first appearance since US charges to celebrate birthday",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2szWTRPY3RtUDRXVzc3VEFVSGw5ZVFxNzY5ZnVPcGxucDJpY3pqOFg2Y3Q2UGJicjdxOVctR2xzOXU4NWNaWWwta0VBMW5ILWxITGdFQmV1RmYzRDlNemdxUmJLR1JvOTRuRzdjakJTekp2ai00QVZzenpWTDF4Y3UwbGJVdl90VUpzUnowNDFia1lh?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-06T23:57:00+00:00",
+      "summary": "Cuba ex-President Raúl Castro makes first appearance since US charges to celebrate birthday AP News",
+      "category": "finance",
+      "score": 3.368
     }
   ],
   "hero_history": [
+    "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title",
     "Nvidia Wants to Sell AI Factories, Not Chips",
     "Lebanon",
     "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
     "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say",
     "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs",
-    "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises'",
-    "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes"
+    "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises'"
   ]
 }

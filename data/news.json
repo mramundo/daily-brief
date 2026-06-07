@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-07T01:26:23.947883+00:00",
+  "updated": "2026-06-07T07:40:48.007224+00:00",
   "hero": {
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "source": "TechCrunch",
-    "published_at": "2026-06-06T20:32:24+00:00",
-    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "title": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-07T04:21:00+00:00",
+    "summary": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports Reuters",
     "category": "tech",
-    "score": 4.901
+    "score": 10.372
   },
   "items": [
     {
-      "title": "Israeli attack on Gaza City tent camp kills at least seven",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-06T14:38:50+00:00",
-      "summary": "Latest Israeli attack comes as Hamas readies for meetings in Egypt on full implementation of Gaza 'ceasefire' agreement.",
-      "category": "conflicts",
-      "score": 4.775
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Says This Is the Next Trillion-Dollar AI Chip Stock. Is He Right?",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZy1HaG9BYnVYQXpDOV94UGpfSnc1NmZ3YjJtMHpGcUtrdTZuV2ppMkFWTVJtdWRVeUpHNXIzY0hVV0lsRVIzZzM3ampkNkM3VllmZXNOYnJrZVNoc3Y4RDNsR2p2a2J0Ujh6eGVsUW1iLWN5V1VOSU5XTnBPd1JTUnQ2QVBNOUswNDFHMjdEUFJkTG8?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "2026-06-06T21:37:00+00:00",
-      "summary": "Nvidia CEO Jensen Huang Says This Is the Next Trillion-Dollar AI Chip Stock. Is He Right? The Motley Fool",
-      "category": "tech",
-      "score": 4.601
-    },
-    {
-      "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkg2TTloZGVNcDV1NVAwX2luNms1UXIwcG1MNkpod2NDT1VMS0lzTzNVeWp3a3dWTjFUWkhPWDRuR0piT1RVMVhrWDVKVkNJYTJlLWxXMVBONkx5OFdoR2FEMkwxNzhuLURNS3RJaG9vVUlwaEE1d2cxMmY0LWdIeHBJQzNDN0d4QXhFSVQ1ODdHOUZMUDhtd1p2WGVhaWo3VTdlMjhCcFVoTGo5R0hoeHdOX0tTQQ?oc=5",
+      "title": "Armenians go to the polls under Russian pressure aimed at preventing a drift toward West",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmhWRmtPS1VTbEwzMnNWZ3pmQkRFX3NGNW1OUGVJaUxKWE9QWlctMUY2MWlzeUlGZ3Z2RkdOcWFTN3lwdjJCN280RmVNNDBxTWFndDFWcTZzYlR6eXIxcTVnRU54UjFadk1UNUpoTTRXcER0Y0VCQndyU0tjcEJUUnMwbWV1d1lZbERXbGdXZjFsT3g2bTBiR3ZXVUNscmRtS1E?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-06T20:00:00+00:00",
-      "summary": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal AP News",
+      "published_at": "2026-06-07T06:13:00+00:00",
+      "summary": "Armenians go to the polls under Russian pressure aimed at preventing a drift toward West AP News",
       "category": "conflicts",
-      "score": 3.999
+      "score": 5.015
     },
     {
-      "title": "Cuba ex-President Raúl Castro makes first appearance since US charges to celebrate birthday",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2szWTRPY3RtUDRXVzc3VEFVSGw5ZVFxNzY5ZnVPcGxucDJpY3pqOFg2Y3Q2UGJicjdxOVctR2xzOXU4NWNaWWwta0VBMW5ILWxITGdFQmV1RmYzRDlNemdxUmJLR1JvOTRuRzdjakJTekp2ai00QVZzenpWTDF4Y3UwbGJVdl90VUpzUnowNDFia1lh?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-06T23:57:00+00:00",
-      "summary": "Cuba ex-President Raúl Castro makes first appearance since US charges to celebrate birthday AP News",
-      "category": "finance",
-      "score": 3.368
+      "title": "Armenia goes to polls, with Russia and EU looking on",
+      "url": "https://www.dw.com/en/armenia-goes-to-polls-with-russia-and-eu-looking-on/a-77447079?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-06-07T06:10:00+00:00",
+      "summary": "Armenians are voting in elections that pit pro-EU Prime Minister Nikol Pashinyan against the pro-Russia opposition. Peace efforts with longtime foe Azerbaijan are also a main election issue.",
+      "category": "politics",
+      "score": 4.576
+    },
+    {
+      "title": "Characterization and analytical techniques articles within Cell Death Discovery",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTRORHAwVzA2RzB0Zk96UDlBQ3lHVHQ5S0hNd08xVFVpZUZKV2dsR2lzdW9uU19KTmV1R1QwWGxPWTRsaWtKQi1ZMVRoM1pFelhtbmczMkctR1pUQlhNVE9xU1J2NjZtYmYwV3pLUVZPeE1GbkRaYnNQdmtoMFIyazdvWXZQTDdhS1RjeGVMRQ?oc=5",
+      "source": "Nature",
+      "published_at": "2026-06-06T11:02:11+00:00",
+      "summary": "Characterization and analytical techniques articles within Cell Death Discovery Nature",
+      "category": "science",
+      "score": 4.274
+    },
+    {
+      "title": "OPEC+ set for fourth oil quota hike since Hormuz closure, sources say",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWZrV2dPZ2xjY0NWT0lIUFVNeUlJZ1I5V3BsdkU0X01tWFVHLWZWTVBQN0pHeHNGZF9fS01BY2RrbWtLWFcyazR0bVNOWERwQVFBYjhHMFNZYW5XWHNRM2VWZUU2aFpTd3IzRGhiVUZHNUJsbWlCb19CX19SUG5DOXozd1cyak1RdUFhS0FtaUYxMG5xNGtfYW9idFhNWGRUd25PeUFYTWJJWVhqeS1lNUJHS3pCUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-07T07:09:43+00:00",
+      "summary": "OPEC+ set for fourth oil quota hike since Hormuz closure, sources say Reuters",
+      "category": "resources",
+      "score": 4.208
     }
   ],
   "hero_history": [
+    "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
     "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title",
     "Nvidia Wants to Sell AI Factories, Not Chips",
     "Lebanon",
     "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO",
     "Blacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say",
-    "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs",
-    "Nvidia CEO says robotics is South Korea's next big sector, points to 'some suprises'"
+    "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs"
   ]
 }

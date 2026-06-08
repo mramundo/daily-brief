@@ -1,23 +1,32 @@
 {
-  "updated": "2026-06-07T18:43:38.814153+00:00",
+  "updated": "2026-06-08T01:26:39.506947+00:00",
   "hero": {
-    "title": "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHNJZHl4MmRVaDB2SDZQaTV0TWQyUFhFSWMtWkZaN08wSDBsQllBN2ZIOGhNV0otWjhERFRsaXVuQ3l4dmtjV0RfLXI5ak13WUE3OVAxM3Q5VG54N3JBaE5JZjF0WXVWMVdYWTRlYzV2endubDVlNEdZc25MNUpCRzVFbDlXN3ZoUFRJWUR5cU5MVEJNQTBDd1pqRmJIVkRGRjA1LWVOMWZZa2EwVHllZU5XS2oxZ29fNE4yX3R3?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-07T13:35:29+00:00",
-    "summary": "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage Reuters",
-    "category": "tech",
-    "score": 8.045
+    "title": "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
+    "url": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-07T21:08:59+00:00",
+    "summary": "Iran's IRGC says the barrage of missiles is 'a warning' to Israel amid its ongoing siege of Lebanon.",
+    "category": "conflicts",
+    "score": 7.043
   },
   "items": [
     {
-      "title": "Israel kills nine in Gaza as Egypt hosts new ceasefire talks",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmdOMkE1X05ZRTdTNHpxVnVGcnFhTHR3Ukg5MmJkbDhvQ2JYdkk0MTBVc3BMdkxmZXVIMWJva3hkQk1vQVl2OXV0MExwWk9ENXFoS0JtZS00aEtvX2NWbzV0Mzdfakk5MmduRjh3UlU3OF9kU3dfTUQ1TUF3d3lNak9yLXdzdUNOV3NLUFl2UDhSVVNmR3AwRVN6Q2syME9rUUpwRnVjV0NzeU1K?oc=5",
+      "title": "SK Hynix announces multi-year tech deal with Nvidia for AI factories",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOam1iOWpSSHNETmw1N1phdWFwRU9yRUktdjRBYzQ3QlowV1pjaENiS2ZaQ0YtMldRNVBWVE03YUlGNXJ1OWs1dUpCMUZERk1MOURDYmoxSy15aHBmcU56VDBNc3BiRGk1T3R6dGRSQ01rNzJ6dXFfUXlZd2NhT2J0OUswR2twV3VibldwT0NWSWlXdTZWaHZVWjZPLVNGZnJ5UzVJczVVaGozal9pYXFTZmtDMVdWMHZxTG5ZOFpMM3Y?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-07T17:19:33+00:00",
-      "summary": "Israel kills nine in Gaza as Egypt hosts new ceasefire talks Reuters",
-      "category": "conflicts",
-      "score": 7.27
+      "published_at": "2026-06-07T23:27:44+00:00",
+      "summary": "SK Hynix announces multi-year tech deal with Nvidia for AI factories Reuters",
+      "category": "tech",
+      "score": 6.083
+    },
+    {
+      "title": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEk1a2dRMGlOX0xxNWItTjFpcmFHcjFHblZGZUJWdkdqNTJDZzVnaGtqMXNlckplU0diLUZFS3F5U1lEZ1NmWE1BUkhLbUl5elJmNnVBVEN3UTRGclFEV21sdTJ1QkhYUkdEWEtITF9TSHpTREczLVJmaVh1NkM2RWFDNUNjcVo2T002YXNVbG12dEtxakx6OTlqamx0QjU0T0ZCUXZWdzVNR0tCS19QNEI4cFNxVDJDTnMzbERLRHM5MkU1ZG9xTXUzYw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-07T23:19:32+00:00",
+      "summary": "South Korea's Naver to build gigawatt-scale AI factories using Nvidia technology Reuters",
+      "category": "tech",
+      "score": 6.048
     },
     {
       "title": "OPEC+ approves fourth oil output quota hike since Hormuz closure",
@@ -26,35 +35,26 @@
       "published_at": "2026-06-07T17:29:33+00:00",
       "summary": "OPEC+ approves fourth oil output quota hike since Hormuz closure Reuters",
       "category": "resources",
-      "score": 6.801
+      "score": 5.624
     },
     {
-      "title": "OpenAI readies ‘superapp’ pivot ahead of planned IPO, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOenQ4anZMNTA1VEVKMnVCQTdseTQwQ29lNUR6d25jdEVobGJ4NHFkb1AwVk5wREd5YUpRV2hSemVtZmFaUGhmRlF5MDJuYTJ0ZVN5QWVyb0R4R29fa0dEWXRQcHQ2Y3JtamFkVGFhNWpKSExuMC1sNFZ4V0lSc0FLV1RoMUR1Zmh5ckZkdDl6RkphUXFU?oc=5",
-      "source": "Fortune",
-      "published_at": "2026-06-07T16:22:00+00:00",
-      "summary": "OpenAI readies ‘superapp’ pivot ahead of planned IPO, FT reports Fortune",
-      "category": "tech",
-      "score": 6.322
-    },
-    {
-      "title": "Global Electrification, Critical Minerals and EV Innovation: A Long-Term Vision for Investors Following the Evolution of Lithium, Rare Earths and Emerging Technologies",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNUFQ5Mk9MRW41SEY4YURhWUVLS0t1TEpFakZYU0loSThLQmFOSFhjRmtNT3I5a3pDMUQzRmh5MldQVkpfRVdBNXBNWEthU2Z0NUZ6NzVldXl1OXU5eS1ELWcweUdzdXNVc3R6c3M4ZUZMVXo1VUlqM0U1eUtJbGZBWFdDRXZUdUpVWmtpcUFpY1hKNVIwMTNOeHY2WWVYNXhIclo1bTVUU1g0azZlanRRUy0wSlFDUS1vNDRKd0N2QlMxbENDemtUanZ4UlYxUWZNUGFvcEJjcGRneWpfQ2lEcjFWM3pZVnRtR3ZPWlhTcDByc3VrM3ZsMUhZWHVIXzh1R0lFVlB0MTRZTWtsTG9qWXZRYzRSRThyM1JOcDF3X2hZemdE?oc=5",
-      "source": "Corsicana Daily Sun",
-      "published_at": "2026-06-07T18:02:02+00:00",
-      "summary": "Global Electrification, Critical Minerals and EV Innovation: A Long-Term Vision for Investors Following the Evolution of Lithium, Rare Earths and Emerging Technologies Corsicana Daily Sun",
-      "category": "resources",
-      "score": 5.241
+      "title": "Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUR4X28zSUZqamE5ZkhYVlV0Umx4Q1RwZkMwMDdBaTU0aWw5Q0tueHRGTnAyZ0FSN2gwU2syR1k4cGRzMkc2cy13WFFOaW5TcTRVSHA4NTJNR2FPanBMclhpQjZ4cnk2UVRHOGhIWk9GZmt2WVNENk82UGNIN29jSy0wZGw0U0piM25RN0R4MEdmT2g1TV9xZFl3?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-08T00:32:00+00:00",
+      "summary": "Israel says Iran launched missiles at it in first such bombardment since fragile ceasefire AP News",
+      "category": "conflicts",
+      "score": 4.83
     }
   ],
   "hero_history": [
+    "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
     "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage",
     "OPEC+ set for fourth oil quota hike since Hormuz closure, sources say",
     "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
     "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "Russian teenager Mirra Andreeva wins French Open to claim her first Grand Slam title",
     "Nvidia Wants to Sell AI Factories, Not Chips",
-    "Lebanon",
-    "SpaceX lands Google AI compute deal after Anthropic pact ahead of IPO"
+    "Lebanon"
   ]
 }

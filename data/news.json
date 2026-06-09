@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-08T19:05:48.927129+00:00",
+  "updated": "2026-06-09T01:16:36.309885+00:00",
   "hero": {
-    "title": "Apple announces visionOS 27 with Siri AI",
-    "url": "https://www.theverge.com/tech/944129/apple-visionos-updates-wwdc-2026",
-    "source": "The Verge",
-    "published_at": "2026-06-08T18:32:00+00:00",
-    "summary": "Along with new software for Macs and iPhones, Apple announced visionOS 27 during its keynote presentation at WWDC on Monday. Like its other platforms, visionOS 27 will feature Apple's updated Siri AI assistant and the new dedicated Siri app. While wearing the Vision Pro, you can",
+    "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FJYXdqcEJac0hlSTNib2dhTTZDeFZLY0V2T3lNTFFYWWhObmRNOFJPNVEyNGNIUFhNaThpVGk2VEFvVTNMZndvZWg4ZFBFVTN0ZUVqd1UtVk91R3lON3VHVUJUdDVYTzIxdnBHcUk2dFN2WHhOOXkyMkhkalQtZjRHb25EWHpMRTVUaEdyWmNPODlhb3daUlVWZ2JmSHhkODFOdG1OR0ZIc3IxbDl2VU1R?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-08T23:56:54+00:00",
+    "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets Reuters",
     "category": "tech",
-    "score": 10.642
+    "score": 13.785
   },
   "items": [
     {
-      "title": "Alphabet taps Intel to make three million in-house chips, The Information reports",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmR2dkxzTTRVc2F2MzdYOFR2MzVPSXdkWm9NSlBGdkQ1b05uZ3VzRVFzcVEtRXhQZUc4WVhkMmRhcngzNGNWUDBLSGNLSHZoN0U5b1FDd2hKR0t3dTdlak1RMnNVU25UdEx4YnpwbHJTaGo3NndhNVltT3NmaF8wYTFjdTFjTkdDN1VYeUx3akNNUlVzVjAwSWNIVDZidFJ4dXBhVEw2enYyZUxyN0JqV3FKZW91am1EeHc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-08T14:59:10+00:00",
-      "summary": "Alphabet taps Intel to make three million in-house chips, The Information reports Reuters",
+      "title": "OpenAI files for IPO, joins SpaceX and Claude-maker Anthropic in race to go public",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmRGMjZzUVF6QlhLMFZrYzAxN3BFbWp4UDBNYTZ2RHhxdmVPSXJEMC1mQUx2T2g0eWVfRW11LVR0YVFucXNIeWVyMEJncWVzal9VZ2pqdzN3TTU0Qk55c0VaRXE3ekktLWFxdDBSTUpNMVIzeVdocWxXWmsydEJhTTRRM2RfUW5zYU10M28zUmEwbXBTWWxhUW9FX0V6WDVhckU00gGoAUFVX3lxTE9MSzRFU1V3ZmdseGVoT3JZWXJaek1Jakg5aVpWTEs4ODZyZW9MYUJVMFNzTm5mcXRfV2lXTVFmMjhxNFlBT0c4YXY3b29wOS1JSi1QN2FwbnFSVFkxVlVHRjBzaWdrVEREX0Z4NTRGVlN5RVJpa0NGLXdja1JfR2JnZE5jMFZyVVlHOWVBR0d3SnBMNzkwcG5PQjJGbGhhR3E1VGF1WS1Ddg?oc=5",
+      "source": "FOX 10 Phoenix",
+      "published_at": "2026-06-08T23:17:59+00:00",
+      "summary": "OpenAI files for IPO, joins SpaceX and Claude-maker Anthropic in race to go public FOX 10 Phoenix",
       "category": "tech",
-      "score": 8.397
+      "score": 8.259
     },
     {
-      "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
+      "title": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-09T00:00:00+00:00",
+      "summary": "Israeli strikes have killed 3,637 people in Lebanon since March, with 11,188 wounded, the Health Ministry says.",
+      "category": "conflicts",
+      "score": 5.199
+    },
+    {
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
       "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-06-08T17:11:32+00:00",
-      "summary": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.",
+      "published_at": "2026-06-08T22:47:29+00:00",
+      "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
       "category": "conflicts",
-      "score": 6.55
+      "score": 4.756
     },
     {
-      "title": "Russian interference in Armenia: A nation tested by disinformation",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260608-russian-interference-armenia-nation-tested-disinformation",
-      "source": "France 24",
-      "published_at": "2026-06-08T18:13:22+00:00",
-      "summary": "Under the leadership of Prime Minister Nikol Pashinyan, Armenia is moving to distance itself from Russia and forge closer ties with the European Union. Despite pro-Russian disinformation campaigns targeting the government, the pro-European candidate won the parliamentary election",
-      "category": "politics",
-      "score": 5.1
-    },
-    {
-      "title": "ReElement Technologies Invited to US Chamber of Commerce's Critical Minerals Summit",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMnB5T1QwUW9wdDBSMmlWc0ozd21ac3JFbTJ3VjdlbFpxR2tKNWJ6X0Z3VVRFanRaTjBXaGxqM2l6VklJclUyWktUc1poZFhnWVFCalFKcUdrZEVjdzdMdXg4a0U4ZTVTWVh2Tzh1WkdvQm1mbE1LdFlsNzFlN0xiZURWMGhtVGFHT1dKR2JRQlR6bW0xUkRmMFRqWWdoWkhJajFoend4YTMtNUM3WEtz?oc=5",
-      "source": "Investing News Network",
-      "published_at": "2026-06-08T14:31:26+00:00",
-      "summary": "ReElement Technologies Invited to US Chamber of Commerce's Critical Minerals Summit Investing News Network",
-      "category": "resources",
-      "score": 4.924
+      "title": "Southern Lights timelapse filmed from space",
+      "url": "https://www.bbc.com/news/videos/czx5gkykp0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-06-08T19:18:59+00:00",
+      "summary": "This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir.",
+      "category": "science",
+      "score": 4.741
     }
   ],
   "hero_history": [
+    "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
     "Apple announces visionOS 27 with Siri AI",
     "Google, Nvidia consider Intel as backup chip manufacturer, The Information reports",
     "Nvidia CEO says company is working with LG on humanoid robots and data centers",
     "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
     "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage",
     "OPEC+ set for fourth oil quota hike since Hormuz closure, sources say",
-    "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports",
-    "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
+    "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports"
   ]
 }

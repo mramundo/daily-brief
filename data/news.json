@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-09T13:17:46.774899+00:00",
+  "updated": "2026-06-09T19:01:27.711069+00:00",
   "hero": {
-    "title": "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkpfUFlIUUZQOEFhdG5ZaEE1V1UxTV9veVdiZlZjNWxJVWMxWDhTRzBzN3A5UFhUNmRXZTRpcjNsWXdleWVPQlVOdGlxYWdJcENrRmNndUZMT3RxbVN0TnpldnpfQzNHSzlzbUFvRDR2VTdMdHB5WDE2VHBBVFVDYWZBM1E?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-09T01:20:00+00:00",
-    "summary": "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut AP News",
+    "title": "Anthropic releases its first Mythos-class model Claude Fable",
+    "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+    "source": "The Verge",
+    "published_at": "2026-06-09T17:00:00+00:00",
+    "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models gro",
     "category": "tech",
-    "score": 6.054
+    "score": 8.762
   },
   "items": [
     {
-      "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
-      "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-09T10:18:17+00:00",
-      "summary": "Ukraine's president hopes to reinvigorate diplomacy after 'very positive' talks with US envoys and European leaders.",
-      "category": "conflicts",
-      "score": 4.957
+      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-06-09T16:16:12+00:00",
+      "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp.",
+      "category": "tech",
+      "score": 7.996
     },
     {
-      "title": "Fed to hold rates this year, cut calls fade as war inflation persists, economists say: Reuters poll",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGhuMmZ6VkYzNVgzQ2NvRUZma1BjdlJIb2pNU29qeDUyeDQ0b2h1YzZKc21DSXBZSU5lajdWWkNQV1h6SDNpQkdEZXBvanZHdk1URTRMYkZzRGl0RmdOVlBiLU84bmZadjNvdUpnWmdudHQ0LUtKcmNsVlAwbkVKVjhSVTVjRFNJUjdocEJSWnI1ZVAtdlRJbUNDOXByVDJWS2lBbWNZVWV3cjNFa051LVNmQXk1WDZ2TUhqakpzcw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-09T11:53:30+00:00",
-      "summary": "Fed to hold rates this year, cut calls fade as war inflation persists, economists say: Reuters poll Reuters",
-      "category": "finance",
-      "score": 4.732
+      "title": "Artemis III NASA announcement highlights : Luca Parmitano assigned as pilot",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Artemis_III_NASA_announcement_highlights_Luca_Parmitano_assigned_as_pilot",
+      "source": "ESA",
+      "published_at": "2026-06-09T17:20:00+00:00",
+      "summary": "Video: 00:07:18 On 9 June, NASA announced the crew for the Artemis III mission, which includes ESA astronaut Luca Parmitano as pilot. ESA is also providing its third European Service Module for this crewed test flight in Earth orbit, which will be key for the mission’s objective",
+      "category": "science",
+      "score": 7.552
     },
     {
-      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+      "title": "Nasa names next astronauts for Artemis Moon programme",
+      "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-06-09T17:46:55+00:00",
+      "summary": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
+      "category": "science",
+      "score": 5.771
+    },
+    {
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-06-09T08:46:05+00:00",
-      "summary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.",
-      "category": "politics",
-      "score": 4.194
-    },
-    {
-      "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-09T12:05:19+00:00",
-      "summary": "Surveillance camera video captured the moment a Russian drone strike caused a blast in Zaporizhzhia, Ukraine.",
+      "published_at": "2026-06-09T17:47:41+00:00",
+      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
       "category": "conflicts",
-      "score": 4.055
+      "score": 4.385
     }
   ],
   "hero_history": [
+    "Anthropic releases its first Mythos-class model Claude Fable",
     "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut",
     "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports",
     "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
     "Apple announces visionOS 27 with Siri AI",
     "Google, Nvidia consider Intel as backup chip manufacturer, The Information reports",
     "Nvidia CEO says company is working with LG on humanoid robots and data centers",
-    "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
-    "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage"
+    "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’"
   ]
 }

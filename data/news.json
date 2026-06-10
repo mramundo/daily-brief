@@ -1,24 +1,15 @@
 {
-  "updated": "2026-06-09T19:01:27.711069+00:00",
+  "updated": "2026-06-10T01:21:59.141697+00:00",
   "hero": {
-    "title": "Anthropic releases its first Mythos-class model Claude Fable",
-    "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-    "source": "The Verge",
-    "published_at": "2026-06-09T17:00:00+00:00",
-    "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models gro",
+    "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+    "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Tech",
+    "published_at": "2026-06-09T16:16:12+00:00",
+    "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp.",
     "category": "tech",
-    "score": 8.762
+    "score": 6.139
   },
   "items": [
-    {
-      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
-      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "published_at": "2026-06-09T16:16:12+00:00",
-      "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp.",
-      "category": "tech",
-      "score": 7.996
-    },
     {
       "title": "Artemis III NASA announcement highlights : Luca Parmitano assigned as pilot",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Artemis_III_NASA_announcement_highlights_Luca_Parmitano_assigned_as_pilot",
@@ -26,35 +17,44 @@
       "published_at": "2026-06-09T17:20:00+00:00",
       "summary": "Video: 00:07:18 On 9 June, NASA announced the crew for the Artemis III mission, which includes ESA astronaut Luca Parmitano as pilot. ESA is also providing its third European Service Module for this crewed test flight in Earth orbit, which will be key for the mission’s objective",
       "category": "science",
-      "score": 7.552
+      "score": 5.799
     },
     {
-      "title": "Nasa names next astronauts for Artemis Moon programme",
-      "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-06-09T17:46:55+00:00",
-      "summary": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
-      "category": "science",
-      "score": 5.771
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "source": "The Verge",
+      "published_at": "2026-06-09T20:24:25+00:00",
+      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of specula",
+      "category": "tech",
+      "score": 5.731
     },
     {
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-09T17:47:41+00:00",
-      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+      "title": "Iran war live: US strikes after downing of helicopter, Tehran vows response",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-10T00:00:00+00:00",
+      "summary": "Lebanon's Health Ministry said the toll from Israeli attacks on the country since March 2 has reached 3,666 dead.",
       "category": "conflicts",
-      "score": 4.385
+      "score": 4.993
+    },
+    {
+      "title": "Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9jcXp1cTRCbnZtaDFTdTNMZk1fT0xESF8wWTRkYVg2T19oWExmdDJrTmhKOWprYVFMX2Q0UXY2RnBTdXVo?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-09T21:10:48+00:00",
+      "summary": "Lebanon AP News",
+      "category": "conflicts",
+      "score": 4.624
     }
   ],
   "hero_history": [
+    "EU orders Meta to open WhatsApp to rival AI chatbots",
     "Anthropic releases its first Mythos-class model Claude Fable",
     "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut",
     "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports",
     "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
     "Apple announces visionOS 27 with Siri AI",
     "Google, Nvidia consider Intel as backup chip manufacturer, The Information reports",
-    "Nvidia CEO says company is working with LG on humanoid robots and data centers",
-    "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’"
+    "Nvidia CEO says company is working with LG on humanoid robots and data centers"
   ]
 }

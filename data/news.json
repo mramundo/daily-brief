@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-10T13:32:43.987226+00:00",
+  "updated": "2026-06-10T19:10:37.252271+00:00",
   "hero": {
-    "title": "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEV5c1ZSZmVISHc0SEJoM19pdjUydm1qOUJWYThWbldHcTd3bE9PNEJlZ2NOVW91ZHJKZ3RCX205QnFOQzVEdGtRYm9rVm02QjlBMTk5V3dxMTVYUXhOTWdGRnZlNDBGRkg0WUs4cktqS0szdHp1X3k5cHhPSmJ1UjVvYjlPbnc3Yjhjb3l1elo1LW52OENYeURPWi1YNE9JbkxIUl9XZjRKTzFpdWtNbHNuZllha2M?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-10T12:26:35+00:00",
-    "summary": "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too Reuters",
+    "title": "Why Lebanon remains caught up in the Israel-Iran conflict",
+    "url": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-10T18:54:40+00:00",
+    "summary": "The Israel-Iran ceasefire may be holding, but for many in Lebanon, the war continues.",
     "category": "conflicts",
-    "score": 7.361
+    "score": 8.33
   },
   "items": [
     {
-      "title": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0cwZnpJbGdWR0xBeU1KYXdYLW1WX2d6VzJUNnVmWEZScTRXWHNYTS1ka1lWWFo2bVNlaklWV2dhMXlVU01mblJRM2o3RlN6d3pwUjdhR0twRmRsaktIM3hpd3FGRGJXbFA2S0VDNE5lbjRrdzhVN0lZLTYyRVUtcHBlNTFNN0lMaFFRbmFpVEpra1NVUFpUMWxvaWcteERoblF6OHN4eldFZDdMUXV6cjJzTUFRZGs4dmx6YWp4SWg1SXM?oc=5",
+      "title": "OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0dpcExhb084QkNZaXFTdWVRYTR1dElOeWFDaGZhbUhvMVFZdVo1ZFh4UFB2YVZUZjVtUzI0d25kanJOZXV4RFZTU24talNlN0hqVFMxbEhJZ0loR3haOWszU3MtdHdiSDEta3Z2M0tEN1p6ZklyTmplN1ZNdTkxc2VISkFjY0xsY0FmZThPd1RmMlp4cU9lVklsQmJfby1CM1AzajNrcndPN2h3bnpELU4ySzVIaFIyVC1zUWxoSGFaMUYyV0NGcXdMVnQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-10T03:23:26+00:00",
-      "summary": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports Reuters",
-      "category": "tech",
-      "score": 5.769
+      "published_at": "2026-06-10T14:39:26+00:00",
+      "summary": "OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows Reuters",
+      "category": "resources",
+      "score": 7.075
     },
     {
-      "title": "Micron and Sandisk Have Crushed Nvidia as the Top Artificial Intelligence (AI) Stock in 2026. Can That Continue?",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdXdxMVk3RUwxdi1uaFhQc09JVGJiRUtmbTFQMnYzdFNueFVsR3NvNUZwMDIycTJ3ZWxUNGtJc296ZlV0R2U0QjZPYW1WQUZGeHIwbm4yT3FRNlNSbjNTRTVuOUk2MTJXQUJ5T0Vyc05CZGdVaFduTm9zNmQwYXZUbnNtbVVYTDYyUEVmbzFNckwxbmNHQnlj?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "2026-06-10T11:04:08+00:00",
-      "summary": "Micron and Sandisk Have Crushed Nvidia as the Top Artificial Intelligence (AI) Stock in 2026. Can That Continue? The Motley Fool",
-      "category": "tech",
-      "score": 5.561
-    },
-    {
-      "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-10T10:09:41+00:00",
-      "summary": "Four-year-old Malika was seriously wounded in an Israeli attack that killed her mother.",
-      "category": "conflicts",
-      "score": 4.762
-    },
-    {
-      "title": "Japan wholesale inflation accelerates to fastest in 3 years as energy costs spike",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnphVlptTml4R1dZTmJfWnBJSlJ0U0V6eE93UjVmVzIwcnA1M2IwWVEyWlZobHpYc2x4Mmk4N3pKTm80a1ItakQ3SEpvMGdZRFJINzRGenJWUjU1dHUyUmUxaGo5RWV3Ym5XUHRkLW9aNUZNWVowWDZCQW5nejN5WmJEWndKNEFFeVBKRnAybVVfbmhWZ0ZLcWZaYS14TGRUaDBEckZqanZKd0h6SldJYTJR?oc=5",
+      "title": "OpenAI expects to go public 'within the next year,' the Information reports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNER2SEg5dXcyLU51ajdpdHVqcldOSjlMalMtUi1wMGxxZjJXeFJiREdhUVpuTWdrMEhoSkxXYmVXLURUMnFjNlNpQng5dDBpdFkyc2tGUkRWTkd2VHp2UURVU2pBUzFWaTZ1ZzhsSW5tc1ZWZFZjRXFyVElsVlNwaTlOV2lSOS03VTR4ZDZmYVBQTlY0Z0ExZ002UFZsU3J3bHpBaktFNnZ1Zw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-10T07:10:40+00:00",
-      "summary": "Japan wholesale inflation accelerates to fastest in 3 years as energy costs spike Reuters",
+      "published_at": "2026-06-10T15:49:45+00:00",
+      "summary": "OpenAI expects to go public 'within the next year,' the Information reports Reuters",
+      "category": "tech",
+      "score": 5.746
+    },
+    {
+      "title": "Anthropic CEO Doesn’t Know If Claude Used in Iran School Strike",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUVhaE5DR2hEVjN4M19sYjlGNUFwTE43a1F6NlFDM09qU0x5elZxUGdzRmttQWpGUEpaQ05tQnNVWFpqQW1Td2Qyb0I4WFNia2t5WGFPbG5icWlxSzZIbVlmU3ctbS1zYW41cy1KTjM1VTY2Y1AzN09laTNBYkttZXlJZ3hxS25jZmk3T2w5NDRtSmNNTDlpZWI2RzBYUVZZU19hWFZ0Z2hVMVQzUkROMlVfRG0?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-06-10T15:17:06+00:00",
+      "summary": "Anthropic CEO Doesn’t Know If Claude Used in Iran School Strike Bloomberg",
+      "category": "tech",
+      "score": 5.336
+    },
+    {
+      "title": "World markets walk a tightrope between AI stocks and oil shocks",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTlJhY2M4aTlWTVRTX3JLZVJQZXIxV3hTNlBkcTctZEppb1p0Nm5nMWJ4MHMyc2pSZ0pTeUt5c0JYSXpwLXlwTnM4ZS00cG9MUElIMjRrZm9ZYVJtOThnVlNWRUttdFBLZnI5aDNmSGdka3BPXzBLMjJmeGtWdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-10T15:55:33+00:00",
+      "summary": "World markets walk a tightrope between AI stocks and oil shocks Reuters",
       "category": "finance",
-      "score": 4.088
+      "score": 4.655
     }
   ],
   "hero_history": [
+    "Why Lebanon remains caught up in the Israel-Iran conflict",
     "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too",
     "Iran war",
     "EU orders Meta to open WhatsApp to rival AI chatbots",
     "Anthropic releases its first Mythos-class model Claude Fable",
     "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut",
     "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports",
-    "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
-    "Apple announces visionOS 27 with Siri AI"
+    "OpenAI files for US IPO after Anthropic as AI giants head to public markets"
   ]
 }

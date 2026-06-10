@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-10T01:21:59.141697+00:00",
+  "updated": "2026-06-10T07:48:22.538749+00:00",
   "hero": {
-    "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
-    "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Tech",
-    "published_at": "2026-06-09T16:16:12+00:00",
-    "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp.",
-    "category": "tech",
-    "score": 6.139
+    "title": "Iran war",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-10T07:47:16+00:00",
+    "summary": "Iran war AP News",
+    "category": "conflicts",
+    "score": 11.331
   },
   "items": [
     {
-      "title": "Artemis III NASA announcement highlights : Luca Parmitano assigned as pilot",
+      "title": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0cwZnpJbGdWR0xBeU1KYXdYLW1WX2d6VzJUNnVmWEZScTRXWHNYTS1ka1lWWFo2bVNlaklWV2dhMXlVU01mblJRM2o3RlN6d3pwUjdhR0twRmRsaktIM3hpd3FGRGJXbFA2S0VDNE5lbjRrdzhVN0lZLTYyRVUtcHBlNTFNN0lMaFFRbmFpVEpra1NVUFpUMWxvaWcteERoblF6OHN4eldFZDdMUXV6cjJzTUFRZGs4dmx6YWp4SWg1SXM?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-10T02:18:00+00:00",
+      "summary": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports Reuters",
+      "category": "tech",
+      "score": 9.054
+    },
+    {
+      "title": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-10T07:47:22+00:00",
+      "summary": "Ukraine AP News",
+      "category": "conflicts",
+      "score": 8.505
+    },
+    {
+      "title": "Meta ties up with Ambani's Reliance for AI data center in India",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlc2aGhiaC03Vk4xMTA0MHcwd0JoWEFQTHdlLUhYbTJJN1NqeEpycTU5eUZQSHY2akt1LVE1MVMzaUxmLUVuQWU5SHpZMW9RWjB0ZWlxZE41czdzdkdDS3F2OE05UktOckZhNHhEdTFlakpCTUN1dE5seGc0U25oSE1vcjhfdDJZcS1JSmlfZkI2OTFHSFpVcURxOFkwZ0RIeFphdUpB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-10T02:42:00+00:00",
+      "summary": "Meta ties up with Ambani's Reliance for AI data center in India Reuters",
+      "category": "tech",
+      "score": 6.23
+    },
+    {
+      "title": "Artemis III NASA announcement highlights: Luca Parmitano assigned as pilot",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Artemis_III_NASA_announcement_highlights_Luca_Parmitano_assigned_as_pilot",
       "source": "ESA",
       "published_at": "2026-06-09T17:20:00+00:00",
       "summary": "Video: 00:07:18 On 9 June, NASA announced the crew for the Artemis III mission, which includes ESA astronaut Luca Parmitano as pilot. ESA is also providing its third European Service Module for this crewed test flight in Earth orbit, which will be key for the mission’s objective",
       "category": "science",
-      "score": 5.799
-    },
-    {
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "source": "The Verge",
-      "published_at": "2026-06-09T20:24:25+00:00",
-      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of specula",
-      "category": "tech",
-      "score": 5.731
-    },
-    {
-      "title": "Iran war live: US strikes after downing of helicopter, Tehran vows response",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/10/iran-war-live-tehran-vows-response-as-us-strikes-over-downed-helicopter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-10T00:00:00+00:00",
-      "summary": "Lebanon's Health Ministry said the toll from Israeli attacks on the country since March 2 has reached 3,666 dead.",
-      "category": "conflicts",
-      "score": 4.993
-    },
-    {
-      "title": "Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9jcXp1cTRCbnZtaDFTdTNMZk1fT0xESF8wWTRkYVg2T19oWExmdDJrTmhKOWprYVFMX2Q0UXY2RnBTdXVo?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-09T21:10:48+00:00",
-      "summary": "Lebanon AP News",
-      "category": "conflicts",
-      "score": 4.624
+      "score": 4.434
     }
   ],
   "hero_history": [
+    "Iran war",
     "EU orders Meta to open WhatsApp to rival AI chatbots",
     "Anthropic releases its first Mythos-class model Claude Fable",
     "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut",
     "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports",
     "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
     "Apple announces visionOS 27 with Siri AI",
-    "Google, Nvidia consider Intel as backup chip manufacturer, The Information reports",
-    "Nvidia CEO says company is working with LG on humanoid robots and data centers"
+    "Google, Nvidia consider Intel as backup chip manufacturer, The Information reports"
   ]
 }

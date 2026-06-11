@@ -1,15 +1,42 @@
 {
-  "updated": "2026-06-10T19:10:37.252271+00:00",
+  "updated": "2026-06-11T01:24:42.158905+00:00",
   "hero": {
-    "title": "Why Lebanon remains caught up in the Israel-Iran conflict",
-    "url": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-10T18:54:40+00:00",
-    "summary": "The Israel-Iran ceasefire may be holding, but for many in Lebanon, the war continues.",
-    "category": "conflicts",
-    "score": 8.33
+    "title": "Anthropic urges US not to block state AI laws without setting federal standards",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGswMmJtWE5seHQzaWRSWXhPRktmbHc1SHZpYndBM1hjTzdLUlp0LVdmM3BQTTN1NnIxeWsxR2JubC1qeS03XzdVVjR0amttUUQxUWpVUlN2MzdsRTlSZDdJT1ZUTnlQTmlDc2h5WC1VdlQwYm5OQ2xROG1lT3BUVmhHS1V1bE4xeHhpazlwTGJSYWNNSnBtX0tFdkFBX0M1VTdZVDNwQQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-10T21:49:11+00:00",
+    "summary": "Anthropic urges US not to block state AI laws without setting federal standards Reuters",
+    "category": "tech",
+    "score": 6.636
   },
   "items": [
+    {
+      "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHZtakxXSFE2bHJoc3JueEthUlNFc2drdW44YkEzWW5VQlNDakRWRUpRM2V6dEs3RldsQkhQLUlMVGRIeGVSYjRMVHJYOHZNbDBuX2tpTzVOVUlXVl9BU3VuREVfeGtzSVlPUEVEV3JRc3NGSkFsbHFqdjVTS3l5R2c4c1JWVGpKSmEwc1N6bWlvMVQwMlhyWlRUUWs5MUtf?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-10T22:43:00+00:00",
+      "summary": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users AP News",
+      "category": "tech",
+      "score": 5.905
+    },
+    {
+      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-06-11T00:02:45+00:00",
+      "summary": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
+      "category": "finance",
+      "score": 4.632
+    },
+    {
+      "title": "Israeli airstrikes kill 13 in south Lebanon, Lebanese sources say",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFNfbjUycVFFUU1xa2lGeUcwSk1IR24waTJfWFJqRVNyZURONmRhb3hDbk1LYlhHMVdVMEo0NFByMDZMZlVwVjBxM0RIc0tMMTMzM0F3QVdxU3FvUmtKenRFU1Q4aHZqanBsRnlhcXBHY2NRMTR5WS1fSVN1dFFOd0lwVkpkTnlqVWF4UWF2ams2RnBNS2U5QTktbjRRSnVLcTZsSFVoazc2NVhNaC15SUJPNUZ6dw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-10T17:28:00+00:00",
+      "summary": "Israeli airstrikes kill 13 in south Lebanon, Lebanese sources say Reuters",
+      "category": "conflicts",
+      "score": 4.466
+    },
     {
       "title": "OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0dpcExhb084QkNZaXFTdWVRYTR1dElOeWFDaGZhbUhvMVFZdVo1ZFh4UFB2YVZUZjVtUzI0d25kanJOZXV4RFZTU24talNlN0hqVFMxbEhJZ0loR3haOWszU3MtdHdiSDEta3Z2M0tEN1p6ZklyTmplN1ZNdTkxc2VISkFjY0xsY0FmZThPd1RmMlp4cU9lVklsQmJfby1CM1AzajNrcndPN2h3bnpELU4ySzVIaFIyVC1zUWxoSGFaMUYyV0NGcXdMVnQ?oc=5",
@@ -17,44 +44,17 @@
       "published_at": "2026-06-10T14:39:26+00:00",
       "summary": "OPEC oil output lowest since at least 2000 as US blockade squeezes Iran, Reuters survey shows Reuters",
       "category": "resources",
-      "score": 7.075
-    },
-    {
-      "title": "OpenAI expects to go public 'within the next year,' the Information reports",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNER2SEg5dXcyLU51ajdpdHVqcldOSjlMalMtUi1wMGxxZjJXeFJiREdhUVpuTWdrMEhoSkxXYmVXLURUMnFjNlNpQng5dDBpdFkyc2tGUkRWTkd2VHp2UURVU2pBUzFWaTZ1ZzhsSW5tc1ZWZFZjRXFyVElsVlNwaTlOV2lSOS03VTR4ZDZmYVBQTlY0Z0ExZ002UFZsU3J3bHpBaktFNnZ1Zw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-10T15:49:45+00:00",
-      "summary": "OpenAI expects to go public 'within the next year,' the Information reports Reuters",
-      "category": "tech",
-      "score": 5.746
-    },
-    {
-      "title": "Anthropic CEO Doesn’t Know If Claude Used in Iran School Strike",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUVhaE5DR2hEVjN4M19sYjlGNUFwTE43a1F6NlFDM09qU0x5elZxUGdzRmttQWpGUEpaQ05tQnNVWFpqQW1Td2Qyb0I4WFNia2t5WGFPbG5icWlxSzZIbVlmU3ctbS1zYW41cy1KTjM1VTY2Y1AzN09laTNBYkttZXlJZ3hxS25jZmk3T2w5NDRtSmNNTDlpZWI2RzBYUVZZU19hWFZ0Z2hVMVQzUkROMlVfRG0?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-06-10T15:17:06+00:00",
-      "summary": "Anthropic CEO Doesn’t Know If Claude Used in Iran School Strike Bloomberg",
-      "category": "tech",
-      "score": 5.336
-    },
-    {
-      "title": "World markets walk a tightrope between AI stocks and oil shocks",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTlJhY2M4aTlWTVRTX3JLZVJQZXIxV3hTNlBkcTctZEppb1p0Nm5nMWJ4MHMyc2pSZ0pTeUt5c0JYSXpwLXlwTnM4ZS00cG9MUElIMjRrZm9ZYVJtOThnVlNWRUttdFBLZnI5aDNmSGdka3BPXzBLMjJmeGtWdw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-10T15:55:33+00:00",
-      "summary": "World markets walk a tightrope between AI stocks and oil shocks Reuters",
-      "category": "finance",
-      "score": 4.655
+      "score": 4.22
     }
   ],
   "hero_history": [
+    "Anthropic urges US not to block state AI laws without setting federal standards",
     "Why Lebanon remains caught up in the Israel-Iran conflict",
     "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too",
     "Iran war",
     "EU orders Meta to open WhatsApp to rival AI chatbots",
     "Anthropic releases its first Mythos-class model Claude Fable",
     "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut",
-    "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports",
-    "OpenAI files for US IPO after Anthropic as AI giants head to public markets"
+    "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports"
   ]
 }

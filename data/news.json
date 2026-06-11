@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-11T08:00:56.993164+00:00",
+  "updated": "2026-06-11T13:42:05.413329+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-11T07:34:28+00:00",
-    "summary": "Ukraine AP News",
-    "category": "conflicts",
-    "score": 12.083
+    "title": "OPEC again lowers 2026 global oil demand growth forecast",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2ptb2tWRXBxcFZOUjJ6NXRYUGt4Ynd1VzdzdDlOalhrWGw4WjNWZHNYRUxoenBzYzE1TzNWTnY1NGItZTdXMzE2Ny03RTFmLWltQ2pEVTNwM25peTZPU0dPZG9iMHRzUVQ1VGllQ3lxdEtjMUFFSldpU3paSWJEdHlsS3I5SkZjMHI1ek5nVzQ0eTM1bGkydlRjbElncDJTN09URUlTZjJ5dEFt?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-11T12:44:09+00:00",
+    "summary": "OPEC again lowers 2026 global oil demand growth forecast Reuters",
+    "category": "resources",
+    "score": 11.23
   },
   "items": [
     {
-      "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUxaR1RVaTY0U3FJVnhLNzIyR3Zwb041R0pRT29YelJzRi1YOWhvYUlQNVV5RDBDZm9RQ1diaEFuV2x6MmFfUlNkc2lTYUFoSzI2ZFlUNDc4RXN0Sjk2bXpoU2xEeU5lS3lSRTZJTHo4MlctVV9ZRTUtd1U4MTgzZEN5Wm4zQnJtMHV5aTAwQ1FVYnotZ1ZSdVdIaGU3emRxdjNoQWM5S1dnYUh1c213UFd6Z2ZVMjltazRBS2FuZFM4QQ?oc=5",
+      "title": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5nUHlsdmNnT25PcUpTYUFLYS1FSHl3bmdpRE0wN0NfSzBSd3FRdkVtT1VPSE55bmJnczN3aGFmRUlyTmhPVlRJYlhHOElpZGl2X0hpMW1iZU0yMVJOZHhjaVU3RXVWa19xUTJTY2c4T2JUNmhRXzRVMUdsdXgtTVFhRG9yd1FQSU03SVN2ZjhnQ0I3RWdPZEh4aEVVSDc3RTdndzV2VWY?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-11T01:45:00+00:00",
-      "summary": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports Reuters",
+      "published_at": "2026-06-11T11:06:10+00:00",
+      "summary": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI Reuters",
       "category": "tech",
-      "score": 9.178
+      "score": 6.916
     },
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-11T07:57:08+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 8.265
-    },
-    {
-      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
-      "url": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-06-11T03:50:22+00:00",
-      "summary": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study.",
-      "category": "science",
-      "score": 5.107
-    },
-    {
-      "title": "Hormuz reopening could be OPEC’s undoing",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmdfVUZJbE5ORWIyZV9HYUhiTHRVOHMtZ1lOUFUwOXhiU2xzSWprczRMeUNESlJGUnNieGVnYlJZMG1LZG9WczRaaWptZEJJUUhpZHVDSTZhQ2tXYW0wNzhEZUdNQ0RIaFFIUExZYV9SMGFXZjQ0bVlseUNkRldYMTlWSDBjTWJoT2E5N3RnLWF4dHZWOFVDSXktc01WTmtwV0w5dk5IV1BiSDR5?oc=5",
+      "title": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORTFfZ1dLbGx4NkdrZWJ3MEl1eWozNlc5djFHZDBmVzlOaC1KSm9nNXZNNXZ4LWJpTUwxSXYydlpac2lzUWt0d0ZjSy1qWkJuY2RxM0hvcnEzRUllMWNYaGVfNVRtb0dJZ3hFWjJEQXJqcFZiT19hSHJIR2E2VDNidERFNjVPcFphT0YybFdKM0ZrSjJGWXdQeklBNGFfd29NLXh5SHJSMm1yeHdGRTZvZUxEeTZXd1pKWEcyVDFOY0N5Zw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-11T06:05:00+00:00",
-      "summary": "Hormuz reopening could be OPEC’s undoing Reuters",
+      "published_at": "2026-06-11T12:31:00+00:00",
+      "summary": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra Reuters",
+      "category": "tech",
+      "score": 6.288
+    },
+    {
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-06-11T13:26:24+00:00",
+      "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+      "category": "science",
+      "score": 5.01
+    },
+    {
+      "title": "Rare Earths Americas (REA) Selects Hatch for Initial Assessment Contract",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc19KSGxkQ2dId2IycmJVbWlESllxbjhXTlVfN0xhN0dzcXZzdkJseVFKdTRSWTcyY2NqazFNV2RIZ0ZFSUtTOGxfckZyQkpzRHdfdlg4a3BSamxOSl9IcFFPdl9tY0pNbUFZUmlaSlZKcGRJTG8zR1p6ajctTVZHUE1Vd3Via0NzYktzX3pLZ1kyc3QxcWtMU0JBMmFBcDBPMlNGQWFUOWdnNUZDOWc?oc=5",
+      "source": "GuruFocus",
+      "published_at": "2026-06-11T12:00:06+00:00",
+      "summary": "Rare Earths Americas (REA) Selects Hatch for Initial Assessment Contract GuruFocus",
       "category": "resources",
-      "score": 5.079
+      "score": 4.642
     }
   ],
   "hero_history": [
+    "OPEC again lowers 2026 global oil demand growth forecast",
     "Ukraine",
     "Anthropic urges US not to block state AI laws without setting federal standards",
     "Why Lebanon remains caught up in the Israel-Iran conflict",
     "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too",
     "Iran war",
     "EU orders Meta to open WhatsApp to rival AI chatbots",
-    "Anthropic releases its first Mythos-class model Claude Fable",
-    "OpenAI files confidential SEC paperwork for IPO, opening the door to a Wall Street debut"
+    "Anthropic releases its first Mythos-class model Claude Fable"
   ]
 }

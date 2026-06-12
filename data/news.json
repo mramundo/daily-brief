@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-12T01:27:32.221825+00:00",
+  "updated": "2026-06-12T07:56:41.200391+00:00",
   "hero": {
-    "title": "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjNjZUhmYmpJdFNHcjh5MDV1SHNudjNfMEtNRkZlZ1ZqZThjZzhhbkFXQW9uZ0t2Rl9SN3lTQTB4WXFBalphQWRTbmI1N3pxY25OeXR4d1EtVUNFV3lmNkFOdEdEUkN1emVKNEhIb1JLUkFpYk9GWWZONXlDUlNPWWtJYzBfWThsdXVPLUR5enJtNlZ6dGNRZzZJX3g5TVFISlRsMWFNUjFqMTctTnl2bU9IWjZ6MnM2?oc=5",
+    "title": "Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2Z6dFV3WHhOamNSbFQ1VmxlNk5iNHR4bjJDdWE1d28tM3VEX01aOVVWMkNRYlZ3aUlQWXgxNi1VbGdtQ3FoNkY2MEZLSzZKZHBLcHFfNlhSTlhlYm5CbFNoaHdyOFM4UUVjQzIyU0o4VmNuaHo1cTg0cFgwSGdMdFctdGZCQnVwamdHZEdRQkJ5Umw0U1ZPTldxZ2ZRWE9Yc05xM2EtNFlwb1l5alBV?oc=5",
     "source": "Reuters",
-    "published_at": "2026-06-11T19:28:50+00:00",
-    "summary": "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide Reuters",
+    "published_at": "2026-06-12T06:19:00+00:00",
+    "summary": "Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say Reuters",
     "category": "tech",
-    "score": 6.008
+    "score": 5.144
   },
   "items": [
-    {
-      "title": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORTFfZ1dLbGx4NkdrZWJ3MEl1eWozNlc5djFHZDBmVzlOaC1KSm9nNXZNNXZ4LWJpTUwxSXYydlpac2lzUWt0d0ZjSy1qWkJuY2RxM0hvcnEzRUllMWNYaGVfNVRtb0dJZ3hFWjJEQXJqcFZiT19hSHJIR2E2VDNidERFNjVPcFphT0YybFdKM0ZrSjJGWXdQeklBNGFfd29NLXh5SHJSMm1yeHdGRTZvZUxEeTZXd1pKWEcyVDFOY0N5Zw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-11T14:55:55+00:00",
-      "summary": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra Reuters",
-      "category": "tech",
-      "score": 5.509
-    },
     {
       "title": "Reuters Climate Monitor",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xcW1nTV9oSTFNczAyY3ZTTzZKc1RoaUVqdndJZmV5VnRaVldYYUs3bERrYjlSYWZQUnA4T0VBUzNDVEZNSllaelNQbHlsREQxVl94ODZsaEFUZ1c3b00zazAtNWEzRlFvYnZnVi1SQ2FuaHRmSVJ0dGd0VQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-11T19:47:19+00:00",
+      "published_at": "2026-06-12T04:55:13+00:00",
       "summary": "Reuters Climate Monitor Reuters",
       "category": "science",
-      "score": 4.347
+      "score": 4.853
     },
     {
-      "title": "Israel launches overnight strikes across Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-12T01:11:34+00:00",
-      "summary": "Videos shared by Palestinian activists show powerful Israeli airstrikes across Gaza Strip overnight.",
+      "title": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
+      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-12T05:53:19+00:00",
+      "summary": "The US president says a \"great settlement\" to end the conflict has been reached. Iran says reports of a deal are \"speculative\".",
       "category": "conflicts",
-      "score": 4.217
+      "score": 4.501
     },
     {
-      "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+      "title": "Mountain of war: The India-Pakistan conflict’s deadliest battle zone",
+      "url": "https://www.aljazeera.com/news/longform/2026/6/12/mountain-of-war-the-india-pakistan-conflicts-deadliest-battle-zone?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-06-12T00:00:00+00:00",
-      "summary": "The International Rescue Committee warns that people displaced by Israeli attacks in Lebanon are at 'breaking point'.",
+      "published_at": "2026-06-12T07:14:52+00:00",
+      "summary": "After their war last May, India and Pakistan reached a truce. But deaths continued on the world's highest battlefield.",
       "category": "conflicts",
-      "score": 4.013
+      "score": 4.142
+    },
+    {
+      "title": "Buy the SpaceX IPO -- or Wait for Anthropic and OpenAI? The Answer May Surprise You.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUmtmb2lYYUc2SGRFVndfeXNramVvQ241UTNabWpYdVNWQXhURldMM2dJZlpQSGlvYzZieDZjMjBOTXJQeVlqdENwOHhXSXYxUDNlbTkyalNiZjRzSDdBVEVjelNEUmN4OHJ2VU1HbHdMalhKUkVfdVFjUGdtazRFSEY4dG56RFFSTVc4LU9tRWRQb1Z1WTVVcw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-06-12T07:33:01+00:00",
+      "summary": "Buy the SpaceX IPO -- or Wait for Anthropic and OpenAI? The Answer May Surprise You. The Motley Fool",
+      "category": "tech",
+      "score": 3.948
     }
   ],
   "hero_history": [
+    "Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say",
     "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide",
     "Anthropic announces ‘Claude Corps’ to teach nonprofits to use AI more effectively",
     "OPEC again lowers 2026 global oil demand growth forecast",
     "Ukraine",
     "Anthropic urges US not to block state AI laws without setting federal standards",
     "Why Lebanon remains caught up in the Israel-Iran conflict",
-    "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too",
-    "Iran war"
+    "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too"
   ]
 }

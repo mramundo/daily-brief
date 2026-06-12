@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-11T19:14:43.821179+00:00",
+  "updated": "2026-06-12T01:27:32.221825+00:00",
   "hero": {
-    "title": "Anthropic announces ‘Claude Corps’ to teach nonprofits to use AI more effectively",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcU1IVkgybVFHRUtfSnNValYtQm1XOGFMX3hKRHFvUmlrS2djaGlRcVcxYW1HYnZod1oxdUZ2dFkxaDgzc0FyQ2labE9IaEFwV2xYQnlEbnUyTVVnaWZmVUFrN19sSFlGV1RDSDdDbkU5b1laN0R6SWdKMXRoQ0pZZUdqcjAtWFFKYjBCcl9xU1RHYW1kejEyVU9FM2V2WXhJNlE?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-11T18:03:00+00:00",
-    "summary": "Anthropic announces ‘Claude Corps’ to teach nonprofits to use AI more effectively AP News",
+    "title": "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjNjZUhmYmpJdFNHcjh5MDV1SHNudjNfMEtNRkZlZ1ZqZThjZzhhbkFXQW9uZ0t2Rl9SN3lTQTB4WXFBalphQWRTbmI1N3pxY25OeXR4d1EtVUNFV3lmNkFOdEdEUkN1emVKNEhIb1JLUkFpYk9GWWZONXlDUlNPWWtJYzBfWThsdXVPLUR5enJtNlZ6dGNRZzZJX3g5TVFISlRsMWFNUjFqMTctTnl2bU9IWjZ6MnM2?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-11T19:28:50+00:00",
+    "summary": "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide Reuters",
     "category": "tech",
-    "score": 7.333
+    "score": 6.008
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-06-11T14:55:55+00:00",
       "summary": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra Reuters",
       "category": "tech",
-      "score": 7.136
+      "score": 5.509
     },
     {
-      "title": "ESA at ILA 2026 – Day 2 highlights",
-      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_2026_Day_2_highlights",
-      "source": "ESA",
-      "published_at": "2026-06-11T15:25:00+00:00",
-      "summary": "From strategic discussions on autonomy and resilience to an in-flight call with ESA astronaut Sophie Adenot, ESA's second day at ILA Berlin International Airshow 2026 highlighted the wide-reaching value of space for Europe now and in the future.",
+      "title": "Reuters Climate Monitor",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xcW1nTV9oSTFNczAyY3ZTTzZKc1RoaUVqdndJZmV5VnRaVldYYUs3bERrYjlSYWZQUnA4T0VBUzNDVEZNSllaelNQbHlsREQxVl94ODZsaEFUZ1c3b00zazAtNWEzRlFvYnZnVi1SQ2FuaHRmSVJ0dGd0VQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-11T19:47:19+00:00",
+      "summary": "Reuters Climate Monitor Reuters",
       "category": "science",
-      "score": 5.182
+      "score": 4.347
     },
     {
-      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
-      "url": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-06-11T15:02:34+00:00",
-      "summary": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study.",
-      "category": "science",
-      "score": 5.101
-    },
-    {
-      "title": "Deadly Sudan drone strike targets funeral procession",
-      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-11T15:57:04+00:00",
-      "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
+      "title": "Israel launches overnight strikes across Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/israel-launches-overnight-strikes-across-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-12T01:11:34+00:00",
+      "summary": "Videos shared by Palestinian activists show powerful Israeli airstrikes across Gaza Strip overnight.",
       "category": "conflicts",
-      "score": 4.598
+      "score": 4.217
+    },
+    {
+      "title": "Iran war live: Trump claims Tehran deal ‘approved’, cancels new strikes",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-12T00:00:00+00:00",
+      "summary": "The International Rescue Committee warns that people displaced by Israeli attacks in Lebanon are at 'breaking point'.",
+      "category": "conflicts",
+      "score": 4.013
     }
   ],
   "hero_history": [
+    "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide",
     "Anthropic announces ‘Claude Corps’ to teach nonprofits to use AI more effectively",
     "OPEC again lowers 2026 global oil demand growth forecast",
     "Ukraine",
     "Anthropic urges US not to block state AI laws without setting federal standards",
     "Why Lebanon remains caught up in the Israel-Iran conflict",
     "Erdogan says Israel's attacks on Syria, Lebanon threaten Turkey too",
-    "Iran war",
-    "EU orders Meta to open WhatsApp to rival AI chatbots"
+    "Iran war"
   ]
 }

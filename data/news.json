@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-13T01:25:50.262378+00:00",
+  "updated": "2026-06-13T07:34:41.814911+00:00",
   "hero": {
-    "title": "OpenAI under investigation by group of state attorneys general, source says",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0VNSkhmX3pnRzR1NWdCaW1iS3lCQ0dOdDREb3BSV2pNV2tTUVRBbGdMcjVtcW96Nm9rN1lkdkhQQmo1ZEgtU042TklUUUI1STFxS1F1LWE5RHVjdFJyRlRZcmU1eVl0UGxGWjJyX2dkNDlaWFlTYW50TEl5dWt0ZTA5YnozZlZva2JPOXcwREtXeU9RbE1JMUM5TEdDYWpSVlBLdTd6UVEwZ1p0X0FFS1k3eWdwRnpIRGM5UA?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-12T23:30:00+00:00",
-    "summary": "OpenAI under investigation by group of state attorneys general, source says Reuters",
+    "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0c5cU10TTQ0RVB4aHZRMm5BcFJQaGdDUjJLS2tMVnRLc3NLdUJKRmowZGFpMTNyYXBsQ2VfLUlIT0ZPeVc1THdxRGJqRjgzQThKX2RFLXJsRXFTbVBwMVN4dU9jcWVYVzlTMHQ3ZlBQSHFtNVRCeGdiSmRWRnRXNnZadkVvZDUwN1R4ODhvS1BZTWRpMFBPTjdxT0t3TWhTV0JBd3g4dklodkNXdjBBSEpR?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-13T02:36:00+00:00",
+    "summary": "Anthropic says it has taken its latest AI models offline to comply with new export controls AP News",
     "category": "tech",
-    "score": 7.881
+    "score": 5.369
   },
   "items": [
     {
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-12T16:23:25+00:00",
-      "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public marke",
+      "title": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEg1ZTBqMnhKa2FranJlb2QxUmJEUzNZNFE5SUhvRTBKTU9JeXUzdEdybHZxYWpZN2syVWl3SkR5MXhudERUSVVuRXZvUEdxbWpMRmFPdHdVV0RXTFJvT1hfalF4R29xbnE1c1RFS3hSN3F3V2txX1hjdU9jTkZfT3pYejlVc2JUQ3JLRHp0a29LR0VjWTFKdWZQVmVQUzV2MWI0TG9JUQ?oc=5",
+      "source": "Fortune",
+      "published_at": "2026-06-13T04:25:00+00:00",
+      "summary": "Anthropic disables Fable and Mythos AI models after U.S. government bars it from giving foreigners access Fortune",
       "category": "tech",
-      "score": 6.482
+      "score": 5.241
     },
     {
-      "title": "US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnp2SzRDVFVBdVBxWWo5ajd4QzJ4SVE5bXZCOFM0LWdRRDVPaVliQkkwVGQwYVZJMk9adHdZZFB2NW1QSnBybExuSV9MLXcyTTQxY0x1SlF4eDQzTk1kRGVnUXk3cllzdjhOZ3hkdnBVMXN2dWdlTk84RXpBX2I0MGVzeTlvVTZVcUVsYlV5TUl4VC1iZ3Iw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-12T21:26:00+00:00",
-      "summary": "US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street AP News",
-      "category": "finance",
-      "score": 4.512
+      "title": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help",
+      "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-13T06:50:06+00:00",
+      "summary": "Gang leader Flores had controlled the vast criminal syndicate from Venezuela for years.",
+      "category": "conflicts",
+      "score": 4.537
     },
     {
       "title": "US and Iran have agreed to wording of a deal to end their war, Pakistan's prime minister says",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONURwN19GREN0aGJfdmstQ0ZQc0w1eGNHRG5kYW9MWUhjRm55M0gweVdQeHQ0dWlVU2w5dWkxYXJhaW1yMzcxN2pfZnNWNm0xaURoVjAtdlY3SWVhN3lrWXV5STJVdExXTjdMM3pSb0paTUZoU2xBMHJMUVFGelFuQ0tycmlYWURDQVFjbmpjOER4SUp1SWNaeVd2MWFUUFNua1FqSi1XMl9UY2s?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-12T21:11:00+00:00",
+      "published_at": "2026-06-13T02:01:00+00:00",
       "summary": "US and Iran have agreed to wording of a deal to end their war, Pakistan's prime minister says AP News",
       "category": "politics",
-      "score": 4.465
+      "score": 4.227
     },
     {
-      "title": "SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUM0N1pnemJMbTkxX1JYd0t1c3JRTDYtSmJiSkUwTkprOVZ1NTdVdFNQelEyc1FwV0ZRLXRfSWxGWmFtcXV0ODJoY2xUUU0tQS1kZC1oMmtKa3ZjX2ZXU3ZSZ0VtN3NHazRzWWlldnBHdEJFM2NzN2h1WG1mWU5rRi1IdTFwZE4xd2sxZlhoUHhnUjhPV2FpdlZIUFlFSjY3R3VaRzFicHg5blgzQThPcTdmYmU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-12T22:28:24+00:00",
-      "summary": "SpaceX surges past $2 trillion in Nasdaq debut, closes in on Amazon Reuters",
-      "category": "finance",
-      "score": 3.927
+      "title": "Trump seeks ‘off-ramp’ from war in ‘Iran deal’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-13T07:23:26+00:00",
+      "summary": "As reports emerge of a possible US-Iran agreement, President Donald Trump is looking for an ‘off-ramp’ from Iran war.",
+      "category": "politics",
+      "score": 3.746
     }
   ],
   "hero_history": [
+    "Anthropic says it has taken its latest AI models offline to comply with new export controls",
     "OpenAI under investigation by group of state attorneys general, source says",
     "Elon Musk is the world’s first trillionaire",
     "One injured as Israel hits southern Lebanon with air raids, artillery",
     "Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say",
     "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide",
     "Anthropic announces ‘Claude Corps’ to teach nonprofits to use AI more effectively",
-    "OPEC again lowers 2026 global oil demand growth forecast",
-    "Ukraine"
+    "OPEC again lowers 2026 global oil demand growth forecast"
   ]
 }

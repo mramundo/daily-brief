@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-13T18:46:08.450203+00:00",
+  "updated": "2026-06-14T01:28:47.916461+00:00",
   "hero": {
-    "title": "Anthropic disables top AI models after US foreign access order",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sbEtxMlF1NXBYOFNtOU9GOUt0WFlOYUxNUU9BUGxJa3R4NXVDeUg1MlpaeHlVNmdnMy1XN1lPeThuM0h4cUE0RXd4ZnJwbWZPejFNUkdONS10dW93MlpUQTBBVXdMY2s?oc=5",
+    "title": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBINmZMTlZvc1RPNEkyWjk0VkxJY29QRHRtSUpjYTlZNWMtYWJlZkVpMUwxejFzSjVxdU02MHJVS1BKYUtCNkRObWYxTkdsMWJmcF9Bb3VQTnBDZktBenJ2SjFnR2VQUGZhY3RWWXBvWGwyZFNOV250VG5QVm5sTE1fWU4tQXc3enltTUZUWXZuM1pEMTFvSmlNdlEyamFwTFBrdXRkeGFWUjU2eVp4b0ozT3p6bG5JUHNWNV9Hcm1nSjcxbHYyd1NPWHVGNFB0azJmNTFLRWM?oc=5",
     "source": "Reuters",
-    "published_at": "2026-06-13T15:22:05+00:00",
-    "summary": "Anthropic disables top AI models after US foreign access order Reuters",
+    "published_at": "2026-06-13T22:20:58+00:00",
+    "summary": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says Reuters",
     "category": "tech",
-    "score": 6.495
+    "score": 7.692
   },
   "items": [
     {
-      "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2MxcmpFWC0wcWlaVl85Wlg3aTVOT190MGFNSDRYTlZYWURjUU5KMGZhd2V4YU4wempIVU5GUEFNNklQSXk0a3lBU2ZycHh2a3dVUEN3N0w4QndlbGx6RV94U0xGS3hEQXU0TC1PY0otTVl0TmNQeGFaVGxrTXZQOW5DYjB6czJvWHhDb0ZUUVNhQVhncGRfNWxMQ1pqZjFSWlltR0Z5WTZONjVTRnRpVU41VXNCTHJFX0NHUm94bnlFVWVWeDFQT2RlRFprbzlvUmltSjRKQS1tc25JbnlELUVhOVliU0dP?oc=5",
-      "source": "Venturebeat",
-      "published_at": "2026-06-13T12:24:00+00:00",
-      "summary": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do Venturebeat",
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "source": "The Verge",
+      "published_at": "2026-06-13T21:39:26+00:00",
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, t",
       "category": "tech",
-      "score": 5.35
+      "score": 6.009
     },
     {
-      "title": "Indian PM Modi in France to attend G7 summit",
-      "url": "https://www.france24.com/en/video/20260613-indian-pm-modi-in-france-to-attend-g7-summit",
-      "source": "France 24",
-      "published_at": "2026-06-13T12:58:13+00:00",
-      "summary": "Indian Prime Minister Narendra Modi is expected to hold bilateral talks with U.S. President Donald Trump on the sidelines of the G7 summit. What will be on the agenda? We spoke with Amalendu Misra, Professor of International Politics at Lancaster University.",
+      "title": "Trump and Macron will meet over dinner at Versailles palace after G7 summit in France",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGt1SHZaNFhSdjhybGZxS0RNaVRFcGd4cENlcV9yMG9saFBfZDlMbElIeHNBNWRDM25rLWZxdk1KeDFGT0thWDg1cFRCRDZBel9TUmZCQnQxdUpyaVd3ZTFueEJkeV9SR0MxTWhINmJYeW9MMEFEQ3NFdG92NF96QUlETGZROVRYYzFzSTBqR01WdGo5b2ZDQXM4TGstYkt5NzBZeUdnakI3ekJS?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-13T17:30:00+00:00",
+      "summary": "Trump and Macron will meet over dinner at Versailles palace after G7 summit in France AP News",
       "category": "politics",
-      "score": 4.154
+      "score": 4.738
     },
     {
-      "title": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRF90UXg3VUxPQl9MVWFPQ0hhLW01YzZLSlQyMnJSMTVMMDdKTERGLTdjOW9wRFdNRXBSaWpOeURsRDA0NW5xNkUzWWNJcVZoT3NzNTdKTGlQMUdUVEJib19fd3UwQjAyVXdlNVR2MlVRWngxTUZIS2NfbkUyUkJFNHpfOGNpYllZc2dIWGltLVJkbjlpSEFQWjZMT1dkNnpwdWhxcnY1cVBnQVFG?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-13T15:05:36+00:00",
-      "summary": "Motels, marshland and luxury rates: Welcome to the World Cup in New Jersey Reuters",
-      "category": "finance",
-      "score": 3.811
-    },
-    {
-      "title": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
-      "url": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
+      "title": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
+      "url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-06-13T16:01:15+00:00",
-      "summary": "Israeli attack kills one person in central Gaza's Bureij camp, as a disabled Palestinian is shot in occupied West Bank.",
+      "published_at": "2026-06-13T19:54:46+00:00",
+      "summary": "Canada's prime minister has warned that the 'rules-based' global order is 'breaking down' amid superpower dominance.",
+      "category": "politics",
+      "score": 4.348
+    },
+    {
+      "title": "Two killed in Israeli strike on Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-14T01:11:06+00:00",
+      "summary": "An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.",
       "category": "conflicts",
-      "score": 3.803
+      "score": 4.212
     }
   ],
   "hero_history": [
+    "Amazon voiced concerns about Anthropic AI models before US crackdown, source says",
     "Anthropic disables top AI models after US foreign access order",
     "Anthropic disables top AI models after US foreign access order",
     "Anthropic says it has taken its latest AI models offline to comply with new export controls",
     "OpenAI under investigation by group of state attorneys general, source says",
     "Elon Musk is the world’s first trillionaire",
     "One injured as Israel hits southern Lebanon with air raids, artillery",
-    "Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say",
-    "Mother sues OpenAI, alleging ChatGPT encouraged daughter's suicide"
+    "Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say"
   ]
 }

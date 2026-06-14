@@ -1,15 +1,33 @@
 {
-  "updated": "2026-06-14T01:28:47.916461+00:00",
+  "updated": "2026-06-14T07:53:29.984767+00:00",
   "hero": {
-    "title": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBINmZMTlZvc1RPNEkyWjk0VkxJY29QRHRtSUpjYTlZNWMtYWJlZkVpMUwxejFzSjVxdU02MHJVS1BKYUtCNkRObWYxTkdsMWJmcF9Bb3VQTnBDZktBenJ2SjFnR2VQUGZhY3RWWXBvWGwyZFNOV250VG5QVm5sTE1fWU4tQXc3enltTUZUWXZuM1pEMTFvSmlNdlEyamFwTFBrdXRkeGFWUjU2eVp4b0ozT3p6bG5JUHNWNV9Hcm1nSjcxbHYyd1NPWHVGNFB0azJmNTFLRWM?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-13T22:20:58+00:00",
-    "summary": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says Reuters",
-    "category": "tech",
-    "score": 7.692
+    "title": "Iran war",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-14T07:52:17+00:00",
+    "summary": "Iran war AP News",
+    "category": "conflicts",
+    "score": 8.504
   },
   "items": [
+    {
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-14T06:39:29+00:00",
+      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+      "category": "politics",
+      "score": 4.811
+    },
+    {
+      "title": "Elektros Inc. Ignites New Momentum Across Lithium, EV Innovation, and Critical Minerals as the Global Electrification Era Accelerates - Eagle-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUEMzZEZhdVkxTGZWWGZVeVlUSlpPVXhYd214dTZZNnBhTEl2aHkwMWJwS2xFSkEtNDk0YmxLdmdqZjMtOFU3SS1ILVV1NF9KZW8wcERTN3IzWHcyWkJRV1hvcmUxV01hbUVUMGo3czhsTEVRZnhwR1k3Tm9yVnhBd3Y3UE14dHZyOGVfYmlRQ1E5RDFnREhUZl9fVTNhQ05sU3RXR3hvUXA0SnhiYzIybWc0WDZLM1BxaTVicEJHa1o1UVpkeF9mcGNFOVZLQ1Q4QnBOdEM0OVc2eUh2dlVpUTFEdExnQ1F3YnZrYnZiaDJaX2R0clZlSU9xN2hOalppVDRQUWVkRnBsTFJKTWdWYjdB?oc=5",
+      "source": "Eagle-Tribune",
+      "published_at": "2026-06-14T02:16:58+00:00",
+      "summary": "Elektros Inc. Ignites New Momentum Across Lithium, EV Innovation, and Critical Minerals as the Global Electrification Era Accelerates Eagle-Tribune",
+      "category": "resources",
+      "score": 4.733
+    },
     {
       "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
@@ -17,44 +35,26 @@
       "published_at": "2026-06-13T21:39:26+00:00",
       "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, t",
       "category": "tech",
-      "score": 6.009
+      "score": 4.6
     },
     {
-      "title": "Trump and Macron will meet over dinner at Versailles palace after G7 summit in France",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGt1SHZaNFhSdjhybGZxS0RNaVRFcGd4cENlcV9yMG9saFBfZDlMbElIeHNBNWRDM25rLWZxdk1KeDFGT0thWDg1cFRCRDZBel9TUmZCQnQxdUpyaVd3ZTFueEJkeV9SR0MxTWhINmJYeW9MMEFEQ3NFdG92NF96QUlETGZROVRYYzFzSTBqR01WdGo5b2ZDQXM4TGstYkt5NzBZeUdnakI3ekJS?oc=5",
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDJsQlNzM0JtUFpBTUJkalVSS3htd0ZEUVVsOFhYOGhYbFBkNkV6RkZfcERSWV9ZVngzRUYyN29uUXgycFBrek1ZUllLM3MtVzNCY1BUNXBoXzVWbEYtS2pzTFNBUVFKOXZRWlBCN2VoNkxFa0FSWEVGN18xZmRyM3N1ODNwOERDd0ZFa2ozQTNrM3o1Mjc2M3JRODlxN2t6cWsxOUI1WE5QNWc?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-13T17:30:00+00:00",
-      "summary": "Trump and Macron will meet over dinner at Versailles palace after G7 summit in France AP News",
-      "category": "politics",
-      "score": 4.738
-    },
-    {
-      "title": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
-      "url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-13T19:54:46+00:00",
-      "summary": "Canada's prime minister has warned that the 'rules-based' global order is 'breaking down' amid superpower dominance.",
-      "category": "politics",
-      "score": 4.348
-    },
-    {
-      "title": "Two killed in Israeli strike on Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-14T01:11:06+00:00",
-      "summary": "An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.",
-      "category": "conflicts",
-      "score": 4.212
+      "published_at": "2026-06-13T19:17:00+00:00",
+      "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms AP News",
+      "category": "tech",
+      "score": 4.558
     }
   ],
   "hero_history": [
+    "Iran war",
     "Amazon voiced concerns about Anthropic AI models before US crackdown, source says",
     "Anthropic disables top AI models after US foreign access order",
     "Anthropic disables top AI models after US foreign access order",
     "Anthropic says it has taken its latest AI models offline to comply with new export controls",
     "OpenAI under investigation by group of state attorneys general, source says",
     "Elon Musk is the world’s first trillionaire",
-    "One injured as Israel hits southern Lebanon with air raids, artillery",
-    "Exclusive: Nvidia begins Vera CPU sales pitch to Chinese clients, sources say"
+    "One injured as Israel hits southern Lebanon with air raids, artillery"
   ]
 }

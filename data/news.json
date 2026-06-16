@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-16T01:31:42.500062+00:00",
+  "updated": "2026-06-16T08:20:19.055856+00:00",
   "hero": {
-    "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-15T20:28:10+00:00",
-    "summary": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI Reuters",
-    "category": "tech",
-    "score": 6.242
+    "title": "Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-16T07:42:47+00:00",
+    "summary": "Ukraine AP News",
+    "category": "conflicts",
+    "score": 15.059
   },
   "items": [
     {
-      "title": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORlpJcDI3RUdXN2kwd2NjVHNDTUUzUzJ3M002SVBpV3oxZmZtNXJlSmt0anE0SFQ3NVFMRS1zOU9xUUFOblNfUDYwZWV1N0V6Vng3aTloNTRiZHN0akNBWjR4QjJsT2xaUlNqek5TNFczcFAydVV3TkJiQXZibjA5T2JnQWhjS1FSTGc5NkhKWjlTcDBzcmpjaA?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-15T19:55:00+00:00",
-      "summary": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models AP News",
+      "title": "Critical Minerals Grant",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5meVp6dldDb1h1TlhWZVZvR3l0N0dCdkkxRHdiM0JjeS10ZDdaTFllZDg3LUdPWXN2YzZWWG9Dak5MSTBfVVdRcnNBdENDZWlvTnpEbDA4THJGaWtSeVlGcXBPaThjRTlpRmgwNmdqQQ?oc=5",
+      "source": "Cision News",
+      "published_at": "2026-06-16T08:00:00+00:00",
+      "summary": "Critical Minerals Grant Cision News",
+      "category": "resources",
+      "score": 8.819
+    },
+    {
+      "title": "OpenAI spending hit $34 billion last year ahead of planned IPO, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObG14cjl0dTdRdWhUWmROcmN1WXhXM2RnZ25TczRBdDNsUW43a0tSR25MLTdXcmF5bE1wRXh5Wk1TWmVpMWt0N0ZGQjBEbmpmajcwT1JqQWdvdTNpWklmOGstQlMzWFlVSkZmQ1hndFpnRG5FUVB4RG5NV1BMR2VYSExIY3ZHVW14UE9JREI3QmswbE8yanNueWNRbXBLNnEyUGpZVEFBRzdlbXhEUmd2aW5SeFRRZ3lHVTRVVVpqVDhIR0U?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-16T03:41:00+00:00",
+      "summary": "OpenAI spending hit $34 billion last year ahead of planned IPO, FT reports Reuters",
       "category": "tech",
-      "score": 6.1
+      "score": 8.208
     },
     {
-      "title": "Iran war live: Trump says MoU with Tehran signed electronically",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+      "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
+      "url": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-06-16T00:00:00+00:00",
-      "summary": "Backlash to US-Iran deal grows in Israel as Iranian vessels pass through Strait of Hormuz after US lifts naval blockade.",
+      "published_at": "2026-06-16T08:08:11+00:00",
+      "summary": "Iran’s National Security Council said on Monday that the deal ends fighting on all fronts, including in Lebanon.",
       "category": "conflicts",
-      "score": 4.856
+      "score": 5.762
     },
     {
-      "title": "Trump celebrates 80th birthday with an Iran deal and UFC cage fights at the White House",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHdQdXJGbW04c2tKcV9KYnRmWVd0ZVpLOWVYM3lTeFZjeW5aY0wwYnJHSmtnbHY5MmxVU2V2ekV5ZkZudHVVY2R0Wk5sSGJ2VVZqel9xemtjYVdRSjN1STgwS1gzcE0yNlZkMl95UHlkRE9ZOTdqTlBqY29EWWw0VXd6UERIbGVvd3pJTk9YRm5IcWs?oc=5",
+      "title": "Bank of Japan raises its key interest rate to a three-decade high of 1%, citing inflation",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbHNSZXhfNnZtZDR0ZmJmNlJmRmZNZGVxazZWMTR2R0Zjc1JGdFRGRk5DNll2NDR0SzFGdGFYVXptazd3cTNPam92NHdtOHJvSEpoeEdlbXNGcHhITy1CZkpqTTBRZVR0bUpLLTI3WFZEVTdnZ0g5U3piblZrQU9fSUFvdkNPdjZQdGtGOGFfWTdkTEhINjVGOGVMcw?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-15T21:21:00+00:00",
-      "summary": "Trump celebrates 80th birthday with an Iran deal and UFC cage fights at the White House AP News",
-      "category": "politics",
-      "score": 4.626
-    },
-    {
-      "title": "Explore JPL to Take Place Oct. 10, 11",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/",
-      "source": "NASA",
-      "published_at": "2026-06-16T00:34:34+00:00",
-      "summary": "Celebrating its 90th anniversary this year, NASA’s Jet Propulsion Laboratory invites the public to its campus at the base of the San Gabriel Mountains in Southern California for an open-house event, Explore JPL. On Oct. 10 and 11, from 9:30 a.m. to 4 p.m. PDT, visitors will get t",
-      "category": "science",
-      "score": 4.581
+      "published_at": "2026-06-16T04:40:00+00:00",
+      "summary": "Bank of Japan raises its key interest rate to a three-decade high of 1%, citing inflation AP News",
+      "category": "finance",
+      "score": 5.669
     }
   ],
   "hero_history": [
+    "Ukraine",
     "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI",
     "Nvidia to raise $20 billion, source says, in first corporate bond sale in five years",
     "UK to ban social media for under-16s",
     "Iran war",
     "Donald Trump turns 80 and celebrates with UFC cage fighting on the White House lawn",
     "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models",
-    "These 4 Artificial Intelligence Stocks Have Room to Run Thanks to Anthropic's New Fable Model",
-    "Iran war"
+    "These 4 Artificial Intelligence Stocks Have Room to Run Thanks to Anthropic's New Fable Model"
   ]
 }

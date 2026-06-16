@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-16T14:08:40.422938+00:00",
+  "updated": "2026-06-16T19:27:22.521850+00:00",
   "hero": {
-    "title": "SoftBank launches cybersecurity product based on OpenAI models",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1ocVVhVVB1b2tINGl5UzAxNTRMRnVxQkcyQzA2VG9UeWVFMHUzX0prZ0V3YU1qNjE3NFZKR0d2WG5pUmdyc3VSa0E1TGRXc1d6LUkyQWM0WlVmM3c5ajRLYjVuUEFJRmpPWHZ2N2c5LU5PZC00LVJvc3o0NzVmai1wZC1IMGhMRkExbTAwYkltOFM3VUlSQ0hUemN3b05KZ25HUHBmclBLcFA0N01uZFVaVHBHdUpSQmc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-16T09:47:39+00:00",
-    "summary": "SoftBank launches cybersecurity product based on OpenAI models Reuters",
-    "category": "tech",
-    "score": 7.311
+    "title": "Webb & Hubble reveal relic of our galaxy’s formation",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation",
+    "source": "ESA",
+    "published_at": "2026-06-16T17:15:00+00:00",
+    "summary": "Researchers have confirmed a new class of objects within our Milky Way galaxy: survivors called 'bulge fossil fragments.' Terzan 5 is the prototype of these remnants of our galaxy's early formation. Using the NASA/ESA/CSA James Webb Space Telescope and the NASA/ESA Hubble Space T",
+    "category": "science",
+    "score": 5.413
   },
   "items": [
     {
-      "title": "Nvidia’s Huang pledges AI will boost manufacturing jobs. A test will come in Texas",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV29DNFB5S19MZXh2Y3l6Ry1vVmM3Z3hwdm1nSFlBRDFobmNjSVRORzloTU94SmNjTmpPTk1KNFpYNmhIWjFfcVhCZlg2X2pNb0NYXzV5bFhOdGd0VEM1S0p1VzhId29vTkhER3lnRm9pSXduQkh2VjJxY2h2eFoza0ZzNG9EOEpubWpuRWlhcEFETndvOFUtMkFkTUZYS3k0a0g3cmtxZFo?oc=5",
+      "title": "Russian artist critical of Kremlin shot dead in Poland",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXRFSEFoOVdnbkJZZ0sydThVc2xZWWFkaGZ2aDFVZ1doZUJ2Q3dBWmpETFRxT01icXYwUFNnUzFiekh3c19XMDdaSm1GNG5zTmRLbEV1dnZVUFZJcldtVW1zT0N0NEZkUlBxa1ZMQUlHN21BX0Vkcm9CY3p5OGpKeGRjMndBdm5abVhkRnp4b2RDOUo4?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-16T17:17:43+00:00",
+      "summary": "Russian artist critical of Kremlin shot dead in Poland Reuters",
+      "category": "conflicts",
+      "score": 5.031
+    },
+    {
+      "title": "Oil prices fall below $80 per barrel, while US stocks drift",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3RrandZeW9uNEJna2RmSTh1LUNZR0R6bjdLOS1ZeEJsQTY1ckdBR3pVOHVPX3pmNHBOTU9JZC1IZ1k3cHBVa251UUpOQlItTW9pajVlOUlPNVhkSk0zc0RqaVIyems0VUxjM2RTb3lnUFE1WDRtMTZzUnY2TjRWby12clVTNlh6VWEyekZwZ2tvQQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-16T13:03:00+00:00",
-      "summary": "Nvidia’s Huang pledges AI will boost manufacturing jobs. A test will come in Texas AP News",
-      "category": "tech",
-      "score": 6.312
+      "published_at": "2026-06-16T18:02:00+00:00",
+      "summary": "Oil prices fall below $80 per barrel, while US stocks drift AP News",
+      "category": "resources",
+      "score": 5.023
+    },
+    {
+      "title": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
+      "url": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/",
+      "source": "NASA",
+      "published_at": "2026-06-16T17:15:00+00:00",
+      "summary": "Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how galaxies like our own form and evolve ov",
+      "category": "science",
+      "score": 4.968
     },
     {
       "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU9UVU0xalpEMWRiaWd2TmRycmtVR0x4aXhhOUFEaTZpbzFRY3l0YzRqb0NxcVZDa2NDX3NscUJfeDNrbkh0bXA4OXNtaEFCU0t0X0w3Q2lfMDNlWUY2SDhDMnRrTVdVUENVQnNmWXRqZ0sydXBVVmU3aEExX3NKOEdaUFo5b0FFWUZTRl9Ia09QQy1IUlBpNW5FaUVUd1lKajRnXy1B?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-16T12:56:00+00:00",
+      "published_at": "2026-06-16T18:59:00+00:00",
       "summary": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon AP News",
       "category": "conflicts",
-      "score": 4.77
-    },
-    {
-      "title": "Russian artist critical of Kremlin shot dead in Poland",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXRFSEFoOVdnbkJZZ0sydThVc2xZWWFkaGZ2aDFVZ1doZUJ2Q3dBWmpETFRxT01icXYwUFNnUzFiekh3c19XMDdaSm1GNG5zTmRLbEV1dnZVUFZJcldtVW1zT0N0NEZkUlBxa1ZMQUlHN21BX0Vkcm9CY3p5OGpKeGRjMndBdm5abVhkRnp4b2RDOUo4?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-16T10:02:24+00:00",
-      "summary": "Russian artist critical of Kremlin shot dead in Poland Reuters",
-      "category": "conflicts",
-      "score": 4.64
-    },
-    {
-      "title": "Oil drops about 4% to three-month low as markets weigh US-Iran deal",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENYY18wZzkzMHJkZWJ5NFh3OVNGUGZtTHlIalhVRTJ3QmlVYXJ6dHJrd3EyUGN2RkFILXlzS2JzRlZMV1FUeE14Nm13TnJXMkhkUW1UZFhyUHd2TXkzelJjdndCSjJxa3BJUDBnT3pHMTNkVGpwekFENUtTdExyVlUwV1V0eUlMaHhzUWRTSnpnY1RLbGpzOEFNdHp6ajFwUUtTYjFuZTBEZUQ3N0RIX0w2TTV6OXpHazRrRg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-16T13:10:15+00:00",
-      "summary": "Oil drops about 4% to three-month low as markets weigh US-Iran deal Reuters",
-      "category": "finance",
-      "score": 4.265
+      "score": 4.919
     }
   ],
   "hero_history": [
+    "Webb & Hubble reveal relic of our galaxy’s formation",
     "SoftBank launches cybersecurity product based on OpenAI models",
     "Ukraine",
     "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI",
     "Nvidia to raise $20 billion, source says, in first corporate bond sale in five years",
     "UK to ban social media for under-16s",
     "Iran war",
-    "Donald Trump turns 80 and celebrates with UFC cage fighting on the White House lawn",
-    "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models"
+    "Donald Trump turns 80 and celebrates with UFC cage fighting on the White House lawn"
   ]
 }

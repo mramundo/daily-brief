@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-15T19:32:54.990930+00:00",
+  "updated": "2026-06-16T01:31:42.500062+00:00",
   "hero": {
-    "title": "Nvidia to raise $20 billion, source says, in first corporate bond sale in five years",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3J6OUR4dG9YbWJEWmwzYkQ1SVpMOHFiQU9PMmYweDJ6N0R0dUhmNmt6THBkdlFxMHhUcDA1OFFwSktsNUQ4c3N2WW9ZU0J1YTZHYk95RVc0c25mV3Bqd0kyVEJNMUQ1U2FvSUt4Z1N2a1BMTXJJRHRyWnJRV2J4cGY4NktrTVgzdHVQWXBGZ3hDSnAzb3RJR0FWUXRjUEdkejJXMTh3dWhINWFrQ3RtMmxINTVrOERqVGctZXJCVF9RRDd2OEtWdg?oc=5",
+    "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
     "source": "Reuters",
-    "published_at": "2026-06-15T17:52:11+00:00",
-    "summary": "Nvidia to raise $20 billion, source says, in first corporate bond sale in five years Reuters",
+    "published_at": "2026-06-15T20:28:10+00:00",
+    "summary": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI Reuters",
     "category": "tech",
-    "score": 7.004
+    "score": 6.242
   },
   "items": [
     {
-      "title": "US saw risk of Anthropic models being diverted to foreign military intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2lIMTU5TnZBOUVFUTVGeXd6OXJLQ0tCSU5FREdYcVBtMll2SzVVckFpYU5hNEljQU45dmozMTBwM2JtWFJFVTRfbDFYdVJSbTZSbEtMazRLNnZuM194VEhlTmxQRS1IX0lJTlJXaVpFbHhvTkt1Q3pvdW0yNVVXNTlobUNScUhabklSNlRoOGJwN0w1d0FSV1lwVGRmWTRDQ05IZnRPUjlWTF9sRVNwU3JkTU9xN2ZuRnc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-15T18:15:56+00:00",
-      "summary": "US saw risk of Anthropic models being diverted to foreign military intelligence Reuters",
+      "title": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORlpJcDI3RUdXN2kwd2NjVHNDTUUzUzJ3M002SVBpV3oxZmZtNXJlSmt0anE0SFQ3NVFMRS1zOU9xUUFOblNfUDYwZWV1N0V6Vng3aTloNTRiZHN0akNBWjR4QjJsT2xaUlNqek5TNFczcFAydVV3TkJiQXZibjA5T2JnQWhjS1FSTGc5NkhKWjlTcDBzcmpjaA?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-15T19:55:00+00:00",
+      "summary": "Cybersecurity executives urge the Trump administration to ease restrictions on Anthropic AI models AP News",
       "category": "tech",
-      "score": 6.262
+      "score": 6.1
     },
     {
-      "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
-      "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
+      "title": "Iran war live: Trump says MoU with Tehran signed electronically",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-16T00:00:00+00:00",
+      "summary": "Backlash to US-Iran deal grows in Israel as Iranian vessels pass through Strait of Hormuz after US lifts naval blockade.",
+      "category": "conflicts",
+      "score": 4.856
+    },
+    {
+      "title": "Trump celebrates 80th birthday with an Iran deal and UFC cage fights at the White House",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHdQdXJGbW04c2tKcV9KYnRmWVd0ZVpLOWVYM3lTeFZjeW5aY0wwYnJHSmtnbHY5MmxVU2V2ekV5ZkZudHVVY2R0Wk5sSGJ2VVZqel9xemtjYVdRSjN1STgwS1gzcE0yNlZkMl95UHlkRE9ZOTdqTlBqY29EWWw0VXd6UERIbGVvd3pJTk9YRm5IcWs?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-15T21:21:00+00:00",
+      "summary": "Trump celebrates 80th birthday with an Iran deal and UFC cage fights at the White House AP News",
+      "category": "politics",
+      "score": 4.626
+    },
+    {
+      "title": "Explore JPL to Take Place Oct. 10, 11",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/",
       "source": "NASA",
-      "published_at": "2026-06-15T17:30:00+00:00",
-      "summary": "Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA. Biological and materials samples, along with tested hardwar",
+      "published_at": "2026-06-16T00:34:34+00:00",
+      "summary": "Celebrating its 90th anniversary this year, NASA’s Jet Propulsion Laboratory invites the public to its campus at the base of the San Gabriel Mountains in Southern California for an open-house event, Explore JPL. On Oct. 10 and 11, from 9:30 a.m. to 4 p.m. PDT, visitors will get t",
       "category": "science",
-      "score": 5.001
-    },
-    {
-      "title": "Trump's critical minerals pricing plan faces skeptical G7, divided industry",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUUJoZ2owWVMteUg4ZWhBTU1EMHdoUDlLUW5pZUFCMHAzS2pzakVrTHZienFFaFFycEFZY0k3Vm91cXRJRjNfWHZvNlM4TGVjSUNLbmhDT1phRjJ2YVlKNU5ab0dUNzlZSDZ1SkN3UGFEczdpNHNWVHg1QzZPOWp2SEppU1BwMFBJSXpYY3ZqN1FqWWlMMTZ4QW05eG1FZ245UG5HbnI1MEpna0J3X1cwSWRsaDJfVnpDUmFXV3MyT29Ydw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-15T06:05:00+00:00",
-      "summary": "Trump's critical minerals pricing plan faces skeptical G7, divided industry Reuters",
-      "category": "resources",
-      "score": 4.857
-    },
-    {
-      "title": "Cash per share of Appia Rare Earths & Uranium Corp – DUS:A0I0",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMFpSYk5KQ0UzZ2tmR3lJeUctYUZ1Rno2a0VVdWY5Y2tHX1hZNVZ6NHkzamRDOE1HVlhVOUs4WDdIUGhQc0RHTVB1U3I1SnYtNjZtbHhvUlQxWXVXTTdsclU5MTNGaWtjUjQ0WDNHMXNCYXFZWWtuM2tzZE9lTHBPd2x5SnV0Z0FndHgyaGx1OXd6R21WU2RvTA?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-06-15T18:08:51+00:00",
-      "summary": "Cash per share of Appia Rare Earths & Uranium Corp – DUS:A0I0 TradingView",
-      "category": "resources",
-      "score": 4.362
+      "score": 4.581
     }
   ],
   "hero_history": [
+    "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI",
     "Nvidia to raise $20 billion, source says, in first corporate bond sale in five years",
     "UK to ban social media for under-16s",
     "Iran war",
     "Donald Trump turns 80 and celebrates with UFC cage fighting on the White House lawn",
     "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models",
     "These 4 Artificial Intelligence Stocks Have Room to Run Thanks to Anthropic's New Fable Model",
-    "Iran war",
-    "Amazon voiced concerns about Anthropic AI models before US crackdown, source says"
+    "Iran war"
   ]
 }

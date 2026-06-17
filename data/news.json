@@ -1,15 +1,33 @@
 {
-  "updated": "2026-06-17T01:30:10.028072+00:00",
+  "updated": "2026-06-17T08:12:53.487676+00:00",
   "hero": {
-    "title": "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJEWURVbXBpUTM4S28zR3NTNEVpRndlM3hSdUMzRURzb004bEVrcHlUTC1aMWVhUmxPT3hUVEFhR1B4NUY3VEJqT29wMzdOSUZRQUQyRXgtZUxTSEoteXAyR0Y3S2sxa2FFOWphMjRFbzBqUHZnbEZvNXFOMEkya2RzZGo3dmtWaVc1eDFrSkN2MGpNWXJZUFlOa3I?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-16T22:59:00+00:00",
-    "summary": "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI AP News",
-    "category": "tech",
-    "score": 5.948
+    "title": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
+    "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-17T07:24:12+00:00",
+    "summary": "Iran warns of a 'harsh response' as Lebanon attacks test the US deal and strain Trump-Netanyahu ties.",
+    "category": "conflicts",
+    "score": 6.333
   },
   "items": [
+    {
+      "title": "G7 leaders draft plan to reduce dependence on China for critical minerals",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlRWZjMGFGVklJWTRFWExTQUdOcm9QTk9Bb0xOMXZ1OU54b3U0RkJ2OGFLcG80M21KNE5DSnNGY21RRHh2SWdybWtXdjRIU3AwT1NaMVoyQzJPc0lvYWRCRno5U1E?oc=5",
+      "source": "mezha.net",
+      "published_at": "2026-06-17T07:17:04+00:00",
+      "summary": "G7 leaders draft plan to reduce dependence on China for critical minerals mezha.net",
+      "category": "resources",
+      "score": 5.731
+    },
+    {
+      "title": "Russian drone strikes residential building in Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/russian-drone-strikes-residential-building-in-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-17T03:02:05+00:00",
+      "summary": "A suspected Russian drone attack on a residential building in Ukraine has injured at least seven people.",
+      "category": "conflicts",
+      "score": 4.804
+    },
     {
       "title": "Nvidia’s Huang pledges AI will boost manufacturing jobs. A test will come in Texas",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV29DNFB5S19MZXh2Y3l6Ry1vVmM3Z3hwdm1nSFlBRDFobmNjSVRORzloTU94SmNjTmpPTk1KNFpYNmhIWjFfcVhCZlg2X2pNb0NYXzV5bFhOdGd0VEM1S0p1VzhId29vTkhER3lnRm9pSXduQkh2VjJxY2h2eFoza0ZzNG9EOEpubWpuRWlhcEFETndvOFUtMkFkTUZYS3k0a0g3cmtxZFo?oc=5",
@@ -17,44 +35,26 @@
       "published_at": "2026-06-16T22:06:00+00:00",
       "summary": "Nvidia’s Huang pledges AI will boost manufacturing jobs. A test will come in Texas AP News",
       "category": "tech",
-      "score": 5.733
+      "score": 4.334
     },
     {
-      "title": "Israeli drone strikes kill at least 4 in southern Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGFUQ2RsbHd5S0t1bDduelQ3N2JCRDdjWDR0OEdWYzNKcm9GRGdHVHFjSklvUGRCa29tZU9jQV90NzR6bVVtOGJNaVdwUkJBM2QxTEwwQW9DNDBjNE9DcTZhdE9YaHE2alA3WkowNUVrUGZnVTlYNldtTDc2M201YnZrNFNiLThiLW03Ui13eEpDZDZidW5ZOS02LW5IWTJVNzVpcWZQUlU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-16T16:53:06+00:00",
-      "summary": "Israeli drone strikes kill at least 4 in southern Lebanon Reuters",
-      "category": "conflicts",
-      "score": 5.382
-    },
-    {
-      "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
-      "source": "NASA",
-      "published_at": "2026-06-16T21:15:00+00:00",
-      "summary": "One well-done gas giant, coming right up! That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star. The resear",
-      "category": "science",
-      "score": 5.133
-    },
-    {
-      "title": "Iran says the initial deal to end the war with the US requires Israel to withdraw from Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU9UVU0xalpEMWRiaWd2TmRycmtVR0x4aXhhOUFEaTZpbzFRY3l0YzRqb0NxcVZDa2NDX3NscUJfeDNrbkh0bXA4OXNtaEFCU0t0X0w3Q2lfMDNlWUY2SDhDMnRrTVdVUENVQnNmWXRqZ0sydXBVVmU3aEExX3NKOEdaUFo5b0FFWUZTRl9Ia09QQy1IUlBpNW5FaUVUd1lKajRnXy1B?oc=5",
+      "title": "Artificial intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-17T00:28:00+00:00",
-      "summary": "Iran says the initial deal to end the war with the US requires Israel to withdraw from Lebanon AP News",
-      "category": "conflicts",
-      "score": 4.805
+      "published_at": "2026-06-17T08:06:23+00:00",
+      "summary": "Artificial intelligence AP News",
+      "category": "tech",
+      "score": 4.281
     }
   ],
   "hero_history": [
+    "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
     "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI",
     "Webb & Hubble reveal relic of our galaxy’s formation",
     "SoftBank launches cybersecurity product based on OpenAI models",
     "Ukraine",
     "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI",
     "Nvidia to raise $20 billion, source says, in first corporate bond sale in five years",
-    "UK to ban social media for under-16s",
-    "Iran war"
+    "UK to ban social media for under-16s"
   ]
 }

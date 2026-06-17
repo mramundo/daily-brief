@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-16T19:27:22.521850+00:00",
+  "updated": "2026-06-17T01:30:10.028072+00:00",
   "hero": {
-    "title": "Webb & Hubble reveal relic of our galaxy’s formation",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_reveal_relic_of_our_galaxy_s_formation",
-    "source": "ESA",
-    "published_at": "2026-06-16T17:15:00+00:00",
-    "summary": "Researchers have confirmed a new class of objects within our Milky Way galaxy: survivors called 'bulge fossil fragments.' Terzan 5 is the prototype of these remnants of our galaxy's early formation. Using the NASA/ESA/CSA James Webb Space Telescope and the NASA/ESA Hubble Space T",
-    "category": "science",
-    "score": 5.413
+    "title": "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTHJEWURVbXBpUTM4S28zR3NTNEVpRndlM3hSdUMzRURzb004bEVrcHlUTC1aMWVhUmxPT3hUVEFhR1B4NUY3VEJqT29wMzdOSUZRQUQyRXgtZUxTSEoteXAyR0Y3S2sxa2FFOWphMjRFbzBqUHZnbEZvNXFOMEkya2RzZGo3dmtWaVc1eDFrSkN2MGpNWXJZUFlOa3I?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-16T22:59:00+00:00",
+    "summary": "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI AP News",
+    "category": "tech",
+    "score": 5.948
   },
   "items": [
     {
-      "title": "Russian artist critical of Kremlin shot dead in Poland",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXRFSEFoOVdnbkJZZ0sydThVc2xZWWFkaGZ2aDFVZ1doZUJ2Q3dBWmpETFRxT01icXYwUFNnUzFiekh3c19XMDdaSm1GNG5zTmRLbEV1dnZVUFZJcldtVW1zT0N0NEZkUlBxa1ZMQUlHN21BX0Vkcm9CY3p5OGpKeGRjMndBdm5abVhkRnp4b2RDOUo4?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-16T17:17:43+00:00",
-      "summary": "Russian artist critical of Kremlin shot dead in Poland Reuters",
-      "category": "conflicts",
-      "score": 5.031
-    },
-    {
-      "title": "Oil prices fall below $80 per barrel, while US stocks drift",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3RrandZeW9uNEJna2RmSTh1LUNZR0R6bjdLOS1ZeEJsQTY1ckdBR3pVOHVPX3pmNHBOTU9JZC1IZ1k3cHBVa251UUpOQlItTW9pajVlOUlPNVhkSk0zc0RqaVIyems0VUxjM2RTb3lnUFE1WDRtMTZzUnY2TjRWby12clVTNlh6VWEyekZwZ2tvQQ?oc=5",
+      "title": "Nvidia’s Huang pledges AI will boost manufacturing jobs. A test will come in Texas",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV29DNFB5S19MZXh2Y3l6Ry1vVmM3Z3hwdm1nSFlBRDFobmNjSVRORzloTU94SmNjTmpPTk1KNFpYNmhIWjFfcVhCZlg2X2pNb0NYXzV5bFhOdGd0VEM1S0p1VzhId29vTkhER3lnRm9pSXduQkh2VjJxY2h2eFoza0ZzNG9EOEpubWpuRWlhcEFETndvOFUtMkFkTUZYS3k0a0g3cmtxZFo?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-16T18:02:00+00:00",
-      "summary": "Oil prices fall below $80 per barrel, while US stocks drift AP News",
-      "category": "resources",
-      "score": 5.023
+      "published_at": "2026-06-16T22:06:00+00:00",
+      "summary": "Nvidia’s Huang pledges AI will boost manufacturing jobs. A test will come in Texas AP News",
+      "category": "tech",
+      "score": 5.733
     },
     {
-      "title": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
-      "url": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/",
+      "title": "Israeli drone strikes kill at least 4 in southern Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcGFUQ2RsbHd5S0t1bDduelQ3N2JCRDdjWDR0OEdWYzNKcm9GRGdHVHFjSklvUGRCa29tZU9jQV90NzR6bVVtOGJNaVdwUkJBM2QxTEwwQW9DNDBjNE9DcTZhdE9YaHE2alA3WkowNUVrUGZnVTlYNldtTDc2M201YnZrNFNiLThiLW03Ui13eEpDZDZidW5ZOS02LW5IWTJVNzVpcWZQUlU?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-16T16:53:06+00:00",
+      "summary": "Israeli drone strikes kill at least 4 in southern Lebanon Reuters",
+      "category": "conflicts",
+      "score": 5.382
+    },
+    {
+      "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
       "source": "NASA",
-      "published_at": "2026-06-16T17:15:00+00:00",
-      "summary": "Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how galaxies like our own form and evolve ov",
+      "published_at": "2026-06-16T21:15:00+00:00",
+      "summary": "One well-done gas giant, coming right up! That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star. The resear",
       "category": "science",
-      "score": 4.968
+      "score": 5.133
     },
     {
-      "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon",
+      "title": "Iran says the initial deal to end the war with the US requires Israel to withdraw from Lebanon",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU9UVU0xalpEMWRiaWd2TmRycmtVR0x4aXhhOUFEaTZpbzFRY3l0YzRqb0NxcVZDa2NDX3NscUJfeDNrbkh0bXA4OXNtaEFCU0t0X0w3Q2lfMDNlWUY2SDhDMnRrTVdVUENVQnNmWXRqZ0sydXBVVmU3aEExX3NKOEdaUFo5b0FFWUZTRl9Ia09QQy1IUlBpNW5FaUVUd1lKajRnXy1B?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-16T18:59:00+00:00",
-      "summary": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon AP News",
+      "published_at": "2026-06-17T00:28:00+00:00",
+      "summary": "Iran says the initial deal to end the war with the US requires Israel to withdraw from Lebanon AP News",
       "category": "conflicts",
-      "score": 4.919
+      "score": 4.805
     }
   ],
   "hero_history": [
+    "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI",
     "Webb & Hubble reveal relic of our galaxy’s formation",
     "SoftBank launches cybersecurity product based on OpenAI models",
     "Ukraine",
     "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI",
     "Nvidia to raise $20 billion, source says, in first corporate bond sale in five years",
     "UK to ban social media for under-16s",
-    "Iran war",
-    "Donald Trump turns 80 and celebrates with UFC cage fighting on the White House lawn"
+    "Iran war"
   ]
 }

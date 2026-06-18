@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-18T13:29:01.705010+00:00",
+  "updated": "2026-06-18T19:05:20.068423+00:00",
   "hero": {
-    "title": "OPEC sticks to robust oil demand outlook, sees no peak to 2050",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2FSeGlfTk5DcjBCRW1UYURSRWNLd2U4cnFWYWphR0g4ekNFQUdTX3MzazJqYzZWUmNON3B5LTR3RUNyTDd5T24xNlJPUG1ZWDB0LWpQbWR2d19seDVybVNMd1FSWnVLeUxPUzlQa3l2Mm9WWlc0d1FBeGtwZld3UG9oYm9ZdDZUdWJZTXRLSHJmVF9wVmRXUUdfOVJMSEdJZ2Y4bzlLX2FFSms?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-18T12:09:55+00:00",
-    "summary": "OPEC sticks to robust oil demand outlook, sees no peak to 2050 Reuters",
-    "category": "resources",
-    "score": 8.085
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "source": "TechCrunch",
+    "published_at": "2026-06-18T18:22:13+00:00",
+    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "category": "tech",
+    "score": 10.777
   },
   "items": [
     {
-      "title": "Google Gemini co-lead Noam Shazeer leaving for OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0cmQ2Smp4UUYxTTlwc0pBcVBRd2w5blBqSkJQc1diYkozYXFKamI4QlBkOXdaMC1fQm1qbExjZUd2aGU2c0Q5NC1iQS12WmdYN1F3OGE2c1U3UVhQM2NseXNTYVdpZw?oc=5",
-      "source": "qz.com",
-      "published_at": "2026-06-18T12:28:30+00:00",
-      "summary": "Google Gemini co-lead Noam Shazeer leaving for OpenAI qz.com",
+      "title": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3VCZ1BuMy1ydHA5U0xMbUZIdEUzZDh0dXozVVBRSlJSbHFyWHFtQmVPbWFaeVhXODlMamhmLVJvZ2JmWlBoSzdWTnJfZFlzbU9jNFpqSHVYOU9Xd3h5RFIta2syS2F5d281TV9WNjRCV3EyMzdGY2x2eUozNkxvbFFqYWxWTzMtSWlpdlEwa3VUWWlaTWJfT2VyNC1zQjlLNmNSbGNvZlVfUk5TN2pVQThHajkwUQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-06-18T15:06:06+00:00",
+      "summary": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia Bloomberg.com",
       "category": "tech",
-      "score": 7.998
+      "score": 5.222
     },
     {
-      "title": "Israel issues new Lebanon occupation map, in talks with US over deployment",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkdWQjYzX0NOaGtfVGdEdkNrNWhjYmN2V2VfWHJXTm5jWlpueEV6ekFiTHN0Nm1IaHJYMndKdTAyLTZibUtwcmlLbk5HUGhJR2w0ZFkxOHpEaWR3WThRNF80OHg4a1NUa3diajFhNEk3cU1aWV8xSHJNMjRJNjdNa2h6RnJ5RG5LTXFIQXRSVjNZR1FvemoxZzBOdWIydmZtZ3dXNlZKVVFnc0RNWW9QbE5PQWRRYXk2ZHlmRmZrWUZlU1llTjJ6S3ZJd0FYZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-18T12:27:44+00:00",
-      "summary": "Israel issues new Lebanon occupation map, in talks with US over deployment Reuters",
+      "title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnJLLU9lQkl6M1NlTnlwMVNFYllySjZfU3FJdElaRTVZYjZqeUlnT0lQS2VPSGpJdW5sWktCTHF0NXJrRTVobFNvN01zREI5dDVlX0RtQmhnQ0FTWkFybXFGU1ZSMFRjRVNTXzlFdlRVRENZS3hoaHZPZmE4dHRNeTBVVVhpblVQczd2Q3JtYnQ4T1dZZ0NxWkd3d3dWdU9xM2N4QVRsemI?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-18T16:53:00+00:00",
+      "summary": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital AP News",
       "category": "conflicts",
-      "score": 6.331
+      "score": 5.022
     },
     {
-      "title": "Here's What SpaceX's Record Stock Market Debut Can Tell Us About OpenAI and Anthropic's Planned IPOs",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNldxTEpKVFpSR2VwN0ZyVHU2Z0xycjFpWkJ3a3llZnUxNVhfRGJxdHBtUVJzSmZHNlh1dzVUa2ZSTUlNOXVFdndOT0N5cjJPTldPX3R4M1BSZFhHQ1VNNHY3NEhiQTRMVmFwNTdvS3Vnc1I2WmgwT2pfbXp6TkdrZlF2LWNfaXoyUjl1QTJ3bGZ1UkM1S2FRbw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "2026-06-18T12:37:32+00:00",
-      "summary": "Here's What SpaceX's Record Stock Market Debut Can Tell Us About OpenAI and Anthropic's Planned IPOs The Motley Fool",
-      "category": "tech",
-      "score": 5.949
-    },
-    {
-      "title": "Russian attacks could cut Ukraine grain exports by a third",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0FIaWZ2NkJHbHdNdHplV1NLQWtCUERzSjRjUlZ6NGhaTi1Udzc1TnNKNFJReXVoU0pnZHRaT3NmU0hXR3VFWlNjMGFEV0tMSkF1MkJuLURUeWRfbGQ1OVdIQW80TVhlb0p6aDdZU05NTDB1dWVMOEV0SUNJTjZMU0dUeFMtVUFzOGx4SWRXR3k3MWN2aGxLa25pN3Y1NjQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-18T10:32:42+00:00",
-      "summary": "Russian attacks could cut Ukraine grain exports by a third Reuters",
+      "title": "Israel kills at least three Palestinians in Gaza City drone strike",
+      "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-18T16:50:58+00:00",
+      "summary": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
       "category": "conflicts",
-      "score": 5.845
+      "score": 4.994
+    },
+    {
+      "title": "NASA Testing Advanced Capabilities for Moon, Mars Rovers",
+      "url": "https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/",
+      "source": "NASA",
+      "published_at": "2026-06-18T18:19:21+00:00",
+      "summary": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain",
+      "category": "science",
+      "score": 4.616
     }
   ],
   "hero_history": [
+    "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
     "OPEC sticks to robust oil demand outlook, sees no peak to 2050",
     "JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports",
     "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
     "G7 sets up critical minerals alliance, platform to cut reliance on China",
     "US signals to return of sanctions on Russia as G7 unites around Ukraine",
     "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-    "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI",
-    "Webb & Hubble reveal relic of our galaxy’s formation"
+    "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI"
   ]
 }

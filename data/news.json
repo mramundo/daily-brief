@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-19T01:33:15.212391+00:00",
+  "updated": "2026-06-19T08:14:27.428243+00:00",
   "hero": {
-    "title": "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWxRY2ZwTklKSnpiaGg3QVJFZ21wUk5CT3VMaF92S0ROaW1WS09RYmM5YzEtMzVwRmpCWDdUT20wTFRncENqek1YQk83ekNhM1R2aUU3UzZRZi1HQ0hwVVdxS2VsMmxKS2lLb3d3YmloTkZkOTNTNFRxS2RjbjhpVUdDYmgzcVI0S1B4cDF6UUxFQTlaaG9rcGxMVTM5VWlhcWg3V2NhSVhCeF9lZzdVMUtHVk9aUzhwalE?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-18T19:53:43+00:00",
-    "summary": "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise Reuters",
-    "category": "tech",
-    "score": 6.088
+    "title": "Thousands killed in US-Israeli war on Iran",
+    "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+    "source": "but experts say true total may never be known",
+    "published_at": "2026-06-19T05:33:59+00:00",
+    "summary": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
+    "category": "conflicts",
+    "score": 5.516
   },
   "items": [
     {
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-18T19:59:22+00:00",
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "title": "Ukraine urges EU to pressure Russia to end war before winter",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/ukraine-urges-eu-to-pressure-russia-to-end-war-before-winter?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-19T03:55:30+00:00",
+      "summary": "Ukrainian President Volodymyr Zelenskyy say his country will need help if the war with Russia continues into the winter.",
+      "category": "conflicts",
+      "score": 5.473
+    },
+    {
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source": "The Verge",
+      "published_at": "2026-06-19T04:49:33+00:00",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former Op",
       "category": "tech",
-      "score": 5.449
+      "score": 4.584
     },
     {
-      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
-      "url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
-      "source": "NASA",
-      "published_at": "2026-06-18T21:33:07+00:00",
-      "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in sp",
-      "category": "science",
-      "score": 5.186
+      "title": "Early Users of Anthropic Mythos Still Have Access After US Order",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVHWFltVTdFbWV0dVAyemdlSkF6TEpKc0I3SmJDYUdyeVdYbW91MkplMEE2UGhKUDViNDJidXV2YlBEM0Q4bVE0blJVUmlaYkRXaGR2YlVUVmg5SFBOdFo4ME1FWkkyUEVhY2h1endQVkNJa3JNeXhCYlM1anZfOUJXTEpFTU04eDJJUXZEcVZQT3RKZ3dKVWpPZmV0bnNHWWttLWdYenpkRU1vSFBLWVFwUzAzdw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-06-19T03:36:00+00:00",
+      "summary": "Early Users of Anthropic Mythos Still Have Access After US Order Bloomberg",
+      "category": "tech",
+      "score": 4.31
     },
     {
-      "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
-      "source": "NASA",
-      "published_at": "2026-06-19T00:50:58+00:00",
-      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount",
-      "category": "science",
-      "score": 4.628
-    },
-    {
-      "title": "OPEC World Oil Outlook 2026: Key Projections and Investment Needs - News and Statistics",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMDFyZXRlcU1aX0h6QncyU3ZxbElfaE1TQVRiRWJqQTVsZmlFbzRZY3lNQWg1M20xTmZjdVRhSW9qYmwxckJfV1lPNE9Ed1VvdkhIY21aUW9lSXJaMURnckxSc1dLVlhjWWtwQ3Fzc3UzdW5TN3ZVSTFzQkZ2a0s3VnJRTGJjVmZwdW1nUHduMWtFN2VKcDk2dGFKTHFxUQ?oc=5",
-      "source": "IndexBox",
-      "published_at": "2026-06-19T00:52:00+00:00",
-      "summary": "OPEC World Oil Outlook 2026: Key Projections and Investment Needs - News and Statistics IndexBox",
-      "category": "resources",
-      "score": 4.494
+      "title": "Andy Burnham's election to parliament sets up bid to oust UK PM Starmer",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0NwcDlla0JKSXVMa0RBc0VpSzQ5NU1qYUFId21EcmxnOThnQWNEU0R5d09rOEd6Z0JWRFNycUVybDVqa3N3OXgxQ2dOS1JfNEZrbG4wZmVPYUcxWm1vSDUycUk5NU5jcGF5MjFBRWpBQlNYNkVpOTlKR0JXYnk5dkYzTFE3ZkRTejFpNmFVanZJeE5vX25rN0pmTmRvT2UzNmd4NG9MYnpLejBNckdXbDM4QkI1dw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-19T06:05:07+00:00",
+      "summary": "Andy Burnham's election to parliament sets up bid to oust UK PM Starmer Reuters",
+      "category": "politics",
+      "score": 3.931
     }
   ],
   "hero_history": [
+    "Thousands killed in US-Israeli war on Iran",
     "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
     "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
     "OPEC sticks to robust oil demand outlook, sees no peak to 2050",
     "JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports",
     "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
     "G7 sets up critical minerals alliance, platform to cut reliance on China",
-    "US signals to return of sanctions on Russia as G7 unites around Ukraine",
-    "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal"
+    "US signals to return of sanctions on Russia as G7 unites around Ukraine"
   ]
 }

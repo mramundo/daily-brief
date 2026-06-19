@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-19T08:14:27.428243+00:00",
+  "updated": "2026-06-19T13:27:21.553822+00:00",
   "hero": {
-    "title": "Thousands killed in US-Israeli war on Iran",
-    "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
-    "source": "but experts say true total may never be known",
-    "published_at": "2026-06-19T05:33:59+00:00",
-    "summary": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
+    "title": "Israeli military strikes in southern Lebanon in intense fighting as US-Iran talks postponed",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDdtMWZ0SDdDbThCNEFjb2p2aE5QVFhETEFOT0RyUG9MaHlta2VNWWpjWE1sOFNEM3pYOE9NYkhRM2x3d0hnYzRQZ2F6eG5zSl9aZEpHd0xaRFR6LTFfNHFKdFBWVXdZSTNMMVZOY3RaZmVjRVZ0T0ZYVEZvWU8xZDBtdk5OMGpMaFhOR3RKU3MyUHFQU3NmMzluUFlFaDBD?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-19T11:30:00+00:00",
+    "summary": "Israeli military strikes in southern Lebanon in intense fighting as US-Iran talks postponed AP News",
     "category": "conflicts",
-    "score": 5.516
+    "score": 6.089
   },
   "items": [
     {
-      "title": "Ukraine urges EU to pressure Russia to end war before winter",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/ukraine-urges-eu-to-pressure-russia-to-end-war-before-winter?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-19T03:55:30+00:00",
-      "summary": "Ukrainian President Volodymyr Zelenskyy say his country will need help if the war with Russia continues into the winter.",
+      "title": "Luca Guadagnino’s Sam Altman, OpenAI Film ‘Artificial’ Dropped by Amazon MGM Studios",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUpsTllGUUMtSnFLMGhfQVdmTkN3YnRkbTFQV0JHN0szQkhxMngyTFdqWXhtNWNuUWUtWDB4UlgyRlM5Vnk1Zzl1M3M0TXpjREY3MmxWOWw0RUhsTHJwNDZVamMxUnUzUU9jTzF5VHh5NVViR0QwLVNMS0l3bGZGVHo1VW5QRWgzenZCVlpPUC1USGI4aENGbkRrWTdUUVotZGluN1MtQUJiYko0cVlVYzZDaHpjQXM1X0tnQkdOVWU?oc=5",
+      "source": "The Hollywood Reporter",
+      "published_at": "2026-06-19T13:07:30+00:00",
+      "summary": "Luca Guadagnino’s Sam Altman, OpenAI Film ‘Artificial’ Dropped by Amazon MGM Studios The Hollywood Reporter",
+      "category": "tech",
+      "score": 5.321
+    },
+    {
+      "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-19T12:07:32+00:00",
+      "summary": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
       "category": "conflicts",
-      "score": 5.473
+      "score": 4.99
     },
     {
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "source": "The Verge",
-      "published_at": "2026-06-19T04:49:33+00:00",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former Op",
-      "category": "tech",
-      "score": 4.584
-    },
-    {
-      "title": "Early Users of Anthropic Mythos Still Have Access After US Order",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVHWFltVTdFbWV0dVAyemdlSkF6TEpKc0I3SmJDYUdyeVdYbW91MkplMEE2UGhKUDViNDJidXV2YlBEM0Q4bVE0blJVUmlaYkRXaGR2YlVUVmg5SFBOdFo4ME1FWkkyUEVhY2h1endQVkNJa3JNeXhCYlM1anZfOUJXTEpFTU04eDJJUXZEcVZQT3RKZ3dKVWpPZmV0bnNHWWttLWdYenpkRU1vSFBLWVFwUzAzdw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-06-19T03:36:00+00:00",
-      "summary": "Early Users of Anthropic Mythos Still Have Access After US Order Bloomberg",
-      "category": "tech",
-      "score": 4.31
-    },
-    {
-      "title": "Andy Burnham's election to parliament sets up bid to oust UK PM Starmer",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0NwcDlla0JKSXVMa0RBc0VpSzQ5NU1qYUFId21EcmxnOThnQWNEU0R5d09rOEd6Z0JWRFNycUVybDVqa3N3OXgxQ2dOS1JfNEZrbG4wZmVPYUcxWm1vSDUycUk5NU5jcGF5MjFBRWpBQlNYNkVpOTlKR0JXYnk5dkYzTFE3ZkRTejFpNmFVanZJeE5vX25rN0pmTmRvT2UzNmd4NG9MYnpLejBNckdXbDM4QkI1dw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-19T06:05:07+00:00",
-      "summary": "Andy Burnham's election to parliament sets up bid to oust UK PM Starmer Reuters",
+      "title": "'Political drama beckons' in the UK as Starmer vows to run in any leadership contest",
+      "url": "https://www.france24.com/en/political-drama-beckons-in-the-uk-as-starmer-vows-to-run-in-any-leadership-contest",
+      "source": "France 24",
+      "published_at": "2026-06-19T13:06:58+00:00",
+      "summary": "British Prime Minister Keir Starmer urged Labour members to unite after ‌the Makerfield ⁠by-election victory that returned ‌rival Andy Burnham to parliament, ⁠warning against infighting as pressure grows over the party ‌leadership. Burnham's election clears the way for his expect",
       "category": "politics",
-      "score": 3.931
+      "score": 4.635
+    },
+    {
+      "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
+      "url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-19T12:08:39+00:00",
+      "summary": "Ashton-in-Makerfield, a town few knew of until recently, has potentially chosen the UK's next prime minister.",
+      "category": "politics",
+      "score": 4.037
     }
   ],
   "hero_history": [
+    "Israeli military strikes in southern Lebanon in intense fighting as US-Iran talks postponed",
     "Thousands killed in US-Israeli war on Iran",
     "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
     "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
     "OPEC sticks to robust oil demand outlook, sees no peak to 2050",
     "JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports",
     "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
-    "G7 sets up critical minerals alliance, platform to cut reliance on China",
-    "US signals to return of sanctions on Russia as G7 unites around Ukraine"
+    "G7 sets up critical minerals alliance, platform to cut reliance on China"
   ]
 }

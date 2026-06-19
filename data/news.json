@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-18T19:05:20.068423+00:00",
+  "updated": "2026-06-19T01:33:15.212391+00:00",
   "hero": {
-    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-    "source": "TechCrunch",
-    "published_at": "2026-06-18T18:22:13+00:00",
-    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "title": "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWxRY2ZwTklKSnpiaGg3QVJFZ21wUk5CT3VMaF92S0ROaW1WS09RYmM5YzEtMzVwRmpCWDdUT20wTFRncENqek1YQk83ekNhM1R2aUU3UzZRZi1HQ0hwVVdxS2VsMmxKS2lLb3d3YmloTkZkOTNTNFRxS2RjbjhpVUdDYmgzcVI0S1B4cDF6UUxFQTlaaG9rcGxMVTM5VWlhcWg3V2NhSVhCeF9lZzdVMUtHVk9aUzhwalE?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-18T19:53:43+00:00",
+    "summary": "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise Reuters",
     "category": "tech",
-    "score": 10.777
+    "score": 6.088
   },
   "items": [
     {
-      "title": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3VCZ1BuMy1ydHA5U0xMbUZIdEUzZDh0dXozVVBRSlJSbHFyWHFtQmVPbWFaeVhXODlMamhmLVJvZ2JmWlBoSzdWTnJfZFlzbU9jNFpqSHVYOU9Xd3h5RFIta2syS2F5d281TV9WNjRCV3EyMzdGY2x2eUozNkxvbFFqYWxWTzMtSWlpdlEwa3VUWWlaTWJfT2VyNC1zQjlLNmNSbGNvZlVfUk5TN2pVQThHajkwUQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-06-18T15:06:06+00:00",
-      "summary": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia Bloomberg.com",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-18T19:59:22+00:00",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
       "category": "tech",
-      "score": 5.222
+      "score": 5.449
     },
     {
-      "title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnJLLU9lQkl6M1NlTnlwMVNFYllySjZfU3FJdElaRTVZYjZqeUlnT0lQS2VPSGpJdW5sWktCTHF0NXJrRTVobFNvN01zREI5dDVlX0RtQmhnQ0FTWkFybXFGU1ZSMFRjRVNTXzlFdlRVRENZS3hoaHZPZmE4dHRNeTBVVVhpblVQczd2Q3JtYnQ4T1dZZ0NxWkd3d3dWdU9xM2N4QVRsemI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-18T16:53:00+00:00",
-      "summary": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital AP News",
-      "category": "conflicts",
-      "score": 5.022
-    },
-    {
-      "title": "Israel kills at least three Palestinians in Gaza City drone strike",
-      "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-18T16:50:58+00:00",
-      "summary": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
-      "category": "conflicts",
-      "score": 4.994
-    },
-    {
-      "title": "NASA Testing Advanced Capabilities for Moon, Mars Rovers",
-      "url": "https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/",
+      "title": "NASA Mission to Study Space Weather Impacts of Earth’s Atmosphere",
+      "url": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
       "source": "NASA",
-      "published_at": "2026-06-18T18:19:21+00:00",
-      "summary": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain",
+      "published_at": "2026-06-18T21:33:07+00:00",
+      "summary": "NASA selected a mission concept to research how space weather and dynamics within Earth’s atmosphere influence the space environment and help improve prediction capabilities for impacts on crucial technology, such as GPS and low Earth orbit satellites, as well as astronauts in sp",
       "category": "science",
-      "score": 4.616
+      "score": 5.186
+    },
+    {
+      "title": "Curiosity Blog, Sols 4920-4926: Surveying the Bands",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
+      "source": "NASA",
+      "published_at": "2026-06-19T00:50:58+00:00",
+      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount",
+      "category": "science",
+      "score": 4.628
+    },
+    {
+      "title": "OPEC World Oil Outlook 2026: Key Projections and Investment Needs - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMDFyZXRlcU1aX0h6QncyU3ZxbElfaE1TQVRiRWJqQTVsZmlFbzRZY3lNQWg1M20xTmZjdVRhSW9qYmwxckJfV1lPNE9Ed1VvdkhIY21aUW9lSXJaMURnckxSc1dLVlhjWWtwQ3Fzc3UzdW5TN3ZVSTFzQkZ2a0s3VnJRTGJjVmZwdW1nUHduMWtFN2VKcDk2dGFKTHFxUQ?oc=5",
+      "source": "IndexBox",
+      "published_at": "2026-06-19T00:52:00+00:00",
+      "summary": "OPEC World Oil Outlook 2026: Key Projections and Investment Needs - News and Statistics IndexBox",
+      "category": "resources",
+      "score": 4.494
     }
   ],
   "hero_history": [
+    "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
     "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
     "OPEC sticks to robust oil demand outlook, sees no peak to 2050",
     "JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports",
     "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
     "G7 sets up critical minerals alliance, platform to cut reliance on China",
     "US signals to return of sanctions on Russia as G7 unites around Ukraine",
-    "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-    "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI"
+    "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal"
   ]
 }

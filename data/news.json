@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-19T13:27:21.553822+00:00",
+  "updated": "2026-06-19T18:55:10.634279+00:00",
   "hero": {
-    "title": "Israeli military strikes in southern Lebanon in intense fighting as US-Iran talks postponed",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdDdtMWZ0SDdDbThCNEFjb2p2aE5QVFhETEFOT0RyUG9MaHlta2VNWWpjWE1sOFNEM3pYOE9NYkhRM2x3d0hnYzRQZ2F6eG5zSl9aZEpHd0xaRFR6LTFfNHFKdFBWVXdZSTNMMVZOY3RaZmVjRVZ0T0ZYVEZvWU8xZDBtdk5OMGpMaFhOR3RKU3MyUHFQU3NmMzluUFlFaDBD?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-19T11:30:00+00:00",
-    "summary": "Israeli military strikes in southern Lebanon in intense fighting as US-Iran talks postponed AP News",
+    "title": "Israel, Hezbollah agree to ceasefire in Lebanon, US official says",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-19T17:14:28+00:00",
+    "summary": "Israel, Hezbollah agree to ceasefire in Lebanon, US official says Reuters",
     "category": "conflicts",
-    "score": 6.089
+    "score": 7.187
   },
   "items": [
     {
-      "title": "Luca Guadagnino’s Sam Altman, OpenAI Film ‘Artificial’ Dropped by Amazon MGM Studios",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUpsTllGUUMtSnFLMGhfQVdmTkN3YnRkbTFQV0JHN0szQkhxMngyTFdqWXhtNWNuUWUtWDB4UlgyRlM5Vnk1Zzl1M3M0TXpjREY3MmxWOWw0RUhsTHJwNDZVamMxUnUzUU9jTzF5VHh5NVViR0QwLVNMS0l3bGZGVHo1VW5QRWgzenZCVlpPUC1USGI4aENGbkRrWTdUUVotZGluN1MtQUJiYko0cVlVYzZDaHpjQXM1X0tnQkdOVWU?oc=5",
-      "source": "The Hollywood Reporter",
-      "published_at": "2026-06-19T13:07:30+00:00",
-      "summary": "Luca Guadagnino’s Sam Altman, OpenAI Film ‘Artificial’ Dropped by Amazon MGM Studios The Hollywood Reporter",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-19T16:08:17+00:00",
+      "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an op",
       "category": "tech",
-      "score": 5.321
+      "score": 6.119
     },
     {
-      "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
-      "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+      "title": "Lutnick’s Anthropic crackdown claims new power over AI models",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWVJX19GZGJneWJiNHJpZkJ3djNCck1YdG5rWDF6VHZTZ0FXUlNVM1RKMTczczhMSmEtSFNTOUVla3FIN1l5UmVOeFdjNXAyZ3RVa1VJYTRvQzNjclotQnVVVUtVeUhHYmQ1bEpsWVdIQzNMVUV4VkVZNzZDS3FTWEdLT0hiT2vSAYwBQVVfeXFMUGNwYVlsdFVoVm93ckpULWJaVGhpSGcwVG9CcEtsZGtSY3h4d1FXZmJGZXZBcmZHTXpCem1yS2w3TmdyNFd1ay1ZdVBqY2hjb3ZoMExseFcxZUVUWTQ5MjlBMGdCNV9CZ3g2Uko0aWtKaTMwblpZVy1tTVpSUF9iMzZPTXZWdGtEQ1JISC0?oc=5",
+      "source": "The Mercury News",
+      "published_at": "2026-06-19T15:53:58+00:00",
+      "summary": "Lutnick’s Anthropic crackdown claims new power over AI models The Mercury News",
+      "category": "tech",
+      "score": 5.272
+    },
+    {
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-06-19T12:07:32+00:00",
-      "summary": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
+      "published_at": "2026-06-19T18:34:05+00:00",
+      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
       "category": "conflicts",
-      "score": 4.99
+      "score": 5.198
     },
     {
-      "title": "'Political drama beckons' in the UK as Starmer vows to run in any leadership contest",
-      "url": "https://www.france24.com/en/political-drama-beckons-in-the-uk-as-starmer-vows-to-run-in-any-leadership-contest",
+      "title": "Italy: Meloni says Trump 'made up' story that she 'begged' him for photo",
+      "url": "https://www.france24.com/en/video/20260619-italy-meloni-says-trump-made-up-story-that-she-begged-him-for-photo",
       "source": "France 24",
-      "published_at": "2026-06-19T13:06:58+00:00",
-      "summary": "British Prime Minister Keir Starmer urged Labour members to unite after ‌the Makerfield ⁠by-election victory that returned ‌rival Andy Burnham to parliament, ⁠warning against infighting as pressure grows over the party ‌leadership. Burnham's election clears the way for his expect",
+      "published_at": "2026-06-19T15:58:41+00:00",
+      "summary": "Donald Trump claimed that Giorgia Meloni had 'begged' for a photo with him during the recent G7 summit. He added that he wasn’t obliged to do it but that he felt sorry for her and agreed.",
       "category": "politics",
-      "score": 4.635
-    },
-    {
-      "title": "Starmer’s future hangs in balance after Burnham’s Makerfield election win",
-      "url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-19T12:08:39+00:00",
-      "summary": "Ashton-in-Makerfield, a town few knew of until recently, has potentially chosen the UK's next prime minister.",
-      "category": "politics",
-      "score": 4.037
+      "score": 4.792
     }
   ],
   "hero_history": [
+    "Israel, Hezbollah agree to ceasefire in Lebanon, US official says",
     "Israeli military strikes in southern Lebanon in intense fighting as US-Iran talks postponed",
     "Thousands killed in US-Israeli war on Iran",
     "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
     "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
     "OPEC sticks to robust oil demand outlook, sees no peak to 2050",
     "JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports",
-    "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
-    "G7 sets up critical minerals alliance, platform to cut reliance on China"
+    "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-20T12:54:03.264500+00:00",
+  "updated": "2026-06-20T18:47:00.996751+00:00",
   "hero": {
-    "title": "Israeli strikes kill 10 in Lebanon hours after ceasefire",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVUyY2ZiaHlmMU01WFZDX2M5c2Y3d3JWekJWMWZTbF9iR3d4UVdDR3ItSWEwSmE1M2taaG5GX2gzbTFZN3V0cUJXV1RzXzZXQ2ZmNWx1emtiVlk0Y3ZCLWQ4cVB3VFpYUmlZZUF1WmFfaUdmY1Ywa2d6MlBLakdUX0hKVzgwQWwzWVpNOXQ5TkhCYzhSVGZlSlJIc3Z6VHF1UndYd2JiMkR0T290dTVZXy1heVlwREF0Vm5z?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-20T05:28:00+00:00",
-    "summary": "Israeli strikes kill 10 in Lebanon hours after ceasefire Reuters",
-    "category": "conflicts",
-    "score": 5.654
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "source": "TechCrunch",
+    "published_at": "2026-06-20T16:39:57+00:00",
+    "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+    "category": "tech",
+    "score": 7.294
   },
   "items": [
     {
-      "title": "Nobel laureate John Jumper leaves Google DeepMind for Anthropic as talent drains from Google's AI crown jewel",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdXlnWjdPdUc3VE1XZnRzSDFmdjQzaTNQTExxczI1NnRGRXlFVEgxaEpKNjBLemlFOTlyOEVrd3hDNTBwN09tMDhDazdpbnBiM1hlMkc2aDRzbVRfOHpobnEzTHRINy1UU2N5Q0hMNFNyaG9NWTlnRFZsOUVwRUtfcklXUDUzZWE5NUVrT055R1pWV0ZVeThtT3V6WFRLYmhjN0l2SThoNklFZC10QjdhOWQwTkRXQ2JHUkpub2dUWE1WS0h4REwxZXl2dW5GTGZDQ1E?oc=5",
-      "source": "Startup Fortune",
-      "published_at": "2026-06-20T05:12:06+00:00",
-      "summary": "Nobel laureate John Jumper leaves Google DeepMind for Anthropic as talent drains from Google's AI crown jewel Startup Fortune",
-      "category": "tech",
-      "score": 5.597
-    },
-    {
-      "title": "'Neither I nor Italy ever beg': Meloni hits back at Trump claim that she begged for a photo",
-      "url": "https://www.france24.com/en/neither-i-nor-italy-ever-beg-meloni-hits-back-at-trump-claim-that-she-begged-for-a-photo",
-      "source": "France 24",
-      "published_at": "2026-06-20T08:59:06+00:00",
-      "summary": "Italy and the United States have plunged into a diplomatic spat on Friday, after Donald Trump told Italian media that its prime minister had \"begged him for a photo\" at the recent G7 summit. It immediately sparked outrage in Italian political circles and beyond, drawing a respons",
-      "category": "politics",
-      "score": 4.493
-    },
-    {
-      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-06-20T10:19:34+00:00",
-      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "published_at": "2026-06-20T16:34:15+00:00",
+      "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
       "category": "conflicts",
-      "score": 4.146
+      "score": 5.542
     },
     {
-      "title": "Bolivia's Paz declares state of emergency over blockades",
-      "url": "https://www.dw.com/en/bolivia-s-paz-declares-state-of-emergency-over-blockades/a-77635224?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-06-20T09:21:00+00:00",
-      "summary": "President Rodrigo Paz says he has declared the state of emergency \"to free the country's roads.\" Blockades have become a major tactic in weeks of intensifying protests to demand that the president resign.",
+      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-20T18:39:55+00:00",
+      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "category": "conflicts",
+      "score": 4.593
+    },
+    {
+      "title": "Trump says Italy's Meloni asked 'over and over' for a photo with him as diplomatic spat escalates",
+      "url": "https://www.france24.com/en/middle-east/20260620-trump-says-italy-s-meloni-asked-over-and-over-for-a-photo-with-him-as-diplomatic-spat-escalates",
+      "source": "© Christian Hartmann, AFP",
+      "published_at": "2026-06-20T14:13:10+00:00",
+      "summary": "US President Donald Trump turned up the heat on a diplomatic row with Italian Prime Minister Giorgia Meloni on Saturday, accusing her of repeatedly seeking a photograph with him at the G7 summit and blaming the clash between the two heads of state on tensions over Iran and NATO.",
       "category": "politics",
-      "score": 4.036
+      "score": 4.563
+    },
+    {
+      "title": "Warsh’s gamble: A quieter Federal Reserve could mean volatile markets, higher rates",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeW92QkgzUFh5cHBlVEdteEpiX180NXIyejdGcWpOTC1zeGZBMGpRaHg3elRPb1l3M2o0eW92UFI0a3RiRDJDSFhyYUdkcFcxVWRYeFhRbjB1aTJOMnMxSTdBaUNMYjZfR2Zna1pXOW9qU2hDNV9NRWVTLW95cDZVbS1fVnQ2ZG5VWU96dVE1bDYtVFRzbnFPdTN3c2hJaUJQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-20T12:44:00+00:00",
+      "summary": "Warsh’s gamble: A quieter Federal Reserve could mean volatile markets, higher rates AP News",
+      "category": "finance",
+      "score": 4.456
     }
   ],
   "hero_history": [
+    "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
     "Israeli strikes kill 10 in Lebanon hours after ceasefire",
     "Trump tells Axios he no longer views Anthropic as national security threat",
     "US scientist John Jumper to leave Google DeepMind for Anthropic",
     "Israel, Hezbollah agree to ceasefire in Lebanon, US official says",
     "Israeli military strikes in southern Lebanon in intense fighting as US-Iran talks postponed",
     "Thousands killed in US-Israeli war on Iran",
-    "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise",
-    "Amazon hopes to challenge Nvidia more directly by selling its AI chips"
+    "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise"
   ]
 }

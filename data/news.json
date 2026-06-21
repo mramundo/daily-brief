@@ -1,32 +1,32 @@
 {
-  "updated": "2026-06-20T18:47:00.996751+00:00",
+  "updated": "2026-06-21T01:30:41.421145+00:00",
   "hero": {
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "source": "TechCrunch",
-    "published_at": "2026-06-20T16:39:57+00:00",
-    "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-    "category": "tech",
-    "score": 7.294
+    "title": "Bolivia’s president declares a state of emergency as road blockades choke supplies",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWnlIX2xDeW0zZHhqSGNiR2QySWlpSktqcDdDUUlfNEM3WEwwUlM1Y2l0Q1dTSXFlVTJjaG80MnV2UHpBV3lZdFZFX0RsQXhtSWRtd09IZVRZSk5WMnRLVklZQ194dDU0REVaeHFTazZfWDV4Q1B1b2ZmdTFrU2NNY0xMQVRkYnhOZ05iMWljN2xnYWdpTWs5NHBMQVRpNTZLSXlOeWgwN2R3QQ?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-20T17:58:00+00:00",
+    "summary": "Bolivia’s president declares a state of emergency as road blockades choke supplies AP News",
+    "category": "politics",
+    "score": 5.198
   },
   "items": [
     {
-      "title": "Zelensky returns highest Polish honour after award stripped",
-      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-20T16:34:15+00:00",
-      "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+      "title": "Zelenskiy warns of impending massive Russian attack on Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNG40dHk2d1d1a3NhdEZudGk4LXVFYVVkbVVrX3hnUmdSaVJRUGRwR2lSU2gtSFJTVXoxM1JlbWtkQmFWRklVV0lsNU5nUXdaZGMzV1RFcTR1VkU5bzc1WXhKMXRnRlNUUnBiVjYzaHdROURPdF9pekVIUUJiSVViWlRHQTF6NFhnVU56REJ0XzFZaFdHVFRuMDJlb2NyUE5UU1RtQUxhV2g?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-20T23:11:43+00:00",
+      "summary": "Zelenskiy warns of impending massive Russian attack on Ukraine Reuters",
       "category": "conflicts",
-      "score": 5.542
+      "score": 4.555
     },
     {
-      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-20T18:39:55+00:00",
-      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "title": "Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-21T00:00:00+00:00",
+      "summary": "Talks come as Iran says it is closing the Strait of Hormuz over Israel's deadly attacks on Lebanon.",
       "category": "conflicts",
-      "score": 4.593
+      "score": 4.004
     },
     {
       "title": "Trump says Italy's Meloni asked 'over and over' for a photo with him as diplomatic spat escalates",
@@ -35,7 +35,7 @@
       "published_at": "2026-06-20T14:13:10+00:00",
       "summary": "US President Donald Trump turned up the heat on a diplomatic row with Italian Prime Minister Giorgia Meloni on Saturday, accusing her of repeatedly seeking a photograph with him at the G7 summit and blaming the clash between the two heads of state on tensions over Iran and NATO.",
       "category": "politics",
-      "score": 4.563
+      "score": 3.447
     },
     {
       "title": "Warsh’s gamble: A quieter Federal Reserve could mean volatile markets, higher rates",
@@ -44,17 +44,17 @@
       "published_at": "2026-06-20T12:44:00+00:00",
       "summary": "Warsh’s gamble: A quieter Federal Reserve could mean volatile markets, higher rates AP News",
       "category": "finance",
-      "score": 4.456
+      "score": 3.367
     }
   ],
   "hero_history": [
+    "Bolivia’s president declares a state of emergency as road blockades choke supplies",
     "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
     "Israeli strikes kill 10 in Lebanon hours after ceasefire",
     "Trump tells Axios he no longer views Anthropic as national security threat",
     "US scientist John Jumper to leave Google DeepMind for Anthropic",
     "Israel, Hezbollah agree to ceasefire in Lebanon, US official says",
     "Israeli military strikes in southern Lebanon in intense fighting as US-Iran talks postponed",
-    "Thousands killed in US-Israeli war on Iran",
-    "OpenAI introduces enhanced usage analytics, AI spending controls for ChatGPT Enterprise"
+    "Thousands killed in US-Israeli war on Iran"
   ]
 }

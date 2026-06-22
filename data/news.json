@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-22T14:11:30.008415+00:00",
+  "updated": "2026-06-22T19:25:46.126368+00:00",
   "hero": {
-    "title": "UK Prime Minister Keir Starmer announces resignation",
-    "url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-announces-resignation/a-77653239?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "published_at": "2026-06-22T08:34:00+00:00",
-    "summary": "In an emotional speech at 10 Downing Street, Keir Starmer said he will step down after days of mounting pressure and speculation over his future. It comes as leadership contender Andy Burnham returns to parliament.",
-    "category": "politics",
-    "score": 6.701
+    "title": "Ukraine says it struck Russian missile electronics plant, governor says five dead",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1hWWVlGTTY4VjRGaWVNOEFzbE85amxQc0FWb3F0bU0yVG1SUmhHOUNnOHpIRlllSkt0LU9kQUE5VllEVkFlNmRSZXhQRjlmOVFPaTlWbnlMNGltN3VfdmdQLWNCZTI2Sm9pUmRZdk1oOGlBdXF3eXVKNEI5MFVaeHd0dHBzQzdSWkNJNUtsT0ZBT3I0ejVKbFIxZDBwOHVZZlYyaHlRN1c?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-22T17:45:44+00:00",
+    "summary": "Ukraine says it struck Russian missile electronics plant, governor says five dead Reuters",
+    "category": "conflicts",
+    "score": 9.296
   },
   "items": [
     {
-      "title": "Kremlin accuses Ukraine of threatening sovereignty of close Russian ally Belarus",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejZrMnRWQ0NNVE01M2RLMGdVT0JkalphVDVmLXh1anVKblNXWWZabVl0Wi1WTm9hUnE3cUhsMDNOcGNBYnRUb0ZmT01pRElmM1pJQlptelNWbzV0MXp2RWdOTVlid3Vwd3RLaDY0bUlQZU1qOWIzZ1MybjlXWTdlSkoxaVB2bHo3RkJsUmZSN0k4eldVTDQwSXp5b0FRaUt0UVI5NTdOZ2c3MDMzbnVFTFZLMTV6QTFfZUFDTmcyd24?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-22T11:55:01+00:00",
-      "summary": "Kremlin accuses Ukraine of threatening sovereignty of close Russian ally Belarus Reuters",
-      "category": "conflicts",
-      "score": 6.009
+      "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
+      "source": "NASA",
+      "published_at": "2026-06-22T15:00:00+00:00",
+      "summary": "As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical components. The comet was freshly warmed from its",
+      "category": "science",
+      "score": 6.088
     },
     {
-      "title": "Altona Rare Earths changes name to NeoTerra Group",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3BCci1nZ3dKVDMxN094WlFkcGtGOXFLUkcxRVl5Y0ctandVRk5yRUV1eEp2OVdHZkJvSVo0ajY0LU1ra05XSWxTaDJWUTVFYVhZNFR5b1ZGWWl2ZmNza0JFVUhZRTFFSEhBNE5tenNjVU5oOEdQQ2hLdGxjeE5YMElsMmd3NUdIMVE4bA?oc=5",
-      "source": "CLUB OF MOZAMBIQUE",
-      "published_at": "2026-06-22T12:47:56+00:00",
-      "summary": "Altona Rare Earths changes name to NeoTerra Group CLUB OF MOZAMBIQUE",
-      "category": "resources",
-      "score": 5.622
-    },
-    {
-      "title": "Starmer says he’ll resign as UK prime minister, roiling British politics yet again",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGtvWjFQWS1WTXM2ZkZHM0Jaei1QaEl4OF9NVXdQdEF1UVFPamVfX2VVd2ZkaDh0RG9OMTNIRUxBd3F2S0ZGWkl0Nzg1REc0b1pKQWFtb2hzZHFZaEpEZFV4UVBhWWV6YV9YdUNKVFNHdzBUUUFKb1RYczNKaTI4aVRWMDBCWU8yc3kyM29lNlUtR0ttTXhlZ01zZXVpT2hYNjlGZ3JKbGtKWVVSQkdTZXdyQQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-22T13:42:00+00:00",
-      "summary": "Starmer says he’ll resign as UK prime minister, roiling British politics yet again AP News",
-      "category": "politics",
-      "score": 5.222
-    },
-    {
-      "title": "Billionaire Money Managers Have Chosen Their Favorite AI Stock (and It's Not Nvidia or Alphabet)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM25jQTAtN1BGTFZPcjB0SktHYkQyWjJxNnlmdzFEOGxQRl92Z0xnMTIweERCb05hd1dzZ3FPZVhTUXFKbnhWTU5rbkptbVhLdVBLUndjaTZrZVV0eUZRd0RuUVpaSTRpUm1CYnhsdm5EemVET1BXaTlsSHQya3JlSDZUa1ZDQjYzbVU3M3BCUzBneGttdjlDNw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "2026-06-22T11:40:58+00:00",
-      "summary": "Billionaire Money Managers Have Chosen Their Favorite AI Stock (and It's Not Nvidia or Alphabet) The Motley Fool",
+      "title": "Anthropic says Claude may want to see your ID",
+      "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-22T18:05:13+00:00",
+      "summary": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
       "category": "tech",
-      "score": 4.86
+      "score": 5.685
+    },
+    {
+      "title": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHRnOGVKZXFxVV9uVlMzMWtWeHlnMUhnVy1TclhMZ1VMQkxaZ3NwWXhnODhkYWhSSUNsSV93SEJLQ3FnSk9vZnVFeWFfcG1aNlpMUjJaV2dKbkJ0WTlWWGl4OVd2Zm05REV3MUhnczhZZDlwbUxMM1JUVTRZU0R4QWRmN3IyUWZlckJtd3JKSmlaS0RyYzJHU3BJTWlTTlFLNlhHcDlUQWZicW9OZ3RxVGFaTFRuekpabF9kM2xKd2hIYnRrVkJqMi1Od1lXLXV5OWc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-22T17:03:39+00:00",
+      "summary": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets Reuters",
+      "category": "tech",
+      "score": 5.195
+    },
+    {
+      "title": "Brazil’s BNDES to partner with Vale, Petrobras on critical minerals",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ya2V0NUQ0ZktkYVdYeUxtbG5SZE5waXVSZDBlR0Vrd2NobGluU0g2YXVCd3g0SXRrMVhpanRYNFlxVklLclp4RTEwWW9OUzhOLU4xeE9wTjRIRGVORXZQdExnWdIBY0FVX3lxTE9ya2V0NUQ0ZktkYVdYeUxtbG5SZE5waXVSZDBlR0Vrd2NobGluU0g2YXVCd3g0SXRrMVhpanRYNFlxVklLclp4RTEwWW9OUzhOLU4xeE9wTjRIRGVORXZQdExnWQ?oc=5",
+      "source": "Bitget",
+      "published_at": "2026-06-22T18:11:30+00:00",
+      "summary": "Brazil’s BNDES to partner with Vale, Petrobras on critical minerals Bitget",
+      "category": "resources",
+      "score": 4.732
     }
   ],
   "hero_history": [
+    "Ukraine says it struck Russian missile electronics plant, governor says five dead",
     "UK Prime Minister Keir Starmer announces resignation",
     "Iran war",
     "3 Lessons From the SpaceX IPO Every Investor Should Know Before Anthropic and OpenAI Hit the Market",
     "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
     "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
     "Iran war",
-    "Bolivia’s president declares a state of emergency as road blockades choke supplies",
-    "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic"
+    "Bolivia’s president declares a state of emergency as road blockades choke supplies"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-22T08:29:02.302939+00:00",
+  "updated": "2026-06-22T14:11:30.008415+00:00",
   "hero": {
-    "title": "Iran war",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-22T08:25:48+00:00",
-    "summary": "Iran war AP News",
-    "category": "conflicts",
-    "score": 7.728
+    "title": "UK Prime Minister Keir Starmer announces resignation",
+    "url": "https://www.dw.com/en/uk-prime-minister-keir-starmer-announces-resignation/a-77653239?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "published_at": "2026-06-22T08:34:00+00:00",
+    "summary": "In an emotional speech at 10 Downing Street, Keir Starmer said he will step down after days of mounting pressure and speculation over his future. It comes as leadership contender Andy Burnham returns to parliament.",
+    "category": "politics",
+    "score": 6.701
   },
   "items": [
     {
-      "title": "Far-right lawyer De La Espriella wins Colombia’s tight presidential race",
-      "url": "https://www.aljazeera.com/news/2026/6/22/colombian-right-wing-candidate-de-la-espriella-wins-tight-presidential-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-22T07:29:47+00:00",
-      "summary": "Far right lawyer Abelardo De La Espriella, who won backing of Donald Trump, seals narrow victory in run-off election.",
-      "category": "politics",
-      "score": 5.389
-    },
-    {
-      "title": "Crimea halts fuel sales after Ukraine strikes cause shortages",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/crimea-halts-fuel-sales-after-ukraine-strikes-cause-shortages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-22T03:18:49+00:00",
-      "summary": "Gas sales in Russian-controlled Crimea have halted after Ukrainian drone strikes on the peninsula’s supply route.",
+      "title": "Kremlin accuses Ukraine of threatening sovereignty of close Russian ally Belarus",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejZrMnRWQ0NNVE01M2RLMGdVT0JkalphVDVmLXh1anVKblNXWWZabVl0Wi1WTm9hUnE3cUhsMDNOcGNBYnRUb0ZmT01pRElmM1pJQlptelNWbzV0MXp2RWdOTVlid3Vwd3RLaDY0bUlQZU1qOWIzZ1MybjlXWTdlSkoxaVB2bHo3RkJsUmZSN0k4eldVTDQwSXp5b0FRaUt0UVI5NTdOZ2c3MDMzbnVFTFZLMTV6QTFfZUFDTmcyd24?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-22T11:55:01+00:00",
+      "summary": "Kremlin accuses Ukraine of threatening sovereignty of close Russian ally Belarus Reuters",
       "category": "conflicts",
-      "score": 5.282
+      "score": 6.009
     },
     {
-      "title": "Critical Minerals Group raises $1.5 million to advance vanadium strategy",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYUpQcXc0WVNvSXp6OHE1UUg3OXVPa0ZrNGYtamlBTUc5MVgyTkQtcDFfSW1icGpOM3l3Zjd0cUJuOU9yS1l2WlFxNV9maHlXZHFkZWdsd1duVXk0RzNHbWFpSzgxY2VkNjRnRTg0blU1WkxZd0sxeVpmUlV2bUp2bWNWbkE5bFVHZXlESE01SzZjMGdhWWg2TUR3?oc=5",
-      "source": "Mining.com.au",
-      "published_at": "2026-06-22T05:49:47+00:00",
-      "summary": "Critical Minerals Group raises $1.5 million to advance vanadium strategy Mining.com.au",
+      "title": "Altona Rare Earths changes name to NeoTerra Group",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3BCci1nZ3dKVDMxN094WlFkcGtGOXFLUkcxRVl5Y0ctandVRk5yRUV1eEp2OVdHZkJvSVo0ajY0LU1ra05XSWxTaDJWUTVFYVhZNFR5b1ZGWWl2ZmNza0JFVUhZRTFFSEhBNE5tenNjVU5oOEdQQ2hLdGxjeE5YMElsMmd3NUdIMVE4bA?oc=5",
+      "source": "CLUB OF MOZAMBIQUE",
+      "published_at": "2026-06-22T12:47:56+00:00",
+      "summary": "Altona Rare Earths changes name to NeoTerra Group CLUB OF MOZAMBIQUE",
       "category": "resources",
-      "score": 4.461
+      "score": 5.622
     },
     {
-      "title": "How to Prepare for the Anthropic IPO: A 2026 Guide for US Investors",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUV9xaVNzclY5UExNRU1IanVOb1RVZkJUdnRzTURUVHN1NkxyRnMydDRRcWN4RDQ2NjktTC0wM2tlbHhQQWtyN3FTbEthd0N6RWlYMm1NLWl4Q09mdWc2aVY0UXhFY0tQaFJjMzR2ejV1dFBMbzFaYm1zT2o2SzNKQzFzSG84R0JXbmJ3UWVKbnJrZjRvcXR0T0xLbXUzaGNaZS1EWnhUVFNJZnh5LTh0aEl2RXY?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-06-22T05:34:00+00:00",
-      "summary": "How to Prepare for the Anthropic IPO: A 2026 Guide for US Investors Moomoo",
+      "title": "Starmer says he’ll resign as UK prime minister, roiling British politics yet again",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGtvWjFQWS1WTXM2ZkZHM0Jaei1QaEl4OF9NVXdQdEF1UVFPamVfX2VVd2ZkaDh0RG9OMTNIRUxBd3F2S0ZGWkl0Nzg1REc0b1pKQWFtb2hzZHFZaEpEZFV4UVBhWWV6YV9YdUNKVFNHdzBUUUFKb1RYczNKaTI4aVRWMDBCWU8yc3kyM29lNlUtR0ttTXhlZ01zZXVpT2hYNjlGZ3JKbGtKWVVSQkdTZXdyQQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-22T13:42:00+00:00",
+      "summary": "Starmer says he’ll resign as UK prime minister, roiling British politics yet again AP News",
+      "category": "politics",
+      "score": 5.222
+    },
+    {
+      "title": "Billionaire Money Managers Have Chosen Their Favorite AI Stock (and It's Not Nvidia or Alphabet)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM25jQTAtN1BGTFZPcjB0SktHYkQyWjJxNnlmdzFEOGxQRl92Z0xnMTIweERCb05hd1dzZ3FPZVhTUXFKbnhWTU5rbkptbVhLdVBLUndjaTZrZVV0eUZRd0RuUVpaSTRpUm1CYnhsdm5EemVET1BXaTlsSHQya3JlSDZUa1ZDQjYzbVU3M3BCUzBneGttdjlDNw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-06-22T11:40:58+00:00",
+      "summary": "Billionaire Money Managers Have Chosen Their Favorite AI Stock (and It's Not Nvidia or Alphabet) The Motley Fool",
       "category": "tech",
-      "score": 4.095
+      "score": 4.86
     }
   ],
   "hero_history": [
+    "UK Prime Minister Keir Starmer announces resignation",
     "Iran war",
     "3 Lessons From the SpaceX IPO Every Investor Should Know Before Anthropic and OpenAI Hit the Market",
     "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
     "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
     "Iran war",
     "Bolivia’s president declares a state of emergency as road blockades choke supplies",
-    "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "Israeli strikes kill 10 in Lebanon hours after ceasefire"
+    "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic"
   ]
 }

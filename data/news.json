@@ -1,32 +1,41 @@
 {
-  "updated": "2026-06-23T01:15:41.121902+00:00",
+  "updated": "2026-06-23T07:32:28.191835+00:00",
   "hero": {
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "source": "TechCrunch",
-    "published_at": "2026-06-23T00:11:31+00:00",
-    "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
-    "category": "tech",
-    "score": 5.75
+    "title": "India pivots to Russian crude and coal to mitigate Iran war fallout",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmg5eThzVGtyeGJTQkhoNVhXOFo2bDBfMEluWUlHaWlBUE9vSi1KcFFySFB5aGg5V3lIT1d3LS1Oa0Q4a09aOTFiRGM2c0FrVmFNVWJRaUJBaU9teGRmYkVKSHRRU2xsRGE1cGpOVHMyUUpVNGRZSEtXRXRNWEJ5X2JLSnp3cDU4OGN5aG5uQzdFRWg3QUMxcjhpNEhYdkhxYVBVNmdzdGgySkhXcXNyYzFoVl8zRURXc2paRVowWUNNUXh0?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-23T06:06:26+00:00",
+    "summary": "India pivots to Russian crude and coal to mitigate Iran war fallout Reuters",
+    "category": "conflicts",
+    "score": 6.439
   },
   "items": [
     {
-      "title": "IBM partners with OpenAI on enterprise security AI",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFFOHhJWVBSZ09VeTZKWjFFcl9oUmVJdU9PS0xRRXJsbURSRmdsUWY0TXR4TmVxWC1XTXNGaVU1VkRfSmRYUkp0aVlIYXhNSDI4Tlk3Mi0xbW5yRi1yT25zMjZHNE9CWFBSOVI3VUkxU2w4WHhmMDFIMWZLeHhBYVJtaUV6TVFHc0wxcDgxOVNrOWVkQXFzbUVB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-22T21:29:43+00:00",
-      "summary": "IBM partners with OpenAI on enterprise security AI Reuters",
+      "title": "Jim Cramer Wonders How Many Times Amazon (AMZN) Has Announced NVIDIA Chip Competitors",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdzFHVFJsWGxhYkFyRXBiQTJGS3d4a244YVM2ZE9lVklqRTgxcE56ckJOczlGZVpPcmVwdUduN3FwVmlKY2s1LTlLMUkyZlZ2Ry1tMnU5cEFTeVUydW1uQjRIQjFMY1QzNENERjJpNmYzVXNLUnJvM0UyUXRwR1NfM0RrUVJkYktYZHA3VjNDMTN5Tkk5TlBBel9B?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-23T06:57:00+00:00",
+      "summary": "Jim Cramer Wonders How Many Times Amazon (AMZN) Has Announced NVIDIA Chip Competitors Yahoo Finance",
       "category": "tech",
-      "score": 5.647
+      "score": 5.264
     },
     {
-      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-22T23:07:45+00:00",
-      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-      "category": "politics",
-      "score": 5.27
+      "title": "Asia shares slip as markets reprice Fed expectations, oil gains",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-23T01:30:00+00:00",
+      "summary": "Asia shares slip as markets reprice Fed expectations, oil gains Reuters",
+      "category": "finance",
+      "score": 4.144
+    },
+    {
+      "title": "New Lebanon-Israel talks to begin, in shadow of US-Iran deal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmJNcndwcjlhZk9ySnNxNk4xLWZwOUVPTnBuVlBSeTJ5bVVDdkJtbks5amdvSjdYUzRpczBiUG1yWlVLT1FWcWZ4QWtpQmIwWHo3a3B1UVo1RzM5U3BHSzhVcllOUDlFWk5LRHp1aEVyWW5YdVFsNXdqNlZtUmdyU0k1amlRaVFNZ2gydVhBZkIxU0NVQXNDem1IdnVwbDAtRmkwNm1fWQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-23T06:04:00+00:00",
+      "summary": "New Lebanon-Israel talks to begin, in shadow of US-Iran deal Reuters",
+      "category": "conflicts",
+      "score": 4.044
     },
     {
       "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
@@ -35,26 +44,17 @@
       "published_at": "2026-06-22T15:00:00+00:00",
       "summary": "As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical components. The comet was freshly warmed from its",
       "category": "science",
-      "score": 4.775
-    },
-    {
-      "title": "Romania parliament rejects liberal PM-designate Adrian Vestea",
-      "url": "https://www.france24.com/en/europe/20260622-romania-parliament-rejects-liberal-pm-designate-adrian-vestea",
-      "source": "© Mihai Barbu, AFP",
-      "published_at": "2026-06-22T22:52:58+00:00",
-      "summary": "Romania's parliament rejected prime minister-designate Adrian Vestea on Monday, extending months of political turmoil in the EU and NATO member bordering Ukraine and raising the prospect of a snap election if a second government nominee also fails to secure lawmakers' backing.",
-      "category": "politics",
-      "score": 4.543
+      "score": 3.675
     }
   ],
   "hero_history": [
+    "India pivots to Russian crude and coal to mitigate Iran war fallout",
     "OpenAI launches new initiative to help find and patch open-source bugs",
     "Ukraine says it struck Russian missile electronics plant, governor says five dead",
     "UK Prime Minister Keir Starmer announces resignation",
     "Iran war",
     "3 Lessons From the SpaceX IPO Every Investor Should Know Before Anthropic and OpenAI Hit the Market",
     "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
-    "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
-    "Iran war"
+    "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued"
   ]
 }

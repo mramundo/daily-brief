@@ -1,15 +1,33 @@
 {
-  "updated": "2026-06-22T19:25:46.126368+00:00",
+  "updated": "2026-06-23T01:15:41.121902+00:00",
   "hero": {
-    "title": "Ukraine says it struck Russian missile electronics plant, governor says five dead",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1hWWVlGTTY4VjRGaWVNOEFzbE85amxQc0FWb3F0bU0yVG1SUmhHOUNnOHpIRlllSkt0LU9kQUE5VllEVkFlNmRSZXhQRjlmOVFPaTlWbnlMNGltN3VfdmdQLWNCZTI2Sm9pUmRZdk1oOGlBdXF3eXVKNEI5MFVaeHd0dHBzQzdSWkNJNUtsT0ZBT3I0ejVKbFIxZDBwOHVZZlYyaHlRN1c?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-22T17:45:44+00:00",
-    "summary": "Ukraine says it struck Russian missile electronics plant, governor says five dead Reuters",
-    "category": "conflicts",
-    "score": 9.296
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "source": "TechCrunch",
+    "published_at": "2026-06-23T00:11:31+00:00",
+    "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "category": "tech",
+    "score": 5.75
   },
   "items": [
+    {
+      "title": "IBM partners with OpenAI on enterprise security AI",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTFFOHhJWVBSZ09VeTZKWjFFcl9oUmVJdU9PS0xRRXJsbURSRmdsUWY0TXR4TmVxWC1XTXNGaVU1VkRfSmRYUkp0aVlIYXhNSDI4Tlk3Mi0xbW5yRi1yT25zMjZHNE9CWFBSOVI3VUkxU2w4WHhmMDFIMWZLeHhBYVJtaUV6TVFHc0wxcDgxOVNrOWVkQXFzbUVB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-22T21:29:43+00:00",
+      "summary": "IBM partners with OpenAI on enterprise security AI Reuters",
+      "category": "tech",
+      "score": 5.647
+    },
+    {
+      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-22T23:07:45+00:00",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "category": "politics",
+      "score": 5.27
+    },
     {
       "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
       "url": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
@@ -17,44 +35,26 @@
       "published_at": "2026-06-22T15:00:00+00:00",
       "summary": "As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical components. The comet was freshly warmed from its",
       "category": "science",
-      "score": 6.088
+      "score": 4.775
     },
     {
-      "title": "Anthropic says Claude may want to see your ID",
-      "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-22T18:05:13+00:00",
-      "summary": "Claude's chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver's license, according to a privacy policy change.",
-      "category": "tech",
-      "score": 5.685
-    },
-    {
-      "title": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbHRnOGVKZXFxVV9uVlMzMWtWeHlnMUhnVy1TclhMZ1VMQkxaZ3NwWXhnODhkYWhSSUNsSV93SEJLQ3FnSk9vZnVFeWFfcG1aNlpMUjJaV2dKbkJ0WTlWWGl4OVd2Zm05REV3MUhnczhZZDlwbUxMM1JUVTRZU0R4QWRmN3IyUWZlckJtd3JKSmlaS0RyYzJHU3BJTWlTTlFLNlhHcDlUQWZicW9OZ3RxVGFaTFRuekpabF9kM2xKd2hIYnRrVkJqMi1Od1lXLXV5OWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-22T17:03:39+00:00",
-      "summary": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets Reuters",
-      "category": "tech",
-      "score": 5.195
-    },
-    {
-      "title": "Brazil’s BNDES to partner with Vale, Petrobras on critical minerals",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ya2V0NUQ0ZktkYVdYeUxtbG5SZE5waXVSZDBlR0Vrd2NobGluU0g2YXVCd3g0SXRrMVhpanRYNFlxVklLclp4RTEwWW9OUzhOLU4xeE9wTjRIRGVORXZQdExnWdIBY0FVX3lxTE9ya2V0NUQ0ZktkYVdYeUxtbG5SZE5waXVSZDBlR0Vrd2NobGluU0g2YXVCd3g0SXRrMVhpanRYNFlxVklLclp4RTEwWW9OUzhOLU4xeE9wTjRIRGVORXZQdExnWQ?oc=5",
-      "source": "Bitget",
-      "published_at": "2026-06-22T18:11:30+00:00",
-      "summary": "Brazil’s BNDES to partner with Vale, Petrobras on critical minerals Bitget",
-      "category": "resources",
-      "score": 4.732
+      "title": "Romania parliament rejects liberal PM-designate Adrian Vestea",
+      "url": "https://www.france24.com/en/europe/20260622-romania-parliament-rejects-liberal-pm-designate-adrian-vestea",
+      "source": "© Mihai Barbu, AFP",
+      "published_at": "2026-06-22T22:52:58+00:00",
+      "summary": "Romania's parliament rejected prime minister-designate Adrian Vestea on Monday, extending months of political turmoil in the EU and NATO member bordering Ukraine and raising the prospect of a snap election if a second government nominee also fails to secure lawmakers' backing.",
+      "category": "politics",
+      "score": 4.543
     }
   ],
   "hero_history": [
+    "OpenAI launches new initiative to help find and patch open-source bugs",
     "Ukraine says it struck Russian missile electronics plant, governor says five dead",
     "UK Prime Minister Keir Starmer announces resignation",
     "Iran war",
     "3 Lessons From the SpaceX IPO Every Investor Should Know Before Anthropic and OpenAI Hit the Market",
     "SpaceX Just Had the Biggest IPO in History. Here's What It Tells Investors About Buying Anthropic and OpenAI When They Go Public.",
     "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
-    "Iran war",
-    "Bolivia’s president declares a state of emergency as road blockades choke supplies"
+    "Iran war"
   ]
 }

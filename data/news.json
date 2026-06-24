@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-24T01:14:06.596478+00:00",
+  "updated": "2026-06-24T07:28:42.694622+00:00",
   "hero": {
-    "title": "Anthropic’s Mythos model found vulnerabilities in classified US government systems, AP reports",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEx4cERSZUZNYkRrVFVLVXpTRlh0NDNnZEF5OGg1cXI4WGwweDdzdFM0dFVUZ3YwWXNTUEVjZHhyWUJLWTlFVUw4eXREaG8wbDZaVFFpb0owVE9RbjhTN3JrYUoycGpqamRkd3lmTDRZaUNvUmEwTXhDNHZKU1hjTWkza2hvTWVCYURISXN2eVMtcXhybldMVVBrTV9KS01rRVJPUFpGcHA2LWtKTEZQbHdYS1E0YWVkcUI4SXNvdXg?oc=5",
+    "title": "Nvidia's banned AI chips double in price on China's black market, FT reports",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGlTQURDRVp6VExuVE5WM3dyX05FZHh2VG5tZ2l5Q2ZtWXpTVVF6OWc5QTR0T01sMWtncEx3ZnlOSlhLbmN0dVZhTjh0SWVlenlzR0ljYnN3NnluWEZCUGlfUTYyQjE4N3hrRTJBd3c2Q0xnaUJ6WXRLeVNWbjFpb3lTOEU5ZmtfRS03c1NMaWd6NjVTLUY4a3g1Z0lxeGVwZjVKay1sakNrRWdSY01DTHFPNkpQb2pRRUVqd2VXdw?oc=5",
     "source": "Reuters",
-    "published_at": "2026-06-24T00:54:00+00:00",
-    "summary": "Anthropic’s Mythos model found vulnerabilities in classified US government systems, AP reports Reuters",
+    "published_at": "2026-06-24T00:34:50+00:00",
+    "summary": "Nvidia's banned AI chips double in price on China's black market, FT reports Reuters",
     "category": "tech",
-    "score": 7.019
+    "score": 8.939
   },
   "items": [
     {
-      "title": "Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTFBSlNPdmdZaE5EYndsa3FldFFzanBrSHByWHJ2NzlCYWZwQzlsT201TngtTjluVG16bDlQbHhpQnlxZE9mcTY4c0ZhUjJTWEN0OHF0RjcwMGJBNm1DSlpLSEE0THdqOXd2Ym9yY2pybXVIcXJFcS1WaVJlbnhpRWc3VjRuMjNQR1ZYdlZkSDBaQ0NVTW12WU9tVjBqSndOeFdhWXpoMA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-24T00:47:00+00:00",
-      "summary": "Better Artificial Intelligence (AI) Stock to Buy: SpaceX vs. Nvidia Yahoo Finance",
+      "title": "Nvidia Is Officially the Largest Stock in the World. Is the Artificial Intelligence (AI) Giant Still Cheap?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXBYU3N3MGswRTZlR0RwNTdyT1BIN2cwLVBNVHlVMWpBTHg2WDczOHh1dGxmRGFKNmVZcEVGaURITTFFMF9SVjZ3aWFlaEFub2VqRDRmSXBkckJncWl1cEdMZ0NDbzFYLUVBaTZaWnFsUVg0ajFTYm5xel93eG1wNGhmRkttOGU5dzFIaHN2MWt6clFvTXBlOQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-06-24T03:30:00+00:00",
+      "summary": "Nvidia Is Officially the Largest Stock in the World. Is the Artificial Intelligence (AI) Giant Still Cheap? The Motley Fool",
       "category": "tech",
-      "score": 6.051
+      "score": 5.224
     },
     {
-      "title": "Senate for first time approves a war powers resolution in a rebuke to Trump over Iran conflict",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1BEU0JyNDBsb3AwaVVRdHN6RmtBdXBESkdWRnI3bVBQX3hpUjRIZV9CMENoVy1pRmxuMWQ4X1hSanROeFpWZEpTOVppbUhOLTJZYmFOcWRldWE4U21POXNSOFp6Z3poUElRUFQzc0xXdThIb2lyNnNLejZ0bmcxRElpeExzUUpjb0laM3Qya0lhYVh1VGV6a0c0R045T2pP?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-23T22:05:00+00:00",
-      "summary": "Senate for first time approves a war powers resolution in a rebuke to Trump over Iran conflict AP News",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-24T03:57:59+00:00",
+      "summary": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
       "category": "conflicts",
-      "score": 5.793
+      "score": 4.236
     },
     {
-      "title": "UN: Israel committed genocide by targeting Gaza children",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-23T21:38:23+00:00",
-      "summary": "Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.",
+      "title": "NATO's Rutte aims to soothe Trump on White House visit ahead of July summit",
+      "url": "https://www.france24.com/en/americas/20260624-nato-rutte-soothe-trump-white-house-visit-july-summit-western-alliance-hegseth",
+      "source": "© Evan Vucci, AP file photo",
+      "published_at": "2026-06-24T05:43:52+00:00",
+      "summary": "NATO Secretary-General Mark Rutte is set to hold talks with US President Donald Trump at the White House on Wednesday, aiming to mollify the volatile US leader two weeks before the annual summit of the military alliance and as the Pentagon reviews the size of the US military foot",
+      "category": "politics",
+      "score": 4.198
+    },
+    {
+      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-24T05:07:55+00:00",
+      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
       "category": "conflicts",
-      "score": 4.834
-    },
-    {
-      "title": "Heat pump growth stalls as government support cut, warns climate watchdog",
-      "url": "https://www.bbc.co.uk/news/articles/cn8k4pek3gzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-06-23T23:54:17+00:00",
-      "summary": "The growth in sales has slowed significantly after a critical government grant programme was cut.",
-      "category": "science",
-      "score": 4.792
+      "score": 4.186
     }
   ],
   "hero_history": [
+    "Nvidia's banned AI chips double in price on China's black market, FT reports",
     "Anthropic’s Mythos model found vulnerabilities in classified US government systems, AP reports",
     "Energy Fuels to buy Germany's VAC as rare earths magnet race heats up",
     "Rare Earths",
     "India pivots to Russian crude and coal to mitigate Iran war fallout",
     "OpenAI launches new initiative to help find and patch open-source bugs",
     "Ukraine says it struck Russian missile electronics plant, governor says five dead",
-    "UK Prime Minister Keir Starmer announces resignation",
-    "Iran war"
+    "UK Prime Minister Keir Starmer announces resignation"
   ]
 }

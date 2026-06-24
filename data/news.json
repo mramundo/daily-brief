@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-24T13:05:08.670774+00:00",
+  "updated": "2026-06-24T18:56:50.264553+00:00",
   "hero": {
-    "title": "Will Amazon's AI Chip Business Be a Threat to Nvidia?",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjdGY2o0ZlhHanE2VmxtU0N1TFo4TDUxR2FGaFVERUwyX1d2NEw0T042cmRLMkMzbkZBWTYyMkpEc2JJTS05RXA1M2hVMDNqamxTbUh6cHh5NXQxTzhUZ0VRd0hxbWIxeWgwakc1LUVKYnd6VVBGQUtoTDlJOTI4aWplam1McGxKbldGVTB5dDBGTk5EcXBHNg?oc=5",
-    "source": "The Motley Fool",
-    "published_at": "2026-06-24T10:06:13+00:00",
-    "summary": "Will Amazon's AI Chip Business Be a Threat to Nvidia? The Motley Fool",
+    "title": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXdPMXE3TzV2ZUFOWEtqUEg5djl5Y1hOWnFqbmZKQmV2QVdaeXVSYXZVa0xpRFZmalhDWnBuU0NuUWNIc2tfTUFERDFoRmt2eXBZTjk1YzVhcmxXMUQtZ3FCSWJfQlU1aEJlN3hQeWtTbWZuSnRHam5DNTFDMDcwbnhQMmpVcFcyWGxCelU4dlRub085NUYyLXhEUWpWTUxFcnVaQkJsbGdqQU9JUVZUTzNhYWwwOUVGN29F?oc=5",
+    "source": "Bloomberg",
+    "published_at": "2026-06-24T18:18:14+00:00",
+    "summary": "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic Bloomberg",
     "category": "tech",
-    "score": 5.445
+    "score": 6.11
   },
   "items": [
     {
-      "title": "Nervous investors await Micron earnings as chip sector whipsaws",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGh4QlpBS0RwYWNXbDY3X1dIeTBRM09NVm4weHJpSmh5eDRqS0phbHRsVXU2TEJ4Ul90S18yby1qVWt1ZFB4cDlOallvMDhqSG1vTU9KNHN2eC1OcGZHcF9qMDlQelhOVWF3bGIxeUNmRGFXbHRfRDREZHhwVE5fZTA0VmhuaXh1dlY5QkdOU3o1RGc3QXBEX011eG5WcHJIbTk3V003cXk?oc=5",
+      "title": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdThteGtwZVZweXpUZTNQR0djS0ViNGhlZjNacUlpaG5KZ2M2SGdLckxXcEV5T3Z5UDhhRjJ5OUh5LTAxQThQVjNGUG1xWGIwM1VLeUNxNjY2N0RfbnFySTY1d0txYjdlNUVWY1lFbFZhRHcyTV9XRWFkRWZjdzM1Mk1QUWVhTmRRYi1IVklHdlJJeThoMUloTlNFTm4yQ29YTUFXRDUtZjZOeVh2cThIazdhUWd1bjdKcXJsamNqN01VR3RMZUtvLXI3SXpvNGV6?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-24T11:40:22+00:00",
-      "summary": "Nervous investors await Micron earnings as chip sector whipsaws Reuters",
+      "published_at": "2026-06-24T13:22:09+00:00",
+      "summary": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure Reuters",
       "category": "tech",
-      "score": 4.73
+      "score": 6.109
     },
     {
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "title": "Colombia's left-wing presidential candidate concedes defeat",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-06-24T13:03:35+00:00",
-      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-      "category": "conflicts",
-      "score": 4.61
+      "published_at": "2026-06-24T15:50:22+00:00",
+      "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
+      "category": "politics",
+      "score": 5.34
     },
     {
-      "title": "Heat pump growth stalls as government support cut, warns climate watchdog",
-      "url": "https://www.bbc.co.uk/news/articles/cn8k4pek3gzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-06-24T10:05:19+00:00",
-      "summary": "The growth in sales has slowed significantly after a critical government grant programme was cut.",
-      "category": "science",
-      "score": 4.47
-    },
-    {
-      "title": "Global physical crude markets mired in discounts as Middle East ramps up supply",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXUxZVlBdXJnZm1yZjBMY0p2LXNzMGdBTFliN0trUVU3eExBM1h3Zmd2T0tTX0VOdm5OOWFZMFJBaEc4cVRUOHlfSnQ4bWJlT0tzWjVCaUt2WU1tV0JwMDZRd3VWMFhZM2d2RkVVdGh0d0t4ZmcxTWQwUkQzSnZBOUxDTXMxbEtLUXpTYk9CUGJudGxiazlNR2owQ2VpNDhDVHJiXzRWQ3hhd2kza2ZNMDVrTjdjbWl0eWFXUFlndHlubmM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-24T12:44:04+00:00",
-      "summary": "Global physical crude markets mired in discounts as Middle East ramps up supply Reuters",
+      "title": "US stocks rise as falling oil prices ease pressure on the market",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenYwTVdVTGVfR2QtSEYtN1U4LXRsT3F1NVF3MFBGM0F5eW03RkZtV29uTF9WcnMzdlZkSTR1Z3k4RlZZRklaSlNsN1Fic0dWSjFMY2xxalRiQWdMVThHeDlEX0d1eFo3QTlGQ3Z2elFlU241d2pMdXVOSjFLQXpzNi1ZWkwwdmx6eWRpSzE4amxiVk0?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-24T17:15:00+00:00",
+      "summary": "US stocks rise as falling oil prices ease pressure on the market AP News",
       "category": "finance",
-      "score": 4.377
+      "score": 4.966
+    },
+    {
+      "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-24T18:03:08+00:00",
+      "summary": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child.",
+      "category": "conflicts",
+      "score": 4.695
     }
   ],
   "hero_history": [
+    "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
     "Will Amazon's AI Chip Business Be a Threat to Nvidia?",
     "Nvidia's banned AI chips double in price on China's black market, FT reports",
     "Anthropic’s Mythos model found vulnerabilities in classified US government systems, AP reports",
     "Energy Fuels to buy Germany's VAC as rare earths magnet race heats up",
     "Rare Earths",
     "India pivots to Russian crude and coal to mitigate Iran war fallout",
-    "OpenAI launches new initiative to help find and patch open-source bugs",
-    "Ukraine says it struck Russian missile electronics plant, governor says five dead"
+    "OpenAI launches new initiative to help find and patch open-source bugs"
   ]
 }

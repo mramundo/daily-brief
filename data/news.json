@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-25T13:04:50.290974+00:00",
+  "updated": "2026-06-25T18:58:12.146156+00:00",
   "hero": {
-    "title": "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGtxVmo4OG9QRVAyTjJvcGpWUVFzWlJaZEhHSHBsazFQRWZxZXllakNTM2FXN2FxZjhialVFN0o1aW1DY2t1Q2JucHZRNlkzRHk4MFpCeGdOaHpEUXhRVVZSWEtGRDhfTGVKX3lyX1dqZ2tmYjg3QmtTWXMwVS1vNXlTVDRQeFVzakd3WXVuaGplbWdqY0JQUzhtcV9HSWRvSU1CUlp3aW5nYmdZbHNLeDJ2Tk5mZVhHLXh6S3AyZVFZS1ktWUg4X0J3?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-25T11:25:24+00:00",
-    "summary": "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say Reuters",
-    "category": "resources",
-    "score": 7.972
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "source": "TechCrunch",
+    "published_at": "2026-06-25T17:38:27+00:00",
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "category": "tech",
+    "score": 6.5
   },
   "items": [
     {
-      "title": "Russia denies it is pressuring Belarus to widen Ukraine conflict",
+      "title": "OPEC oil producer group membership timeline",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2J6R3NDUnpVN3VZeG5xaS1SNmVNYWhONDFpUFNMV1F4M2k0NXI0X2RKVTJDMWJnODBLcnJuaUZ1bW1DMmZJWk9oMTBfaWYwbUVNbHRBVXJCNXpjWE5WRXRGMTVMcVRXN09PV29BbWVmN25PS1ljbW13UFh2N1BIcl9SelJnQ2xzdVlZemt5SFFLZTByN251aklVRQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-25T15:11:46+00:00",
+      "summary": "OPEC oil producer group membership timeline Reuters",
+      "category": "resources",
+      "score": 5.645
+    },
+    {
+      "title": "Lukashenko says he warned Ukraine not to drag Belarus into war",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjE1SmNHWXhFWlBWY0gwTm5mYWNralJHUm5SbnFkai1zOVNRdFZ2YklFSHFyZXF1ZWNqWE1nODZSREN5WTJZSkRDVlpqVmxHVHVfTDl2Q2Riem9MdVZEQ0pHYWNHcDNuWDN6RnpjUjNUTlZCU01adC1JN2t3ekxYZWFvN3lJakgzdS15T2VwX05sUGpORF9BZHJWOXVLQnU4WUNEQjUxdzQ4UXAyMmpFSDhIbkZObFhLNVE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-25T10:28:34+00:00",
-      "summary": "Russia denies it is pressuring Belarus to widen Ukraine conflict Reuters",
+      "published_at": "2026-06-25T15:11:22+00:00",
+      "summary": "Lukashenko says he warned Ukraine not to drag Belarus into war Reuters",
       "category": "conflicts",
-      "score": 6.915
+      "score": 5.643
     },
     {
-      "title": "Anthropic acuses Alibaba of illicitly accessing its AI",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWZZem5KQXpTMUpYMzd4SF80Vm9SN1hicUdKT1RXaDU0R3B2R0hoX082WUxNRTBHVkh4UG1fcUlpRG1hSlg5QjdPNnlaZE5tM1dTTWhNdVg4LWRBLTJzRnBaTkRWbkRDTWlCcW9PYk44N2lUYjRRMjZmbGpfSWRUcnc1eEVKOThDTjA5N0pIc2xkbVozREdaekhocU5qWW1hUWlGTm1kcw?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-06-25T11:48:39+00:00",
-      "summary": "Anthropic acuses Alibaba of illicitly accessing its AI Yahoo",
+      "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
+      "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-25T15:05:45+00:00",
+      "summary": "Lebanon’s state-run National News Agency reports three people killed after an Israeli attack on a car in Nabatieh.",
+      "category": "conflicts",
+      "score": 5.575
+    },
+    {
+      "title": "Qualcomm Projects Data Center Chip Sales of $15 Billion by 2029",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnN0ZWJBUjl4LWpZbUlfVndBcDljNmRtWllYUDJTWDhNOFdkeExDWERSbTI1d0RVYUNId2l2WmVjVWk5ZDlfazNkWFh4RDk3TGVGNXdsM3htUTNqVUdZWUNaUlBGbjV5VWhPUGtwa1dFNlR1VnM0OTR5azNCQ1pPVnJRMUUyVml4ajJQQnltMHpsY0Z2dG5CNE9FUkFLUG41S0pFZjFUTzNkNE93UXpXX3dZVQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-06-25T14:20:46+00:00",
+      "summary": "Qualcomm Projects Data Center Chip Sales of $15 Billion by 2029 Bloomberg",
       "category": "tech",
-      "score": 6.781
-    },
-    {
-      "title": "Amazon to invest additional $13 billion in India cloud, AI",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUjc3RVFRSkZPMUtsVDFNeXp3cFl5dnZ0LVVSd0x6VjlrdXdWUkxmZ1RsQUN4ZTZnbVlSb2w5bDd1UGhoOTBxcXlaS2Y5QkJJNWJJTDVoZkFXYUlLRl85MWhkcUFTcjVLT0VvbVlhaElvZFRqWWU1aXBYV1QzLW1fdnl6RnRXc05qeEZsRGVwYzFydzg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-25T08:48:51+00:00",
-      "summary": "Amazon to invest additional $13 billion in India cloud, AI Reuters",
-      "category": "tech",
-      "score": 6.452
-    },
-    {
-      "title": "Iraq denies reports of potential OPEC exit",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlhzNWcwZzRqQVZXcE9KTzM4MUFDa1ZwUFFKcHNYRDZYSjZKcm5TeEMwVVVycF9wcURmNklTTFVybzU3X3dnWnBqOXREM0ZmUlV0a0tLcVZlczVaaVpzVE45ekt4d3AydWlTVEZ1WVRScmlKR1JveWdKcEpIWXNwM2thYUlJaURuZXA2YlR3?oc=5",
-      "source": "Quantum Commodity Intelligence",
-      "published_at": "2026-06-25T12:07:57+00:00",
-      "summary": "Iraq denies reports of potential OPEC exit Quantum Commodity Intelligence",
-      "category": "resources",
-      "score": 5.748
+      "score": 5.176
     }
   ],
   "hero_history": [
+    "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
     "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say",
     "Ukraine to conduct preemptive attacks on facilities Russia uses for war, Zelenskiy says",
     "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
     "Will Amazon's AI Chip Business Be a Threat to Nvidia?",
     "Nvidia's banned AI chips double in price on China's black market, FT reports",
-    "Anthropic’s Mythos model found vulnerabilities in classified US government systems, AP reports",
-    "Energy Fuels to buy Germany's VAC as rare earths magnet race heats up"
+    "Anthropic’s Mythos model found vulnerabilities in classified US government systems, AP reports"
   ]
 }

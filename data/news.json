@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-26T12:59:49.517735+00:00",
+  "updated": "2026-06-26T18:54:46.299224+00:00",
   "hero": {
-    "title": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
-    "url": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-26T12:34:56+00:00",
-    "summary": "Kyiv circumvents air defences to target oil supplies, power stations, convoys and bridges, starving Russian front line.",
-    "category": "conflicts",
-    "score": 6.439
+    "title": "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmF5MEZucTFsVmZudmVjU0RpalFGZHdteVFrN2dZM1F0elpFYy1xQ0x5elRSVXE3VTdueTZpdFZNdWZybFFqV1pVTkhfVlpBcC03MFZGS2RZQ0ZLNDV3a3Z2eVZVS3Bnc1NBaTJQLTVXZ213YkkzdTd0djVNNkRLclJ2YTFVeU9sUXJ1Y3FLcUVXODhVbTUxOEhtTVNfS1l5cktra0xxWXlqZw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-26T17:08:00+00:00",
+    "summary": "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review AP News",
+    "category": "tech",
+    "score": 10.575
   },
   "items": [
     {
-      "title": "Trump administration asks OpenAI to limit GPT-5.6 release",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5USjFXSXhrVkJCczQtbGRrRGhCMUNmVEF0ejJXelVCSlVVcFBaeUoyMXo5dF9uZkZDdlVqd3ppOGh6T214ZUZsUkRueFV6bWkwNHhKS3IyZGplR2RSRjBYYmFLWGFRdTVTQzZPbGl2RTVCSDQzSzNEbHUwUnkxU0k?oc=5",
-      "source": "qz.com",
-      "published_at": "2026-06-26T12:43:38+00:00",
-      "summary": "Trump administration asks OpenAI to limit GPT-5.6 release qz.com",
-      "category": "tech",
-      "score": 5.912
+      "title": "Iraq seeks quota review as OPEC restores output allocations",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWEzY19XNy03UWdvU1RQQU1GdEh2RlVHTzRwRFZBMS1QeDBYcC1ONGdOOVFWZUI4aEZmRTlmTVVTX2RHb0NQRGpLd1FKRHhBaVVyRkEtVUZZOVZNQ2dRUkxnQ0xRWWFHLXpTYmdvR0FxamU3N09rZmRPWklRanhGU3AxZDhCMHdkSVhsSzRVOEYxMkFEaTBUVGRMcnUwV1RZNE9kSkxxWjJtLU5w?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-26T17:05:44+00:00",
+      "summary": "Iraq seeks quota review as OPEC restores output allocations Reuters",
+      "category": "resources",
+      "score": 6.599
     },
     {
-      "title": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkhiY2JYcU5SZmRSX1Bsc1p2a3BDdmU5Z3JZQ3k4NWw3YzFjd1dpY0dTRTRqdkFlWmVSODlKOTIxcGtKZG5PeU5mT0FaZm9XQWJEVmlKdEFXb1c0Q3dVdGpYQVY4WGkyLWQyaWFndUJQYV9kVXRyaVBQU21PNjA2NG13WHFCWGNRV1BSLVp0dlMzWGkzZk54QmZ2SFRVNnZjeTZhblFrd05PMEdIYmkw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-06-26T07:11:06+00:00",
-      "summary": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay Bloomberg",
-      "category": "tech",
-      "score": 5.747
-    },
-    {
-      "title": "AP Exclusive: NATO deputy commander wants Turkey summit to spur more defense spending and show unity",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlpQVlJEcklzMXZsVVdnRGxEbzQtQWNrOXN1YVd2UEY0VDNKeVNBVXRDaVQzS0c2QTJ1TnVxcGoxbEVDNWZYQ2lJSXdDNmMzZTZoS3dSZGRXTlVFUFh2Qzk0SHFfWUdHaGxnYnFTMkdIc3BIcGEwS2UwZTJpZjA5d0dsQ0Y3MURrRWU5b0ppWUNGYjUyZ3c?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-26T11:53:00+00:00",
-      "summary": "AP Exclusive: NATO deputy commander wants Turkey summit to spur more defense spending and show unity AP News",
-      "category": "politics",
-      "score": 4.105
-    },
-    {
-      "title": "Russia-Ukraine | Breaking News & Live Updates",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-26T11:45:20+00:00",
-      "summary": "Russia-Ukraine | Breaking News & Live Updates AP News",
+      "title": "Israel, Lebanon sign framework peace deal after US-mediated talks",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZEQ1eUt6SFFHdFlGLWZxLVFTVnhHOThrbmpjbmtEMnlydmZYY08wLTI3X3NhSm5adGlBVU5nbmwwOWZENkJnVlU1UUNaUHIxNXdSNXdsT0NpRnpSdTFkc3VnUXVmY3lvX2lpb0xybngxODZya0ZTWFlueU1lSEZvZU5lWmV0M0U3OEp6MXVXaUF6Sm9xUjZoZGJldkFWQU5NV2dGWi13Uzdlci1LVEVQTGZnaEdBV0ZFSktfdTJfUGxXZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-26T18:26:55+00:00",
+      "summary": "Israel, Lebanon sign framework peace deal after US-mediated talks Reuters",
       "category": "conflicts",
-      "score": 4.083
+      "score": 6.48
+    },
+    {
+      "title": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnFfdzFOMEtRZ2xQYThDMDl3OFlWUDVFQ3VFelowLVVHUGt0TktoUHMzamJDekMzS09jaGR5RU9EaVNsNmdKR1JYSzVwbGNneUVaWWlnQzM4YnUxZGp3ZkthVlYyUGhXMUtDSjNZVC1YSGlpeDYxVjBOTkdSeGltaC15TjRqYVJiQnlxVlhjY01ZODRVQURFMjZEbVdaUHRJV2JlNklyRXRpNzAxbnVDS1dETk82WjJxLXZFdFRrSk8tTDJJZTJF?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-26T17:47:01+00:00",
+      "summary": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models Reuters",
+      "category": "tech",
+      "score": 6.303
+    },
+    {
+      "title": "Trump foe John Bolton pleads guilty in classified docs case",
+      "url": "https://www.dw.com/en/trump-foe-john-bolton-pleads-guilty-in-classified-docs-case/a-77728826?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-06-26T17:58:00+00:00",
+      "summary": "Bolton faces as many as five years in prison. He had earlier served as Trump's national security adviser during the president's first term in office, but later resigned over his differences with Trump.",
+      "category": "politics",
+      "score": 5.816
     }
   ],
   "hero_history": [
+    "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review",
     "Ukraine decimates Russian logistics, bringing chaos to Crimea",
     "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
     "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
     "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say",
     "Ukraine to conduct preemptive attacks on facilities Russia uses for war, Zelenskiy says",
-    "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic"
+    "Anthropic says Alibaba illicitly extracted Claude AI model capabilities"
   ]
 }

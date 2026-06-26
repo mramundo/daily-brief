@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-26T07:35:37.090909+00:00",
+  "updated": "2026-06-26T12:59:49.517735+00:00",
   "hero": {
-    "title": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-    "url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss",
+    "title": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
+    "url": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss",
     "source": "Al Jazeera",
-    "published_at": "2026-06-26T07:07:47+00:00",
-    "summary": "Israeli and Lebanese delegations will continue their talks on Friday.",
+    "published_at": "2026-06-26T12:34:56+00:00",
+    "summary": "Kyiv circumvents air defences to target oil supplies, power stations, convoys and bridges, starving Russian front line.",
     "category": "conflicts",
-    "score": 9.935
+    "score": 6.439
   },
   "items": [
     {
-      "title": "Trump administration asks OpenAI to stagger release of new model to vet users",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbExtT0lPSFZvWkZETjlZOWNZX1JIX3N3TzFCa2Qtd2NESHhxLVFNYk5keGJIZlUzSWdDN1Z1S09YdnZsNkRCNDJzR3JneWlNR3ZNbkpYV2RUOUxLSlB5RDJkSWQ3OTdxUHc5ckllNVhkRTRjaWJHQThxdDN3NVhtV19LUUE?oc=5",
-      "source": "Financial Times",
-      "published_at": "2026-06-26T00:17:06+00:00",
-      "summary": "Trump administration asks OpenAI to stagger release of new model to vet users Financial Times",
+      "title": "Trump administration asks OpenAI to limit GPT-5.6 release",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5USjFXSXhrVkJCczQtbGRrRGhCMUNmVEF0ejJXelVCSlVVcFBaeUoyMXo5dF9uZkZDdlVqd3ppOGh6T214ZUZsUkRueFV6bWkwNHhKS3IyZGplR2RSRjBYYmFLWGFRdTVTQzZPbGl2RTVCSDQzSzNEbHUwUnkxU0k?oc=5",
+      "source": "qz.com",
+      "published_at": "2026-06-26T12:43:38+00:00",
+      "summary": "Trump administration asks OpenAI to limit GPT-5.6 release qz.com",
       "category": "tech",
-      "score": 5.273
+      "score": 5.912
     },
     {
-      "title": "US Army opens bases to critical minerals plants",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFJLT285di1ZLUFpS3k3QVFabmRXaTVTNXVfMmhFS3MxQzBjbXJGQ1FQX181cmJUVHJiaGhSbmxwZGFyU3NfS1NXSjlLVi1rcHR2Z0ZWbFZ2TUVudUV2Y0UyZ3FRalZMRElLalVtWDdVRmlDZHlySzRTQWtsNnU4eHhDY240VUdjVlJHM3NQZndrZw?oc=5",
-      "source": "Miningmx",
-      "published_at": "2026-06-26T07:16:12+00:00",
-      "summary": "US Army opens bases to critical minerals plants Miningmx",
-      "category": "resources",
-      "score": 4.916
-    },
-    {
-      "title": "OpenAI leans toward waiting until next year for IPO, NYT reports",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkNFVmI0YkkxNUpIT2Zjc1ZjVGthLTViVlk0NG5kSzZMeEllaDBVcmlaUEczS25qMjR6VGg4MVpvVUM0M2sxOURZb1lhUWdSRHdUZHVLN0ZVZjBFQXRRX2N1NlI4bGJxc29GZEtiUnRNNElMbFRCZnNZV0pfbXpTOE8xbVZ3THpfY3Z1OXh2SXpEVWkzQWgxcDBURWloa05VVlVTZXFVWTViSXJiMVlNU0pIMkIzejhSOGFYNnliWVY?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-25T20:42:00+00:00",
-      "summary": "OpenAI leans toward waiting until next year for IPO, NYT reports Reuters",
+      "title": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkhiY2JYcU5SZmRSX1Bsc1p2a3BDdmU5Z3JZQ3k4NWw3YzFjd1dpY0dTRTRqdkFlWmVSODlKOTIxcGtKZG5PeU5mT0FaZm9XQWJEVmlKdEFXb1c0Q3dVdGpYQVY4WGkyLWQyaWFndUJQYV9kVXRyaVBQU21PNjA2NG13WHFCWGNRV1BSLVp0dlMzWGkzZk54QmZ2SFRVNnZjeTZhblFrd05PMEdIYmkw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-06-26T07:11:06+00:00",
+      "summary": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay Bloomberg",
       "category": "tech",
-      "score": 4.895
+      "score": 5.747
     },
     {
-      "title": "US ends deportation protections (TPS) for Haitians and Syrians",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-26T05:25:44+00:00",
-      "summary": "The US Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS).",
+      "title": "AP Exclusive: NATO deputy commander wants Turkey summit to spur more defense spending and show unity",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlpQVlJEcklzMXZsVVdnRGxEbzQtQWNrOXN1YVd2UEY0VDNKeVNBVXRDaVQzS0c2QTJ1TnVxcGoxbEVDNWZYQ2lJSXdDNmMzZTZoS3dSZGRXTlVFUFh2Qzk0SHFfWUdHaGxnYnFTMkdIc3BIcGEwS2UwZTJpZjA5d0dsQ0Y3MURrRWU5b0ppWUNGYjUyZ3c?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-26T11:53:00+00:00",
+      "summary": "AP Exclusive: NATO deputy commander wants Turkey summit to spur more defense spending and show unity AP News",
+      "category": "politics",
+      "score": 4.105
+    },
+    {
+      "title": "Russia-Ukraine | Breaking News & Live Updates",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-26T11:45:20+00:00",
+      "summary": "Russia-Ukraine | Breaking News & Live Updates AP News",
       "category": "conflicts",
-      "score": 4.276
+      "score": 4.083
     }
   ],
   "hero_history": [
+    "Ukraine decimates Russian logistics, bringing chaos to Crimea",
     "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
     "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
     "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say",
     "Ukraine to conduct preemptive attacks on facilities Russia uses for war, Zelenskiy says",
     "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
-    "Will Amazon's AI Chip Business Be a Threat to Nvidia?"
+    "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic"
   ]
 }

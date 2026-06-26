@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-25T18:58:12.146156+00:00",
+  "updated": "2026-06-26T01:21:18.725313+00:00",
   "hero": {
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "source": "TechCrunch",
-    "published_at": "2026-06-25T17:38:27+00:00",
-    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "published_at": "2026-06-25T23:34:39+00:00",
+    "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
     "category": "tech",
-    "score": 6.5
+    "score": 7.398
   },
   "items": [
     {
-      "title": "OPEC oil producer group membership timeline",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2J6R3NDUnpVN3VZeG5xaS1SNmVNYWhONDFpUFNMV1F4M2k0NXI0X2RKVTJDMWJnODBLcnJuaUZ1bW1DMmZJWk9oMTBfaWYwbUVNbHRBVXJCNXpjWE5WRXRGMTVMcVRXN09PV29BbWVmN25PS1ljbW13UFh2N1BIcl9SelJnQ2xzdVlZemt5SFFLZTByN251aklVRQ?oc=5",
+      "title": "OpenAI leans toward waiting until next year for IPO, NYT reports",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRkNFVmI0YkkxNUpIT2Zjc1ZjVGthLTViVlk0NG5kSzZMeEllaDBVcmlaUEczS25qMjR6VGg4MVpvVUM0M2sxOURZb1lhUWdSRHdUZHVLN0ZVZjBFQXRRX2N1NlI4bGJxc29GZEtiUnRNNElMbFRCZnNZV0pfbXpTOE8xbVZ3THpfY3Z1OXh2SXpEVWkzQWgxcDBURWloa05VVlVTZXFVWTViSXJiMVlNU0pIMkIzejhSOGFYNnliWVY?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-25T15:11:46+00:00",
-      "summary": "OPEC oil producer group membership timeline Reuters",
-      "category": "resources",
-      "score": 5.645
+      "published_at": "2026-06-25T21:44:37+00:00",
+      "summary": "OpenAI leans toward waiting until next year for IPO, NYT reports Reuters",
+      "category": "tech",
+      "score": 6.631
     },
     {
       "title": "Lukashenko says he warned Ukraine not to drag Belarus into war",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjE1SmNHWXhFWlBWY0gwTm5mYWNralJHUm5SbnFkai1zOVNRdFZ2YklFSHFyZXF1ZWNqWE1nODZSREN5WTJZSkRDVlpqVmxHVHVfTDl2Q2Riem9MdVZEQ0pHYWNHcDNuWDN6RnpjUjNUTlZCU01adC1JN2t3ekxYZWFvN3lJakgzdS15T2VwX05sUGpORF9BZHJWOXVLQnU4WUNEQjUxdzQ4UXAyMmpFSDhIbkZObFhLNVE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-25T15:11:22+00:00",
+      "published_at": "2026-06-25T18:51:32+00:00",
       "summary": "Lukashenko says he warned Ukraine not to drag Belarus into war Reuters",
       "category": "conflicts",
-      "score": 5.643
+      "score": 5.04
     },
     {
-      "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-      "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-25T15:05:45+00:00",
-      "summary": "Lebanon’s state-run National News Agency reports three people killed after an Israeli attack on a car in Nabatieh.",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-26T00:28:02+00:00",
+      "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
       "category": "conflicts",
-      "score": 5.575
+      "score": 4.881
     },
     {
-      "title": "Qualcomm Projects Data Center Chip Sales of $15 Billion by 2029",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnN0ZWJBUjl4LWpZbUlfVndBcDljNmRtWllYUDJTWDhNOFdkeExDWERSbTI1d0RVYUNId2l2WmVjVWk5ZDlfazNkWFh4RDk3TGVGNXdsM3htUTNqVUdZWUNaUlBGbjV5VWhPUGtwa1dFNlR1VnM0OTR5azNCQ1pPVnJRMUUyVml4ajJQQnltMHpsY0Z2dG5CNE9FUkFLUG41S0pFZjFUTzNkNE93UXpXX3dZVQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-06-25T14:20:46+00:00",
-      "summary": "Qualcomm Projects Data Center Chip Sales of $15 Billion by 2029 Bloomberg",
-      "category": "tech",
-      "score": 5.176
+      "title": "World rejection of OPEC controls could push oil below $50 a barrel",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wNlRJMGlLak9FVEs2SUhZaVcxNW1qZExScnlxZElzQ1NmLUppTDJNTmdGcnNuRnlmb3BFNExkNlBHM3I5QWtUQS1kUlZQYnIyaElUdVF4STJVU1NrUzhWZHBtRnV2QQ?oc=5",
+      "source": "Crypto Briefing",
+      "published_at": "2026-06-25T22:50:40+00:00",
+      "summary": "World rejection of OPEC controls could push oil below $50 a barrel Crypto Briefing",
+      "category": "resources",
+      "score": 4.859
     }
   ],
   "hero_history": [
+    "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
     "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say",
     "Ukraine to conduct preemptive attacks on facilities Russia uses for war, Zelenskiy says",
     "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "Google Poised to Lose Two More High-Profile AI Staffers to Anthropic",
     "Will Amazon's AI Chip Business Be a Threat to Nvidia?",
-    "Nvidia's banned AI chips double in price on China's black market, FT reports",
-    "Anthropic’s Mythos model found vulnerabilities in classified US government systems, AP reports"
+    "Nvidia's banned AI chips double in price on China's black market, FT reports"
   ]
 }

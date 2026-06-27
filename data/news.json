@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-27T07:23:11.879214+00:00",
+  "updated": "2026-06-27T12:45:20.006685+00:00",
   "hero": {
-    "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhtVHBfT0Y3bnFFSm9mMmdvYlFhelN2SkZfWWdkb0lzSkpvazRVUFdoY0l6RVVUNEZqdUIxaWtuQWZ5TXpFRzRSTHlDMkhUOS1MZ1ozVHVHSUJpZVZmQ2pmSmRPVHZSRmxqRm11RzhtLTgxbkJRZkVYeXQ4WFd4bFJxb1Z5Yi0xa2poU3U5SUZDMjVyM3p0T2dUYkRIanlGSjlPOFcyekpnbU5wd3UzY1FYQWJBUQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-26T22:37:00+00:00",
-    "summary": "US allows Anthropic to release Mythos AI to 'trusted' US organizations Reuters",
+    "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source": "TechCrunch",
+    "published_at": "2026-06-27T12:00:00+00:00",
+    "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
     "category": "tech",
-    "score": 4.584
+    "score": 5.825
   },
   "items": [
     {
-      "title": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnFfdzFOMEtRZ2xQYThDMDl3OFlWUDVFQ3VFelowLVVHUGt0TktoUHMzamJDekMzS09jaGR5RU9EaVNsNmdKR1JYSzVwbGNneUVaWWlnQzM4YnUxZGp3ZkthVlYyUGhXMUtDSjNZVC1YSGlpeDYxVjBOTkdSeGltaC15TjRqYVJiQnlxVlhjY01ZODRVQURFMjZEbVdaUHRJV2JlNklyRXRpNzAxbnVDS1dETk82WjJxLXZFdFRrSk8tTDJJZTJF?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-26T22:22:46+00:00",
-      "summary": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models Reuters",
-      "category": "tech",
-      "score": 4.539
-    },
-    {
-      "title": "US strikes Iran after attack on cargo ship",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-27T02:48:12+00:00",
-      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "category": "conflicts",
-      "score": 4.184
-    },
-    {
-      "title": "Iraq seeks quota review as OPEC restores output allocations",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWEzY19XNy03UWdvU1RQQU1GdEh2RlVHTzRwRFZBMS1QeDBYcC1ONGdOOVFWZUI4aEZmRTlmTVVTX2RHb0NQRGpLd1FKRHhBaVVyRkEtVUZZOVZNQ2dRUkxnQ0xRWWFHLXpTYmdvR0FxamU3N09rZmRPWklRanhGU3AxZDhCMHdkSVhsSzRVOEYxMkFEaTBUVGRMcnUwV1RZNE9kSkxxWjJtLU5w?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-26T17:05:44+00:00",
-      "summary": "Iraq seeks quota review as OPEC restores output allocations Reuters",
-      "category": "resources",
-      "score": 3.924
-    },
-    {
-      "title": "Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1lwcVc4a1RVM0RhenNCcVhMaHRWUzE0YTlXQm8yeExSWko5UFNlMmZXYVEzZDlHUUhlRlQ1WGp1Vy12LVZySHM3V1F0WUJTeWR0aTdINTlGTGMwTWN2UEx4NGNlT0REM2Z2VmlKcU1YU3QzYnM4bkZYSlMxd2Vud285cllVNVE?oc=5",
+      "title": "OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmF5MEZucTFsVmZudmVjU0RpalFGZHdteVFrN2dZM1F0elpFYy1xQ0x5elRSVXE3VTdueTZpdFZNdWZybFFqV1pVTkhfVlpBcC03MFZGS2RZQ0ZLNDV3a3Z2eVZVS3Bnc1NBaTJQLTVXZ213YkkzdTd0djVNNkRLclJ2YTFVeU9sUXJ1Y3FLcUVXODhVbTUxOEhtTVNfS1l5cktra0xxWXlqZw?oc=5",
       "source": "AP News",
-      "published_at": "2026-06-26T21:44:00+00:00",
-      "summary": "Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says AP News",
+      "published_at": "2026-06-27T00:59:00+00:00",
+      "summary": "OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review AP News",
+      "category": "tech",
+      "score": 4.261
+    },
+    {
+      "title": "Three killed as Ukraine and Russia trade attacks overnight",
+      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-27T11:58:54+00:00",
+      "summary": "Moscow's attacks are reported to have killed two, while Kyiv's attacks on Russia killed one.",
       "category": "conflicts",
-      "score": 3.666
+      "score": 4.129
+    },
+    {
+      "title": "Andy Burnham distanced himself from UK Prime Minister Starmer, but may be stuck with his policies",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzkyRW93T2JmY2gwaEhRWVd1LXBpSUJlUWh3UWc5cG81cE03UWdoWGVQN3JTRDZqZXM3LWU0djhURnhwNjFTX0sxalhaUHB4Y3N1UTZHOWYtMmtZVW9hUzVGZTdRa0psR3dJT01mNU13b2psRndUY0dteHFURTFOa24tMTdvTS1FdG5yZ1FQUmhkdUxGM2pRTXNRUnQ5OEtDQ2h1SU9lZTZZRFk?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-27T11:29:00+00:00",
+      "summary": "Andy Burnham distanced himself from UK Prime Minister Starmer, but may be stuck with his policies AP News",
+      "category": "politics",
+      "score": 4.078
+    },
+    {
+      "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
+      "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-27T10:35:08+00:00",
+      "summary": "Israel's Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections.",
+      "category": "politics",
+      "score": 3.896
     }
   ],
   "hero_history": [
+    "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
     "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
     "Israel and Lebanon sign framework agreement after US-brokered talks",
     "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review",
     "Ukraine decimates Russian logistics, bringing chaos to Crimea",
     "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
     "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say"
+    "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT"
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-27T01:16:39.756138+00:00",
+  "updated": "2026-06-27T07:23:11.879214+00:00",
   "hero": {
-    "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-    "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-06-26T22:55:28+00:00",
-    "summary": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
-    "category": "conflicts",
-    "score": 7.31
+    "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhtVHBfT0Y3bnFFSm9mMmdvYlFhelN2SkZfWWdkb0lzSkpvazRVUFdoY0l6RVVUNEZqdUIxaWtuQWZ5TXpFRzRSTHlDMkhUOS1MZ1ozVHVHSUJpZVZmQ2pmSmRPVHZSRmxqRm11RzhtLTgxbkJRZkVYeXQ4WFd4bFJxb1Z5Yi0xa2poU3U5SUZDMjVyM3p0T2dUYkRIanlGSjlPOFcyekpnbU5wd3UzY1FYQWJBUQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-26T22:37:00+00:00",
+    "summary": "US allows Anthropic to release Mythos AI to 'trusted' US organizations Reuters",
+    "category": "tech",
+    "score": 4.584
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-06-26T22:22:46+00:00",
       "summary": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models Reuters",
       "category": "tech",
-      "score": 5.855
+      "score": 4.539
     },
     {
-      "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1VSZnJiMmlhMUJKbENJSDIwenoyd1IyeWczZzBDVDNNSDhNWW1zem9yVndQWVZ1V3Iya3plMnVEMXVxNVo1LXRtSHhKNXptQkEtOHh5NHFWc2w2OGhRczd0TXgwNG11QnlaNFBjNnB1N0lGby0wV1QxT3pNVmdKQ21ISmcyVHdsSnRlRDJ5ZGJSckZYemNral9PVmszWjIzUmxTekZuaEVnczhlQnlMQ0Q3SDE?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-06-27T00:39:00+00:00",
-      "summary": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use Bloomberg.com",
-      "category": "tech",
-      "score": 5.825
+      "title": "US strikes Iran after attack on cargo ship",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-27T02:48:12+00:00",
+      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "category": "conflicts",
+      "score": 4.184
     },
     {
-      "title": "Burkina Faso cuts diplomatic ties with former colonial ruler France",
-      "url": "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-26T21:10:10+00:00",
-      "summary": "The military government, in power since 2022 coup, accused France of having 'neo-colonial ambitions'.",
-      "category": "politics",
-      "score": 4.732
+      "title": "Iraq seeks quota review as OPEC restores output allocations",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWEzY19XNy03UWdvU1RQQU1GdEh2RlVHTzRwRFZBMS1QeDBYcC1ONGdOOVFWZUI4aEZmRTlmTVVTX2RHb0NQRGpLd1FKRHhBaVVyRkEtVUZZOVZNQ2dRUkxnQ0xRWWFHLXpTYmdvR0FxamU3N09rZmRPWklRanhGU3AxZDhCMHdkSVhsSzRVOEYxMkFEaTBUVGRMcnUwV1RZNE9kSkxxWjJtLU5w?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-26T17:05:44+00:00",
+      "summary": "Iraq seeks quota review as OPEC restores output allocations Reuters",
+      "category": "resources",
+      "score": 3.924
     },
     {
-      "title": "Middle East War: Lebanon, Israel and US sign framework agreement in Washington",
-      "url": "https://www.france24.com/en/middle-east/20260626-lebanon-israel-us-sign-framework-agreement-in-washington",
-      "source": "France 24",
-      "published_at": "2026-06-26T18:55:13+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 4.478
+      "title": "Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1lwcVc4a1RVM0RhenNCcVhMaHRWUzE0YTlXQm8yeExSWko5UFNlMmZXYVEzZDlHUUhlRlQ1WGp1Vy12LVZySHM3V1F0WUJTeWR0aTdINTlGTGMwTWN2UEx4NGNlT0REM2Z2VmlKcU1YU3QzYnM4bkZYSlMxd2Vud285cllVNVE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-26T21:44:00+00:00",
+      "summary": "Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says AP News",
+      "category": "conflicts",
+      "score": 3.666
     }
   ],
   "hero_history": [
+    "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
     "Israel and Lebanon sign framework agreement after US-brokered talks",
     "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review",
     "Ukraine decimates Russian logistics, bringing chaos to Crimea",
     "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
     "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say",
-    "Ukraine to conduct preemptive attacks on facilities Russia uses for war, Zelenskiy says"
+    "EXCLUSIVE: Iraq warns it might leave OPEC if oil quota not raised, sources say"
   ]
 }

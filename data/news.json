@@ -1,15 +1,33 @@
 {
-  "updated": "2026-06-28T07:38:21.594508+00:00",
+  "updated": "2026-06-28T12:45:23.022809+00:00",
   "hero": {
-    "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-06-27T21:35:40+00:00",
-    "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+    "title": "Israel damaged heritage sites across south Lebanon, minister says",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlFsWjdyLTVfeVdablVHR3p5WGE2Q3g1UEdBYmRhTDlDNEM5WE82U0JRV3oyX3hWRE1BWlRwMkNKQktBNWhhVzUwVWtnOWNzUEN4R0k2djBuMHBVNTRHMVJFeW5sSnlpOW5LTjN1UXRpdEVnM3VoMnZXMGwyVXB0RFF2SEMwanJSY1p2MXk2RVZjaVNndkx5RUV0aDFPSzJEc20zTVBkSFBEalVfSE85TTN2TGxMWFRyc3c?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-28T10:31:54+00:00",
+    "summary": "Israel damaged heritage sites across south Lebanon, minister says Reuters",
     "category": "conflicts",
-    "score": 6.033
+    "score": 6.847
   },
   "items": [
+    {
+      "title": "The OpenAI Trade Isn't Microsoft Anymore. Here's Where Smart Money May Be Looking.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUYzN01uckcxZWQ5cEtVVFpBM1NKNHM3TDJBS3hJOFRQVGsxMjlsbFpnUlIwQUxwVEdLRnFyZnRIX2x2bkZocElycGdhQ3BEcVEtbUt3OUt1UDhyQXNmbzlGR2NrRF9pOXIzS19heW95dU1tYmpjQWowS3M0MG5zMnJfOHNtMUdBcEtudnlfY1VoczRleXp2MWg4Wmt2allKcTl4ZHdfMklJOWZSXzQwbXZ5RUVEYWhEbU80UkZFMldITzRWN3lWRFpLU3ViRUNaTWlPMGhqeGVKd3hVNjBxcURxSk4zd3RYSktpM04tVkZNcm13?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "2026-06-28T11:51:19+00:00",
+      "summary": "The OpenAI Trade Isn't Microsoft Anymore. Here's Where Smart Money May Be Looking. The Globe and Mail",
+      "category": "tech",
+      "score": 6.719
+    },
+    {
+      "title": "Ukraine hits two Russian oil refineries overnight",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYTFJUS10c1JERUVWMWFOZEsyR2xuRDlJNWZGQ2VvaVU3YWlxQjVzME50Nm10ZWVjMGUyNnZEZ0FjVlJldk9ydkVYNGdqdUt6UlJzWVk4c2MzM3NFMHV6ZDJuZU5XTy00YlBwZ0lmUWEtcER6OWk3eEotdmFXRTJ3STFnUVZnMlIzZllHYTFIZ1lKNkdUSzdtc0VWTXZZa1RaNmNv?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-28T08:18:17+00:00",
+      "summary": "Ukraine hits two Russian oil refineries overnight Reuters",
+      "category": "conflicts",
+      "score": 6.24
+    },
     {
       "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
@@ -17,44 +35,26 @@
       "published_at": "2026-06-28T05:23:00+00:00",
       "summary": "Google limits Meta’s use of its Gemini AI models, FT reports Reuters",
       "category": "tech",
-      "score": 5.66
+      "score": 4.573
     },
     {
-      "title": "Why some trees might fall during extreme heat",
-      "url": "https://www.bbc.co.uk/news/articles/c87241v13x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-06-28T06:07:05+00:00",
-      "summary": "Scientists are studying how trees respond to hotter, drier conditions caused by climate change.",
-      "category": "science",
-      "score": 4.332
-    },
-    {
-      "title": "IREN (NasdaqGS:IREN) Lands Microsoft And Nvidia Deals As AI Data Center Expansion Grows",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMndaX252QUpObDdHVXh2aDZoQmt2ZWthSmVOOW9lUHJoaEdjYWdPeHlENnlET3Z3WWFYVHY0ZldNQ00yaVRIRTlWT0ZRZjRhbDA2SzA0S0NXYkJINlJTb05aWERhNzJPVlhLWFFERkxiMDQ5Wm9jM1YwU0RKSlltejVWa28tQ1RMNElVdTB3bXA1eldVcTJieUJTLVVBb28?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "2026-06-28T06:07:00+00:00",
-      "summary": "IREN (NasdaqGS:IREN) Lands Microsoft And Nvidia Deals As AI Data Center Expansion Grows Yahoo Finance",
-      "category": "tech",
-      "score": 3.767
-    },
-    {
-      "title": "ASML Holding (ASML) Is The “New OPEC” Of Chips, Says Newsletter",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFpMNXhaTEFBZ1lKb1MzY3VTQU5Sc3pSeG1MdzlJLWl6QzdCOEs5Vk1ZcUc2MTJSRllQclk3U2YzUmlVQnhHeERHSERLNklDNnoxcGYtSFhrcV92YlY2QXRVOUVSMjJpMXFBRlZyVFIybnROeXdfOHhPcmJDaE52SkNTNE1CbmVOaGJSYWZHR0lIemZVazFZYjJvTE16VlFJYkZUMNIBrAFBVV95cUxOa3dZUnVpamw4ODhqSmROelZQdGhRMjJfQUwxOE9PcGtfNzRsd2Y0MG9sRk5ha0pnQ2FjeVNHdVB2VGxoS0h5ZEN3VnhlM294bzJLNGdUUTVVYkRpOEx0UEw4M3ZXclNPam9GZVlDRDVRdWNHc1p4WkdSNVJpcGZUTEVSNmdRcVhEY21QM2YwNkFkUUJxcDYzQU1wTlg0Zy10cHhJMExiVkY3R1Ft?oc=5",
-      "source": "Insider Monkey",
-      "published_at": "2026-06-28T06:51:43+00:00",
-      "summary": "ASML Holding (ASML) Is The “New OPEC” Of Chips, Says Newsletter Insider Monkey",
-      "category": "resources",
-      "score": 3.731
+      "title": "Serbia’s Vučić to resign, opening path to early elections amid political tensions",
+      "url": "https://www.france24.com/en/video/20260628-serbia-s-vu%C4%8Di%C4%87-to-resign-opening-path-to-early-elections-amid-political-tensions",
+      "source": "France 24",
+      "published_at": "2026-06-28T11:31:43+00:00",
+      "summary": "Serbia’s President Aleksandar Vučić has announced that he will resign within weeks, paving the way for early elections. There is speculation that the populist leader could attempt to move into the more powerful role of Prime Minister. The announcement comes after more than a year",
+      "category": "politics",
+      "score": 4.467
     }
   ],
   "hero_history": [
+    "Israel damaged heritage sites across south Lebanon, minister says",
     "Israel strikes southern Lebanon as Hezbollah condemns new deal",
     "Serbian President Vucic says he will resign within weeks",
     "How is framework agreement with Lebanon viewed in Israel?",
     "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
     "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
     "Israel and Lebanon sign framework agreement after US-brokered talks",
-    "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review",
-    "Ukraine decimates Russian logistics, bringing chaos to Crimea"
+    "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review"
   ]
 }

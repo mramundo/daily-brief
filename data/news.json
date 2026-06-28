@@ -1,41 +1,41 @@
 {
-  "updated": "2026-06-28T12:45:23.022809+00:00",
+  "updated": "2026-06-28T18:41:28.156204+00:00",
   "hero": {
-    "title": "Israel damaged heritage sites across south Lebanon, minister says",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlFsWjdyLTVfeVdablVHR3p5WGE2Q3g1UEdBYmRhTDlDNEM5WE82U0JRV3oyX3hWRE1BWlRwMkNKQktBNWhhVzUwVWtnOWNzUEN4R0k2djBuMHBVNTRHMVJFeW5sSnlpOW5LTjN1UXRpdEVnM3VoMnZXMGwyVXB0RFF2SEMwanJSY1p2MXk2RVZjaVNndkx5RUV0aDFPSzJEc20zTVBkSFBEalVfSE85TTN2TGxMWFRyc3c?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-28T10:31:54+00:00",
-    "summary": "Israel damaged heritage sites across south Lebanon, minister says Reuters",
+    "title": "Ukraine says it attacked two Russian oil refineries",
+    "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-06-28T13:36:15+00:00",
+    "summary": "At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities.",
     "category": "conflicts",
-    "score": 6.847
+    "score": 7.493
   },
   "items": [
     {
-      "title": "The OpenAI Trade Isn't Microsoft Anymore. Here's Where Smart Money May Be Looking.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUYzN01uckcxZWQ5cEtVVFpBM1NKNHM3TDJBS3hJOFRQVGsxMjlsbFpnUlIwQUxwVEdLRnFyZnRIX2x2bkZocElycGdhQ3BEcVEtbUt3OUt1UDhyQXNmbzlGR2NrRF9pOXIzS19heW95dU1tYmpjQWowS3M0MG5zMnJfOHNtMUdBcEtudnlfY1VoczRleXp2MWg4Wmt2allKcTl4ZHdfMklJOWZSXzQwbXZ5RUVEYWhEbU80UkZFMldITzRWN3lWRFpLU3ViRUNaTWlPMGhqeGVKd3hVNjBxcURxSk4zd3RYSktpM04tVkZNcm13?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "2026-06-28T11:51:19+00:00",
-      "summary": "The OpenAI Trade Isn't Microsoft Anymore. Here's Where Smart Money May Be Looking. The Globe and Mail",
+      "title": "Australia's Firmus Technologies strikes AI access deal with Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXhFdWlpT3kxWEM2cXkySklsX0FuOVdOU1JadkNMVVNLTTIxd0lmOUpHamVfSzBHdnlTdm93VW83cm9lZ3oxQ3RyZTZ5Q2dUdVJTYUZJQWxjSGNueXJLUVJ6aHdmOFBvQVdoNVBPckN6b2ZTLThRNVJsOU0yM2w2TWxDdklkR2JHRDVmY29kYnhMdGdqT21jZDhDUkU1dTJ3ZDNKUUdtWW5Nd2x0bVgyN1ZGdk0zR2NOZjRSZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-28T14:03:43+00:00",
+      "summary": "Australia's Firmus Technologies strikes AI access deal with Nvidia Reuters",
       "category": "tech",
-      "score": 6.719
+      "score": 5.447
     },
     {
-      "title": "Ukraine hits two Russian oil refineries overnight",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYTFJUS10c1JERUVWMWFOZEsyR2xuRDlJNWZGQ2VvaVU3YWlxQjVzME50Nm10ZWVjMGUyNnZEZ0FjVlJldk9ydkVYNGdqdUt6UlJzWVk4c2MzM3NFMHV6ZDJuZU5XTy00YlBwZ0lmUWEtcER6OWk3eEotdmFXRTJ3STFnUVZnMlIzZllHYTFIZ1lKNkdUSzdtc0VWTXZZa1RaNmNv?oc=5",
+      "title": "Austria urges Europe to host Anthropic following US curbs on AI access",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2VmbzlqUks2ZDZGQ2xYcDk0ZEVFS0hCSXFxMUg2amtkOWJmSDkxSV9mb0xRelFJSUMteUJFaG5YS2pSZHJfdVEzeXRPY3dYd2lSejg0SnFvQjhXU0Noak1fSUxuVnUxdDBpWUNKc3BtVTFKTHNSbnFfRkQ0aUY4dENia0pmOGNVeUZDeVVuZWdpS1hqV0R6S3dGcjJEbkV4YVNMS19hMEg2WFFUbGx0UEUtcmRkX0hnWkZz?oc=5",
       "source": "Reuters",
-      "published_at": "2026-06-28T08:18:17+00:00",
-      "summary": "Ukraine hits two Russian oil refineries overnight Reuters",
+      "published_at": "2026-06-28T13:49:38+00:00",
+      "summary": "Austria urges Europe to host Anthropic following US curbs on AI access Reuters",
+      "category": "tech",
+      "score": 5.394
+    },
+    {
+      "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+      "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-28T18:05:18+00:00",
+      "summary": "Anger over deal that does not force Israeli troops to withdraw from occupied land after months of deadly attacks.",
       "category": "conflicts",
-      "score": 6.24
-    },
-    {
-      "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-28T05:23:00+00:00",
-      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports Reuters",
-      "category": "tech",
-      "score": 4.573
+      "score": 3.564
     },
     {
       "title": "Serbia’s Vučić to resign, opening path to early elections amid political tensions",
@@ -44,17 +44,17 @@
       "published_at": "2026-06-28T11:31:43+00:00",
       "summary": "Serbia’s President Aleksandar Vučić has announced that he will resign within weeks, paving the way for early elections. There is speculation that the populist leader could attempt to move into the more powerful role of Prime Minister. The announcement comes after more than a year",
       "category": "politics",
-      "score": 4.467
+      "score": 3.488
     }
   ],
   "hero_history": [
+    "Ukraine says it attacked two Russian oil refineries",
     "Israel damaged heritage sites across south Lebanon, minister says",
     "Israel strikes southern Lebanon as Hezbollah condemns new deal",
     "Serbian President Vucic says he will resign within weeks",
     "How is framework agreement with Lebanon viewed in Israel?",
     "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
     "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
-    "Israel and Lebanon sign framework agreement after US-brokered talks",
-    "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review"
+    "Israel and Lebanon sign framework agreement after US-brokered talks"
   ]
 }

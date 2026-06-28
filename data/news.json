@@ -1,42 +1,15 @@
 {
-  "updated": "2026-06-27T18:41:56.516333+00:00",
+  "updated": "2026-06-28T01:22:57.791516+00:00",
   "hero": {
-    "title": "How is framework agreement with Lebanon viewed in Israel?",
-    "url": "https://www.aljazeera.com/news/2026/6/27/how-is-framework-agreement-with-lebanon-viewed-in-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-06-27T17:21:31+00:00",
-    "summary": "Israel, Lebanon and US have signed deal aimed at ending hostilities between Israel and Hezbollah, but group rejects it.",
-    "category": "conflicts",
-    "score": 6.195
+    "title": "Serbian President Vucic says he will resign within weeks",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajRQNTlFVUtNb1ItSGkyUTQ4WUE0VkcyUWtBRHdQQk1FeUNOQmJSbFJoRFdWV3IyX0Qtb0JyOFZ3YkxxOEZ1WjNpSFRDWF8xZFJCYklNRWYyRjFfUnNaaUNZc1EyeDg3LUFEMXdWTnc4UmdEdDhHWlpscE1felVGQVVJaWZCVXlZb0lTM1UyamRlMk50SElvQ25fSTRQZUh3Q1pTMzhqaXpJYmF1ZHp3eUpxdTNXalgt?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-06-27T22:00:31+00:00",
+    "summary": "Serbian President Vucic says he will resign within weeks Reuters",
+    "category": "politics",
+    "score": 4.783
   },
   "items": [
-    {
-      "title": "Lebanon’s deal with Israel requires Hezbollah to disarm. That might be difficult",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWFkZF9wUl9TeDFXU3VOeF9MZEFtakdEcTRQdE9xdkNUOEsxcWhHNXl4OUZkVGZ3R1g1elFQT2h1WFZXVEpYdzFGSkstdm9DUGZadzFLcTBZRldadlRZQkREZFFxWnZvX0JSdG5sUGRIZzJvMXBmU2JTVHh4VFNuR2tSU3NoUVFNcmZTTGlPSTVWd09tM3VJYkhvREJQbGlYTXc?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-27T16:50:00+00:00",
-      "summary": "Lebanon’s deal with Israel requires Hezbollah to disarm. That might be difficult AP News",
-      "category": "conflicts",
-      "score": 6.112
-    },
-    {
-      "title": "This US uranium miner just became a critical minerals play. But is the stock a buy?",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2lhbG1RTGQwdnB6Z09iRFNxNjY4TlZ2OHBGVHJCQzMtYU9MclVucjZnRFYxQ1RxSTVRSzJBdldzZkZRMnY0MXlOMUNjY2JrOUxubkE5RThuWkozd1pEYUYzV1ZCdHdJeDhZRTJmS01yTjVERFVva2RHMkxhX0o0emItcF9zOEwydGY2cHRaWS1obUpybDFhb2gyLVhGMkUwUjV5NmliWlg1MU9wM3ZLZ0l2eHlqblJNLVR6UjZrVFlaRnZ2dGhEbXdVQ2ZydV84d3Y3bURjcUxXUGtBemRJTDM0XzNySHdJVUI1dw?oc=5",
-      "source": "MSN",
-      "published_at": "2026-06-27T18:11:15+00:00",
-      "summary": "This US uranium miner just became a critical minerals play. But is the stock a buy? MSN",
-      "category": "resources",
-      "score": 5.853
-    },
-    {
-      "title": "US close to allowing Anthropic to restore Fable 5 model, Axios reports",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNElxbUtySlRKZDhGb2Eza3FzVm01SUdIamgwUHo3bHFtZ0dUOF9USlE1QXNKc1lPalZWS1NqOU5qbEZBWnRHVEFuVlQyLVIxMnJTSXlSVl83RlBYSl9WNXVFb0IyRG9TdzZqUjd6UTdQYjJYSm9hWm9ZNjNmMi1rbHZuTi1fWHZHLU1hdzdSU1pYX2tvcE50YnFJaXlMZ3ZkSlliaVpKU2U2TEVS?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-27T13:13:12+00:00",
-      "summary": "US close to allowing Anthropic to restore Fable 5 model, Axios reports Reuters",
-      "category": "tech",
-      "score": 5.665
-    },
     {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
@@ -44,17 +17,44 @@
       "published_at": "2026-06-27T16:45:09+00:00",
       "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
       "category": "tech",
-      "score": 5.543
+      "score": 4.196
+    },
+    {
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-27T21:35:40+00:00",
+      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "category": "conflicts",
+      "score": 3.942
+    },
+    {
+      "title": "Israeli drone strike kills Palestinian siblings in a Gaza tent camp",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDNFbGxEcUI1YXd4Ti12SVVHY0tvUWIzdVZncURNLTg3U0dSNjhKS2NLME96dk5PanNsYTVqUndHNHZrRFdjRUw3RmgwUk80a2NxcDNybG1ySUc3QjMwcEVvRnUycEVIMlJoREh3V011WVg5YVJoM2VtSHVSc0ctZVlfY0FBNW9YMzUxa1ozQzR2a3BYSHo0Z2FSUFF2MWdZM0tLb2g1VVB6UzJURkg4cm51Yw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-27T19:01:00+00:00",
+      "summary": "Israeli drone strike kills Palestinian siblings in a Gaza tent camp AP News",
+      "category": "conflicts",
+      "score": 3.848
+    },
+    {
+      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-06-28T01:00:00+00:00",
+      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ",
+      "category": "tech",
+      "score": 3.456
     }
   ],
   "hero_history": [
+    "Serbian President Vucic says he will resign within weeks",
     "How is framework agreement with Lebanon viewed in Israel?",
     "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
     "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
     "Israel and Lebanon sign framework agreement after US-brokered talks",
     "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review",
     "Ukraine decimates Russian logistics, bringing chaos to Crimea",
-    "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-    "The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
+    "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran"
   ]
 }

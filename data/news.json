@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-28T01:22:57.791516+00:00",
+  "updated": "2026-06-28T07:38:21.594508+00:00",
   "hero": {
-    "title": "Serbian President Vucic says he will resign within weeks",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajRQNTlFVUtNb1ItSGkyUTQ4WUE0VkcyUWtBRHdQQk1FeUNOQmJSbFJoRFdWV3IyX0Qtb0JyOFZ3YkxxOEZ1WjNpSFRDWF8xZFJCYklNRWYyRjFfUnNaaUNZc1EyeDg3LUFEMXdWTnc4UmdEdDhHWlpscE1felVGQVVJaWZCVXlZb0lTM1UyamRlMk50SElvQ25fSTRQZUh3Q1pTMzhqaXpJYmF1ZHp3eUpxdTNXalgt?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-27T22:00:31+00:00",
-    "summary": "Serbian President Vucic says he will resign within weeks Reuters",
-    "category": "politics",
-    "score": 4.783
+    "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+    "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-06-27T21:35:40+00:00",
+    "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+    "category": "conflicts",
+    "score": 6.033
   },
   "items": [
     {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-27T16:45:09+00:00",
-      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOEhSTWNhT0E1aGtldms3cmlxVjFlOVl5Z2t1ZTRTU2hjb2FSV1ZfczIwOGMwU0JMU2lqNTI1THhWU0UyS1k5aGVrNjBlYy1Iek9TNW5DOXVmM2ZiUmUxaGVoZ0N0cDFLZTNXejVLWExrV01nR2hFY2N2c0FqT1JvM3V1R0l1eTlwLWVPbkg4SHZ2SzJRczc2dDBFaC1YQ1Y3dkE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-28T05:23:00+00:00",
+      "summary": "Google limits Meta’s use of its Gemini AI models, FT reports Reuters",
       "category": "tech",
-      "score": 4.196
+      "score": 5.66
     },
     {
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-06-27T21:35:40+00:00",
-      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "category": "conflicts",
-      "score": 3.942
+      "title": "Why some trees might fall during extreme heat",
+      "url": "https://www.bbc.co.uk/news/articles/c87241v13x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-06-28T06:07:05+00:00",
+      "summary": "Scientists are studying how trees respond to hotter, drier conditions caused by climate change.",
+      "category": "science",
+      "score": 4.332
     },
     {
-      "title": "Israeli drone strike kills Palestinian siblings in a Gaza tent camp",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDNFbGxEcUI1YXd4Ti12SVVHY0tvUWIzdVZncURNLTg3U0dSNjhKS2NLME96dk5PanNsYTVqUndHNHZrRFdjRUw3RmgwUk80a2NxcDNybG1ySUc3QjMwcEVvRnUycEVIMlJoREh3V011WVg5YVJoM2VtSHVSc0ctZVlfY0FBNW9YMzUxa1ozQzR2a3BYSHo0Z2FSUFF2MWdZM0tLb2g1VVB6UzJURkg4cm51Yw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-27T19:01:00+00:00",
-      "summary": "Israeli drone strike kills Palestinian siblings in a Gaza tent camp AP News",
-      "category": "conflicts",
-      "score": 3.848
-    },
-    {
-      "title": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVFScDFiaWE0dmRBMlFJZzZacVZhT0ZLQXBkcHA1UExXT1FjRHk3LXN4YnREVHdleDR0cHl0eUxiTGdka1gxUERmYnQyd1ZiOUZEaUM5bkozSXp6RVlEWjJ6OXBZbnA5TEpPaDExd0dQUWxmbFFDSDJ3ekJTNWpCOUdlZ2U?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-06-28T01:00:00+00:00",
-      "summary": "China Has Matched Anthropic in Cybersecurity, Resetting AI Race WSJ",
+      "title": "IREN (NasdaqGS:IREN) Lands Microsoft And Nvidia Deals As AI Data Center Expansion Grows",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMndaX252QUpObDdHVXh2aDZoQmt2ZWthSmVOOW9lUHJoaEdjYWdPeHlENnlET3Z3WWFYVHY0ZldNQ00yaVRIRTlWT0ZRZjRhbDA2SzA0S0NXYkJINlJTb05aWERhNzJPVlhLWFFERkxiMDQ5Wm9jM1YwU0RKSlltejVWa28tQ1RMNElVdTB3bXA1eldVcTJieUJTLVVBb28?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-06-28T06:07:00+00:00",
+      "summary": "IREN (NasdaqGS:IREN) Lands Microsoft And Nvidia Deals As AI Data Center Expansion Grows Yahoo Finance",
       "category": "tech",
-      "score": 3.456
+      "score": 3.767
+    },
+    {
+      "title": "ASML Holding (ASML) Is The “New OPEC” Of Chips, Says Newsletter",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeFpMNXhaTEFBZ1lKb1MzY3VTQU5Sc3pSeG1MdzlJLWl6QzdCOEs5Vk1ZcUc2MTJSRllQclk3U2YzUmlVQnhHeERHSERLNklDNnoxcGYtSFhrcV92YlY2QXRVOUVSMjJpMXFBRlZyVFIybnROeXdfOHhPcmJDaE52SkNTNE1CbmVOaGJSYWZHR0lIemZVazFZYjJvTE16VlFJYkZUMNIBrAFBVV95cUxOa3dZUnVpamw4ODhqSmROelZQdGhRMjJfQUwxOE9PcGtfNzRsd2Y0MG9sRk5ha0pnQ2FjeVNHdVB2VGxoS0h5ZEN3VnhlM294bzJLNGdUUTVVYkRpOEx0UEw4M3ZXclNPam9GZVlDRDVRdWNHc1p4WkdSNVJpcGZUTEVSNmdRcVhEY21QM2YwNkFkUUJxcDYzQU1wTlg0Zy10cHhJMExiVkY3R1Ft?oc=5",
+      "source": "Insider Monkey",
+      "published_at": "2026-06-28T06:51:43+00:00",
+      "summary": "ASML Holding (ASML) Is The “New OPEC” Of Chips, Says Newsletter Insider Monkey",
+      "category": "resources",
+      "score": 3.731
     }
   ],
   "hero_history": [
+    "Israel strikes southern Lebanon as Hezbollah condemns new deal",
     "Serbian President Vucic says he will resign within weeks",
     "How is framework agreement with Lebanon viewed in Israel?",
     "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
     "US allows Anthropic to release Mythos AI to 'trusted' US organizations",
     "Israel and Lebanon sign framework agreement after US-brokered talks",
     "OpenAI limits its newest ChatGPT product to Trump-approved customers during cybersecurity review",
-    "Ukraine decimates Russian logistics, bringing chaos to Crimea",
-    "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran"
+    "Ukraine decimates Russian logistics, bringing chaos to Crimea"
   ]
 }

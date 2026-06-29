@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-29T08:07:43.909502+00:00",
+  "updated": "2026-06-29T13:47:17.236350+00:00",
   "hero": {
-    "title": "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHUwNUNKRHR5ZkZfZXlWcVpTb1BSQXd0U0RDT3Z2UVA1ckJ1b1FwSHZmVnhOTTAyejZveTRsODZtOTE4RXVzX3VDN0pDNGsxVjFVWnFYVHFvRUV2SUk0S3RaZUVTcm5oeXB2WEpsSmRJMzE4VnRyRnZTcG5xdmotTGtEcjRpZVJodG1URXVGYm5qQQ?oc=5",
+    "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0F6dXd5RmdVQ3k3UDVULUxVNEsyWmd0LWdIT0FvZENuYlVCcE1lalFGT0xVS2lWVUN1MHcwWVJXT0d1R3JUNlZuekJLZGNkYVNVTXZVcFZ3Q0RvaFZ0b1N4aDBtdFVkNzNJTk1yRmVLaHJYNG13cEEtcm40YnZfbjlZbjREUnJSSTZCZi16Ym42ZW9BN2NRV0FFeTd5Y3poRExN?oc=5",
     "source": "AP News",
-    "published_at": "2026-06-29T04:39:00+00:00",
-    "summary": "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead AP News",
-    "category": "tech",
-    "score": 11.799
+    "published_at": "2026-06-29T10:37:00+00:00",
+    "summary": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say AP News",
+    "category": "conflicts",
+    "score": 4.824
   },
   "items": [
     {
-      "title": "Austria urges Europe to host Anthropic after US restricts access to AI",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXJNenJRa1RsT3BKM1ltZ2E1cEx0X1VmNkhwRkFpWkVhZnVVUmtCQ3YzV2JJNEhpQ3N2LWJVSXg2MlMzWWVvbkpoNGJQZnVJREh0UVVPOFpSSkpwNlZocHc2Mk1ULVEtN0dXM1lacmRLOUNobFdTUi12UGY5cXRwRnhsalN4MG5lamM40gGLAUFVX3lxTFBVck16clFrVGxPcEozWW1nYTVwTHRfVWY2SHBGQWlaRWFmdVVSa0JDdjNXYkk0SGlDc3YtYlVJeDYyUzNZZW9uSmg0YlBmdUlESHRRVU84WlJKSnA2VmhwdzYyTVQtUS03R1czWVpyZEs5Q2hsV1NSLXZQZjlxdHBGeGxqU3gwbmVqYzg?oc=5",
-      "source": "Українські Національні Новини (УНН)",
-      "published_at": "2026-06-29T05:48:59+00:00",
-      "summary": "Austria urges Europe to host Anthropic after US restricts access to AI Українські Національні Новини (УНН)",
-      "category": "tech",
-      "score": 6.493
+      "title": "Altillion Secures $5 Million Seed Round to Extract Iodine and Critical Minerals from Oilfield Wastewater and Industrial Brines",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNWE1XM0NOZ1VubzgzUUxPOHZmeVBVdm1VemxNb1hjckJkNFh1WGNoaXozeEhnTzVCQTZ2RTJfcVJiV1ZRNTVHcmVmNEQ5NjZSRlcycndfT2JRa08wcUJRQlhtZmI1dUNPUmV1YXVLTXNEdW53UEVBY1psbU9Fd1IyeVJuTmIyY3NtSWNkU1NMMVlQbnJraGp6RF85WkVqbk5zd2kyZjNaM0VRMmZQaUF4YTNxWHllZnJaWUNiRHJoWUtuT1VXbkJXZjBRRExrRjRvRTlUVEJQd2ZEaVRxOUJQMUtSS0hhNjFiRW9CVTZPUG1lMENtcExsNl9yLXJfYllfREpoMUlabXhIMEI4TllHdENBMkhmNzNwbWJhTkZSdGU0STdlZkVqLVc3d3ZwejlhVVJkb1NNZ0RCOGM?oc=5",
+      "source": "lincolnjournal.com",
+      "published_at": "2026-06-29T13:24:48+00:00",
+      "summary": "Altillion Secures $5 Million Seed Round to Extract Iodine and Critical Minerals from Oilfield Wastewater and Industrial Brines lincolnjournal.com",
+      "category": "resources",
+      "score": 4.553
     },
     {
-      "title": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-29T02:56:00+00:00",
-      "summary": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh Reuters",
-      "category": "finance",
-      "score": 4.292
-    },
-    {
-      "title": "Germany news: Temperatures plunge after historic heat wave",
-      "url": "https://www.dw.com/en/germany-news-temperatures-plunge-after-historic-heat-wave/live-77748142?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-06-29T07:57:00+00:00",
-      "summary": "A record-breaking heat wave has moved on, with temperatures sinking rapidly amid many storms. The foreign minister, Johann Wadephul, is heading to Washington for talks with his US counterpart, with NATO issues in focus.",
+      "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
+      "url": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-06-29T12:04:30+00:00",
+      "summary": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.",
       "category": "politics",
-      "score": 4.233
+      "score": 4.297
     },
     {
-      "title": "Skydiving plane crash kills 11 in northeastern France",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_skydiving-plane-crash-kills-11-in-france-290626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-29T05:35:37+00:00",
-      "summary": "11 people were killed when a plane belonging to a parachuting school crashed in Tomblaine, France.",
+      "title": "Israeli strike hits a tent in central Gaza, killing 3, including a child",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSGw4TkJCNUpfellkLVZuMWludlVPMnpDMFJ3OS1WcDRWVHNyUks0MjB2ZERaOXYwQ3BIa3I3VzU1VWhjMHFES0tVZG5tbDdjbGllN05xNWtyZGd1Z2J6cy1tQ01XNTVWMjNtUUFXUk5LQ1ZiNXZiZDZqamRuaHNWRkQ2SnJ4UVRCTWFxb2dMR1A5cVctaVhyYnpmclVUZw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-29T12:42:00+00:00",
+      "summary": "Israeli strike hits a tent in central Gaza, killing 3, including a child AP News",
       "category": "conflicts",
-      "score": 4.21
+      "score": 4.11
+    },
+    {
+      "title": "Google Cloud, OpenAI, Anthropic: AI Deployment Wars!",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnRDd3Y2OS1vSjM3X0pnMFFRVWp4RHRMckJtQzFOd2k0Vm1iSjZ0SWxiVkF1bnRBZjU4bDktMXJzZkE5YzNiMG1fREJ2WGZNVTB3N0k0N0doc0xtM2psUmVrMlA3SUdPVzUyWE9MUG1VVFFqNTZTNjVnX3pRS1h6bTRSZW5BYnJSS2tpdGh0Sll1SEE?oc=5",
+      "source": "Cloud Wars",
+      "published_at": "2026-06-29T11:30:00+00:00",
+      "summary": "Google Cloud, OpenAI, Anthropic: AI Deployment Wars! Cloud Wars",
+      "category": "tech",
+      "score": 4.105
     }
   ],
   "hero_history": [
+    "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
     "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead",
     "Australia's Firmus Technologies strikes AI access deal with Nvidia",
     "Ukraine says it attacked two Russian oil refineries",
     "Israel damaged heritage sites across south Lebanon, minister says",
     "Israel strikes southern Lebanon as Hezbollah condemns new deal",
     "Serbian President Vucic says he will resign within weeks",
-    "How is framework agreement with Lebanon viewed in Israel?",
-    "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on"
+    "How is framework agreement with Lebanon viewed in Israel?"
   ]
 }

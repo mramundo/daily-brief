@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-29T18:57:15.118952+00:00",
+  "updated": "2026-06-30T01:18:12.199189+00:00",
   "hero": {
-    "title": "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3RYbGpNR0F5cmx2NUpyZXBxWmJLMkswdlBDVVkxS1VVbTZkaDJjMG10UFcwbzFnckJ5c1NJcHNXVi1rX2hubjN6ODYtU2FWX2dVOG9RVWhoOEtCcVBScF9OT2thZHVuTXk2aXUxeTViVlJTc3pVTnhOaWJPV0U4bWRIelk2cXpQZEtMUm9TbUFwNWFQaWd6YWtUY3RWME9qZmhCcURHcGhPUW9XclJjcUVOcWxaOC1mb0N2WTN2a29KS25yRXc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-06-29T14:14:37+00:00",
-    "summary": "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment Reuters",
-    "category": "resources",
-    "score": 7.019
+    "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+    "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published_at": "2026-06-29T23:08:44+00:00",
+    "summary": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+    "category": "finance",
+    "score": 5.555
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-06-29T18:10:26+00:00",
       "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
       "category": "tech",
-      "score": 6.651
+      "score": 5.105
     },
     {
-      "title": "UK’s prime minister-in-waiting vows to shake up politics",
-      "url": "https://www.aljazeera.com/video/2026/6/29/uks-prime-minister-in-waiting-vows-to-shake-up-politics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-06-29T17:31:57+00:00",
-      "summary": "Andy Burnham, Britain’s likely next leader, vowed to enact radical change to the nation’s politics during a speech.",
-      "category": "politics",
-      "score": 5.292
-    },
-    {
-      "title": "Anthropic launches Claude models on Microsoft Azure powered by NVIDIA GB300 GPUs",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUjZ5QnE2ZVRsM3VKYTVkRTNDUW94ZF92MWhsQXByUVhPTzF0azNTRmJBSkY0czI0SFR6dVEzb1hDZGdKbVJBZXBOVTJpc0xUYzF4Sm5qLUtqQ3U3MHYxbzBEc2ZWblVSQzV3M1VFSUd4WDIyclloVzVjOXNjVERVRDhFTGgyNnNULXdVcTY5SkxKc2l6Y2RRRWRBQ2FDZ1RuMWJlUXpMbHd2TjlrVzJpN3F3Qnhabm00aG9ab00zMGNLeWcwanpPQVg2SVN5MDNhX01V?oc=5",
-      "source": "Investing.com",
-      "published_at": "2026-06-29T17:51:11+00:00",
-      "summary": "Anthropic launches Claude models on Microsoft Azure powered by NVIDIA GB300 GPUs Investing.com",
-      "category": "tech",
-      "score": 4.792
-    },
-    {
-      "title": "Mapping Earth’s Observations, featuring Betsy Ford",
-      "url": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/",
+      "title": "NASA, SBA Announce New Initiative to Scale American Space Economy",
+      "url": "https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/",
       "source": "NASA",
-      "published_at": "2026-06-29T15:16:44+00:00",
-      "summary": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It’s some of the most consequential data NASA produces, informing science, policy, agriculture",
+      "published_at": "2026-06-29T20:39:57+00:00",
+      "summary": "NASA and the U.S. Small Business Administration (SBA) launched the SBIC-NASA Initiative on Monday to increase investment in American manufacturers of industrial components and providers of technologies critical to space exploration to support a sustained presence on the Moon and",
       "category": "science",
-      "score": 4.673
+      "score": 5.051
+    },
+    {
+      "title": "Gov. Newsom expands AI’s role in state government with new Anthropic partnership",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVF94aExfMldlQkVOQ3ZwN0ljM3k3aDVnekNRX3BEdlJ2WFZGQllxNjlsQXZYbWgyNnhTbXlBaUxNY2FnOVZUbU8yb2xaUkVrVDVmdk90RkFyTFEwbXNQQ052NVUyVlYtbmZ4Z05FMUgzM2JXeHdqelNKemlYWHVmNUV2UW13eGIxUzlZdWNzUXVpZi1zWThZMVNWV2RZZFJndWtpZ3JDYjRuS3Rad0J5VkJ4U2JQSnRzSjYtWGFNS3FlNzVEbmFwR0VHaFUxRXBMWllyRUlYb2VvLU1vT1dJaXhQMnRUVW1MZWNYU0hZMEFycTZKVlZSWWZlbEt1UXhZ0gGGAkFVX3lxTE9uOFJqLU1udGJtakxzbklfVlVKWThoUlByenRvOXdEY3l2UjBWREI4OVA4YkN2NDFiQWU0ODlUNGFrS015bmlOWEFEMXhvOFJabFFuRXJjLWkwa0NSNFNNTTNWT3hHRG4yZlNKQzA5ZVRFSnhGVDNCMkdhaTZzNkVmbVVrRG5VLXYxeG1VdUtyYmJOQ093OWNVX25kZ25BQmt1QzhLT3VqNG5LN19NckFvWEo3U091SHMyVVlDZWg5RkdKaGh2U2hOMm1adWdydXdYZVEyR21FZ1JnUzlhNHlIeTUtY0xqZGRib1FhM19IekVDOUZYLTNHOUctVzh4OXdILUI3ZGc?oc=5",
+      "source": "Hanford Sentinel",
+      "published_at": "2026-06-29T22:54:00+00:00",
+      "summary": "Gov. Newsom expands AI’s role in state government with new Anthropic partnership Hanford Sentinel",
+      "category": "tech",
+      "score": 4.184
+    },
+    {
+      "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-06-29T23:29:41+00:00",
+      "summary": "Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza.",
+      "category": "conflicts",
+      "score": 3.955
     }
   ],
   "hero_history": [
+    "Homes harder to sell as high mortgage rates frustrate buyers",
     "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment",
     "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
     "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead",
     "Australia's Firmus Technologies strikes AI access deal with Nvidia",
     "Ukraine says it attacked two Russian oil refineries",
     "Israel damaged heritage sites across south Lebanon, minister says",
-    "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-    "Serbian President Vucic says he will resign within weeks"
+    "Israel strikes southern Lebanon as Hezbollah condemns new deal"
   ]
 }

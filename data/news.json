@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-30T07:36:10.532879+00:00",
+  "updated": "2026-06-30T12:58:12.631344+00:00",
   "hero": {
-    "title": "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE8wWm9URTJrXzMwc0xQakVNdjBRV0kzenJvOFN3OUZDLS1DaXFtMWVHWkpnVFRVNVBWMUNad2FmU0piSDhSaGpJNnRSZ1ZWaWxBcGhOSlRWcTlQTjNXUHB2TXlDbWZRSjRYTEdMeVRPM1lHZTB5Nk5KQmZPcGIwWTIzZHFJbHhBaEFRc3h5d2czZU5SMUg5MDI5RlU5dTRrWHdRUVFoaUdyS1ZvZFg2eEg2UnRwZw?oc=5",
-    "source": "Bloomberg",
-    "published_at": "2026-06-30T02:30:00+00:00",
-    "summary": "Super Micro Raided as Taiwan Expands Chip Smuggling Probe Bloomberg",
-    "category": "tech",
-    "score": 5.074
+    "title": "ECB publishes indicative operational calendars for 2028",
+    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+    "source": "ECB",
+    "published_at": "2026-06-30T08:00:00+00:00",
+    "summary": "A focused recap of the day's biggest story, sourced from authoritative outlets.",
+    "category": "finance",
+    "score": 4.252
   },
   "items": [
     {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-29T18:10:26+00:00",
-      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "title": "Chinese AI, chip firms are driving an onshore IPO rebound",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmRYYVFRR0pYUExod3VQQS0yUGVhTWx2SkhCdHE1UnRoOC1DaVlkMUdtdk9uTFlWcXoyWmpIemNnbjViem1ydW83ZGNRTTJBT1ppaF9SczNreXo3RmlHblBHbHFOU09YU3h0U2N2QmZGZ0Rqbkd0aDFpNGRITkVzNGVKSnlnbHYzcW5GZWVpOF9fU3ktbWVIbGt1UzladXB1ckE0QVpUbFEzdEI4MVJSQUJ3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-30T08:55:22+00:00",
+      "summary": "Chinese AI, chip firms are driving an onshore IPO rebound Reuters",
       "category": "tech",
-      "score": 3.926
+      "score": 4.238
     },
     {
-      "title": "NASA, SBA Announce New Initiative to Scale American Space Economy",
-      "url": "https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/",
-      "source": "NASA",
-      "published_at": "2026-06-29T20:39:57+00:00",
-      "summary": "NASA and the U.S. Small Business Administration (SBA) launched the SBIC-NASA Initiative on Monday to increase investment in American manufacturers of industrial components and providers of technologies critical to space exploration to support a sustained presence on the Moon and",
-      "category": "science",
-      "score": 3.885
+      "title": "India's Russian oil imports to hit record high in June, data shows",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTg0b2I5cktJY1dTMGt5ZmtGcEZLUXZ1S0M1NGY4TlhTT1JPWTAtLUt5OE5YVXlpT2VzTlUteU1FYmRTZ3MtMlNCSDhjdDRNYmZweUwwUExjazAtQTJKNl9NSlhsX2ZRZmRLeUJ5cGttajRWLWZ2bjJ5Mm0wclh6b0p1MUFyU1RqcGczMk1kV2s0Q1VJcHYzOU9wSkw2d3hWSmNqTlVSdDlxLXJRWDZF?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-30T10:16:09+00:00",
+      "summary": "India's Russian oil imports to hit record high in June, data shows Reuters",
+      "category": "conflicts",
+      "score": 3.969
     },
     {
-      "title": "Asian Equities Climb as Tech Rebounds, Yen Weakens: Markets Wrap",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXFjSy0zeUlySUxPcVNhQ2x3T2lnTGdpMEJTM1phbi1WcGtQZVFFa2J5TVBEVDFnMV9sbGhpemVxSHphNnFoVFd4cXMyODZCVXFfaUU3OTgxdWpYTm1HN2Z2QklRaDI0WXV6aVJnODlCOTI0dlZUYVN3aEU4dHBKV09IbmZ4S3o0eE5DTmNNZUhLWjZ1YlpJY0lUSVpScmxCc3BZUXRzLV9EcEhWMGlYNWVXMA?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-06-30T05:58:00+00:00",
-      "summary": "Asian Equities Climb as Tech Rebounds, Yen Weakens: Markets Wrap Bloomberg",
-      "category": "finance",
-      "score": 3.816
+      "title": "The most interesting thing about OpenAI's new chip isn't Nvidia — it's Apple",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjZrbE1WTkxfVTlxVjFEVmdtNDFhS1BxdElaYi1INXJBMWc3dU5kNjZXbEI1by1KUl8yOTlfTTdZeS1sM29KeVVyNk0zUzdqQlBWbG5kVG1iYk00Nl9ZMHFQRkVMVkVpUjV5OXJsbTQwQVpsTjZXb0hKX2xRV0xTSTBFTGJQaTRtcWprRl9EV2daenNtYU1pVWdBSUNPb243OFVhOHVIRWphcGVlYVdpTDd1TTZhaHZIekZtTnEzYjByRXlHM1F0QmtmYUJLLWNQQ1c1RGNzQldMUQ?oc=5",
+      "source": "TechRadar",
+      "published_at": "2026-06-30T09:47:04+00:00",
+      "summary": "The most interesting thing about OpenAI's new chip isn't Nvidia — it's Apple TechRadar",
+      "category": "tech",
+      "score": 3.954
     },
     {
-      "title": "Middle East: Trump announces new Doha talks, Iran demurs",
-      "url": "https://www.dw.com/en/middle-east-trump-announces-new-doha-talks-iran-demurs/live-77763482?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-06-30T07:10:00+00:00",
-      "summary": "The US and Iran have agreed to refrain from hostilities after a recent flareup, according to Washington, with US President Trump anouncing new talks will be held in Doha. Iran has yet to confirm this. DW has more.",
+      "title": "Discover the winners of FRANCE 24's video competition on EU cohesion policy",
+      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260630-discover-the-winners-of-france-24-s-video-competition-on-eu-cohesion-policy",
+      "source": "France 24",
+      "published_at": "2026-06-30T09:45:17+00:00",
+      "summary": "It's one of the EU's most important instruments, but one of the least talked-about ones: cohesion policy aims to reduce disparities between Europe's regions, and make sure no part of Europe is left behind. We commissioned a video competition, inviting young people from high schoo",
       "category": "politics",
-      "score": 3.589
+      "score": 3.948
     }
   ],
   "hero_history": [
+    "ECB publishes indicative operational calendars for 2028",
     "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
     "Homes harder to sell as high mortgage rates frustrate buyers",
     "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment",
     "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
     "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead",
     "Australia's Firmus Technologies strikes AI access deal with Nvidia",
-    "Ukraine says it attacked two Russian oil refineries",
-    "Israel damaged heritage sites across south Lebanon, minister says"
+    "Ukraine says it attacked two Russian oil refineries"
   ]
 }

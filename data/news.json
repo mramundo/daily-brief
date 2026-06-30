@@ -1,60 +1,60 @@
 {
-  "updated": "2026-06-30T12:58:12.631344+00:00",
+  "updated": "2026-06-30T18:55:23.048902+00:00",
   "hero": {
-    "title": "ECB publishes indicative operational calendars for 2028",
-    "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
-    "source": "ECB",
-    "published_at": "2026-06-30T08:00:00+00:00",
-    "summary": "A focused recap of the day's biggest story, sourced from authoritative outlets.",
-    "category": "finance",
-    "score": 4.252
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "source": "TechCrunch",
+    "published_at": "2026-06-30T18:00:00+00:00",
+    "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+    "category": "tech",
+    "score": 7.48
   },
   "items": [
     {
-      "title": "Chinese AI, chip firms are driving an onshore IPO rebound",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmRYYVFRR0pYUExod3VQQS0yUGVhTWx2SkhCdHE1UnRoOC1DaVlkMUdtdk9uTFlWcXoyWmpIemNnbjViem1ydW83ZGNRTTJBT1ppaF9SczNreXo3RmlHblBHbHFOU09YU3h0U2N2QmZGZ0Rqbkd0aDFpNGRITkVzNGVKSnlnbHYzcW5GZWVpOF9fU3ktbWVIbGt1UzladXB1ckE0QVpUbFEzdEI4MVJSQUJ3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-30T08:55:22+00:00",
-      "summary": "Chinese AI, chip firms are driving an onshore IPO rebound Reuters",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "source": "TechCrunch",
+      "published_at": "2026-06-30T18:13:02+00:00",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
       "category": "tech",
-      "score": 4.238
+      "score": 5.837
     },
     {
-      "title": "India's Russian oil imports to hit record high in June, data shows",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVTg0b2I5cktJY1dTMGt5ZmtGcEZLUXZ1S0M1NGY4TlhTT1JPWTAtLUt5OE5YVXlpT2VzTlUteU1FYmRTZ3MtMlNCSDhjdDRNYmZweUwwUExjazAtQTJKNl9NSlhsX2ZRZmRLeUJ5cGttajRWLWZ2bjJ5Mm0wclh6b0p1MUFyU1RqcGczMk1kV2s0Q1VJcHYzOU9wSkw2d3hWSmNqTlVSdDlxLXJRWDZF?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-30T10:16:09+00:00",
-      "summary": "India's Russian oil imports to hit record high in June, data shows Reuters",
-      "category": "conflicts",
-      "score": 3.969
-    },
-    {
-      "title": "The most interesting thing about OpenAI's new chip isn't Nvidia — it's Apple",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjZrbE1WTkxfVTlxVjFEVmdtNDFhS1BxdElaYi1INXJBMWc3dU5kNjZXbEI1by1KUl8yOTlfTTdZeS1sM29KeVVyNk0zUzdqQlBWbG5kVG1iYk00Nl9ZMHFQRkVMVkVpUjV5OXJsbTQwQVpsTjZXb0hKX2xRV0xTSTBFTGJQaTRtcWprRl9EV2daenNtYU1pVWdBSUNPb243OFVhOHVIRWphcGVlYVdpTDd1TTZhaHZIekZtTnEzYjByRXlHM1F0QmtmYUJLLWNQQ1c1RGNzQldMUQ?oc=5",
-      "source": "TechRadar",
-      "published_at": "2026-06-30T09:47:04+00:00",
-      "summary": "The most interesting thing about OpenAI's new chip isn't Nvidia — it's Apple TechRadar",
-      "category": "tech",
-      "score": 3.954
-    },
-    {
-      "title": "Discover the winners of FRANCE 24's video competition on EU cohesion policy",
-      "url": "https://www.france24.com/en/tv-shows/europe-rendezvous/20260630-discover-the-winners-of-france-24-s-video-competition-on-eu-cohesion-policy",
+      "title": "US Supreme Court rejects Trump bid to limit birthright citizenship",
+      "url": "https://www.france24.com/en/us-supreme-court-rejects-trump-bid-to-limit-birthright-citizenship",
       "source": "France 24",
-      "published_at": "2026-06-30T09:45:17+00:00",
-      "summary": "It's one of the EU's most important instruments, but one of the least talked-about ones: cohesion policy aims to reduce disparities between Europe's regions, and make sure no part of Europe is left behind. We commissioned a video competition, inviting young people from high schoo",
+      "published_at": "2026-06-30T18:11:43+00:00",
+      "summary": "The US Supreme Court on Tuesday rejected President Donald Trump's bid to restrict birthright citizenship in a blow to one of his signature anti-immigration initiatives. The court, in an eagerly awaited decision on the final day of its term, ruled 6-3 to maintain the right to Amer",
       "category": "politics",
-      "score": 3.948
+      "score": 5.662
+    },
+    {
+      "title": "UAE exports record oil volumes after OPEC exit, ship-tracking data shows",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXV0LURrQmM3QzlKNkUzbkNhNnI5OFBZMVZ2VDVEbWVUbkh0WHY3aEt1VGtnTVB5TzZ4MEpNeFNqZWZSWEFMd052TGlWS1N6Q01USXUyY1BMWHN5VnlYbGhBSV9iR2I5R3dvYW5qRUJKdU9KOUVpUFJ2ak5wbXlNWEFUc3dWTUxnZkZFLTMzLUJuM3dEMmZrc05Zb1ZiX0dXTGJvLVlDUHZGZHJwUWZaaFJ3VmV6UGtNVXlNYjJOVTg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-30T13:14:17+00:00",
+      "summary": "UAE exports record oil volumes after OPEC exit, ship-tracking data shows Reuters",
+      "category": "resources",
+      "score": 5.213
+    },
+    {
+      "title": "No Brent crude oil cargoes set to load in August, a first for global price benchmark",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZFdhenBZbDFiN3FQUWVIRlhGalVzZzY2YUwycWNwbmx3b2JrSTdKVlRhck50QWZrUXpydG1LRVZNWTdUVGVvbkFUNk1TdTBIU2dsX2hKR3Jtd3QtaXBrYVg0X0ZDaE9MTjRwMmMtZjlndEthXzJqSEplTXlmQUlkUWNvTGxsd0t6MEppeGJDNUpPLWk2SENaNW51ZjJsVElHaVZMcFlYZThJOVdQMng0ZEJmUVlCcnZZNDNwUURQMjA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-30T15:49:43+00:00",
+      "summary": "No Brent crude oil cargoes set to load in August, a first for global price benchmark Reuters",
+      "category": "resources",
+      "score": 4.41
     }
   ],
   "hero_history": [
+    "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "ECB publishes indicative operational calendars for 2028",
     "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
     "Homes harder to sell as high mortgage rates frustrate buyers",
     "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment",
     "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
     "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead",
-    "Australia's Firmus Technologies strikes AI access deal with Nvidia",
-    "Ukraine says it attacked two Russian oil refineries"
+    "Australia's Firmus Technologies strikes AI access deal with Nvidia"
   ]
 }

@@ -1,32 +1,41 @@
 {
-  "updated": "2026-06-30T18:55:23.048902+00:00",
+  "updated": "2026-07-01T01:23:55.655335+00:00",
   "hero": {
-    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "source": "TechCrunch",
-    "published_at": "2026-06-30T18:00:00+00:00",
-    "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+    "title": "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTZqaFlabEQtSzJTaGl0bmJSVFNLaVFtMlMzZzZaSDFJR3F6U2xicTJvV3JuSU1JTG55NzczN2p3OWY0R3o1NGMtVkYwSVZFenpVbE4wTXRtcFZEV3MxZjN1WXBsVmlwbEpJeHd1Y2R4TDZTSlY3OUNlaHFZTzBLQnRyY1lKTzE2X2g4QnQ2U2FOeWM?oc=5",
+    "source": "AP News",
+    "published_at": "2026-06-30T23:43:00+00:00",
+    "summary": "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon AP News",
     "category": "tech",
-    "score": 7.48
+    "score": 7.186
   },
   "items": [
     {
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "source": "TechCrunch",
-      "published_at": "2026-06-30T18:13:02+00:00",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "title": "US lifts curbs on Anthropic's Fable, Mythos AI models",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-06-30T23:08:00+00:00",
+      "summary": "US lifts curbs on Anthropic's Fable, Mythos AI models Reuters",
       "category": "tech",
-      "score": 5.837
+      "score": 6.011
     },
     {
-      "title": "US Supreme Court rejects Trump bid to limit birthright citizenship",
-      "url": "https://www.france24.com/en/us-supreme-court-rejects-trump-bid-to-limit-birthright-citizenship",
-      "source": "France 24",
-      "published_at": "2026-06-30T18:11:43+00:00",
-      "summary": "The US Supreme Court on Tuesday rejected President Donald Trump's bid to restrict birthright citizenship in a blow to one of his signature anti-immigration initiatives. The court, in an eagerly awaited decision on the final day of its term, ruled 6-3 to maintain the right to Amer",
-      "category": "politics",
-      "score": 5.662
+      "title": "Nigeria Unveils World-Class Critical Minerals Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG9hVHFfdHJ1aGFVaU9KX2xQNHNxY3VTRlRQeTJuaGlmeVBPSTNQVEFmd1I4ajZvMUtpTjhMTHc0R1d1dlkzUVd1MC1iQlFxc1BKZkxjMmlrcDRNXzZVbWM3NTBOR2dnRC1uNm1zeDY0MkZySHhlU1E5T2NWVzhHN1ZxeW8zSkdCZEx2SGF6bDZma2xwamNjbkszTGlMS0hxMXfSAacBQVVfeXFMTngzOUNmaFVYV0U3M0h0dnRmZDV0LUMxcl9fQld4WmlObzg4N2lDUHFDVHNMcUJYb1lfdy1yS3I2Y3pvazhEN3AtZjNCVi04S1RidmpoN1B6N0xPWnh2TG51Nzc4UFotTHhqa19VUGhjYnl6U3NXS0ZMSmg3S01uUGtUd1U1M0tqVTVHRXdUX2tpRnRpSUQ1ZmpWSVNIc05OejRKemhsX0k?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "published_at": "2026-06-30T19:00:00+00:00",
+      "summary": "Nigeria Unveils World-Class Critical Minerals Discovery Crude Oil Prices Today | OilPrice.com",
+      "category": "resources",
+      "score": 4.132
+    },
+    {
+      "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-01T00:00:09+00:00",
+      "summary": "Iran says talks on a final deal will not begin until hostilities end in Lebanon and US releases frozen Iranian funds.",
+      "category": "conflicts",
+      "score": 4.023
     },
     {
       "title": "UAE exports record oil volumes after OPEC exit, ship-tracking data shows",
@@ -35,26 +44,17 @@
       "published_at": "2026-06-30T13:14:17+00:00",
       "summary": "UAE exports record oil volumes after OPEC exit, ship-tracking data shows Reuters",
       "category": "resources",
-      "score": 5.213
-    },
-    {
-      "title": "No Brent crude oil cargoes set to load in August, a first for global price benchmark",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZFdhenBZbDFiN3FQUWVIRlhGalVzZzY2YUwycWNwbmx3b2JrSTdKVlRhck50QWZrUXpydG1LRVZNWTdUVGVvbkFUNk1TdTBIU2dsX2hKR3Jtd3QtaXBrYVg0X0ZDaE9MTjRwMmMtZjlndEthXzJqSEplTXlmQUlkUWNvTGxsd0t6MEppeGJDNUpPLWk2SENaNW51ZjJsVElHaVZMcFlYZThJOVdQMng0ZEJmUVlCcnZZNDNwUURQMjA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-30T15:49:43+00:00",
-      "summary": "No Brent crude oil cargoes set to load in August, a first for global price benchmark Reuters",
-      "category": "resources",
-      "score": 4.41
+      "score": 3.98
     }
   ],
   "hero_history": [
+    "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
     "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "ECB publishes indicative operational calendars for 2028",
     "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
     "Homes harder to sell as high mortgage rates frustrate buyers",
     "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment",
     "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
-    "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead",
-    "Australia's Firmus Technologies strikes AI access deal with Nvidia"
+    "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead"
   ]
 }

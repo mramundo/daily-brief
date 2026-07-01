@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-01T13:13:44.623584+00:00",
+  "updated": "2026-07-01T18:56:33.259250+00:00",
   "hero": {
-    "title": "UAE crude exports hit record after OPEC exit",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlhkaXVkVGpzMnNiMmQ3VTZtMXY2NkZJVmN3Vk5Ja0c1eG9FU0trWVhEb01YWmE2VjktZ1JLU182SFhzd25QM0ktbmJkNW1Kd0xaQTNSVnB1MDlJTEVQenlPS1k0ZG42Q1hZcVlidFRJNlJDZTN2c1Q3OVlRVHZKaw?oc=5",
-    "source": "Egypt Oil & Gas",
-    "published_at": "2026-07-01T07:41:15+00:00",
-    "summary": "UAE crude exports hit record after OPEC exit Egypt Oil & Gas",
-    "category": "resources",
-    "score": 6.621
+    "title": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUFUaE4wVlNYRDNtWjhaNXdpRV80eUR2ZzhrMklvNDJKcENfMFNjblluVnZVcEYwbjNEdXhIWms2VGMwQ1NZRzY3Y1c4U0pLbl84ajhaZ05fcklpZ1V6bHZkQi10SHV1YjBvSC1FOEwwNjh6YWdVZm9ZMWJhd0FpLU9QVTVNOFNtVU4wcEhJUThQdjZXN1pZaGtJQQ?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-01T15:23:00+00:00",
+    "summary": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm AP News",
+    "category": "tech",
+    "score": 6.645
   },
   "items": [
     {
-      "title": "Trump lifts export controls on Anthropic Claude Fable 5 Mythos 5",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFQ5bGp4cXJDMk9Rb21qWTI4UHpndEZLVEVGLXdPcmF2TUd5dUNDU3owaW9DQ1hmRjdaaDBOcjJtN3pIVnN0TlFMQnJtQzduU0hsZk5Dd3I5dTctaHFPWEYtbDV1UlFGekRvNmJkdVZUckxteG85UTlqV1Q2SHNzYWJITHc?oc=5",
-      "source": "qz.com",
-      "published_at": "2026-07-01T11:36:15+00:00",
-      "summary": "Trump lifts export controls on Anthropic Claude Fable 5 Mythos 5 qz.com",
-      "category": "tech",
-      "score": 5.588
-    },
-    {
-      "title": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZmNmOWl5bnJmQnRCZUROVlpmRnBOeUhVVGJOUDR0Mmd5UUF4MkZOem93cUJJREVnVE02MUs0b3d3bE0wOUpNMnN5VjFwVVc0c1hMTnM5VFpJcGFHa1pWazNZWkdTU3ZkcFg0bnpaTVNNTVE0aVhlQjAtcUVFTmNnZTVja0xRZUM0TGFOVzctWEVJb2tnTjlQcmNURkZkQ19sUlFSaG5uOFZqLVc3bDVsN0owTEdjeXpYQ3oxSGc3UmRaQQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-01T09:23:01+00:00",
-      "summary": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says Reuters",
-      "category": "conflicts",
-      "score": 5.298
-    },
-    {
-      "title": "XMM-Newton helps revise distance to outer spiral arms",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
-      "source": "ESA",
-      "published_at": "2026-07-01T12:00:00+00:00",
-      "summary": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these echoes, they find the outer arms to be up",
+      "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
+      "url": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/",
+      "source": "NASA",
+      "published_at": "2026-07-01T16:15:14+00:00",
+      "summary": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating",
       "category": "science",
-      "score": 4.385
+      "score": 5.478
     },
     {
       "title": "OPEC+ likely to raise oil output targets from August again, sources say",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWhhUy1tWXJ3SUlzTDNsMWpRZjItSWtMcm1wQ1h0N29HRnBoa1RoSGEwb0RmM0JhaEdKZGxoYmg2eVY5Qnl3NDh0bVNzSEpEa3pkUUYtbUV3ZVhHTDM4R01zeGQ5a2ltdnI3NkZUVUhmM3ZiUUNBSGpXRzduYTd4QmZTMC1BWXNRckZpenFTWDhFeGpwbWhxNlJ1N08xVlBqQV9Sbm44LTAzWDJMYmZzYjF1SQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-01T12:15:43+00:00",
+      "published_at": "2026-07-01T13:37:59+00:00",
       "summary": "OPEC+ likely to raise oil output targets from August again, sources say Reuters",
       "category": "resources",
-      "score": 4.13
+      "score": 5.295
+    },
+    {
+      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-01T14:14:00+00:00",
+      "summary": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis AP News",
+      "category": "conflicts",
+      "score": 5.145
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-01T13:43:07+00:00",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "category": "tech",
+      "score": 4.946
     }
   ],
   "hero_history": [
+    "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
     "UAE crude exports hit record after OPEC exit",
     "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
     "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
     "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "ECB publishes indicative operational calendars for 2028",
     "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
-    "Homes harder to sell as high mortgage rates frustrate buyers",
-    "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment"
+    "Homes harder to sell as high mortgage rates frustrate buyers"
   ]
 }

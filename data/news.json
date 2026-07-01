@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-01T01:23:55.655335+00:00",
+  "updated": "2026-07-01T07:48:54.494872+00:00",
   "hero": {
-    "title": "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTZqaFlabEQtSzJTaGl0bmJSVFNLaVFtMlMzZzZaSDFJR3F6U2xicTJvV3JuSU1JTG55NzczN2p3OWY0R3o1NGMtVkYwSVZFenpVbE4wTXRtcFZEV3MxZjN1WXBsVmlwbEpJeHd1Y2R4TDZTSlY3OUNlaHFZTzBLQnRyY1lKTzE2X2g4QnQ2U2FOeWM?oc=5",
-    "source": "AP News",
-    "published_at": "2026-06-30T23:43:00+00:00",
-    "summary": "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon AP News",
+    "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxSFpEb0JIQV9vZ05iM1BjMTFoWXVfZmdMbUpfUVhRdkU2ek9mUDY5azY0eFZLSVJFZ0ZUeUFxSjhwS1AxU3ZwaTliaVhWa2FZUHNJLW1Fam9SNnVIU3l3c2NGNjRISS02dS05UE9sWWRUblF4NmdSVGRCRkMtakNybVpfMlN1S0ZIV2tRd2h4bWNmOFZFZXQwR0pOVGdDVUp4M0ljblZLYWtTU3NYWjF5YnrSAboBQVVfeXFMT1FnbUw0Q2UyWndFWnp1VkYwVk5fUUpjWWN1SmNjNUtXVldwVWZqU3NzMFlwZUp0NnVxWnNfZThzS1V6U3lqVGZHZUo5RDJuMnNINUp6a3U0LVhINkVXYk1kenUtMnl1R0lMNmZRWkVJR0hiNlJlMFpyUUdlaE1faDFhTGFQbFNHUDRBSlphVmZfRFJTY1hINDRLUFJHWkNPWFpWVTNoSTlLTmxIXzFEZ0xTSk9wRzZvWGNR?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-01T05:35:43+00:00",
+    "summary": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos Al Jazeera",
     "category": "tech",
-    "score": 7.186
+    "score": 9.56
   },
   "items": [
     {
-      "title": "US lifts curbs on Anthropic's Fable, Mythos AI models",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDJJRUpoY0J3YUZXZWFpUFF5N2pzUTM3X2pSMzZXdVI3ZEtsTnU1b09yRl9TU1NhMlV2RFF4Q3ZEaUVnQXVYWlpzd0k0OGVjRkgzNlBtVTFab3ZxZWFGWUMtWXFCOEZqODdRNzhhSml1Y0pTZGZVNVJLSFZvSGJ2VDFMZ1RTNm5fTXoxVXpQWWRSR3ptWXVpM2Mzc0l4YW05cl9LRDBPV3kwc1FhdmVKcWJwWHA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-30T23:08:00+00:00",
-      "summary": "US lifts curbs on Anthropic's Fable, Mythos AI models Reuters",
-      "category": "tech",
-      "score": 6.011
-    },
-    {
-      "title": "Nigeria Unveils World-Class Critical Minerals Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbG9hVHFfdHJ1aGFVaU9KX2xQNHNxY3VTRlRQeTJuaGlmeVBPSTNQVEFmd1I4ajZvMUtpTjhMTHc0R1d1dlkzUVd1MC1iQlFxc1BKZkxjMmlrcDRNXzZVbWM3NTBOR2dnRC1uNm1zeDY0MkZySHhlU1E5T2NWVzhHN1ZxeW8zSkdCZEx2SGF6bDZma2xwamNjbkszTGlMS0hxMXfSAacBQVVfeXFMTngzOUNmaFVYV0U3M0h0dnRmZDV0LUMxcl9fQld4WmlObzg4N2lDUHFDVHNMcUJYb1lfdy1yS3I2Y3pvazhEN3AtZjNCVi04S1RidmpoN1B6N0xPWnh2TG51Nzc4UFotTHhqa19VUGhjYnl6U3NXS0ZMSmg3S01uUGtUd1U1M0tqVTVHRXdUX2tpRnRpSUQ1ZmpWSVNIc05OejRKemhsX0k?oc=5",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "published_at": "2026-06-30T19:00:00+00:00",
-      "summary": "Nigeria Unveils World-Class Critical Minerals Discovery Crude Oil Prices Today | OilPrice.com",
-      "category": "resources",
-      "score": 4.132
-    },
-    {
-      "title": "Iran war live: Qatar’s PM meets US envoys; Tehran holds firm on conditions",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-01T00:00:09+00:00",
-      "summary": "Iran says talks on a final deal will not begin until hostilities end in Lebanon and US releases frozen Iranian funds.",
+      "title": "Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-01T07:43:43+00:00",
+      "summary": "Iran war AP News",
       "category": "conflicts",
-      "score": 4.023
+      "score": 7.092
     },
     {
-      "title": "UAE exports record oil volumes after OPEC exit, ship-tracking data shows",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXV0LURrQmM3QzlKNkUzbkNhNnI5OFBZMVZ2VDVEbWVUbkh0WHY3aEt1VGtnTVB5TzZ4MEpNeFNqZWZSWEFMd052TGlWS1N6Q01USXUyY1BMWHN5VnlYbGhBSV9iR2I5R3dvYW5qRUJKdU9KOUVpUFJ2ak5wbXlNWEFUc3dWTUxnZkZFLTMzLUJuM3dEMmZrc05Zb1ZiX0dXTGJvLVlDUHZGZHJwUWZaaFJ3VmV6UGtNVXlNYjJOVTg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-06-30T13:14:17+00:00",
-      "summary": "UAE exports record oil volumes after OPEC exit, ship-tracking data shows Reuters",
+      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "source": "The Verge",
+      "published_at": "2026-07-01T00:03:55+00:00",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-en",
+      "category": "tech",
+      "score": 7.015
+    },
+    {
+      "title": "UAE crude exports hit record after OPEC exit",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlhkaXVkVGpzMnNiMmQ3VTZtMXY2NkZJVmN3Vk5Ja0c1eG9FU0trWVhEb01YWmE2VjktZ1JLU182SFhzd25QM0ktbmJkNW1Kd0xaQTNSVnB1MDlJTEVQenlPS1k0ZG42Q1hZcVlidFRJNlJDZTN2c1Q3OVlRVHZKaw?oc=5",
+      "source": "Egypt Oil & Gas",
+      "published_at": "2026-07-01T07:41:15+00:00",
+      "summary": "UAE crude exports hit record after OPEC exit Egypt Oil & Gas",
       "category": "resources",
-      "score": 3.98
+      "score": 6.939
+    },
+    {
+      "title": "Gold hovers near 7-month low as firm Treasury yields, Fed rate outlook weigh",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUtDS0lOMmpVZ0RpMVM2VUVXQUJtQV95bG5xUHVGalJ1UnlxcENxQk44eHRVMElaalhEWm5tb3RVaEVuU1lscWFpdkFtMUJjUlQ4SXpmNFc2TnY0VlBGNEFjbTE5X1l3eDNmRG5wV2tmN3YwSlRNUWZyUDNNd25mZjBGWWYzNXpXU0NHZmJaRGM5akhpOWVUMHVVN0pQTTZzV3c0aUpJWV9jX2tXSmdwMHZ0Uk92SnRjZWc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-01T01:52:00+00:00",
+      "summary": "Gold hovers near 7-month low as firm Treasury yields, Fed rate outlook weigh Reuters",
+      "category": "finance",
+      "score": 4.475
     }
   ],
   "hero_history": [
+    "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
     "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
     "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "ECB publishes indicative operational calendars for 2028",
     "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
     "Homes harder to sell as high mortgage rates frustrate buyers",
     "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment",
-    "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
-    "Nvidia’s AI chip sales in China stall, as local chipmakers like Huawei take the lead"
+    "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say"
   ]
 }

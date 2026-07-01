@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-01T07:48:54.494872+00:00",
+  "updated": "2026-07-01T13:13:44.623584+00:00",
   "hero": {
-    "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxSFpEb0JIQV9vZ05iM1BjMTFoWXVfZmdMbUpfUVhRdkU2ek9mUDY5azY0eFZLSVJFZ0ZUeUFxSjhwS1AxU3ZwaTliaVhWa2FZUHNJLW1Fam9SNnVIU3l3c2NGNjRISS02dS05UE9sWWRUblF4NmdSVGRCRkMtakNybVpfMlN1S0ZIV2tRd2h4bWNmOFZFZXQwR0pOVGdDVUp4M0ljblZLYWtTU3NYWjF5YnrSAboBQVVfeXFMT1FnbUw0Q2UyWndFWnp1VkYwVk5fUUpjWWN1SmNjNUtXVldwVWZqU3NzMFlwZUp0NnVxWnNfZThzS1V6U3lqVGZHZUo5RDJuMnNINUp6a3U0LVhINkVXYk1kenUtMnl1R0lMNmZRWkVJR0hiNlJlMFpyUUdlaE1faDFhTGFQbFNHUDRBSlphVmZfRFJTY1hINDRLUFJHWkNPWFpWVTNoSTlLTmxIXzFEZ0xTSk9wRzZvWGNR?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-01T05:35:43+00:00",
-    "summary": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos Al Jazeera",
-    "category": "tech",
-    "score": 9.56
+    "title": "UAE crude exports hit record after OPEC exit",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlhkaXVkVGpzMnNiMmQ3VTZtMXY2NkZJVmN3Vk5Ja0c1eG9FU0trWVhEb01YWmE2VjktZ1JLU182SFhzd25QM0ktbmJkNW1Kd0xaQTNSVnB1MDlJTEVQenlPS1k0ZG42Q1hZcVlidFRJNlJDZTN2c1Q3OVlRVHZKaw?oc=5",
+    "source": "Egypt Oil & Gas",
+    "published_at": "2026-07-01T07:41:15+00:00",
+    "summary": "UAE crude exports hit record after OPEC exit Egypt Oil & Gas",
+    "category": "resources",
+    "score": 6.621
   },
   "items": [
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-01T07:43:43+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 7.092
-    },
-    {
-      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "source": "The Verge",
-      "published_at": "2026-07-01T00:03:55+00:00",
-      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-en",
+      "title": "Trump lifts export controls on Anthropic Claude Fable 5 Mythos 5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFQ5bGp4cXJDMk9Rb21qWTI4UHpndEZLVEVGLXdPcmF2TUd5dUNDU3owaW9DQ1hmRjdaaDBOcjJtN3pIVnN0TlFMQnJtQzduU0hsZk5Dd3I5dTctaHFPWEYtbDV1UlFGekRvNmJkdVZUckxteG85UTlqV1Q2SHNzYWJITHc?oc=5",
+      "source": "qz.com",
+      "published_at": "2026-07-01T11:36:15+00:00",
+      "summary": "Trump lifts export controls on Anthropic Claude Fable 5 Mythos 5 qz.com",
       "category": "tech",
-      "score": 7.015
+      "score": 5.588
     },
     {
-      "title": "UAE crude exports hit record after OPEC exit",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlhkaXVkVGpzMnNiMmQ3VTZtMXY2NkZJVmN3Vk5Ja0c1eG9FU0trWVhEb01YWmE2VjktZ1JLU182SFhzd25QM0ktbmJkNW1Kd0xaQTNSVnB1MDlJTEVQenlPS1k0ZG42Q1hZcVlidFRJNlJDZTN2c1Q3OVlRVHZKaw?oc=5",
-      "source": "Egypt Oil & Gas",
-      "published_at": "2026-07-01T07:41:15+00:00",
-      "summary": "UAE crude exports hit record after OPEC exit Egypt Oil & Gas",
-      "category": "resources",
-      "score": 6.939
-    },
-    {
-      "title": "Gold hovers near 7-month low as firm Treasury yields, Fed rate outlook weigh",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUtDS0lOMmpVZ0RpMVM2VUVXQUJtQV95bG5xUHVGalJ1UnlxcENxQk44eHRVMElaalhEWm5tb3RVaEVuU1lscWFpdkFtMUJjUlQ4SXpmNFc2TnY0VlBGNEFjbTE5X1l3eDNmRG5wV2tmN3YwSlRNUWZyUDNNd25mZjBGWWYzNXpXU0NHZmJaRGM5akhpOWVUMHVVN0pQTTZzV3c0aUpJWV9jX2tXSmdwMHZ0Uk92SnRjZWc?oc=5",
+      "title": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZmNmOWl5bnJmQnRCZUROVlpmRnBOeUhVVGJOUDR0Mmd5UUF4MkZOem93cUJJREVnVE02MUs0b3d3bE0wOUpNMnN5VjFwVVc0c1hMTnM5VFpJcGFHa1pWazNZWkdTU3ZkcFg0bnpaTVNNTVE0aVhlQjAtcUVFTmNnZTVja0xRZUM0TGFOVzctWEVJb2tnTjlQcmNURkZkQ19sUlFSaG5uOFZqLVc3bDVsN0owTEdjeXpYQ3oxSGc3UmRaQQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-01T01:52:00+00:00",
-      "summary": "Gold hovers near 7-month low as firm Treasury yields, Fed rate outlook weigh Reuters",
-      "category": "finance",
-      "score": 4.475
+      "published_at": "2026-07-01T09:23:01+00:00",
+      "summary": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says Reuters",
+      "category": "conflicts",
+      "score": 5.298
+    },
+    {
+      "title": "XMM-Newton helps revise distance to outer spiral arms",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_helps_revise_distance_to_outer_spiral_arms",
+      "source": "ESA",
+      "published_at": "2026-07-01T12:00:00+00:00",
+      "summary": "The European Space Agency’s XMM-Newton and NASA’s Chandra X-ray space telescopes have spotted the aftermath of three bright explosions echoing through the outer spiral arms of our galaxy, the Milky Way. By measuring the distance to these echoes, they find the outer arms to be up",
+      "category": "science",
+      "score": 4.385
+    },
+    {
+      "title": "OPEC+ likely to raise oil output targets from August again, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWhhUy1tWXJ3SUlzTDNsMWpRZjItSWtMcm1wQ1h0N29HRnBoa1RoSGEwb0RmM0JhaEdKZGxoYmg2eVY5Qnl3NDh0bVNzSEpEa3pkUUYtbUV3ZVhHTDM4R01zeGQ5a2ltdnI3NkZUVUhmM3ZiUUNBSGpXRzduYTd4QmZTMC1BWXNRckZpenFTWDhFeGpwbWhxNlJ1N08xVlBqQV9Sbm44LTAzWDJMYmZzYjF1SQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-01T12:15:43+00:00",
+      "summary": "OPEC+ likely to raise oil output targets from August again, sources say Reuters",
+      "category": "resources",
+      "score": 4.13
     }
   ],
   "hero_history": [
+    "UAE crude exports hit record after OPEC exit",
     "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
     "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
     "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "ECB publishes indicative operational calendars for 2028",
     "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
     "Homes harder to sell as high mortgage rates frustrate buyers",
-    "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment",
-    "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say"
+    "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment"
   ]
 }

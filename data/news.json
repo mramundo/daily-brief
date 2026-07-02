@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-02T09:30:57.836427+00:00",
+  "updated": "2026-07-02T14:27:49.602119+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-02T09:25:19+00:00",
-    "summary": "Ukraine AP News",
-    "category": "conflicts",
-    "score": 10.806
+    "title": "OpenAI proposes handing Trump administration 5% stake, FT reports",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnY3bThkX2ktdXJOR3RKX1pfUk9XQUFld0FpVk0tZmllYmV0N0p6Slc4U0VFTV9jNVI4ekZKNlNuejRqcTBaSnBXT0dHZzBMNGt1bmpzaW80ZlNTZ3FoYWF6Q05QVndvME5lWUUwc1RhUkhCb2pPT29NWWRjd1gwdlhuZXRpQXRrOW1weVZjOXg3ZFNMNVE?oc=5",
+    "source": "Yahoo Finance",
+    "published_at": "2026-07-02T13:55:17+00:00",
+    "summary": "OpenAI proposes handing Trump administration 5% stake, FT reports Yahoo Finance",
+    "category": "tech",
+    "score": 8.001
   },
   "items": [
     {
-      "title": "OpenAI proposes handing Trump administration 5% stake, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-02T04:27:00+00:00",
-      "summary": "OpenAI proposes handing Trump administration 5% stake, FT reports Reuters",
+      "title": "Nigeria becomes first OPEC member to join IEA",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEI2bWV1c2NWVHdiVXF2MDVmZzF0U3JoU2F6Ym9zVkxSS2hwOEdsT2NDWmJudkJjX3JsMGM5UFphQkFiWWw2OGJzOWdiOWIybnZmcVFTRjVmMjlCWVh4S2lDZTZNQWllS2gyZnYzcmZSTjgxc1pWS1QwMWZoaFllZEV4NFpkSDQ1TlJ1NnR4d0xlZw?oc=5",
+      "source": "Quantum Commodity Intelligence",
+      "published_at": "2026-07-02T14:03:46+00:00",
+      "summary": "Nigeria becomes first OPEC member to join IEA Quantum Commodity Intelligence",
+      "category": "resources",
+      "score": 7.031
+    },
+    {
+      "title": "Watch OpenAI Proposes Giving 5% Stake to US Government: FT",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEtCcEJMN2NTdUo2Qk8zVkp0bjJpV3ZXWGc2X3RMUVFNYVBRcWFvNzhwQWp4WFQwOFl0M0VfR1ZDTlh2THRMT0MwaFpVZ0dOV3RzT1pWbGdWVGZCMTl5SjUtM0tfajBJcTNIX3k5cmFhRXI1aTRfVkgzVUd3N2FpVUVIWE1PcFIzNXp6T0NpNlh5ZExudWd5M2hhSmRJNExyLTFyVEY0aGc?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-02T10:28:08+00:00",
+      "summary": "Watch OpenAI Proposes Giving 5% Stake to US Government: FT Bloomberg",
       "category": "tech",
-      "score": 8.27
+      "score": 6.87
     },
     {
-      "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHN2T0NPR3ZJMWZheVBDbUxxS1pBbHpfSjBmSTNseVFEU0FUcnc1OFJJNzNGZVB1M1ZIdExGb0NfTWpKYnhTSm8xRUhzbm14RWRNRWJyaWctbjVLWmdRM0d1UjFBalpyNDJoTDNwVldrRGxGN1U0aUtUcEp3a2t1aDYxdFpfRFMzZDZodUNNdEJpMkoyOWFYakZLb1NrZ0M4a01qQW9HTkFUQkltaGNjWk9CcXYxUGdndmNPclNEOVlxVFk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-02T07:40:09+00:00",
-      "summary": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf Reuters",
-      "category": "tech",
-      "score": 8.115
-    },
-    {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-02T09:29:41+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 7.112
-    },
-    {
-      "title": "In Sintra, world's central bankers find ally in new Fed chief",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUptb2VCRnpXX1hNTUZwT0tKUnlGV2luX2tRQ2prOHV6V1VyWEpuVS1XVDIwN1p5M2tZdkhEa3NHZTAxUWNVa21ld01Tb2hfcm5xVXFVT1FFd0E1SDZwV2loaG1jMy0yX3FFajVRSzZISmNROVNZQ0ZNOXRXRFZRcU9pdjB2T21JRGhCa280SW1IZTNGSVZxazhvYVVXYURYZkwzOC1aanFsZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-02T08:22:49+00:00",
-      "summary": "In Sintra, world's central bankers find ally in new Fed chief Reuters",
+      "title": "ECB Views Splinter on Next Rate Move as Inflation Sinks With Oil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaktBYy1NZzNFWUR5RTd0alVvYjUtWXIzeUJrclNWanZPVFBmZXd2bGxnb2lZbGJ3VTl0SWFWVEtiaFlPTF9RcHF4UndmdURPeHJfVGJNZXE4Wkx4WnZWVmk3anZJcWpkUXNFTjNPNWR4MGkyZjE2MWlkenl2ZmVaVWJrRmZvZGgwYlRZdnZ0OEN6VGd6bkZNaUdUTU81dzFLMllPemdqTkpzUWhMNjMxWUxqWmd3QQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-02T05:45:00+00:00",
+      "summary": "ECB Views Splinter on Next Rate Move as Inflation Sinks With Oil Bloomberg",
       "category": "finance",
-      "score": 4.101
+      "score": 5.093
+    },
+    {
+      "title": "Gaza faces uncertain future as Palestinians and Israelis mark 1,000 days of war",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnBid29GQ1Vabk5YaVRvUklFZVJuRlNFUkZUT3gzbmoxYVdaZ3k0WEhlZHpneE00Q0pRMlByd3pyZ1pFQ25CMVhmdmdsTUlSR1Q1VmRWeGpjMzRrTFVRUklMWGtfNWdkM0Uwc1VieFFTLWZRTVl3dERpOVNRSm5uS2xwZzlzbzhRRkY4a191MU4tcWFuS0RmcWhNZkZ6ekRyS3ktVDBiakxnbVNRNWpRTQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-02T10:44:00+00:00",
+      "summary": "Gaza faces uncertain future as Palestinians and Israelis mark 1,000 days of war AP News",
+      "category": "conflicts",
+      "score": 4.295
     }
   ],
   "hero_history": [
+    "OpenAI proposes handing Trump administration 5% stake, FT reports",
     "Ukraine",
     "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
     "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
     "UAE crude exports hit record after OPEC exit",
     "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
     "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
-    "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "ECB publishes indicative operational calendars for 2028"
+    "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
   ]
 }

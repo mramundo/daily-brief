@@ -1,15 +1,24 @@
 {
-  "updated": "2026-07-01T18:56:33.259250+00:00",
+  "updated": "2026-07-02T01:18:17.798987+00:00",
   "hero": {
-    "title": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUFUaE4wVlNYRDNtWjhaNXdpRV80eUR2ZzhrMklvNDJKcENfMFNjblluVnZVcEYwbjNEdXhIWms2VGMwQ1NZRzY3Y1c4U0pLbl84ajhaZ05fcklpZ1V6bHZkQi10SHV1YjBvSC1FOEwwNjh6YWdVZm9ZMWJhd0FpLU9QVTVNOFNtVU4wcEhJUThQdjZXN1pZaGtJQQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-01T15:23:00+00:00",
-    "summary": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm AP News",
+    "title": "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnVJVHpJVTJtc1E3WTJ1VGQzRGdaQzRKM2tFRXliU3ZWVGZya1ZJdEE5X2YyaTlGZ1hjdUw3dEFuZl92TnVGWXlFbW4xaFZ3OTkyckE5SGxibzlHS093REtmVS1Hd1lBSXlIMHExRVJ6UGdHLVNfYXIxT0ItYnFGMkFLb2Z4RjcyU3VxQVJ4V3BIZW9UTWdKWEJtSkZhb1gxZkEwZDZQYTYxOHVCME5XbmhzUlVsZUw5a2syT1NCSGVQSkFXWTR3?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-01T19:11:53+00:00",
+    "summary": "Valar nuclear startup partners with Nvidia on data center aiming to conserve water Reuters",
     "category": "tech",
-    "score": 6.645
+    "score": 6.829
   },
   "items": [
+    {
+      "title": "EXCLUSIVE: SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcHlPOXhkWFNZNWNNTG91STB2SHYzaDZRNXNGVXdVb1NRY2VRVDJFam1oQllaLWFoY29sM1hNbTFUSUNpWWxRVGtxQk44UHhNTGl5bnV6VnpXdVdSN3o5MFhmaFl2b3pnOXk5TTN1M2lkNmxTaWh2b2xqZUJqVlZMXzJsZUotdHRCWHJoOGZuUTJTM2k4bDZDekY5U3pBYVV6V3RZRGNFSEtnWl9PNTZ6b3hiMkNYUnZqOWlFNlNhNy1sdm5rVmdxcFRUWQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-01T20:42:54+00:00",
+      "summary": "EXCLUSIVE: SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say Reuters",
+      "category": "tech",
+      "score": 5.456
+    },
     {
       "title": "NASA Seeks Volunteers for New Yearlong Simulated Moon, Mars Mission",
       "url": "https://www.nasa.gov/humans-in-space/nasa-seeks-volunteers-for-new-yearlong-simulated-moon-mars-mission/",
@@ -17,7 +26,7 @@
       "published_at": "2026-07-01T16:15:14+00:00",
       "summary": "NASA is recruiting research participants for the agency’s next simulated deep space mission. Beginning no earlier than August 2027, research volunteers will spend one year living and working in interplanetary environments at the agency’s Johnson Space Center in Houston, operating",
       "category": "science",
-      "score": 5.478
+      "score": 4.203
     },
     {
       "title": "OPEC+ likely to raise oil output targets from August again, sources say",
@@ -26,35 +35,26 @@
       "published_at": "2026-07-01T13:37:59+00:00",
       "summary": "OPEC+ likely to raise oil output targets from August again, sources say Reuters",
       "category": "resources",
-      "score": 5.295
+      "score": 4.062
     },
     {
-      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-01T14:14:00+00:00",
-      "summary": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis AP News",
-      "category": "conflicts",
-      "score": 5.145
-    },
-    {
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-01T13:43:07+00:00",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-      "category": "tech",
-      "score": 4.946
+      "title": "Asian Stocks to Decline as Traders Weigh AI, Warsh: Markets Wrap",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFJqaW9USEtQbjFFakVxVEdWTjNRbU4xV3Q2cGx0VW9rajVpdXlhYkJPZWlzYnlPemNCWGlOY1l4RlBzYVpCMV9Ib2tOUGYyN0R4ZHU0Q24zaVhFVVItNzJhNDNBVXZTR2x2b19Oc2w2cF91S2t3aENKSlk4NFdEVUpHNHhPYzUwMU5YbGJ2WFdKcDBzcm00Wm5PMnB0Wi01bEh4YUdLR18ycVhTdkV2dlJjYw?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-07-01T22:05:31+00:00",
+      "summary": "Asian Stocks to Decline as Traders Weigh AI, Warsh: Markets Wrap Bloomberg.com",
+      "category": "finance",
+      "score": 4.045
     }
   ],
   "hero_history": [
+    "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
     "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
     "UAE crude exports hit record after OPEC exit",
     "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
     "OpenAI film ‘Artificial,’ dropped by Amazon, finds a new home with Neon",
     "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "ECB publishes indicative operational calendars for 2028",
-    "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
-    "Homes harder to sell as high mortgage rates frustrate buyers"
+    "Super Micro Raided as Taiwan Expands Chip Smuggling Probe"
   ]
 }

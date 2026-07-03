@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-03T09:34:21.660572+00:00",
+  "updated": "2026-07-03T14:31:27.008784+00:00",
   "hero": {
-    "title": "Samsung seen in talks to manufacture custom AI chips for Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVDdCRGtUUGlaVEVJVFdWd25Vd2haNzRNSE9VNHVTbUJuNEsxRmdrcjNPLU1NeUtaYUhUdVVoTWNScDBiRmRXNFlVWFdLSE9fNlVncEtlUERSM0pvdGp3MUZ4c19lUnpUa0tVdzAySEJUX25sbzhWenpiRkpOU2M?oc=5",
-    "source": "The Korea Economic Daily Global Edition",
-    "published_at": "2026-07-03T07:20:55+00:00",
-    "summary": "Samsung seen in talks to manufacture custom AI chips for Anthropic The Korea Economic Daily Global Edition",
+    "title": "Anthropic wants to develop its own drugs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "source": "The Verge",
+    "published_at": "2026-07-03T13:56:52+00:00",
+    "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with",
     "category": "tech",
-    "score": 6.358
+    "score": 6.02
   },
   "items": [
     {
-      "title": "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkg1ZzBwMDZqYVhHLUwtUWhNbWd2eVJkOGdFcDJHZUxKWTRFc3MyZTdoWHpKczlmVTgwR2R5QjQwU0lhUmJNOVYydlppNHR3emVMaEVuQW9GY1RHU1pHVFhYcDRBeWZHcG1sVjFFYWp2blNseUZjVjRHampXU3BPeHVsWDZBMGhOUVJaaWF5dzN1bWdocWR5eFA1MU90ZlQ5cUhvTHEySXJ6LUsw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-03T07:28:00+00:00",
-      "summary": "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine AP News",
-      "category": "conflicts",
-      "score": 5.507
+      "title": "Nasa launches mission to save falling space telescope",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-07-03T10:28:17+00:00",
+      "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+      "category": "science",
+      "score": 5.989
     },
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-03T09:30:34+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 5.491
-    },
-    {
-      "title": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
-      "url": "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss",
+      "title": "Five killed in Ukraine a day after deadliest Russian attacks this year",
+      "url": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-07-03T08:20:51+00:00",
-      "summary": "Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds.",
-      "category": "politics",
-      "score": 4.305
+      "published_at": "2026-07-03T09:26:27+00:00",
+      "summary": "Separately, at least 10 people killed in Ukrainian attacks on Russia and Russian-controlled areas.",
+      "category": "conflicts",
+      "score": 5.301
     },
     {
-      "title": "OpenAI, Anthropic, Amazon and now Microsoft: Why some of the biggest technology companies are sending tho",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVkRZUFNKLW9OTnpOM3BLaEdNbThpRjZrLUh0Tk1MeVgwLVJvdDNoY2wtOUFQeEdWX1lwQVl0WGl2TEdDQ01UWXB2T29jV3lYMFF4NHZWa0dLUDdKVEY2VGFWVXhnUy1GeDUwVEVSVkgyeEFmWjVLY1RLU2c4UUJzT2hMRF9OOFNWQWJxbElzekc0UzkwU2o2VE1CWmRBSGZZcHJFYS1vdnhwZHFhUGtWb0xPUndIMU5ISlExUmxSR0stcGJiWER3NWk1amVyeFl0b1ExOGhBb3NyNFJRdjRDbndQZDRuTjRKaWlOWjRzSnhBaFR3LXA4YllHelBTRG1fYXIzOXU5Z18zLVFhRFNYUWxCUWs4NlZVVXc1cGVGb1RENVZ5cE9mZjhvUWhuU3Naa2V5VjRreWpCRWNocFpqRE1falNkcEJ6dVZTX2JIN01JbjFiTEVMMkZ30gHfAkFVX3lxTFBSeUttMWF1RUJXTEFSaGhIZ1BjemNRWldxX0ZMa1oxYldUVDN1QUlqcmJ4cG8wb2ZyX2tGTEd1MEVvcVFVYlFicUNIYlJXUFRza05Jc2JaNVlSN0RJZEtMamQwbkZXamxIWFVGanM2Z1pVSWc2S29MZVZ5Nk80TWVYVUFqUmZPVEV0c3g5RGxtN3hrM3RmMWQ3UHltcXV4MDlja016U1Y4S1R3VnZxRF8tWW8tOUU4bzl3LUVUN0VOU1lnQ2gybTdOYXFILTBOUURMdmVBY1g0VTJ1STMtcDN1RFB3R05rVWlYOFA5TkZzYXZJQ2djZU5icXd6dUpJVW9oVThoclVpSUtyS19mZ05YUUgyaWZPbWl3TGRFM1lmVHZ3TXVkTU15Y2Y3VTBfUTBtVjBlLUlGeXhpTjhOanQ3Rlo4bmlTNTkzVVN2YVNIWnlvbnkxVzJ5ZXBmQXltbw?oc=5",
-      "source": "The Times of India",
-      "published_at": "2026-07-03T07:40:00+00:00",
-      "summary": "OpenAI, Anthropic, Amazon and now Microsoft: Why some of the biggest technology companies are sending tho The Times of India",
-      "category": "tech",
-      "score": 4.17
+      "title": "UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid",
+      "url": "https://www.aljazeera.com/news/2026/7/3/un-sounds-red-alert-over-human-rights-catastrophe-in-sudans-el-obeid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-03T12:23:41+00:00",
+      "summary": "UN human rights chief Volker Turk issued the warning over growing fears of an imminent RSF assault.",
+      "category": "conflicts",
+      "score": 5.139
+    },
+    {
+      "title": "Moldova: Prime Minister Munteanu resigns",
+      "url": "https://www.dw.com/en/moldova-prime-minister-munteanu-resigns/a-77817415?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-07-03T10:17:00+00:00",
+      "summary": "Alexandru Munteanu announced his surprise resignation after just eight months as head of the government. President Maia Sandu said a successor would be appointed \"quickly\" in order to continue Moldova's pro-EU course.",
+      "category": "politics",
+      "score": 4.084
     }
   ],
   "hero_history": [
+    "Anthropic wants to develop its own drugs",
     "Samsung seen in talks to manufacture custom AI chips for Anthropic",
     "OpenAI reportedly in talks to give US government 5% stake",
     "Anthropic is discussing a new custom chip with Samsung",
     "OpenAI proposes handing Trump administration 5% stake, FT reports",
     "Ukraine",
     "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
-    "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
-    "UAE crude exports hit record after OPEC exit"
+    "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm"
   ]
 }

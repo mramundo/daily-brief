@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-03T14:31:27.008784+00:00",
+  "updated": "2026-07-03T19:48:03.468087+00:00",
   "hero": {
-    "title": "Anthropic wants to develop its own drugs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "source": "The Verge",
-    "published_at": "2026-07-03T13:56:52+00:00",
-    "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with",
-    "category": "tech",
-    "score": 6.02
+    "title": "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkg1ZzBwMDZqYVhHLUwtUWhNbWd2eVJkOGdFcDJHZUxKWTRFc3MyZTdoWHpKczlmVTgwR2R5QjQwU0lhUmJNOVYydlppNHR3emVMaEVuQW9GY1RHU1pHVFhYcDRBeWZHcG1sVjFFYWp2blNseUZjVjRHampXU3BPeHVsWDZBMGhOUVJaaWF5dzN1bWdocWR5eFA1MU90ZlQ5cUhvTHEySXJ6LUsw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-03T15:24:00+00:00",
+    "summary": "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine AP News",
+    "category": "conflicts",
+    "score": 5.499
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-07-03T10:28:17+00:00",
       "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
       "category": "science",
-      "score": 5.989
+      "score": 4.807
     },
     {
-      "title": "Five killed in Ukraine a day after deadliest Russian attacks this year",
-      "url": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-03T09:26:27+00:00",
-      "summary": "Separately, at least 10 people killed in Ukrainian attacks on Russia and Russian-controlled areas.",
-      "category": "conflicts",
-      "score": 5.301
+      "title": "Forget Nvidia: This Infrastructure Upstart Is The Real Backdoor AI Winner",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2hFQTZWcmNubHo5SEpLdHZNNjZyTXgxWTZLLXJNN0MyU01TTUFpX0xlNWp0ZS1OR09QMjJ3TzhUYk1RQTFWU2hZNmNaOWdjVnlvN0VnZVYxM2U4c1pjX3IwYWg4c3ZwZHhPWEV2ZXZEb3g5YjRtSGlvaFRVX2d0R2V0NUxZemZ4QTN2aC00RQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-07-03T19:03:09+00:00",
+      "summary": "Forget Nvidia: This Infrastructure Upstart Is The Real Backdoor AI Winner The Motley Fool",
+      "category": "tech",
+      "score": 4.482
     },
     {
-      "title": "UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid",
-      "url": "https://www.aljazeera.com/news/2026/7/3/un-sounds-red-alert-over-human-rights-catastrophe-in-sudans-el-obeid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-03T12:23:41+00:00",
-      "summary": "UN human rights chief Volker Turk issued the warning over growing fears of an imminent RSF assault.",
-      "category": "conflicts",
-      "score": 5.139
-    },
-    {
-      "title": "Moldova: Prime Minister Munteanu resigns",
-      "url": "https://www.dw.com/en/moldova-prime-minister-munteanu-resigns/a-77817415?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-07-03T10:17:00+00:00",
-      "summary": "Alexandru Munteanu announced his surprise resignation after just eight months as head of the government. President Maia Sandu said a successor would be appointed \"quickly\" in order to continue Moldova's pro-EU course.",
+      "title": "'We hope the member states will recognise our effort' to join the EU: Moldova's President Maia Sandu",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260703-we-hope-the-member-states-will-recognise-our-effort-to-join-the-eu-moldova-s-president-maia-sandu",
+      "source": "France 24",
+      "published_at": "2026-07-03T15:48:36+00:00",
+      "summary": "FRANCE 24’s Europe editor-in-chief Caroline de Camaret hosts Maia Sandu, the President of Moldova. This in the context of an EU-Moldova summit held on June 22, 2026, in Brussels. The ex-Soviet republic of nearly 3 million people that borders Ukraine has opened its first “cluster”",
       "category": "politics",
-      "score": 4.084
+      "score": 4.479
+    },
+    {
+      "title": "Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcUpjX1dlbHltamxqSTBvZ05iemVHYkZoNlhsSWZCb2NTWkNZeDFsM19ZUHZWb1h2LWJXRERMajNid2FRSTJKY2ZIUFhiWlNuS2lrRF91b2tLVjRnMXZxZlF3d0tqQy16VUI1WFo1YmhwYUw4aWhNanpqQk9JRElaRElBb1RhWG1JLXYxZlU0a2RZcGNsRXMtYm9YeXE0NG9x?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-03T14:18:19+00:00",
+      "summary": "Michael Burry Shorts Micron, Adding to His NVIDIA and Applied Materials Short Bets Against Chip Stocks Yahoo Finance",
+      "category": "tech",
+      "score": 4.291
     }
   ],
   "hero_history": [
+    "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine",
     "Anthropic wants to develop its own drugs",
     "Samsung seen in talks to manufacture custom AI chips for Anthropic",
     "OpenAI reportedly in talks to give US government 5% stake",
     "Anthropic is discussing a new custom chip with Samsung",
     "OpenAI proposes handing Trump administration 5% stake, FT reports",
     "Ukraine",
-    "Valar nuclear startup partners with Nvidia on data center aiming to conserve water",
-    "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm"
+    "Valar nuclear startup partners with Nvidia on data center aiming to conserve water"
   ]
 }

@@ -1,15 +1,24 @@
 {
-  "updated": "2026-07-04T08:49:43.242770+00:00",
+  "updated": "2026-07-04T13:56:39.658672+00:00",
   "hero": {
-    "title": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTNod0xTMjJIckxKX0NjQ1Z3OXJDbEZFcXNka1dQNVFfdjE5WVNnNUFfRWFuaEtnRExzV3huaXBRQ1BCUnozUnV0eG9ReGlvTUdrNDU2SjBKNzVkaE42MVNPcWt1a2U1RTllNTFFUjVuMnBkYU44SUUzSUtDaDUzbE1SNHlxMVQ5aXBHS3BxamR0eHpuWGo1WWxJNWRNaXFBVUd5SHhYaW41dDVreWVJYVhiYVhLQQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-04T06:47:00+00:00",
-    "summary": "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war AP News",
+    "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+    "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-07-04T13:13:52+00:00",
+    "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
     "category": "conflicts",
-    "score": 7.844
+    "score": 7.827
   },
   "items": [
+    {
+      "title": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWJCYWxLMXkzWHhuX0NjLWNfMEc1RE5HVk5GTWlHQ0xkOUZHU2FjcHR4RmQ4VEg3TEhJeUMtM1dLaGN4NmMzYWwzeGpCUkNEUEU1a3VlMkVFdTRtaXl3enFaanFKcnBiNDFIc0FVaV94T2FJLWVmZHRZQlJwd0l4Rm9ybl9NMkFvTnhzWlNZRlZwS3JFN2E3WklKTFk?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-04T12:29:00+00:00",
+      "summary": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia AP News",
+      "category": "resources",
+      "score": 6.441
+    },
     {
       "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
       "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
@@ -17,44 +26,35 @@
       "published_at": "2026-07-04T07:52:55+00:00",
       "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
       "category": "politics",
-      "score": 5.843
+      "score": 4.721
     },
     {
-      "title": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-04T04:54:19+00:00",
-      "summary": "Ukraine AP News",
-      "category": "conflicts",
-      "score": 4.843
-    },
-    {
-      "title": "Taylor Swift and Travis Kelce marry at NYC’s Madison Square Garden",
-      "url": "https://www.aljazeera.com/news/2026/7/4/taylor-swift-and-travis-kelce-marry-at-nycs-madison-square-garden?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-04T07:46:55+00:00",
-      "summary": "A-list celebrities attend wedding at Madison Square Garden to see superstar couple tie the knot.",
-      "category": "politics",
-      "score": 4.48
-    },
-    {
-      "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
-      "url": "https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-07-04T06:21:35+00:00",
-      "summary": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
+      "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+      "source": "NASA",
+      "published_at": "2026-07-04T11:15:37+00:00",
+      "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
       "category": "science",
-      "score": 3.9
+      "score": 4.262
+    },
+    {
+      "title": "After Trump administration clears Anthropic’s Claude Fable 5 and Mythos 5, no Sam Altman’s OpenAI-like go",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNV0JLdDZsY0w5ZWxmeEFaRXdDc3FOajYyR0g5cW9DTFVzSmFlNUZack9xQngyc1NENGFXTXl4RHFRS0RrRm1oZ19QMHRRTWRNWDh3dUc4WFBLdmllTkJGMlVVQWFKRGZGUmFlZzFuNEFDUVNFaHV4cXQtM3RsRFVHWlNSSWVCWEtKdjNQNzVHSWlvTGZDMVNCcTlYVUd5X09HcjRDQkg2QnNXUm1ZTERNVUU0VDJ4Q05UUlctSXY3bHFQQmlLLURJYmxlQkVhUFpDclNISjd6VGhsVVpDZGNmbVBkSWt0cGJidUt0VF9iaE02cnJtd1lORmVTSFNhQ0x3TF9abWVHZlhvUy01RFlMako5MUZCQ0haRWxwcXhTMWE1cXVydmFMY0dLM2p1dWl6QXfSAbcCQVVfeXFMUHRnMG8xbVJvWU5JT2Y5RjFVWW9MUzBOVFJhTS1QeVRmQld0emlsaGJhOWtzd0JaclRxWWVnYVFJRGVvVUk3WlZsc1ZtU0hQZ2d4LXozMFJZQ2J6RmtJU3Izc2xINkNNa3JkbUJEYjNRQVQ1TWtkT0tLWUtId19XMVlDQjBXZmNYZmwxNmV1T2ktbVJUak1sVV9wbFp5b1A3OTY0WGxkWGhPSkh4UHNpbDdObHczbDVIblVHVGJneFNsWG5zOERoLWktekxqU3d2SEVnYkdqOUkxZ3RYSWhjNHgxclVRc2ZPRFpFUXg4bFFzOHZUc053WHh6ckxXUm9UUDNjNWhTbnRWNzlnVFMtT3FpZW1peUZGRXNMbDZoTjlNN2l0VmU1Umx2OGpNaklQSW91bEluOGc?oc=5",
+      "source": "The Times of India",
+      "published_at": "2026-07-04T13:39:00+00:00",
+      "summary": "After Trump administration clears Anthropic’s Claude Fable 5 and Mythos 5, no Sam Altman’s OpenAI-like go The Times of India",
+      "category": "tech",
+      "score": 3.965
     }
   ],
   "hero_history": [
+    "Ukraine hits major oil terminal in Russia's St Petersburg",
     "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
     "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
     "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine",
     "Anthropic wants to develop its own drugs",
     "Samsung seen in talks to manufacture custom AI chips for Anthropic",
     "OpenAI reportedly in talks to give US government 5% stake",
-    "Anthropic is discussing a new custom chip with Samsung",
-    "OpenAI proposes handing Trump administration 5% stake, FT reports"
+    "Anthropic is discussing a new custom chip with Samsung"
   ]
 }

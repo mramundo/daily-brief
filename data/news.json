@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-05T04:18:51.704365+00:00",
+  "updated": "2026-07-05T09:21:57.885439+00:00",
   "hero": {
-    "title": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3SV9xYmwtRzlJc0dqcUYzbXFla2VBT1didjY2S3cxQzlNb3Q3ZEZNMElvQzBMVGZEYk5wLUsxTUVFVzRoRU04NWxYNTRmMTRsN0lwc09TM01iS3FCUzZ1RDg0dXJNeGhodjVYZE10QnhzOEQ4aVBqcmdjaGc?oc=5",
-    "source": "AOL.com",
-    "published_at": "2026-07-05T01:17:30+00:00",
-    "summary": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock. AOL.com",
-    "category": "tech",
-    "score": 7.907
+    "title": "OPEC+ set to approve another oil output increase, sources say",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-05T08:57:29+00:00",
+    "summary": "OPEC+ set to approve another oil output increase, sources say Reuters",
+    "category": "resources",
+    "score": 6.495
   },
   "items": [
     {
-      "title": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkt3X1lRUTk1RjVteGhFWXpFVFc5VGlaM1JpZlVKOElvbE0tOVdMQ1RkVzZpai1VT29LajNrNExscGlUWlk2UVg2Y240NkZSblc2bmJXNXhoc3R6SS1JMi05N0dPMHZOMTlGX3NVTUdnWXNPZV8wX1BFOE5QcFJVTjFiNzFrMVgzMGYtODFYV2FOcDBTR3Bheg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "2026-07-05T04:14:50+00:00",
-      "summary": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried? The Motley Fool",
-      "category": "tech",
-      "score": 5.38
-    },
-    {
-      "title": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-05T00:00:00+00:00",
-      "summary": "Iran's late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
-      "category": "conflicts",
-      "score": 3.563
-    },
-    {
-      "title": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWJCYWxLMXkzWHhuX0NjLWNfMEc1RE5HVk5GTWlHQ0xkOUZHU2FjcHR4RmQ4VEg3TEhJeUMtM1dLaGN4NmMzYWwzeGpCUkNEUEU1a3VlMkVFdTRtaXl3enFaanFKcnBiNDFIc0FVaV94T2FJLWVmZHRZQlJwd0l4Rm9ybl9NMkFvTnhzWlNZRlZwS3JFN2E3WklKTFk?oc=5",
+      "title": "Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-04T16:43:00+00:00",
-      "summary": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia AP News",
-      "category": "resources",
-      "score": 3.396
+      "published_at": "2026-07-05T08:13:35+00:00",
+      "summary": "Iran war AP News",
+      "category": "conflicts",
+      "score": 6.177
     },
     {
-      "title": "Ukraine's Zelenskiy says he spoke to Trump, calls for 'American resolve' to help end war",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1ctYWUyVXNZVTQ3Qld0Y2pmMmQ0MFVEUE9qalZVMldzSWlfc0FSdHo2VENpbHhwX2lxWVNzSl9TQWVqMlgyRmNPYkY3OWk0ZjNTQzEyV25CTV9WX1F3dzFFaWJSNEVaQnJqNzNMUzlTWkN4aHFEZ2FYc3cwUTFhdHZzZllIUWVVMnZpQng1MVl1aXRrX045U21NQ3I5eW0yOU1NN2JPNW8wdjRCcDRPcGJBekZ5bXM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-04T22:33:01+00:00",
-      "summary": "Ukraine's Zelenskiy says he spoke to Trump, calls for 'American resolve' to help end war Reuters",
+      "title": "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
+      "url": "https://www.aljazeera.com/news/2026/7/5/trump-offers-to-help-end-ukraine-war-in-long-call-with-putin-kremlin-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-05T08:06:15+00:00",
+      "summary": "Kremlin aide Yury Ushakov says Trump made the offer during a nearly 90-minute phone call with the Russian president.",
       "category": "conflicts",
-      "score": 3.382
+      "score": 5.015
+    },
+    {
+      "title": "What Rare Earths Stock Can Best Deliver Gains From America's Reshoring Boom?",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QZDFpdXBhbmFUSjF1YVloc3cwWkpnOGJ5clVIUW1qMG5LVE04U05oYk5NUUlZbmZoNjVqRks0TE9GNGZVUVAyWkpzcFB6NC04dTVnN3Uwemw1WGxtMDAyNTFzekhla1dZblNSeV9yX2J0OEcwcElFR2l6amswQQ?oc=5",
+      "source": "AOL.com",
+      "published_at": "2026-07-05T06:52:43+00:00",
+      "summary": "What Rare Earths Stock Can Best Deliver Gains From America's Reshoring Boom? AOL.com",
+      "category": "resources",
+      "score": 4.492
+    },
+    {
+      "title": "This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblpFX1VtOVpZYnFvX3c0Y21Nak5QRzl3QV9vWlUwZTRzZW5ha2lVSXo1N2pOSElmSzV1WjJCRDZ2SjhsNEhzQ1EwWTlDcEFsRHc3djVXZE03a3kzYmxBcTRGN2tERXM2d2l3N3BhQWlzQVRWTjhmNXhqSlp0cmVWbWZHUi12ajlXRktGY21acw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-07-05T08:55:29+00:00",
+      "summary": "This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel) The Motley Fool",
+      "category": "tech",
+      "score": 3.94
     }
   ],
   "hero_history": [
+    "OPEC+ set to approve another oil output increase, sources say",
     "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
     "Will economic pressure move the Kremlin towards talks with Kyiv?",
     "Ukraine hits major oil terminal in Russia's St Petersburg",
     "Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war",
     "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
     "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine",
-    "Anthropic wants to develop its own drugs",
-    "Samsung seen in talks to manufacture custom AI chips for Anthropic"
+    "Anthropic wants to develop its own drugs"
   ]
 }

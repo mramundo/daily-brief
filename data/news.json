@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-07T09:59:37.560764+00:00",
+  "updated": "2026-07-07T15:13:20.670406+00:00",
   "hero": {
-    "title": "Iran war",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-07T09:56:30+00:00",
-    "summary": "Iran war AP News",
-    "category": "conflicts",
-    "score": 7.103
+    "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGRQQzRJX0VFTThJbC1JZnM2NUpNVHZQeEhxODdQejNBODNSLXpYMGdvSWxJMVhRSFBEOWplZy1NMU5qSnFxc3dpOEczN01EcVRQSk1mSXo3ejlMaUoxcks3LURaeGZ0Q3EyZ2dBQVN0QkRXNWg0YWpyOXJ2TjUtLVF4elZRU1VqdUVCdEhGNnFfYV9uYTdaT3V4MVFEZ2swRmlfRw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-07T12:52:40+00:00",
+    "summary": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say Reuters",
+    "category": "tech",
+    "score": 5.991
   },
   "items": [
     {
-      "title": "Explosions rock Damascus during Macron’s visit to Syria",
-      "url": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-07T07:32:04+00:00",
-      "summary": "At least 18 people, including four police officers, were wounded in the blasts, Syria's Interior Ministry says.",
-      "category": "conflicts",
-      "score": 5.763
+      "title": "What Betting Markets Really Think About the OpenAI, Anthropic, and Databricks IPOs",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXU3OEVPNVFsTUVUdzZJSjVoNDFRVlpmVVV5aE0xcUZpVGlkUVR6Q05jSl94S05ObDZVOGdsVFV0VXZvVEZZWmxDelZZamkzOHVPeFhrbjlMNTBGS1NjcjQ2a181aVFOQ2NOYXVjNG83TVRhczBRaWpZVGxXSzdIYmtrMFZuWlpyMnlXR003cEh5LTBpXzV5bWR5d3Jna1FITUVwQm5seVAyV2IxX3AyM0NNYzJFdHFWQUg5TFJrWE55dw?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-07T11:45:17+00:00",
+      "summary": "What Betting Markets Really Think About the OpenAI, Anthropic, and Databricks IPOs 24/7 Wall St.",
+      "category": "tech",
+      "score": 5.336
     },
     {
-      "title": "Wall Street warms to SpaceX ahead of Nasdaq 100 index inclusion",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFlULTBOYXhrMW91ckpQYTN4ampKcmtYWW9xTnA0YmN1ZlFDSVRQY3FmSXJoMFR5RVlaOWd3eVhzOTRTMk5rUW9OLURzSXZTalh1OGxmemtOUW0tTC0yWTJpbVVsVDRMSmRIVTU4N21rWjJCY1BpQVNYLVhNc2tleTVwN3J3dHNpRE00cFltUFVXUERXM0QxajM0d20?oc=5",
+      "title": "Nasdaq falls at open as DeepSeek's AI chip push rattles markets",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkRnZVFOUXdNU3JYa1lRMEFEQ0MwWGZMRkZ4TW1PM1JaUmQ4aEhTQlNsdlp1cVBTRVZ4LWZ0RDBJNU40a0tJS1JvaEtjZWczcHJWOFVncTBCYzh3NVFUS1M3UG1tZWJ4VDNsc1VkNkg2eVByZkhacEhDS1hQaGJlaUpGUG5qR0dhbzZ3RzRVSGpDdW94RlJWUFFNR0Mwc05lZ1hqRUJ3ZWVoaTRKTDJFSEtQaXRIdEVvQnc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-07T09:08:01+00:00",
-      "summary": "Wall Street warms to SpaceX ahead of Nasdaq 100 index inclusion Reuters",
+      "published_at": "2026-07-07T13:42:19+00:00",
+      "summary": "Nasdaq falls at open as DeepSeek's AI chip push rattles markets Reuters",
       "category": "finance",
-      "score": 4.149
+      "score": 5.003
     },
     {
-      "title": "Alberta and Ontario propose a pipeline to carry western Canada’s oil to the east",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1BoUFVJaUlJVzg5QUFhdElxT003S09UNUdqa3l2VGdXajdieno5ZFFhcUVxSnV0eGN2NXdiWlN3NjNua0JsSDllT0Z4aDQ0NnM2aERVdFVKcUxkWWROOHVDVnV6enFHS29FUGJqbTJ0RWZ1c3UxTkNnUnNsb0kyallQMjJMU1dOWVR3b1JBMGpTeVlTaUZ6YldZQWNyWjFi?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-07T02:59:00+00:00",
-      "summary": "Alberta and Ontario propose a pipeline to carry western Canada’s oil to the east AP News",
-      "category": "resources",
-      "score": 4.111
-    },
-    {
-      "title": "NATO summit: Allies in Ankara for talks, defense deals",
-      "url": "https://www.dw.com/en/nato-summit-allies-in-ankara-for-talks-defense-deals/live-77858549?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-07-07T08:57:00+00:00",
-      "summary": "The leaders of NATO's 32 member states are holding two days of talks in the Turkish capital. NATO Secretary General Mark Rutte said the summit aims to ensure the military alliance \"continues to deliver.\" DW has more.",
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-07T11:16:30+00:00",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
       "category": "politics",
-      "score": 4.083
+      "score": 4.297
+    },
+    {
+      "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-07T13:24:52+00:00",
+      "summary": "The Ukrainian president says \"decisions for air defence\" should be \"one of the key outcomes\" of this week's summit in Turkey.",
+      "category": "politics",
+      "score": 4.281
     }
   ],
   "hero_history": [
+    "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
     "Iran war",
     "Kylian Mbappé condemns Paraguayan senator over racist remarks after World Cup match",
     "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources say",
     "TeraWulf jumps on $19 billion data center lease deal with Anthropic",
     "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region",
     "OPEC+ countries say they will expand monthly oil production",
-    "OPEC Oil Production",
-    "OPEC+ approves further oil output increase as Hormuz exports start to recover"
+    "OPEC Oil Production"
   ]
 }

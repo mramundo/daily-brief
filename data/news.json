@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-07T15:13:20.670406+00:00",
+  "updated": "2026-07-07T20:13:09.144299+00:00",
   "hero": {
-    "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGRQQzRJX0VFTThJbC1JZnM2NUpNVHZQeEhxODdQejNBODNSLXpYMGdvSWxJMVhRSFBEOWplZy1NMU5qSnFxc3dpOEczN01EcVRQSk1mSXo3ejlMaUoxcks3LURaeGZ0Q3EyZ2dBQVN0QkRXNWg0YWpyOXJ2TjUtLVF4elZRU1VqdUVCdEhGNnFfYV9uYTdaT3V4MVFEZ2swRmlfRw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-07T12:52:40+00:00",
-    "summary": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say Reuters",
+    "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-07-07T16:19:46+00:00",
+    "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Bloomberg.com",
     "category": "tech",
-    "score": 5.991
+    "score": 6.779
   },
   "items": [
     {
-      "title": "What Betting Markets Really Think About the OpenAI, Anthropic, and Databricks IPOs",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXU3OEVPNVFsTUVUdzZJSjVoNDFRVlpmVVV5aE0xcUZpVGlkUVR6Q05jSl94S05ObDZVOGdsVFV0VXZvVEZZWmxDelZZamkzOHVPeFhrbjlMNTBGS1NjcjQ2a181aVFOQ2NOYXVjNG83TVRhczBRaWpZVGxXSzdIYmtrMFZuWlpyMnlXR003cEh5LTBpXzV5bWR5d3Jna1FITUVwQm5seVAyV2IxX3AyM0NNYzJFdHFWQUg5TFJrWE55dw?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-07-07T11:45:17+00:00",
-      "summary": "What Betting Markets Really Think About the OpenAI, Anthropic, and Databricks IPOs 24/7 Wall St.",
+      "title": "Syria",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xdDlKNUdGU2NJU2RuNVB6dXY1TkdsejBvU2hqaXVzRFc4dlJDb3FsSnRldnBjMncxaU1GTnlKd2RWdw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-07T17:11:17+00:00",
+      "summary": "Syria AP News",
+      "category": "conflicts",
+      "score": 6.273
+    },
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-07T20:04:32+00:00",
+      "summary": "Open-source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life-cycle.",
       "category": "tech",
-      "score": 5.336
+      "score": 5.976
     },
     {
-      "title": "Nasdaq falls at open as DeepSeek's AI chip push rattles markets",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkRnZVFOUXdNU3JYa1lRMEFEQ0MwWGZMRkZ4TW1PM1JaUmQ4aEhTQlNsdlp1cVBTRVZ4LWZ0RDBJNU40a0tJS1JvaEtjZWczcHJWOFVncTBCYzh3NVFUS1M3UG1tZWJ4VDNsc1VkNkg2eVByZkhacEhDS1hQaGJlaUpGUG5qR0dhbzZ3RzRVSGpDdW94RlJWUFFNR0Mwc05lZ1hqRUJ3ZWVoaTRKTDJFSEtQaXRIdEVvQnc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-07T13:42:19+00:00",
-      "summary": "Nasdaq falls at open as DeepSeek's AI chip push rattles markets Reuters",
-      "category": "finance",
-      "score": 5.003
-    },
-    {
-      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
       "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-07-07T11:16:30+00:00",
+      "published_at": "2026-07-07T18:03:56+00:00",
       "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
       "category": "politics",
-      "score": 4.297
+      "score": 4.63
     },
     {
-      "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-07-07T13:24:52+00:00",
-      "summary": "The Ukrainian president says \"decisions for air defence\" should be \"one of the key outcomes\" of this week's summit in Turkey.",
-      "category": "politics",
-      "score": 4.281
+      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
+      "source": "NASA",
+      "published_at": "2026-07-07T18:00:00+00:00",
+      "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddar",
+      "category": "science",
+      "score": 4.345
     }
   ],
   "hero_history": [
+    "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
     "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
     "Iran war",
     "Kylian Mbappé condemns Paraguayan senator over racist remarks after World Cup match",
     "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources say",
     "TeraWulf jumps on $19 billion data center lease deal with Anthropic",
     "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region",
-    "OPEC+ countries say they will expand monthly oil production",
-    "OPEC Oil Production"
+    "OPEC+ countries say they will expand monthly oil production"
   ]
 }

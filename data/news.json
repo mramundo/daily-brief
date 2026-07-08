@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-07T20:13:09.144299+00:00",
+  "updated": "2026-07-08T03:42:54.386771+00:00",
   "hero": {
-    "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlNxT0NESlRpNlEyQnN6ZXIwQU5Rb3JQY2RZNS1WOEVrQkxfUHRhWk9XMTRPQlFfM09QOGdlX3B4S091WThRdlN1emh3OENOTEw5QkdhZ1dkcERmdDJjemU3a0VJYUhLWDNzeHFweDUzbWxuT0FjUGNPdEhTREhMa2FldEpJelE1SnZoUjJTSnQyMlc0MldoZF80SHE0d3BrUlBDeUVFT3Bsa3VoUTF1Tg?oc=5",
-    "source": "Bloomberg.com",
-    "published_at": "2026-07-07T16:19:46+00:00",
-    "summary": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps Bloomberg.com",
+    "title": "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-08T03:19:00+00:00",
+    "summary": "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports Reuters",
     "category": "tech",
-    "score": 6.779
+    "score": 8.401
   },
   "items": [
     {
-      "title": "Syria",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xdDlKNUdGU2NJU2RuNVB6dXY1TkdsejBvU2hqaXVzRFc4dlJDb3FsSnRldnBjMncxaU1GTnlKd2RWdw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-07T17:11:17+00:00",
-      "summary": "Syria AP News",
-      "category": "conflicts",
-      "score": 6.273
-    },
-    {
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-07T20:04:32+00:00",
-      "summary": "Open-source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life-cycle.",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "source": "The Verge",
+      "published_at": "2026-07-07T17:46:59+00:00",
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessibl",
       "category": "tech",
-      "score": 5.976
+      "score": 5.27
     },
     {
-      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
-      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-07-07T18:03:56+00:00",
-      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
-      "category": "politics",
-      "score": 4.63
-    },
-    {
-      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-      "url": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
-      "source": "NASA",
-      "published_at": "2026-07-07T18:00:00+00:00",
-      "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and Wildlife Service. The property, formerly known as NASA Goddar",
+      "title": "'Extreme' marine heatwave expected for parts of UK",
+      "url": "https://www.bbc.co.uk/news/articles/ckg888vpz4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-07-07T23:45:07+00:00",
+      "summary": "Scientists fear that high sea temperatures could have wide-ranging consequences for marine life.",
       "category": "science",
-      "score": 4.345
+      "score": 4.294
+    },
+    {
+      "title": "US launches new strikes on Iran, revokes oil sales permit after 3 ships attacked in Strait of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-08T02:46:00+00:00",
+      "summary": "US launches new strikes on Iran, revokes oil sales permit after 3 ships attacked in Strait of Hormuz AP News",
+      "category": "resources",
+      "score": 4.269
+    },
+    {
+      "title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+      "url": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-08T01:04:26+00:00",
+      "summary": "The US-Israel war on Iran is forcing African governments to rethink their security and economic priorities.",
+      "category": "conflicts",
+      "score": 3.82
     }
   ],
   "hero_history": [
+    "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports",
     "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
     "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
     "Iran war",
     "Kylian Mbappé condemns Paraguayan senator over racist remarks after World Cup match",
     "EXCLUSIVE: UAE crude output nears record following OPEC exit, sources say",
     "TeraWulf jumps on $19 billion data center lease deal with Anthropic",
-    "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region",
-    "OPEC+ countries say they will expand monthly oil production"
+    "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region"
   ]
 }

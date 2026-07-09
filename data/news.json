@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-09T15:32:05.992591+00:00",
+  "updated": "2026-07-09T20:02:58.640689+00:00",
   "hero": {
-    "title": "Iraq will not leave OPEC but seeks fair output quota, PM says",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVWFBRktYbE01VDBpQlhqa2hWQ0hyVXA1QmpkQ3ZWTjZVYzZsRVh5UzkwaUJnYkZFMzlkMGpVdWhBRTNvd01XSklWUVdPZzVKWkxTOTB1YmotMWczVW5RamdkQzhtZFluNkR5djZwSUV2dm8wQmVtXzJsYTMxT3lPU3VvZE9QNzZGN21mM0pmbUVEM3ZHVmZYMHdLVFhVU2RuRHZ5VjdvSkRSZnZs?oc=5",
+    "title": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-09T09:53:57+00:00",
-    "summary": "Iraq will not leave OPEC but seeks fair output quota, PM says Reuters",
-    "category": "resources",
-    "score": 6.73
+    "published_at": "2026-07-09T18:03:39+00:00",
+    "summary": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools Reuters",
+    "category": "tech",
+    "score": 7.094
   },
   "items": [
     {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
       "source": "TechCrunch",
-      "published_at": "2026-07-09T14:51:00+00:00",
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+      "published_at": "2026-07-09T19:05:58+00:00",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
       "category": "tech",
-      "score": 6.677
+      "score": 6.604
     },
     {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-09T14:53:09+00:00",
-      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-      "category": "tech",
-      "score": 5.851
+      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
+      "url": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
+      "source": "NASA",
+      "published_at": "2026-07-09T15:42:58+00:00",
+      "summary": "This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use du",
+      "category": "science",
+      "score": 5.115
     },
     {
-      "title": "Oil prices and stock markets worldwide hold steadier as AI stocks climb",
+      "title": "Palestinian legislative elections set for November 28",
+      "url": "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-09T17:32:09+00:00",
+      "summary": "Palestinian President Mahmoud Abbas announces first legislative elections in 20 years.",
+      "category": "politics",
+      "score": 5.057
+    },
+    {
+      "title": "Oil prices slip, stocks climb as calm returns to financial markets worldwide",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUo0Z19ocWFGV1lxbjE1OFBueW1VZ0lTMWQwem9GV1g1ejFHN2NLNnQ4ek5memVGU0ZfRjRkbWYyQmJoSWwzRGJpenlJZ1o4TTdwM0k5dGI5RkoteDlVTGx3TEVGYzZhZEhManlLNm5KY3QyV2k0eW1QV2txbW5ienh1SDRYMUxZQzdKTE53?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-09T13:51:00+00:00",
-      "summary": "Oil prices and stock markets worldwide hold steadier as AI stocks climb AP News",
+      "published_at": "2026-07-09T16:41:00+00:00",
+      "summary": "Oil prices slip, stocks climb as calm returns to financial markets worldwide AP News",
       "category": "finance",
-      "score": 4.969
-    },
-    {
-      "title": "Satellites in tandem reveal 30 years of Antarctic ice flow",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow",
-      "source": "ESA",
-      "published_at": "2026-07-09T15:10:00+00:00",
-      "summary": "Thirty years after the European Space Agency first demonstrated the power of flying two satellites in very close formation, the concept was recently recreated. By temporarily positioning two Copernicus Sentinel-1 radar satellites to replicate the pioneering ERS-1–ERS-2 ‘tandem mi",
-      "category": "science",
-      "score": 4.545
+      "score": 4.632
     }
   ],
   "hero_history": [
+    "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
     "Iraq will not leave OPEC but seeks fair output quota, PM says",
     "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong",
     "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
     "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
     "Trump says ceasefire is 'over' after US and Iran trade strikes",
     "China issues 'backdoor' security alert over Anthropic's Claude Code",
-    "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports",
-    "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps"
+    "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports"
   ]
 }

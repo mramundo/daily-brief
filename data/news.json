@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-09T04:14:21.409501+00:00",
+  "updated": "2026-07-09T10:04:48.165026+00:00",
   "hero": {
-    "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
+    "title": "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWZadmVQb3NCUEZleTdpQ2pQUk1obGZ1SG5pQmx3bXVFUWdHS1g2eWVBYzNvSS1lVFdkZU1oajBwUm5BNUlaOXZ4dTZfUE01aTNtRkRScVpXanYxLWoyTTYzUDRmSDk3dGhIZFpXaG91M1A0bDBPdGlHZ0JpRENTc3cybXVGUVY4blgycEdjajBKY1ZDd3c0RUJxMDIzeGcyTnZqLURZVUZVX3RNN3ZFTXhPcngxSFlJaUc2YU0tSzRVcm14ZGpsaDdB?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-08T18:50:43+00:00",
-    "summary": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports Reuters",
+    "published_at": "2026-07-09T04:59:00+00:00",
+    "summary": "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong Reuters",
     "category": "tech",
-    "score": 5.211
+    "score": 6.233
   },
   "items": [
     {
-      "title": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkg2NWtteXRjblpQRDNvZVBHcVdOTUlJYlYzZUltRS10OWVVSGpjcnU4bjl3U3doZnJMRGREdEoxaTAtMXRhTVA2WGJSUjZHN244dlZsSXM2SHJwbGxmYnZxdVJNb2JNRWd6M1ZPMmd2dmlHN3FpdWt3aUZjSFE0SHBGYUVRMlloTE5tSVNzcjJqOVNqZkdDRjhOS3Jja1gyYWN6VlVNNEVtZ2NrYWFyeWdLcmNwMUFNbExiWmJxS2R1eUdodXM0?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-08T22:23:53+00:00",
-      "summary": "Oil rises more than a dollar per barrel as US launches fresh strikes against Iran Reuters",
-      "category": "resources",
-      "score": 5.179
-    },
-    {
-      "title": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkhGS3lPNldaSFBueUFoZ3hpMUlSS0tLUTVrUWVJekZ3MWdRSm9CTjllVHd3U212cWVTdXE4ZHFWNzJyNVlNcVBaaGp2UWZlMFVTSkFlNUFQQ1ZiOGkwb1NQOU5xTDM0WkJWSTI1Z004ck95UV9vN2RoWklsdmhlcE43WVJDUmM1R3NsYjJ6Tk9jV2xSLTJEWUhfSlVqTTlyeUViUFFld3pveVNaQ0RmZGFQWGZpRDY4Y21UUg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-08T18:34:43+00:00",
-      "summary": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says Reuters",
-      "category": "tech",
-      "score": 5.153
-    },
-    {
-      "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-      "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-07-08T17:18:14+00:00",
-      "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+      "title": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+      "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-09T07:08:32+00:00",
+      "summary": "Israeli air attacks and gunfire kill nine Palestinians in Gaza despite ceasefire, medics say.",
       "category": "conflicts",
-      "score": 4.496
+      "score": 5.796
     },
     {
-      "title": "Japan benchmark bond yield hits 30-year high on inflation, fiscal health concerns",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ2VaM2wyWXJ2MHBHdzl4YmhTTW5mRGo3QkxPRVhnbWxaN0xGOUMzTjJ5czRhQ1lJUjJ5aU05MUVfdkQ5Sjd2bjhBVzgtTUFXSnktbmR4N1JFWmpWSXYwODVic2s2OVctUzlSR0d3SDF0QzhHMUdaZ296WFl4R0NseER4endVVENsV1Y5SzdicEVEbEdYeHpWdkZzdmU4SDFRaDY3cmxadmxfRW5aZXREMFhrWVJkdFFDZW5reG9PMUxHaXlIZXNzQ2lPUjQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-09T00:32:00+00:00",
-      "summary": "Japan benchmark bond yield hits 30-year high on inflation, fiscal health concerns Reuters",
-      "category": "finance",
-      "score": 4.299
+      "title": "Trump says he will remove Syria from the state sponsor of terrorism list",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-says-he-will-remove-syria-from-the-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-09T04:28:44+00:00",
+      "summary": "US President Trump said he will remove Syria from the US state sponsor of terrorism list at the NATO summit.",
+      "category": "politics",
+      "score": 5.188
+    },
+    {
+      "title": "How beachgoers are turning snaps into science",
+      "url": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-07-09T05:06:11+00:00",
+      "summary": "Scientists hope to learn more about the impact of climate change on coasts through people's photos.",
+      "category": "science",
+      "score": 4.939
+    },
+    {
+      "title": "US launches new airstrikes on Iran and Tehran fires back at Gulf Arab states",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmZnOENNRXdELTloYWdZVG84OGRxcnFydXg5S1RNYWYyeTVkZGQ3XzkwV0hJdXRDNzBrSEp2ZUw2UkU5LVJkcWtyc0FXOHZkM1cwanhvaUFFM3g2WjJ6bkdHZmJVbE8zNGFneWF4VzM5VFdWcGNmUWo4VnljNktvSWJ3eE9XaThVZVVPM2NlQlhoUVh4T2E0cnJB?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-09T06:32:00+00:00",
+      "summary": "US launches new airstrikes on Iran and Tehran fires back at Gulf Arab states AP News",
+      "category": "conflicts",
+      "score": 4.749
     }
   ],
   "hero_history": [
+    "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong",
     "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
     "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
     "Trump says ceasefire is 'over' after US and Iran trade strikes",
     "China issues 'backdoor' security alert over Anthropic's Claude Code",
     "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports",
     "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
-    "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say",
-    "Iran war"
+    "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say"
   ]
 }

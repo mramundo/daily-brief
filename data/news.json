@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-09T20:02:58.640689+00:00",
+  "updated": "2026-07-10T04:12:59.442765+00:00",
   "hero": {
-    "title": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
+    "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-09T18:03:39+00:00",
-    "summary": "OpenAI launches ChatGPT Work, adding to competition for professional AI tools Reuters",
+    "published_at": "2026-07-09T23:08:18+00:00",
+    "summary": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies Reuters",
     "category": "tech",
-    "score": 7.094
+    "score": 6.237
   },
   "items": [
     {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-09T19:05:58+00:00",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "category": "tech",
-      "score": 6.604
-    },
-    {
-      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
-      "url": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
-      "source": "NASA",
-      "published_at": "2026-07-09T15:42:58+00:00",
-      "summary": "This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use du",
-      "category": "science",
-      "score": 5.115
-    },
-    {
-      "title": "Palestinian legislative elections set for November 28",
-      "url": "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28?traffic_source=rss",
+      "title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-07-09T17:32:09+00:00",
-      "summary": "Palestinian President Mahmoud Abbas announces first legislative elections in 20 years.",
-      "category": "politics",
-      "score": 5.057
+      "published_at": "2026-07-10T01:42:27+00:00",
+      "summary": "Israeli strike killed Mohammed al-Wahidi and three others on the eve of the Egypt vs Argentina match on Tuesday.",
+      "category": "conflicts",
+      "score": 5.901
     },
     {
-      "title": "Oil prices slip, stocks climb as calm returns to financial markets worldwide",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaUo0Z19ocWFGV1lxbjE1OFBueW1VZ0lTMWQwem9GV1g1ejFHN2NLNnQ4ek5memVGU0ZfRjRkbWYyQmJoSWwzRGJpenlJZ1o4TTdwM0k5dGI5RkoteDlVTGx3TEVGYzZhZEhManlLNm5KY3QyV2k0eW1QV2txbW5ienh1SDRYMUxZQzdKTE53?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-09T16:41:00+00:00",
-      "summary": "Oil prices slip, stocks climb as calm returns to financial markets worldwide AP News",
-      "category": "finance",
-      "score": 4.632
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-09T23:38:00+00:00",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "category": "tech",
+      "score": 5.676
+    },
+    {
+      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-09T21:04:09+00:00",
+      "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
+      "category": "conflicts",
+      "score": 4.406
+    },
+    {
+      "title": "Where Venezuela’s Earthquakes Shifted the Ground",
+      "url": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
+      "source": "NASA",
+      "published_at": "2026-07-10T04:00:00+00:00",
+      "summary": "Radar data from the NISAR satellite show that La Guaira and nearby areas experienced significant ground displacement from the June 2026 temblors.",
+      "category": "science",
+      "score": 4.048
     }
   ],
   "hero_history": [
+    "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
     "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
     "Iraq will not leave OPEC but seeks fair output quota, PM says",
     "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong",
     "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
     "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
     "Trump says ceasefire is 'over' after US and Iran trade strikes",
-    "China issues 'backdoor' security alert over Anthropic's Claude Code",
-    "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports"
+    "China issues 'backdoor' security alert over Anthropic's Claude Code"
   ]
 }

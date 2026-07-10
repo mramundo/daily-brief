@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-10T14:50:21.989984+00:00",
+  "updated": "2026-07-10T19:50:08.108315+00:00",
   "hero": {
-    "title": "Stocks and oil prices drift as global markets continue to calm",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUE94dmZybFcyTlJhRnZNYi1BVGJ0VnZhZURrYnpVT0NGOGo2WTdXZ252aXZTZ3hvTEYwTWdWT0lJQklMODBreW1FYjVISWhXNTVVWGEtNTgyUGk5ampEMlBIbTE4TGx3c2VJS2kzOE05cW1XNHY4dERoeTFvRWVzUHZveld4Ri1kR2JXWXozVTVBbVU?oc=5",
+    "title": "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzRPSEVLT2daeVRFMWhuSmMtZkxzNFptUmlrY24wVFJ0clQ4Z01jYVNZdE1pSFh3bVhJVTRHblpjN1BTODF3STFQbEN4RExBQnVSMUQ0NDFwS0NOVXkxNjRwYlV4MnVibFl5N1ViX3ljZ0RSRy1lM1RkdjdyM3Z1UnNyVWlHRmt0Z2FCUXEtbE00MVRRbHNWaDl0aw?oc=5",
     "source": "AP News",
-    "published_at": "2026-07-10T14:14:00+00:00",
-    "summary": "Stocks and oil prices drift as global markets continue to calm AP News",
-    "category": "finance",
-    "score": 7.325
+    "published_at": "2026-07-10T19:45:21+00:00",
+    "summary": "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy AP News",
+    "category": "tech",
+    "score": 5.312
   },
   "items": [
     {
-      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-10T14:19:40+00:00",
-      "summary": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
-      "category": "tech",
-      "score": 5.885
-    },
-    {
-      "title": "SK Hynix hits the U.S. stock market as demand for memory chips soars amid AI frenzy",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzRPSEVLT2daeVRFMWhuSmMtZkxzNFptUmlrY24wVFJ0clQ4Z01jYVNZdE1pSFh3bVhJVTRHblpjN1BTODF3STFQbEN4RExBQnVSMUQ0NDFwS0NOVXkxNjRwYlV4MnVibFl5N1ViX3ljZ0RSRy1lM1RkdjdyM3Z1UnNyVWlHRmt0Z2FCUXEtbE00MVRRbHNWaDl0aw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-10T12:27:00+00:00",
-      "summary": "SK Hynix hits the U.S. stock market as demand for memory chips soars amid AI frenzy AP News",
-      "category": "tech",
-      "score": 4.825
-    },
-    {
-      "title": "President Erdogan’s unusual gift to NATO leaders sparks surprise",
-      "url": "https://www.france24.com/en/president-erdogan-s-unusual-gift-to-nato-leaders-sparks-surprise",
+      "title": "Notes from a NATO Summit: An Estonian Perspective",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective",
       "source": "France 24",
-      "published_at": "2026-07-10T12:44:27+00:00",
-      "summary": "After a NATO summit focused on Iran, Ukraine and ties with Donald Trump, Turkish President Recep Tayyip Erdogan surprised leaders with an unusual gift: engraved vintage revolvers with live ammunition. The unexpected presents created diplomatic and logistical challenges, with seve",
+      "published_at": "2026-07-10T19:11:31+00:00",
+      "summary": "As the week draws to a close following the NATO summit in Ankara, a clearer picture is emerging of what was happening behind closed doors inside the Presidential Compound as the alliance's 32 leaders met. Among the revelations, reports from The Wall Street Journal and The Times o",
       "category": "politics",
-      "score": 4.308
+      "score": 5.149
     },
     {
-      "title": "Israeli drones strike Lebanon despite US-brokered framework deal",
-      "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-10T14:35:36+00:00",
-      "summary": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians.",
-      "category": "conflicts",
-      "score": 4.221
+      "title": "UAE oil production hits record 4.1 million barrels per day after OPEC exit",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GV0tlM1M5M28zc2YyV0hUSDNxZkZBeFQySXVGUXhwbUVTcnFrQlBRYnB2R1l1N0Z4eC11UGJJeEhDN3o3ekJBNXpMc2VtdEtZQm9zNGZqREJIeDRQZVJQRGJhYnJaVFY1ZXAyOHVPODA?oc=5",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-10T17:57:25+00:00",
+      "summary": "UAE oil production hits record 4.1 million barrels per day after OPEC exit Crypto Briefing",
+      "category": "resources",
+      "score": 4.989
+    },
+    {
+      "title": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-10T17:51:17+00:00",
+      "summary": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE Reuters",
+      "category": "tech",
+      "score": 4.908
+    },
+    {
+      "title": "US stocks rise as Wall Street shows it’s still hungry for AI winners",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUE94dmZybFcyTlJhRnZNYi1BVGJ0VnZhZURrYnpVT0NGOGo2WTdXZ252aXZTZ3hvTEYwTWdWT0lJQklMODBreW1FYjVISWhXNTVVWGEtNTgyUGk5ampEMlBIbTE4TGx3c2VJS2kzOE05cW1XNHY4dERoeTFvRWVzUHZveld4Ri1kR2JXWXozVTVBbVU?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-10T19:20:00+00:00",
+      "summary": "US stocks rise as Wall Street shows it’s still hungry for AI winners AP News",
+      "category": "finance",
+      "score": 4.211
     }
   ],
   "hero_history": [
+    "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
     "Stocks and oil prices drift as global markets continue to calm",
     "Average basic shares outstanding of Terra Critical Minerals Limited – ASX:T92",
     "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
     "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
     "Iraq will not leave OPEC but seeks fair output quota, PM says",
     "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong",
-    "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
-    "OpenAI launches GPT-Live voice models that listen and speak simultaneously"
+    "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports"
   ]
 }

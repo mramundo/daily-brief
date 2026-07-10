@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-10T09:51:56.186253+00:00",
+  "updated": "2026-07-10T14:50:21.989984+00:00",
   "hero": {
-    "title": "Average basic shares outstanding of Terra Critical Minerals Limited – ASX:T92",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjJlOG90blhKZDVjR25lVU5SbjBXMFVoRjZjVGZFRFp2YlYybWtCNWEyZm1RdGJOMWFwb1JJTmhCbmVZcXBySGJGTi11emFqaHpNTzJPXzhWbkI0YlNsbEpUOHB1cTNKbTVobnJ1TnEwZy1OdEI0VDRDOTdhVW5GUmhJX051aHZhbnlOLWFVeThIQmsyeGcxNXdndmdDUQ?oc=5",
-    "source": "TradingView",
-    "published_at": "2026-07-10T07:22:06+00:00",
-    "summary": "Average basic shares outstanding of Terra Critical Minerals Limited – ASX:T92 TradingView",
-    "category": "resources",
-    "score": 9.576
+    "title": "Stocks and oil prices drift as global markets continue to calm",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUE94dmZybFcyTlJhRnZNYi1BVGJ0VnZhZURrYnpVT0NGOGo2WTdXZ252aXZTZ3hvTEYwTWdWT0lJQklMODBreW1FYjVISWhXNTVVWGEtNTgyUGk5ampEMlBIbTE4TGx3c2VJS2kzOE05cW1XNHY4dERoeTFvRWVzUHZveld4Ri1kR2JXWXozVTVBbVU?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-10T14:14:00+00:00",
+    "summary": "Stocks and oil prices drift as global markets continue to calm AP News",
+    "category": "finance",
+    "score": 7.325
   },
   "items": [
     {
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
       "source": "TechCrunch",
-      "published_at": "2026-07-09T23:38:00+00:00",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "published_at": "2026-07-10T14:19:40+00:00",
+      "summary": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
       "category": "tech",
-      "score": 5.8
+      "score": 5.885
     },
     {
-      "title": "IEA's Russian oil output forecasts cut after Ukraine attacks",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWQ4UnNjMXliTjY3NzF2S085UGJKVXE0TmM1LUFGcVZISkpkaGk2bG5GU0Z2aVlHRXItTlR4bzJ0bUNHUEs0TU0ydzNwa2ZZMkFsUWpETEkyOGJNMkNGNlJKRlYyZE5zbVFhbzlYOGg3NlZreERfcFNjYnBEdEYxSkZibzN0R05lWmJmZC1oa1hkMF9jWW5ZSk1EaHVoNjkyay1ET2RlMy1FamdTSVdTeQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-10T08:15:19+00:00",
-      "summary": "IEA's Russian oil output forecasts cut after Ukraine attacks Reuters",
-      "category": "conflicts",
-      "score": 4.984
+      "title": "SK Hynix hits the U.S. stock market as demand for memory chips soars amid AI frenzy",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzRPSEVLT2daeVRFMWhuSmMtZkxzNFptUmlrY24wVFJ0clQ4Z01jYVNZdE1pSFh3bVhJVTRHblpjN1BTODF3STFQbEN4RExBQnVSMUQ0NDFwS0NOVXkxNjRwYlV4MnVibFl5N1ViX3ljZ0RSRy1lM1RkdjdyM3Z1UnNyVWlHRmt0Z2FCUXEtbE00MVRRbHNWaDl0aw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-10T12:27:00+00:00",
+      "summary": "SK Hynix hits the U.S. stock market as demand for memory chips soars amid AI frenzy AP News",
+      "category": "tech",
+      "score": 4.825
     },
     {
-      "title": "Degree but no job: The battle against unemployment in Gaza",
-      "url": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
+      "title": "President Erdogan’s unusual gift to NATO leaders sparks surprise",
+      "url": "https://www.france24.com/en/president-erdogan-s-unusual-gift-to-nato-leaders-sparks-surprise",
+      "source": "France 24",
+      "published_at": "2026-07-10T12:44:27+00:00",
+      "summary": "After a NATO summit focused on Iran, Ukraine and ties with Donald Trump, Turkish President Recep Tayyip Erdogan surprised leaders with an unusual gift: engraved vintage revolvers with live ammunition. The unexpected presents created diplomatic and logistical challenges, with seve",
+      "category": "politics",
+      "score": 4.308
+    },
+    {
+      "title": "Israeli drones strike Lebanon despite US-brokered framework deal",
+      "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-07-10T08:48:59+00:00",
-      "summary": "Gaza's young graduates face sky-high unemployment as Israel's war devastates job market.",
+      "published_at": "2026-07-10T14:35:36+00:00",
+      "summary": "The latest strikes reportedly injure two, as Amnesty urges probe into earlier Israeli attacks which killed 24 civilians.",
       "category": "conflicts",
-      "score": 4.665
-    },
-    {
-      "title": "New York Times and other publishers ask court to penalize OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGdsclduU0hwUDF5QUlGbjVOckxSSlh2YXdJeVNPXzUzUi1qalBZZnR5SW5MZ0FIN3RUQWNMSTFMZ0lUQWlEX1YtQzdwbHJTekwtZk85TjQtVUhjS0JwbkZQWlMtenFDZ2JkRE5HV1BWQWc5ZEQ3V09WUnE1TlZkTDFPZVlkNU43clFIbmNiVDItVlV2b25yb0hNWE1uYzVXYjNSakk4aDVRR01hUy1jSklB?oc=5",
-      "source": "Inquirer.com",
-      "published_at": "2026-07-10T09:01:01+00:00",
-      "summary": "New York Times and other publishers ask court to penalize OpenAI Inquirer.com",
-      "category": "tech",
-      "score": 4.464
+      "score": 4.221
     }
   ],
   "hero_history": [
+    "Stocks and oil prices drift as global markets continue to calm",
     "Average basic shares outstanding of Terra Critical Minerals Limited – ASX:T92",
     "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
     "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
     "Iraq will not leave OPEC but seeks fair output quota, PM says",
     "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong",
     "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
-    "OpenAI launches GPT-Live voice models that listen and speak simultaneously",
-    "Trump says ceasefire is 'over' after US and Iran trade strikes"
+    "OpenAI launches GPT-Live voice models that listen and speak simultaneously"
   ]
 }

@@ -1,15 +1,42 @@
 {
-  "updated": "2026-07-10T19:50:08.108315+00:00",
+  "updated": "2026-07-11T03:40:59.581113+00:00",
   "hero": {
-    "title": "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzRPSEVLT2daeVRFMWhuSmMtZkxzNFptUmlrY24wVFJ0clQ4Z01jYVNZdE1pSFh3bVhJVTRHblpjN1BTODF3STFQbEN4RExBQnVSMUQ0NDFwS0NOVXkxNjRwYlV4MnVibFl5N1ViX3ljZ0RSRy1lM1RkdjdyM3Z1UnNyVWlHRmt0Z2FCUXEtbE00MVRRbHNWaDl0aw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-10T19:45:21+00:00",
-    "summary": "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy AP News",
+    "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+    "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Tech",
+    "published_at": "2026-07-10T22:54:16+00:00",
+    "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
     "category": "tech",
-    "score": 5.312
+    "score": 11.496
   },
   "items": [
+    {
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2RSRWV0QjJvdUJ5WGR3LVZ4T01uU2tCZDh1V2kzM3p1WnlwbVdLdFE5ZENFMldsZVpvNk9YQTc5Qk5TdlRnb0tGeENUOGM0SjVUOTRtZEpnMHFVcmhLbHhTMnJOWGJfem1rSURRNFpQbFQwYlE5WHFrbjJRVE13YXRPZkVydVNsTGd3WjRiZklZVlJ1ZDRHWDZsNS1NcHl4NGc?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-11T00:22:00+00:00",
+      "summary": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets AP News",
+      "category": "tech",
+      "score": 11.159
+    },
+    {
+      "title": "Police in the UK arrest a suspect in the killing of former Parliament member Ann Widdecombe",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzU4cjc0N3FhM0c4eFdSS3dzRk9VTHQ0eE1jclE0WUFYMl92MXhiZFJsU1BBZE5JeEZjOW5PckdBVTNSWUxQdmROdGVyVGE2ZUdxam9JOEEzZERVbDIyWVV5OGhGdzQtRUxlWTFoTWQ0cmQ1cE9NdlpqejNvOWNvRkpKSFBGa2ZXWThHTWFwVlRIX3BhTFNXbjVMVzhhMm5ta3NfLWhXQ1VsM1BGV2c?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-11T00:23:00+00:00",
+      "summary": "Police in the UK arrest a suspect in the killing of former Parliament member Ann Widdecombe AP News",
+      "category": "politics",
+      "score": 4.798
+    },
+    {
+      "title": "Global oil demand is dropping, but US drivers keep buying more gas",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEt6aUNhbG84STI4T0Q0YUpZb0xwMUVwSXM4OW5vLVJaSGhEa2c1VWJmQ1p4S19SaTVINVg5Z0ItVng3TUJsZG42SDNYTjJSaWNERGpTb3hISU5nUWVFSzNpanc1UVVrVEZKTlJhNjE3X2tPZGVWb2hvM3loYm8zdGxYc256M0xTOE5VbXFPLWx5RWQ0TXdYQXp6TWdvNlE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-11T00:14:00+00:00",
+      "summary": "Global oil demand is dropping, but US drivers keep buying more gas AP News",
+      "category": "finance",
+      "score": 3.847
+    },
     {
       "title": "Notes from a NATO Summit: An Estonian Perspective",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260710-notes-from-a-nato-summit-an-estonian-perspective",
@@ -17,44 +44,17 @@
       "published_at": "2026-07-10T19:11:31+00:00",
       "summary": "As the week draws to a close following the NATO summit in Ankara, a clearer picture is emerging of what was happening behind closed doors inside the Presidential Compound as the alliance's 32 leaders met. Among the revelations, reports from The Wall Street Journal and The Times o",
       "category": "politics",
-      "score": 5.149
-    },
-    {
-      "title": "UAE oil production hits record 4.1 million barrels per day after OPEC exit",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GV0tlM1M5M28zc2YyV0hUSDNxZkZBeFQySXVGUXhwbUVTcnFrQlBRYnB2R1l1N0Z4eC11UGJJeEhDN3o3ekJBNXpMc2VtdEtZQm9zNGZqREJIeDRQZVJQRGJhYnJaVFY1ZXAyOHVPODA?oc=5",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-10T17:57:25+00:00",
-      "summary": "UAE oil production hits record 4.1 million barrels per day after OPEC exit Crypto Briefing",
-      "category": "resources",
-      "score": 4.989
-    },
-    {
-      "title": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-10T17:51:17+00:00",
-      "summary": "US makes it easier to export certain military items, AI chips and commercial satellites to the UAE Reuters",
-      "category": "tech",
-      "score": 4.908
-    },
-    {
-      "title": "US stocks rise as Wall Street shows it’s still hungry for AI winners",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUE94dmZybFcyTlJhRnZNYi1BVGJ0VnZhZURrYnpVT0NGOGo2WTdXZ252aXZTZ3hvTEYwTWdWT0lJQklMODBreW1FYjVISWhXNTVVWGEtNTgyUGk5ampEMlBIbTE4TGx3c2VJS2kzOE05cW1XNHY4dERoeTFvRWVzUHZveld4Ri1kR2JXWXozVTVBbVU?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-10T19:20:00+00:00",
-      "summary": "US stocks rise as Wall Street shows it’s still hungry for AI winners AP News",
-      "category": "finance",
-      "score": 4.211
+      "score": 3.713
     }
   ],
   "hero_history": [
+    "Apple sues OpenAI, its employees claiming theft of trade secrets",
     "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
     "Stocks and oil prices drift as global markets continue to calm",
     "Average basic shares outstanding of Terra Critical Minerals Limited – ASX:T92",
     "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
     "OpenAI launches ChatGPT Work, adding to competition for professional AI tools",
     "Iraq will not leave OPEC but seeks fair output quota, PM says",
-    "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong",
-    "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports"
+    "Chinese tech firms, from Apple suppliers to OpenAI rivals, raise $17 billion in Hong Kong"
   ]
 }

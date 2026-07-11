@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-11T13:52:40.769623+00:00",
+  "updated": "2026-07-11T19:30:42.161349+00:00",
   "hero": {
-    "title": "Apple sues OpenAI for trade secret theft",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95SmlFMk5RQ0duYVgtRG9ZczN1MjZma18ya1BDTnV4bXp5Ti1DNkl1YU5pRUFEdjNMVFFpYS1LWThhMGFXMHNSSVRlMjJ4RDBURndqXzZCdlVyV2N3SGdRb0otS2FoMHNFbEJuWGQ2NklKMENVWEIwZA?oc=5",
-    "source": "Axios",
-    "published_at": "2026-07-11T09:46:01+00:00",
-    "summary": "Apple sues OpenAI for trade secret theft Axios",
+    "title": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWZJTTBwTS14NTBEMFpsZUlQamxwcDNyZDNsTnVwNDVlRi1VZ1UwUnIzMWRKUDVfMVZUWFQ5QjUzelNJWFZ1TEhxU2RYNjZpZ1FEMTRac29TNzE5OUtsbl9KZzYyeGlIbi1KVVZLT1NTNFFWNEZYeFltRFNhTlYyOUxrY0tNSV9iYVBVOTdOMA?oc=5",
+    "source": "Fortune",
+    "published_at": "2026-07-11T15:10:00+00:00",
+    "summary": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple Fortune",
     "category": "tech",
-    "score": 11.258
+    "score": 5.82
   },
   "items": [
     {
-      "title": "10 injured in overnight Russian missile and drone strikes on Kyiv",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWoyNVhMZGhOaUdBYTFVWFIza1I2TjNxWVBZb1JTM0JPeWo4QUFGNGVNTXNoLWFXNEs2NUV5U1laUVJWZ3lib2I5VFBibjRfY0dJVnhJM3VEc0s3ZlhNRHNXUlZPMGRjUjRMWk9Bd1M0Ymg0ZUU2ZjQ5Wi1ONTZMeUFfNGFyZ1BlLWUyZ1ZFcGJSb2hZRGlzVmFGMmJkWGF0?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-11T07:50:00+00:00",
-      "summary": "10 injured in overnight Russian missile and drone strikes on Kyiv AP News",
-      "category": "conflicts",
-      "score": 5.991
-    },
-    {
-      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-      "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-07-11T13:44:03+00:00",
-      "summary": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
+      "published_at": "2026-07-11T18:00:09+00:00",
+      "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
       "category": "conflicts",
-      "score": 5.725
+      "score": 5.707
     },
     {
-      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2RSRWV0QjJvdUJ5WGR3LVZ4T01uU2tCZDh1V2kzM3p1WnlwbVdLdFE5ZENFMldsZVpvNk9YQTc5Qk5TdlRnb0tGeENUOGM0SjVUOTRtZEpnMHFVcmhLbHhTMnJOWGJfem1rSURRNFpQbFQwYlE5WHFrbjJRVE13YXRPZkVydVNsTGd3WjRiZklZVlJ1ZDRHWDZsNS1NcHl4NGc?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-11T00:22:00+00:00",
-      "summary": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets AP News",
-      "category": "tech",
-      "score": 4.799
-    },
-    {
-      "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
-      "url": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-07-11T11:49:00+00:00",
-      "summary": "The strikes come with Ukraine running low on munitions needed to counter Russia's ballistic missiles. Ukrainian President Zelenskyy urged NATO members to deliver on promises made at the Ankara summit this week.",
+      "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
+      "url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-11T15:50:31+00:00",
+      "summary": "The announcement comes after the previous prime minister, Alexandru Munteanu, stepped down earlier this month.",
       "category": "politics",
-      "score": 3.913
+      "score": 5.622
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-11T14:13:00+00:00",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "category": "tech",
+      "score": 4.821
+    },
+    {
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-11T16:11:33+00:00",
+      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "category": "politics",
+      "score": 4.411
     }
   ],
   "hero_history": [
+    "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple",
     "Apple sues OpenAI for trade secret theft",
     "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
     "Apple sues OpenAI, its employees claiming theft of trade secrets",
     "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
     "Stocks and oil prices drift as global markets continue to calm",
     "Average basic shares outstanding of Terra Critical Minerals Limited – ASX:T92",
-    "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
-    "OpenAI launches ChatGPT Work, adding to competition for professional AI tools"
+    "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies"
   ]
 }

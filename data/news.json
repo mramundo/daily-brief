@@ -1,15 +1,24 @@
 {
-  "updated": "2026-07-11T19:30:42.161349+00:00",
+  "updated": "2026-07-12T03:55:17.273704+00:00",
   "hero": {
-    "title": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVWZJTTBwTS14NTBEMFpsZUlQamxwcDNyZDNsTnVwNDVlRi1VZ1UwUnIzMWRKUDVfMVZUWFQ5QjUzelNJWFZ1TEhxU2RYNjZpZ1FEMTRac29TNzE5OUtsbl9KZzYyeGlIbi1KVVZLT1NTNFFWNEZYeFltRFNhTlYyOUxrY0tNSV9iYVBVOTdOMA?oc=5",
-    "source": "Fortune",
-    "published_at": "2026-07-11T15:10:00+00:00",
-    "summary": "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple Fortune",
+    "title": "Apple sues OpenAI over alleged hardware trade secrets theft",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZW9mM0E5YkRrSmFwWlVyVWtTTll1TFBWZFhnZVE3b2QwR21sekFoWnc2SVNQN09FSW1mQTg4SUkwVDVPMlAyaUM0VHEzVVF6LUY3d1g2T3ZrVmYxdDF0VDV4ajViYk92bE1DUGRLYkU5TUhwSzM2RkRkUHltdzNBdi1rV1pXUzY0RmhWV2M5OVBneEtleFRLa2QzMzVBSV9tbFE1YjgzdTJLSHQ5QUNRNE1RS3hNT0ZnODAzRTNfY0ZRZTVHY0puWWs3dU1aNWxWUGNBQmJvVXFuTThzRXJacHZIcGRRNjNJSTl3RENxZnJhclU?oc=5",
+    "source": "MSN",
+    "published_at": "2026-07-11T23:16:28+00:00",
+    "summary": "Apple sues OpenAI over alleged hardware trade secrets theft MSN",
     "category": "tech",
-    "score": 5.82
+    "score": 4.605
   },
   "items": [
+    {
+      "title": "Man arrested on suspicion of murdering former UK minister Ann Widdecombe",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMktITDI2Rlpab0JIQ0dNb0xkQk1TcS01Y05yT1J0dWE2eUhpbVJwbHU3R0lBWHJIcHBJTFBkcjhlYmpzMXlzZkp5YjdwUFIwekFCM0xZUnhDeHN4Q0RmdjRqQlU0UGlEcklFbTFXbkpPWnlySUlmbmxzSl85U096VmJlTExud1lKekZvcy1PaHNkek52V1Y2U05tWmE4dng0cXE4SUtKdWxtUUJpWmN2Uw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-11T22:44:49+00:00",
+      "summary": "Man arrested on suspicion of murdering former UK minister Ann Widdecombe Reuters",
+      "category": "politics",
+      "score": 4.437
+    },
     {
       "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
       "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
@@ -17,44 +26,35 @@
       "published_at": "2026-07-11T18:00:09+00:00",
       "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
       "category": "conflicts",
-      "score": 5.707
+      "score": 4.02
     },
     {
-      "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
-      "url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
+      "title": "Indian tourists killed after speedboat capsizes in Vietnam",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-07-11T15:50:31+00:00",
-      "summary": "The announcement comes after the previous prime minister, Alexandru Munteanu, stepped down earlier this month.",
-      "category": "politics",
-      "score": 5.622
+      "published_at": "2026-07-11T23:35:23+00:00",
+      "summary": "Fifteen Indian tourists have died after their speedboat capsized off Vietnam’s Phu Quoc Island.",
+      "category": "conflicts",
+      "score": 3.907
     },
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-11T14:13:00+00:00",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "category": "tech",
-      "score": 4.821
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-07-11T16:11:33+00:00",
-      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "title": "Moldova's president nominates Vasile Tofan as prime minister",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSEFXZDVvMzU1djNqalNkTjVRdURMNVV4QlR2bER2aHJtUXdJVnoyempncEVPMjctU25FaDlZRHBxRmlJOVN4MDdjSXJRMlgxek1lRmMtUHN1cTZhTlYyUEJWNkxLa08wYUxlM2FVX3NMMjBZZU5GaE4xMW0wdmtqTWVRaU1iSmtHbmd1VVhtT05jQVhv?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-11T19:51:51+00:00",
+      "summary": "Moldova's president nominates Vasile Tofan as prime minister Reuters",
       "category": "politics",
-      "score": 4.411
+      "score": 3.586
     }
   ],
   "hero_history": [
+    "Apple sues OpenAI over alleged hardware trade secrets theft",
     "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple",
     "Apple sues OpenAI for trade secret theft",
     "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
     "Apple sues OpenAI, its employees claiming theft of trade secrets",
     "SK Hynix rises 14% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
     "Stocks and oil prices drift as global markets continue to calm",
-    "Average basic shares outstanding of Terra Critical Minerals Limited – ASX:T92",
-    "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies"
+    "Average basic shares outstanding of Terra Critical Minerals Limited – ASX:T92"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-12T19:29:38.797938+00:00",
+  "updated": "2026-07-13T03:58:05.881799+00:00",
   "hero": {
-    "title": "Israeli attacks in Gaza kill six people, including a girl, medics say",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW16M2JEMFgyMlEyUVJHNW00cVhNVk9zaG5GLVNWMW5aY2c3bjRjRE1kaTBSdHBabHVJWUxibzl0OGpMT29Bek5xa0Y4cmc5RV80SzEwbk9CY0RjUG5WNFdyUVQ1WUJVc3A0RVVWa1VIWnhnWnNzckZYUlEzdXIybGttcDFjRW52eUl1aUNDRmJQdVNNNThfWU1fLXhJd2VBb2lxUE5TTTV6R2Etdk00LXlBUzRKcHI3WlE?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-12T17:03:47+00:00",
-    "summary": "Israeli attacks in Gaza kill six people, including a girl, medics say Reuters",
-    "category": "conflicts",
-    "score": 5.97
+    "title": "OpenAI, Meta, SpaceXAI compete for more cost-efficient AI models",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa19DenZ4NjN3MGdJUTFMNUdIMXdGSGlFWTNNczYtTFlGNUFPOE9yeEpBbXRoMFpIcmR1czlrVm5SaXhJQklWWUJJakl2aVRFOThUY08yM2hqcVNNZ1AydmVKQW54Ym5SZk1LLUV3QlcyTXV3dDNBR09MSjRwd2NIR29LQ0k?oc=5",
+    "source": "The Japan Times",
+    "published_at": "2026-07-13T02:37:00+00:00",
+    "summary": "OpenAI, Meta, SpaceXAI compete for more cost-efficient AI models The Japan Times",
+    "category": "tech",
+    "score": 6.594
   },
   "items": [
     {
-      "title": "Lindsey Graham draws tributes for his support of Ukraine, trans-Atlantic ties and Israel",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEpBbVRLNUVVSjRxNURKZjFhR2tMbndqZl93SFVNNWJnRVhJZ3EyelVpWm1mLW5TckpRMGpSR2xXUEkyZ2cxTTA0VElTRHJMckVIUXJXWERCWkthMGF2QXV3X2M5TmZqb1NIaHFsanN2a2NtVVZxNnpVV29Jejk4R3dwNWt2WllUZ2ZSYzBDalRpM1ZE?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-12T14:11:00+00:00",
-      "summary": "Lindsey Graham draws tributes for his support of Ukraine, trans-Atlantic ties and Israel AP News",
-      "category": "conflicts",
-      "score": 5.295
-    },
-    {
-      "title": "Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters'",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR2FXR3h6QllMNVJoay04NHcxLVcwNm1qNUR6Rm9RaVhVRVJneVhIRnFsTWMtTmFVMTBhRzZtR01pejY5eTdZQllkMUh1NVBGVzBrVTluV1RyX2taYTZ1QmtZSnpqYk9pR3lIUHhGWjE2VnIydGVwT3d4SzdHZjBKZ1lFa1FEZw?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-07-12T19:15:00+00:00",
-      "summary": "Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters' Yahoo! Finance Canada",
-      "category": "tech",
-      "score": 4.469
-    },
-    {
-      "title": "No evidence of political motive in murder of former UK minister Widdecombe, police say",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzNvU2tjajlTZWJVZFZBNldWUUFCMlc0SFp2QmxteTlwMGFPeFlFZFgycGkyNnI2R25VZ2IwT1ZYREpXZG9kc29wVTU2cUtpc2t0bDFZQmxFUURyVUJHNUZuR0ZDVjRpOUxGMkhBeU4zdUtqLXVpNW5RRTVYY19MVjZZZ2IxdmEyUW5rYm1ScUpXRWNraWtkQWw1Sks1N3VXMTI3R0lTZjI4eEZMRDdzb0hSR2JUWmhEQV9PR0ZlYzkyZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-12T13:45:26+00:00",
-      "summary": "No evidence of political motive in murder of former UK minister Widdecombe, police say Reuters",
-      "category": "politics",
-      "score": 4.335
-    },
-    {
-      "title": "Sam Altman Is Waiting for a $1 Trillion OpenAI Valuation. SoftBank Has a $40 Billion Loan Due March 2027.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEJyeGpnUDZ4bGU4R2UzQjJveEN4YTlCVGxhQThJS3BEc19WRy1TNWpqX2s1X1AxUFlVSnpRcnNmd3l4Tlp2QUVwS3FkMXN2enlET1I2ZDgzeEgwVktWdnZJdS1aemxEckNNODZmakdEY2NyYlBIbmEzZ2MwcGNERkVtOXEyWEVxWjZsSko4di02U2pWWUYyVQ?oc=5",
+      "title": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaURpWHNZLUFPVVBUVWpkS2J0cXdodWt6WnpIWGtocnJtNF9kSUZabGw0NXF3dEljVnZobGhndDhpbHdQeE1tb3c5MU1Wa0l6aE5ac1hodmJZNF9uRWVNNW1lRlp5V19jUnNNN3F2cTlob0hqRjhGcjdseHRWLUVFVWNNdk5sMG9ZNnBhU2RFRVpHWWNXS1VNNQ?oc=5",
       "source": "The Motley Fool",
-      "published_at": "2026-07-12T17:55:16+00:00",
-      "summary": "Sam Altman Is Waiting for a $1 Trillion OpenAI Valuation. SoftBank Has a $40 Billion Loan Due March 2027. The Motley Fool",
+      "published_at": "2026-07-12T22:29:59+00:00",
+      "summary": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom The Motley Fool",
       "category": "tech",
-      "score": 4.331
+      "score": 5.523
+    },
+    {
+      "title": "Nigeria’s oil output hits 74-month high, beats OPEC quota",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX3ZURG00M19hUTFnbk9QWk9RblZHOUtGaUdIY2I0MXJFUjZjaFF5ZFBOT3huWjk2SjRNRlk1RUgta0tTUWUxZzJNdjYzcG91ZWJvOTM2XzlOMEZxenZuLUh5TEZVbWpUWTUtaGp2NGtaalJjNHVSV2lhRmU3U0x4S0xB?oc=5",
+      "source": "Punch Newspapers",
+      "published_at": "2026-07-13T00:58:29+00:00",
+      "summary": "Nigeria’s oil output hits 74-month high, beats OPEC quota Punch Newspapers",
+      "category": "resources",
+      "score": 4.082
+    },
+    {
+      "title": "Indian rupee and bonds likely to track Mideast developments, inflation data",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNODJ2UFdpUWxYb2FsVTZvT29uOGlPWHl2TkstbGNTZUdXZkM3UUNsRV8wN1ZsaWxnUFZOQmVjV2MzLVNseVhNaFlTRHVVdURRWEVGdXNoZ00zVUNYY19OLUUySkdrbnNvU2Mxdi15TjhiTFpPVzFSdEJJcjVLTXdnU0RaUHpOV1BrNllEcW1xaWpPc2tMdERIc0JUUmtWSGFDZjZyUDBweXNxQ2tsQ0ZLemYzM2R4UQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-13T01:32:00+00:00",
+      "summary": "Indian rupee and bonds likely to track Mideast developments, inflation data Reuters",
+      "category": "finance",
+      "score": 3.885
+    },
+    {
+      "title": "Shares skid in Asia as oil climbs on Gulf conflict",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2QwU3pIcHNXVlZZZW1SUXpNSVlUYlRILUdqUmJBODg5ZDh0Q3d4U21VZkdHZGhmZDlnNFFxYWZ1Y1AwTTJ1bTBZVlQ5ZFpSSngtMTdzNzljNExjWk15WE11MDBScXMwTmJkcG9NM2lEMjM3Z1E5ODNPWWljYnVxUko5T21tZ055eHhtMnh0bDZNZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-13T00:25:00+00:00",
+      "summary": "Shares skid in Asia as oil climbs on Gulf conflict Reuters",
+      "category": "conflicts",
+      "score": 3.831
     }
   ],
   "hero_history": [
+    "OpenAI, Meta, SpaceXAI compete for more cost-efficient AI models",
     "Israeli attacks in Gaza kill six people, including a girl, medics say",
     "US senator and Trump ally Lindsey Graham dies aged 71",
     "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
     "Apple sues OpenAI over alleged hardware trade secrets theft",
     "OpenAI engineer’s ‘LOL’ moment set stage for legal fight with Apple",
     "Apple sues OpenAI for trade secret theft",
-    "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-    "Apple sues OpenAI, its employees claiming theft of trade secrets"
+    "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets"
   ]
 }

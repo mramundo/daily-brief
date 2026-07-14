@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-14T08:26:47.018069+00:00",
+  "updated": "2026-07-14T14:12:18.614052+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+    "title": "Strait of Hormuz",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
     "source": "AP News",
-    "published_at": "2026-07-14T07:56:10+00:00",
-    "summary": "Ukraine AP News",
-    "category": "conflicts",
-    "score": 11.101
+    "published_at": "2026-07-14T10:48:10+00:00",
+    "summary": "Strait of Hormuz AP News",
+    "category": "tech",
+    "score": 6.755
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-07-14T03:31:00+00:00",
       "summary": "Nvidia halves Asia buyer list in China chip crackdown, FT reports Reuters",
       "category": "tech",
-      "score": 8.317
+      "score": 6.543
     },
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-14T08:23:09+00:00",
-      "summary": "Iran war AP News",
+      "title": "Lebanon, Israel hold US-brokered talks in Rome to implement framework deal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcVVXQVlKRGllTXBnSWpyQXlJUTZBOFl1Y1FjRE12cjc3MFZKeXRENlJXTlVuRGg1dXB3cGxSa2I1V1EwcHFxaHk5ZEo5anp0NjhuNE5NR0I2eG5Sc0xnb2p4dDZycF9rUVRVdGxPQWFYMlNGT1hLakh2MEh6dElLQU96bDN3WHhsbjF5V3UzcENhWXlSZ21pWWdkSlhjdklPWENzaFBsR2pPcGk3LV93aWVQNnEzRVE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-14T13:10:28+00:00",
+      "summary": "Lebanon, Israel hold US-brokered talks in Rome to implement framework deal Reuters",
       "category": "conflicts",
-      "score": 7.764
+      "score": 6.329
     },
     {
-      "title": "OPEC cuts oil demand growth forecast again",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0tUeU8xQm11RUhlTW1oa2ZtcGtvWFhDeng5ZGZrTzFGRmFlV3ZDVkpOY3ZyRHpnSFk2blJ0LUhnRUJCeWZ4QkhpekVCdlNGa2dmdmFNeGQxSWF5bHV5bGp6RlBVLWozeU9ma3dCTl8zM3NBdXYwRTlkaC1iNW8tSVNHcXM?oc=5",
-      "source": "engine.online",
-      "published_at": "2026-07-14T07:48:47+00:00",
-      "summary": "OPEC cuts oil demand growth forecast again engine.online",
-      "category": "resources",
-      "score": 5.501
+      "title": "US inflation rate eases to 3.5% as gasoline prices fall",
+      "url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-07-14T13:51:22+00:00",
+      "summary": "While the US inflation rate fell in June, concerns remain over price rises increasing again due to the renewed conflict in the Middle East.",
+      "category": "finance",
+      "score": 5.99
     },
     {
-      "title": "Strait of Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVXpqWmtzbXMtZ2s4UUNsVEZvUnNvUFNoRWNVei1nVkhsZGtmVDd3ajJTaUJoYmRsbHZDM1hoaGlVV25VVDNsTDdhOW9aVUdV?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-14T07:21:47+00:00",
-      "summary": "Strait of Hormuz AP News",
-      "category": "tech",
-      "score": 5.262
+      "title": "S&P 500 and Nasdaq open higher as CPI, bank earnings take focus",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-14T13:41:45+00:00",
+      "summary": "S&P 500 and Nasdaq open higher as CPI, bank earnings take focus Reuters",
+      "category": "finance",
+      "score": 5.613
     }
   ],
   "hero_history": [
+    "Strait of Hormuz",
     "Ukraine",
     "Jim Cramer Calls Apple’s OpenAI Lawsuit “Heavyweight.” Tim Cook Must Believe OpenAI Was Stealing",
     "The 6 wildest claims in Apple’s lawsuit against OpenAI",
     "OPEC further lowers 2026 global oil demand growth forecast",
     "Apple sues OpenAI over alleged theft of trade secrets linked to AI hardware project",
     "OpenAI, Meta, SpaceXAI compete for more cost-efficient AI models",
-    "Israeli attacks in Gaza kill six people, including a girl, medics say",
-    "US senator and Trump ally Lindsey Graham dies aged 71"
+    "Israeli attacks in Gaza kill six people, including a girl, medics say"
   ]
 }

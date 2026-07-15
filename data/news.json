@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-15T08:34:39.238157+00:00",
+  "updated": "2026-07-15T14:07:54.196532+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-15T08:03:21+00:00",
-    "summary": "Ukraine AP News",
-    "category": "conflicts",
-    "score": 8.108
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "source": "TechCrunch",
+    "published_at": "2026-07-15T13:10:47+00:00",
+    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "category": "tech",
+    "score": 4.952
   },
   "items": [
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "title": "Wall Street ticks up in premarket, oil prices rise as Iran threatens to block energy exports",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnRNaFpMSUNqZnFoUmtRTk15d25YZ2pxTDM2OTc4cDZtOVMwNThrc0VBY1BNejBmWEpla0xudHNobUVuVUpWSlhva1RmVFBfM0NUeHozd3pmNUxGVkJjN3VqWjhLX3E4d25jMkI5V1hEeDBnWXY2Y2dTSkhtS25hSjA1Qi0tel9KVDUyeWpXWlFqSFRvQllN?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-15T08:31:52+00:00",
-      "summary": "Iran war AP News",
+      "published_at": "2026-07-15T12:14:00+00:00",
+      "summary": "Wall Street ticks up in premarket, oil prices rise as Iran threatens to block energy exports AP News",
+      "category": "finance",
+      "score": 4.925
+    },
+    {
+      "title": "Apple Intelligence AI service registered with Chinese cyberspace regulator",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXhJVXVnNzlEYTBUN3BZOHg5cUlhVVVIcUZaMHVCc3Ixa3puV1AzVTExY3Z6V2NEXzdJOU9NNl9ZLWVLbGQ1b0xoZWI3RXFRNVltVEE2T29ONUhlSGcxMEJKRkFVUV95MkVXRUpMRUpyQU5JSlZ5cVZpWlh1MDJHckNpMDRMYnFtbktoYUpIdU9CaGRJRkdkeVVzdml6QnJoalQ0R3NrTV9SZXc4dndSaDBRRndzWjNKb24tSQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-15T11:15:44+00:00",
+      "summary": "Apple Intelligence AI service registered with Chinese cyberspace regulator Reuters",
+      "category": "tech",
+      "score": 4.451
+    },
+    {
+      "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
+      "url": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-15T11:36:32+00:00",
+      "summary": "Israel's relentless Gaza attacks aim to sabotage the 'ceasefire' and ensure perpetual chaos, analysts warn.",
       "category": "conflicts",
-      "score": 6.507
+      "score": 4.387
     },
     {
-      "title": "OpenAI's First Device Will Be Movable, Screenless Speaker Built as AI Companion",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjFpNk91VksyMlNSb2xjeVB4M2tCVVFGRlJKRk1fcmZBV25BV2tUUnl6clU2ZjI2Tk1TRG5GQ2RpWGd2eWZxcl9nckt6YTRjd0R1dF9ZYUI4RGx2NUs3T3NZRTlBRWV4dm1pN2toMWMtRWhXaVVIQmRsZjRKejNkWnJXOXBUYlZsTlB1aW91OFRxQS1PQzh6aVdBQkpMcTBiQ3ZBNy11UWNwUFRoTm9JblhzZTBjWWFsY1lsanEydEw?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-15T04:48:07+00:00",
-      "summary": "OpenAI's First Device Will Be Movable, Screenless Speaker Built as AI Companion Yahoo Finance",
-      "category": "tech",
-      "score": 5.109
-    },
-    {
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-15T00:27:04+00:00",
-      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "category": "tech",
-      "score": 4.285
-    },
-    {
-      "title": "Trump touts 'tremendous chemistry' with new Iraqi Prime Minister al-Zaidi during White House visit",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2xnNUU5OC1VeFN2NHQyMlBRSFc5NFZodV9iZl9FNFk2bVBFczhRUUxnbFZLaVhSRnZ0aUhoNEFreXd0U0dwTXNXVG5jcUF6VlA2RW9aR0JVU290RnJBLVVKT0VNVVVlMW10ZUR3NjFLNEc1MDhuRlFocnRmMUlBZnllZEFYTjVWckxBUXI3eGtjaEhr?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-15T00:54:00+00:00",
-      "summary": "Trump touts 'tremendous chemistry' with new Iraqi Prime Minister al-Zaidi during White House visit AP News",
-      "category": "politics",
-      "score": 3.643
+      "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
+      "source": "NASA",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "summary": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way galaxy. The young, nearby star Beta Pictoris was already known to h",
+      "category": "science",
+      "score": 4.361
     }
   ],
   "hero_history": [
+    "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
     "Ukraine",
     "US Senate Democrats block $1.15 trillion defense bill over Iran war objections",
     "US official says Nvidia has begun shipping powerful H200 AI chips to China",
     "Strait of Hormuz",
     "Ukraine",
     "Jim Cramer Calls Apple’s OpenAI Lawsuit “Heavyweight.” Tim Cook Must Believe OpenAI Was Stealing",
-    "The 6 wildest claims in Apple’s lawsuit against OpenAI",
-    "OPEC further lowers 2026 global oil demand growth forecast"
+    "The 6 wildest claims in Apple’s lawsuit against OpenAI"
   ]
 }

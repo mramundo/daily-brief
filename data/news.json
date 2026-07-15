@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-15T14:07:54.196532+00:00",
+  "updated": "2026-07-15T19:35:09.148836+00:00",
   "hero": {
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
-    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "source": "TechCrunch",
-    "published_at": "2026-07-15T13:10:47+00:00",
-    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "title": "OpenAI finally launches hardware… for Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "source": "The Verge",
+    "published_at": "2026-07-15T16:00:00+00:00",
+    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. Th",
     "category": "tech",
-    "score": 4.952
+    "score": 6.069
   },
   "items": [
     {
-      "title": "Wall Street ticks up in premarket, oil prices rise as Iran threatens to block energy exports",
+      "title": "Stocks drift higher on Wall Street as oil prices swing",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnRNaFpMSUNqZnFoUmtRTk15d25YZ2pxTDM2OTc4cDZtOVMwNThrc0VBY1BNejBmWEpla0xudHNobUVuVUpWSlhva1RmVFBfM0NUeHozd3pmNUxGVkJjN3VqWjhLX3E4d25jMkI5V1hEeDBnWXY2Y2dTSkhtS25hSjA1Qi0tel9KVDUyeWpXWlFqSFRvQllN?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-15T12:14:00+00:00",
-      "summary": "Wall Street ticks up in premarket, oil prices rise as Iran threatens to block energy exports AP News",
+      "published_at": "2026-07-15T19:08:00+00:00",
+      "summary": "Stocks drift higher on Wall Street as oil prices swing AP News",
       "category": "finance",
-      "score": 4.925
+      "score": 5.23
     },
     {
-      "title": "Apple Intelligence AI service registered with Chinese cyberspace regulator",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXhJVXVnNzlEYTBUN3BZOHg5cUlhVVVIcUZaMHVCc3Ixa3puV1AzVTExY3Z6V2NEXzdJOU9NNl9ZLWVLbGQ1b0xoZWI3RXFRNVltVEE2T29ONUhlSGcxMEJKRkFVUV95MkVXRUpMRUpyQU5JSlZ5cVZpWlh1MDJHckNpMDRMYnFtbktoYUpIdU9CaGRJRkdkeVVzdml6QnJoalQ0R3NrTV9SZXc4dndSaDBRRndzWjNKb24tSQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-15T11:15:44+00:00",
-      "summary": "Apple Intelligence AI service registered with Chinese cyberspace regulator Reuters",
-      "category": "tech",
-      "score": 4.451
-    },
-    {
-      "title": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
-      "url": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-15T11:36:32+00:00",
-      "summary": "Israel's relentless Gaza attacks aim to sabotage the 'ceasefire' and ensure perpetual chaos, analysts warn.",
-      "category": "conflicts",
-      "score": 4.387
-    },
-    {
-      "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/",
+      "title": "How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/",
       "source": "NASA",
-      "published_at": "2026-07-15T12:00:00+00:00",
-      "summary": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way galaxy. The young, nearby star Beta Pictoris was already known to h",
+      "published_at": "2026-07-15T18:50:52+00:00",
+      "summary": "Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Dat",
       "category": "science",
-      "score": 4.361
+      "score": 4.622
+    },
+    {
+      "title": "Lebanon and Israel move toward implementing withdrawal agreement, US officials say",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUzdXWUgxdkZESUZCemtDcl9UNGIzUUNjeU5qMkcxbmoxMlpNMHZVRU4xYkE0T1pKQVc2d1pDTEtUc1NQOWsxd0o1NFVfbGpPdGhGRDdfVFR3c01fV3Z1QUVQNVJjMTZ0U3VFNUliNkpndVN6MlBWYlFkbVVaejhjUktmUjFieDZJWmZ6aXdKSWhEWXluWGZqSlkyNzBpQnVHWU9OeXdwY2dDZEVDZGxscFFBY2xSWHFubFZlRktKNA?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-15T16:07:00+00:00",
+      "summary": "Lebanon and Israel move toward implementing withdrawal agreement, US officials say AP News",
+      "category": "conflicts",
+      "score": 4.342
+    },
+    {
+      "title": "Apple chasing AI chip company deals, The Information reports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjBlRTdrb3NUZXNrcDR0M0hsLVNveDdNNGFYTjQ1TE1QNV9QQzBqdmtaQ2RqX0ZSSEw3c19UNWVWSUo0UUVTLW5iVC1ZVmtLY3dsaFhnOEdDZ1VEb3czVGIwM3VHV3BjcGpOOXE0eGlkTDQ0ZkVnU0NmWmpobGJYR1JkYWNLQVEyU05kOXhpeVpxbHlDWmlBdnRPQ0o1SGFUSkE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-15T15:43:43+00:00",
+      "summary": "Apple chasing AI chip company deals, The Information reports Reuters",
+      "category": "tech",
+      "score": 4.272
     }
   ],
   "hero_history": [
+    "OpenAI finally launches hardware… for Codex",
     "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
     "Ukraine",
     "US Senate Democrats block $1.15 trillion defense bill over Iran war objections",
     "US official says Nvidia has begun shipping powerful H200 AI chips to China",
     "Strait of Hormuz",
     "Ukraine",
-    "Jim Cramer Calls Apple’s OpenAI Lawsuit “Heavyweight.” Tim Cook Must Believe OpenAI Was Stealing",
-    "The 6 wildest claims in Apple’s lawsuit against OpenAI"
+    "Jim Cramer Calls Apple’s OpenAI Lawsuit “Heavyweight.” Tim Cook Must Believe OpenAI Was Stealing"
   ]
 }

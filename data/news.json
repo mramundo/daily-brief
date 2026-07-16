@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-15T19:35:09.148836+00:00",
+  "updated": "2026-07-16T03:35:04.276660+00:00",
   "hero": {
-    "title": "OpenAI finally launches hardware… for Codex",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-    "source": "The Verge",
-    "published_at": "2026-07-15T16:00:00+00:00",
-    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. Th",
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "source": "TechCrunch",
+    "published_at": "2026-07-15T23:59:44+00:00",
+    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
     "category": "tech",
-    "score": 6.069
+    "score": 5.916
   },
   "items": [
     {
-      "title": "Stocks drift higher on Wall Street as oil prices swing",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnRNaFpMSUNqZnFoUmtRTk15d25YZ2pxTDM2OTc4cDZtOVMwNThrc0VBY1BNejBmWEpla0xudHNobUVuVUpWSlhva1RmVFBfM0NUeHozd3pmNUxGVkJjN3VqWjhLX3E4d25jMkI5V1hEeDBnWXY2Y2dTSkhtS25hSjA1Qi0tel9KVDUyeWpXWlFqSFRvQllN?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-15T19:08:00+00:00",
-      "summary": "Stocks drift higher on Wall Street as oil prices swing AP News",
-      "category": "finance",
-      "score": 5.23
-    },
-    {
-      "title": "How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/",
-      "source": "NASA",
-      "published_at": "2026-07-15T18:50:52+00:00",
-      "summary": "Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Dat",
-      "category": "science",
-      "score": 4.622
-    },
-    {
-      "title": "Lebanon and Israel move toward implementing withdrawal agreement, US officials say",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUzdXWUgxdkZESUZCemtDcl9UNGIzUUNjeU5qMkcxbmoxMlpNMHZVRU4xYkE0T1pKQVc2d1pDTEtUc1NQOWsxd0o1NFVfbGpPdGhGRDdfVFR3c01fV3Z1QUVQNVJjMTZ0U3VFNUliNkpndVN6MlBWYlFkbVVaejhjUktmUjFieDZJWmZ6aXdKSWhEWXluWGZqSlkyNzBpQnVHWU9OeXdwY2dDZEVDZGxscFFBY2xSWHFubFZlRktKNA?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-15T16:07:00+00:00",
-      "summary": "Lebanon and Israel move toward implementing withdrawal agreement, US officials say AP News",
-      "category": "conflicts",
-      "score": 4.342
-    },
-    {
-      "title": "Apple chasing AI chip company deals, The Information reports",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjBlRTdrb3NUZXNrcDR0M0hsLVNveDdNNGFYTjQ1TE1QNV9QQzBqdmtaQ2RqX0ZSSEw3c19UNWVWSUo0UUVTLW5iVC1ZVmtLY3dsaFhnOEdDZ1VEb3czVGIwM3VHV3BjcGpOOXE0eGlkTDQ0ZkVnU0NmWmpobGJYR1JkYWNLQVEyU05kOXhpeVpxbHlDWmlBdnRPQ0o1SGFUSkE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-15T15:43:43+00:00",
-      "summary": "Apple chasing AI chip company deals, The Information reports Reuters",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-15T19:41:38+00:00",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
       "category": "tech",
-      "score": 4.272
+      "score": 4.327
+    },
+    {
+      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-07-15T23:02:49+00:00",
+      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "category": "science",
+      "score": 4.192
+    },
+    {
+      "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
+      "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-16T01:58:45+00:00",
+      "summary": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
+      "category": "conflicts",
+      "score": 3.988
+    },
+    {
+      "title": "France's parliament adopts assisted dying law",
+      "url": "https://www.france24.com/en/france-s-parliament-adopts-assisted-dying-law",
+      "source": "France 24",
+      "published_at": "2026-07-15T19:41:46+00:00",
+      "summary": "France on Wednesday moved closer to joining the ranks of countries that guarantee the right to assisted dying, a move championed by President Emmanuel Macron. Macron had promised an assisted dying law when he was re-elected for a second term in 2022, in a change seen as one of th",
+      "category": "politics",
+      "score": 3.9
     }
   ],
   "hero_history": [
+    "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "OpenAI finally launches hardware… for Codex",
     "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
     "Ukraine",
     "US Senate Democrats block $1.15 trillion defense bill over Iran war objections",
     "US official says Nvidia has begun shipping powerful H200 AI chips to China",
     "Strait of Hormuz",
-    "Ukraine",
-    "Jim Cramer Calls Apple’s OpenAI Lawsuit “Heavyweight.” Tim Cook Must Believe OpenAI Was Stealing"
+    "Ukraine"
   ]
 }

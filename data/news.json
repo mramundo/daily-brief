@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-16T03:35:04.276660+00:00",
+  "updated": "2026-07-16T08:33:14.764477+00:00",
   "hero": {
-    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "source": "TechCrunch",
-    "published_at": "2026-07-15T23:59:44+00:00",
-    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "title": "Nvidia partners with Japan robotics firms on AI development",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWxUalVrT1FyT1RjbHFUUVNGY21zOGRmaG14SHN6bjVXeENXd2VfT01RLUh3LVBzOEJONTI1YlN3TUZwQ0wwdEJEakQ3ZEtSQkhhVzgwcXJqeU10OXJEWi1MdWRpTXdXX1BZVXhyWmlnUWxfVGpRejMyeXRiSEJBSXYtemFnR2t2V0JrOGo3cWtjejdzMk9fVnJqYXZnbFExMERLczdVU1N3bjhCZG5zSVVISzVMUQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-16T04:56:00+00:00",
+    "summary": "Nvidia partners with Japan robotics firms on AI development Reuters",
     "category": "tech",
-    "score": 5.916
+    "score": 10.247
   },
   "items": [
     {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-15T19:41:38+00:00",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "title": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI'",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZXNORFhXTklDSmtxczV5NjlfV25SenNQVU1ob0dBSGtjWVVra1B3MUd1OE9iNDJQM0o4TVBhZXdYaDRLRk92QVl2UkNOQWlWdldKUzh6NEZMQS1ncDNrUmdhRTNrajB0WWRTVGdzWjhIaVEzR2o4amsyZkdlTkRTV3l4ZUdpRmxMNHlvQ3h4TjJvY1dBU0F0Ym5FdVlpUUZBTkxJb2hwQzYxTkl5blkwcjZUYzQ3M3BPWi1RUThrRDk1amtaS0RQMnFlcWYxTTVHUHFwOTNMVVpCWTVRRzFCVmhoOTdQeEE1NWNtSTViQ1lPZ0hxcU8ycTF6YU5yeFBZZU1UUnVrYTcwR2Y3ZVVr?oc=5",
+      "source": "Ottumwa Courier",
+      "published_at": "2026-07-16T08:01:03+00:00",
+      "summary": "Fujitsu and leading Japanese robotics companies to use Nvidia technology in 'physical AI' Ottumwa Courier",
       "category": "tech",
-      "score": 4.327
+      "score": 5.276
     },
     {
-      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
-      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-07-15T23:02:49+00:00",
-      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-      "category": "science",
-      "score": 4.192
+      "title": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ1JvOGNOVF9NekpFQlJZLWowNkRlZkpZa2JjcnBSalhndDhwb09Gel9TdnNwYUctMlc3VXlHTjlzV0hwMkdBWGdGS04zSUpxdmhnX0JVeU9rRFFMVXFTVkRLaHR4b21NTTFONGVVR1U4VVZ3ZmlUQmRHcHphczdnWExMNFNVS0tWLTE1OEwzakl2VmJZMC1qS2c2YlhxaGNkbi03RjVjbzNRcWhzWkZITjhMR3VrNXB2eU0xaDlCWFN1TThDUkJjVTRDRkI4UkV1T1E?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-16T05:03:00+00:00",
+      "summary": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says Reuters",
+      "category": "resources",
+      "score": 4.757
     },
     {
-      "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
-      "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-16T01:58:45+00:00",
-      "summary": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
+      "title": "At least two people killed and five injured after Russia’s overnight attack on Kyiv",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOREVIcEVnV1MwaTg4VVZWYjhNbUxyWjdIRWYyMGdTcE40dzJmXzBVN1hYUWx4UVB0ZGF1OUVyRFUzZ0VyRW1iVm5UblZDd0NxcDhVX08ybjBIUUFmRlYyS29TRnIxQ1dhcFVXeFJqeFNoUTROSTkxS3hGM0tISjhSQWhTUDJxVTVpQ1ZFZWYzMGRFVjdrX3lSMmRfLTZiWlJLMm4zWk54c0plSmZsbFdZa2xfT2pBeHljUE81T0ZqTV9RMmdmUmY4dDZoRDhpMjZoeVNuZ24tcw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-16T07:23:00+00:00",
+      "summary": "At least two people killed and five injured after Russia’s overnight attack on Kyiv AP News",
       "category": "conflicts",
-      "score": 3.988
+      "score": 4.095
     },
     {
-      "title": "France's parliament adopts assisted dying law",
-      "url": "https://www.france24.com/en/france-s-parliament-adopts-assisted-dying-law",
-      "source": "France 24",
-      "published_at": "2026-07-15T19:41:46+00:00",
-      "summary": "France on Wednesday moved closer to joining the ranks of countries that guarantee the right to assisted dying, a move championed by President Emmanuel Macron. Macron had promised an assisted dying law when he was re-elected for a second term in 2022, in a change seen as one of th",
-      "category": "politics",
-      "score": 3.9
+      "title": "FLEX and Sentinel-3C arrive at Europe’s Spaceport",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_arrive_at_Europe_s_Spaceport",
+      "source": "ESA",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "summary": "With liftoff scheduled for September, excitement is building at Europe’s Spaceport in French Guiana as two cutting-edge Earth observation satellites, FLEX and Copernicus Sentinel-3C, have arrived to begin their launch campaigns. Over the coming weeks, engineers and mission teams",
+      "category": "science",
+      "score": 3.708
     }
   ],
   "hero_history": [
+    "Nvidia partners with Japan robotics firms on AI development",
     "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "OpenAI finally launches hardware… for Codex",
     "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
     "Ukraine",
     "US Senate Democrats block $1.15 trillion defense bill over Iran war objections",
     "US official says Nvidia has begun shipping powerful H200 AI chips to China",
-    "Strait of Hormuz",
-    "Ukraine"
+    "Strait of Hormuz"
   ]
 }

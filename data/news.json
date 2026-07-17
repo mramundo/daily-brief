@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-17T08:27:06.625118+00:00",
+  "updated": "2026-07-17T14:01:26.663080+00:00",
   "hero": {
-    "title": "Stocks sink as chip rout deepens, oil set for weekly gain",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBUX2ZaNk9EY2M2SU5BaEw4VkRFXzF6OE1MeENrcVRwT1hnd2gtbzVDODJ3VUh2ZXdOYi03b2ZobHhhdlMzSE1fOWM0b3lWTlh1Q2VENEFFdHlKWmNuOVltd0R4X254aFM0SmNjZ3RIWVNqREU3OXlHSFNsUGtBUXYyUQ?oc=5",
+    "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-17T06:39:37+00:00",
-    "summary": "Stocks sink as chip rout deepens, oil set for weekly gain Reuters",
+    "published_at": "2026-07-17T13:41:09+00:00",
+    "summary": "Apple unseats Nvidia to become world's most valuable company as AI bets shift Reuters",
     "category": "tech",
-    "score": 5.625
+    "score": 7.599
   },
   "items": [
     {
-      "title": "Asian shares sink, with Tokyo down more than 5% as slumping AI stocks drag world markets lower",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-17T07:11:00+00:00",
-      "summary": "Asian shares sink, with Tokyo down more than 5% as slumping AI stocks drag world markets lower AP News",
-      "category": "finance",
-      "score": 5.055
-    },
-    {
-      "title": "Explainer: China's oil imports have plunged during the Iran war. How much will they recover?",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTI1OFgyZ3BIUU40N1NsczgyREZuR211NVlMQXAtdTVmOWduRF9YOEJPVHd1QkJsV0xhek9aenVtY2gyMWNPc2JyMzBvRnZIUC1mY0QzSFdqbkQyWThzTnJ6VDRVcUdHTWJfXzE5ZER3WHpTay12RlJQOTlpdUpXRmh2Q3ZVSDRzTEl3UE80WG0xSVc3eTN2LTNlbmxBbGpuQ1RVWkE5Q1JDNEMwdlhzUHdvWFJnc3JxX3RYd2l0QWYzWF9V?oc=5",
+      "title": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmJhQmIyVFFQQ2FDdzIwZThieC00dE9yZEZNMVRSb20tRFAxVlZLYURkU1VYMC1ESlpFZ1poUnFoU0hJbno2VEd1VTB4Nl96YThVdTZUcDJiSmhWbFJhc0dzT0xnZE10aW9jZHRhdmRlWEE4cXF1MlNsdjNVTzZEZmtxLUFtLWN3YUJrbVB5eDd0cVkwaGJrTnVuLUwyeTBjUERETjNfMUZ3cWlzTklCeDJOTDd3SnVYaGNuUQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-17T05:40:00+00:00",
-      "summary": "Explainer: China's oil imports have plunged during the Iran war. How much will they recover? Reuters",
+      "published_at": "2026-07-17T10:06:09+00:00",
+      "summary": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up Reuters",
+      "category": "tech",
+      "score": 5.281
+    },
+    {
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-07-17T12:58:37+00:00",
+      "summary": "Researchers have found an Earth-like, rocky planet orbiting within the habitable zone of a distant star with an atmosphere.",
+      "category": "science",
+      "score": 4.849
+    },
+    {
+      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-17T09:24:03+00:00",
+      "summary": "Berlin warns against a 'security vacuum' in Lebanon's south once UNIFIL mandate expires at year's end.",
       "category": "conflicts",
-      "score": 3.955
+      "score": 4.631
     },
     {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-07-17T07:25:31+00:00",
-      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "category": "finance",
-      "score": 3.79
-    },
-    {
-      "title": "India news: Modi silent as Sonam Wangchuk hunger strike enters 20th day",
-      "url": "https://www.dw.com/en/india-news-modi-silent-as-sonam-wangchuk-hunger-strike-enters-20th-day/live-77997484?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-07-17T07:11:00+00:00",
-      "summary": "As Sonam Wangchuk's hunger strike entered its 20th day and the \"Cockroach\" party continued its protest, Prime Minister Narendra Modi faced criticism for his reluctance to hold press conferences. DW has more.",
-      "category": "politics",
-      "score": 3.467
+      "title": "Russian courts target two outspoken critics of war in Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmFWUnd1OE9XanVTTXVmVldpM09tMVk5WWRVSGVGRUtma3lvT1NrMlNxUDBjT0xjVEVoejFHVVowOGQxdW0tY0hvMFA1ajZhbWZSbW4wRVlkb1pKaFpXekVmb2JJcllLSDA3LVdWQnlNc1gwdHhsMGNLMm45WUxIeHJPTkpJX2hIMVQ2dG1ieGxBQnVVdHExYTdlZlduUmw2bDJqbXZERlZIRVE4OFRHVXd3Rkt1VWpOa3hSRw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-17T11:29:16+00:00",
+      "summary": "Russian courts target two outspoken critics of war in Ukraine Reuters",
+      "category": "conflicts",
+      "score": 4.514
     }
   ],
   "hero_history": [
+    "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
     "Stocks sink as chip rout deepens, oil set for weekly gain",
     "Syria says it foiled Hezbollah weapons shipment",
     "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
     "Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’",
     "Nvidia partners with Japan robotics firms on AI development",
     "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "OpenAI finally launches hardware… for Codex",
-    "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models"
+    "OpenAI finally launches hardware… for Codex"
   ]
 }

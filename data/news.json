@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-17T19:31:09.978531+00:00",
+  "updated": "2026-07-18T03:29:33.801488+00:00",
   "hero": {
-    "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
+    "title": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmJhQmIyVFFQQ2FDdzIwZThieC00dE9yZEZNMVRSb20tRFAxVlZLYURkU1VYMC1ESlpFZ1poUnFoU0hJbno2VEd1VTB4Nl96YThVdTZUcDJiSmhWbFJhc0dzT0xnZE10aW9jZHRhdmRlWEE4cXF1MlNsdjNVTzZEZmtxLUFtLWN3YUJrbVB5eDd0cVkwaGJrTnVuLUwyeTBjUERETjNfMUZ3cWlzTklCeDJOTDd3SnVYaGNuUQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-17T17:38:22+00:00",
-    "summary": "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports Reuters",
+    "published_at": "2026-07-17T21:40:39+00:00",
+    "summary": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up Reuters",
     "category": "tech",
-    "score": 9.444
+    "score": 4.88
   },
   "items": [
     {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-17T17:45:46+00:00",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s",
-      "category": "tech",
-      "score": 7.184
-    },
-    {
-      "title": "NASA Welcomes Mauritius as 70th Artemis Accords Signatory",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
-      "source": "NASA",
-      "published_at": "2026-07-17T14:48:27+00:00",
-      "summary": "The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signin",
-      "category": "science",
-      "score": 5.157
-    },
-    {
-      "title": "US Republicans accuse Canada of wildfire inaction",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
       "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
-      "published_at": "2026-07-17T16:51:47+00:00",
-      "summary": "Canadian leader Mark Carney says both countries have a responsibility to fight climate change.",
+      "published_at": "2026-07-18T01:29:47+00:00",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
       "category": "science",
-      "score": 4.534
+      "score": 4.661
     },
     {
-      "title": "Burnham confirmed as leader of UK’s governing Labour Party, headed for PM",
-      "url": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
+      "title": "Diamonds and 'cab to orbit': The rocket aiming to transform India's space ambitions",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-07-18T00:39:18+00:00",
+      "summary": "India's first space-tech unicorn Skyroot Aerospace is set to launch Vikram-1 on Saturday.",
+      "category": "science",
+      "score": 4.5
+    },
+    {
+      "title": "Israeli army destroys three schools in southern Lebanon, minister says",
+      "url": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-07-17T13:51:18+00:00",
-      "summary": "Andy Burnham set to become UK prime minister but faces challenges including the cost of living crisis and two wars.",
-      "category": "politics",
-      "score": 4.435
+      "published_at": "2026-07-18T02:06:07+00:00",
+      "summary": "At least 20 schools have now been completely destroyed in southern Lebanon, with 100 more damaged.",
+      "category": "conflicts",
+      "score": 4.275
+    },
+    {
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-17T20:32:56+00:00",
+      "summary": "Apple unseats Nvidia to become world's most valuable company as AI bets shift Reuters",
+      "category": "tech",
+      "score": 3.867
     }
   ],
   "hero_history": [
+    "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up",
     "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
     "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
     "Stocks sink as chip rout deepens, oil set for weekly gain",
     "Syria says it foiled Hezbollah weapons shipment",
     "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
     "Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’",
-    "Nvidia partners with Japan robotics firms on AI development",
-    "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic"
+    "Nvidia partners with Japan robotics firms on AI development"
   ]
 }

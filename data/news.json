@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-18T08:07:17.669338+00:00",
+  "updated": "2026-07-18T13:47:12.974114+00:00",
   "hero": {
-    "title": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
-    "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "published_at": "2026-07-18T07:05:19+00:00",
-    "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-    "category": "science",
-    "score": 4.851
+    "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+    "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-07-18T13:06:25+00:00",
+    "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+    "category": "conflicts",
+    "score": 5.561
   },
   "items": [
     {
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-07-18T01:29:47+00:00",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-      "category": "science",
-      "score": 3.843
-    },
-    {
-      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-17T20:32:56+00:00",
-      "summary": "Apple unseats Nvidia to become world's most valuable company as AI bets shift Reuters",
-      "category": "tech",
-      "score": 3.759
-    },
-    {
-      "title": "War and unrest",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
+      "title": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-18T07:40:10+00:00",
-      "summary": "War and unrest AP News",
+      "published_at": "2026-07-18T12:28:22+00:00",
+      "summary": "Ukraine AP News",
       "category": "conflicts",
-      "score": 3.517
+      "score": 5.212
     },
     {
-      "title": "India news: CJP to call for Modi's resignation after Sonam Wangchuk 'forcefully' shifted to hospital",
-      "url": "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-07-18T06:28:00+00:00",
-      "summary": "Abhijeet Dipke said the Cockroach Janta Party (CJP) will now demand the resignation of Prime Minister Narendra Modi after Sonam Wangchuk was forcibly shifted to a hospital by police. DW has more.",
-      "category": "politics",
-      "score": 3.412
+      "title": "Amid Growing Data Center Backlash, Nvidia Could Have the Answer",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGVmclZ6eFFYOEVhc0wwTlluZ3NabGFrNmFtZ0E4MG1hbjA4SEl1YnNIVXc4S3lZaHh2dm9zYW1taU1HdTExR2R0aS1xLXQ5VV80dVh1UXhpcHlWZEVtQUhFSEFVWVJILTMtdl8yUDRGWndYTFlmbkJrX1J4WjQzSnB1WEFxcjlBRFpBWjlRZ3k3TklPUTdBOVRNcWtTM0tUVmZtcTR1Z2ZCODU3aGt4Qm1nVFVZeWZqM3c4STQxYzlNeHZlX1lUbGtMX1hGcjBvNzBtZ0ZVYzEydVNJUF9LVU9vOA?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-18T11:50:20+00:00",
+      "summary": "Amid Growing Data Center Backlash, Nvidia Could Have the Answer The Globe and Mail",
+      "category": "tech",
+      "score": 4.974
+    },
+    {
+      "title": "Jensen Huang Said Nvidia Will Be the First Customer for HBM4. Here's the AI Memory Stock That Has Reportedly Locked Up 70% of Those Orders.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVVZYZURGZGlCcEcyX0RMbHcyaDdWS0FlUV9qeWlmMllJazB0RHNRdVExR2dqY01RY1lQSVZSd2RndUFtUF9POUM3Ul9BOVVhbjJCRXRIeUVHNkxWWTdPTHJJVHZTMzh2Ulg0Zmc1N2tWRHlveVlYUmpsaEhGd1FUNHdJdU1vb1NJamlV?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-07-18T10:39:06+00:00",
+      "summary": "Jensen Huang Said Nvidia Will Be the First Customer for HBM4. Here's the AI Memory Stock That Has Reportedly Locked Up 70% of Those Orders. The Motley Fool",
+      "category": "tech",
+      "score": 4.058
+    },
+    {
+      "title": "Trump shifts his tone on Jimmy Carter while grappling with Iran, inflation and his own legacy",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenRmU3dlOGFCMmp5MC1qRDhvMUhUc0IzTWw5cTRGdnJzdXdRYTJtdEpzY0NYNzdtU3VrckVsNHB0UkFwcFQzRE1NNl8xZERtdE5KWUJZWnNTWUhVQ2VHMjdIV3NCSHdpV1c2TFlaanZlak93YVJpQURjRjQtQTg0SENfcnJQWU1venEwQ09uUEs?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-18T13:15:00+00:00",
+      "summary": "Trump shifts his tone on Jimmy Carter while grappling with Iran, inflation and his own legacy AP News",
+      "category": "finance",
+      "score": 3.504
     }
   ],
   "hero_history": [
+    "Russian online retail warehouses hit by deadly Ukrainian strikes",
     "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
     "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up",
     "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
     "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
     "Stocks sink as chip rout deepens, oil set for weekly gain",
     "Syria says it foiled Hezbollah weapons shipment",
-    "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
-    "Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’"
+    "NASA Study Finds Near-Earth Asteroid Is Actually Comet"
   ]
 }

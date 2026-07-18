@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-18T03:29:33.801488+00:00",
+  "updated": "2026-07-18T08:07:17.669338+00:00",
   "hero": {
-    "title": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmJhQmIyVFFQQ2FDdzIwZThieC00dE9yZEZNMVRSb20tRFAxVlZLYURkU1VYMC1ESlpFZ1poUnFoU0hJbno2VEd1VTB4Nl96YThVdTZUcDJiSmhWbFJhc0dzT0xnZE10aW9jZHRhdmRlWEE4cXF1MlNsdjNVTzZEZmtxLUFtLWN3YUJrbVB5eDd0cVkwaGJrTnVuLUwyeTBjUERETjNfMUZ3cWlzTklCeDJOTDd3SnVYaGNuUQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-17T21:40:39+00:00",
-    "summary": "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up Reuters",
-    "category": "tech",
-    "score": 4.88
+    "title": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
+    "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "published_at": "2026-07-18T07:05:19+00:00",
+    "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+    "category": "science",
+    "score": 4.851
   },
   "items": [
     {
@@ -17,25 +17,7 @@
       "published_at": "2026-07-18T01:29:47+00:00",
       "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
       "category": "science",
-      "score": 4.661
-    },
-    {
-      "title": "Diamonds and 'cab to orbit': The rocket aiming to transform India's space ambitions",
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-07-18T00:39:18+00:00",
-      "summary": "India's first space-tech unicorn Skyroot Aerospace is set to launch Vikram-1 on Saturday.",
-      "category": "science",
-      "score": 4.5
-    },
-    {
-      "title": "Israeli army destroys three schools in southern Lebanon, minister says",
-      "url": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-18T02:06:07+00:00",
-      "summary": "At least 20 schools have now been completely destroyed in southern Lebanon, with 100 more damaged.",
-      "category": "conflicts",
-      "score": 4.275
+      "score": 3.843
     },
     {
       "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
@@ -44,17 +26,35 @@
       "published_at": "2026-07-17T20:32:56+00:00",
       "summary": "Apple unseats Nvidia to become world's most valuable company as AI bets shift Reuters",
       "category": "tech",
-      "score": 3.867
+      "score": 3.759
+    },
+    {
+      "title": "War and unrest",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-18T07:40:10+00:00",
+      "summary": "War and unrest AP News",
+      "category": "conflicts",
+      "score": 3.517
+    },
+    {
+      "title": "India news: CJP to call for Modi's resignation after Sonam Wangchuk 'forcefully' shifted to hospital",
+      "url": "https://www.dw.com/en/india-news-cjp-to-call-for-modi-s-resignation-after-sonam-wangchuk-forcefully-shifted-to-hospital/live-78015662?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-07-18T06:28:00+00:00",
+      "summary": "Abhijeet Dipke said the Cockroach Janta Party (CJP) will now demand the resignation of Prime Minister Narendra Modi after Sonam Wangchuk was forcibly shifted to a hospital by police. DW has more.",
+      "category": "politics",
+      "score": 3.412
     }
   ],
   "hero_history": [
+    "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
     "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up",
     "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
     "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
     "Stocks sink as chip rout deepens, oil set for weekly gain",
     "Syria says it foiled Hezbollah weapons shipment",
     "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
-    "Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’",
-    "Nvidia partners with Japan robotics firms on AI development"
+    "Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’"
   ]
 }

@@ -1,15 +1,42 @@
 {
-  "updated": "2026-07-19T03:52:11.964675+00:00",
+  "updated": "2026-07-19T08:32:04.809692+00:00",
   "hero": {
-    "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "source": "The Verge",
-    "published_at": "2026-07-18T20:54:42+00:00",
-    "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly.",
-    "category": "tech",
-    "score": 5.966
+    "title": "Iran war",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-19T08:30:25+00:00",
+    "summary": "Iran war AP News",
+    "category": "conflicts",
+    "score": 7.11
   },
   "items": [
+    {
+      "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-19T06:03:50+00:00",
+      "summary": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel Reuters",
+      "category": "conflicts",
+      "score": 6.777
+    },
+    {
+      "title": "Apple surpasses Nvidia as most valuable company amid AI market shift",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX01FTWFESlZhaWIzM1BUN1dvTGhVQldZMUxaTUxVTEZqOW5aLXNHVEVrLWdObVZKeTZHX1J5T0x4b2lqVWF0RlRWb1IwVVlIc1FhYjdfWGJVemVUUWlzaU5Gbk9vRnRyVXdOTm5jNEJJY29maWFMb1JVQTlrWHMzV0VEMzhyLWluLVhtTjc3d0xFcDZXZmdjX3VDQjU?oc=5",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-19T04:10:53+00:00",
+      "summary": "Apple surpasses Nvidia as most valuable company amid AI market shift Crypto Briefing",
+      "category": "tech",
+      "score": 4.5
+    },
+    {
+      "title": "NVIDIA Corporation $NVDA Stock Position Raised by Cvfg LLC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWZES2J1TXBFNzhqMDI1eE56WUNlM2hBRjc2V3dpbmp0eUpPb0xEdjEtc1p6MzJ3RERwdVJuQTB0LVU1aVhzamRPQmwxQU0zNmJkWVZ6N2d3dGpXNnNtT18yQ3NoYm9USUFqM0ZqdzRRNHlhSFRxdmVKM3l6MjluYkVWSk9kNy1RWjZiYkxnU19ESHB6ZXdvLVRvUXNoUjFWVTE1QWdlVE9xOUx3eXdlcWlONm8yV2t6dVE?oc=5",
+      "source": "MarketBeat",
+      "published_at": "2026-07-19T07:44:46+00:00",
+      "summary": "NVIDIA Corporation $NVDA Stock Position Raised by Cvfg LLC MarketBeat",
+      "category": "tech",
+      "score": 4.475
+    },
     {
       "title": "Mexico's Sheinbaum to attend World Cup final at President Trump's invitation",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1FxbVJVY0k1aVF4cFE3cld3UnQ1bWR1VEtlOWFyRS0yVHhxVmtUNWhfRk80eUd1aWxpWDB6Ui1vZmdTWG85MVR0QUVJcXlZNlhOdl9ILTYxUmVUYVBBTWo5VzF2b0ZURVNmNTBBQm5zajVfeEdEajRxMnctekRqb2d2dHJCZVd2eGN0QThGQWJ1Wi1MX0gxbEp1cFZ2VnRqX2FSbnlNNDZIQlJZUFhwb1g1TmpOLURWTWc?oc=5",
@@ -17,44 +44,17 @@
       "published_at": "2026-07-18T23:49:43+00:00",
       "summary": "Mexico's Sheinbaum to attend World Cup final at President Trump's invitation Reuters",
       "category": "politics",
-      "score": 4.652
-    },
-    {
-      "title": "US renews strikes on Iran after two military personnel killed by Iranian attack",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-18T23:21:00+00:00",
-      "summary": "US renews strikes on Iran after two military personnel killed by Iranian attack Reuters",
-      "category": "conflicts",
-      "score": 4.56
-    },
-    {
-      "title": "Palestinian teenage footballer dies after Israeli settler attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-19T02:57:31+00:00",
-      "summary": "Palestinian teenage footballer, Fadi al-Naasan, has died a week after being shot by Israeli forces.",
-      "category": "conflicts",
-      "score": 4.505
-    },
-    {
-      "title": "Hungary’s president signs a constitutional amendment ending his term",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOallUTVNENWo3T0loZmx6U1poMEJxWGpoYnF3aXVmeGFIeDZQNzUyek5mc0JCb01JZ2hmUUlfN25LdkJUR0xmVEUxYzZqMHdySmZUcTREWmQ0Mkg3bWc5bEl1OFdwbEZlal91VkxKbXEwdm0xWTdmU2Ftc1lBd1RCcGVucmFucXJiNjZvRWJrOWstdFdDZkhxWVBIOUl4YTg2aDY5Q0p5UEhVUQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-18T20:13:00+00:00",
-      "summary": "Hungary’s president signs a constitutional amendment ending his term AP News",
-      "category": "politics",
-      "score": 4.002
+      "score": 3.83
     }
   ],
   "hero_history": [
+    "Iran war",
     "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
     "US military says two service members killed in Iranian strike in Jordan",
     "Russian online retail warehouses hit by deadly Ukrainian strikes",
     "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
     "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up",
     "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
-    "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
-    "Stocks sink as chip rout deepens, oil set for weekly gain"
+    "Apple unseats Nvidia to become world's most valuable company as AI bets shift"
   ]
 }

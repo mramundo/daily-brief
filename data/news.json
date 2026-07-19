@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-19T08:32:04.809692+00:00",
+  "updated": "2026-07-19T13:51:59.865390+00:00",
   "hero": {
-    "title": "Iran war",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-19T08:30:25+00:00",
-    "summary": "Iran war AP News",
+    "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+    "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-07-19T11:28:24+00:00",
+    "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
     "category": "conflicts",
-    "score": 7.11
+    "score": 9.483
   },
   "items": [
     {
-      "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-19T06:03:50+00:00",
-      "summary": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel Reuters",
+      "title": "Iran hits US allies as Israel warns missiles headed for Jordan could land on its territory",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOVVPQXpIUjAzU1c2TG1GcXJUU19aU2FodDRTVWV4RVdVN2stQ1NueUtIRC03M2hXNFZLRkQzUUdqMWNQOVBMbzFmc1NGejY3bXFNSnJYMXNNRTIyMlNMYjFPbXVOcXJCSkFPVHNsMkRvblBzcjc5aXJhbHlndGlrek9RbmVBTlN4SHI3N1VHLUpGVlNmTE4tSlAwSktTd1k?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-19T13:13:00+00:00",
+      "summary": "Iran hits US allies as Israel warns missiles headed for Jordan could land on its territory AP News",
       "category": "conflicts",
-      "score": 6.777
+      "score": 7.501
     },
     {
-      "title": "Apple surpasses Nvidia as most valuable company amid AI market shift",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX01FTWFESlZhaWIzM1BUN1dvTGhVQldZMUxaTUxVTEZqOW5aLXNHVEVrLWdObVZKeTZHX1J5T0x4b2lqVWF0RlRWb1IwVVlIc1FhYjdfWGJVemVUUWlzaU5Gbk9vRnRyVXdOTm5jNEJJY29maWFMb1JVQTlrWHMzV0VEMzhyLWluLVhtTjc3d0xFcDZXZmdjX3VDQjU?oc=5",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-19T04:10:53+00:00",
-      "summary": "Apple surpasses Nvidia as most valuable company amid AI market shift Crypto Briefing",
+      "title": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX2h0NFRVMUFPa0V0eVhyUHJwTHMwdUhGYWJXUU9QOWpETUMwT29MM040akwtNDJXZmJySWRCS2tac0pYQWVvY3dpcmphOG5zRkdCSEpRcGxIUWJKUnhIZlJYNmF3UjljY29OUElrY2ZMcnFUY09oRWlaZ3BDUjFIM3N3VkNIM2VIakV0Nmdla0JhRVoyR3VucGNUNnl6RFhSV3pUSHA4My04enkzX3hhbjEyeEZ5RFV5RUxrenlzR3JMOGUtTGR2bXFhX0hnc2Y4eHljUEtudkxfVjlJdkxwU1dDbjhJQ1I2S3U4TWxvaGdSLVRETHZKcEpCTW9wQkNv?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-19T13:23:23+00:00",
+      "summary": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In. The Globe and Mail",
       "category": "tech",
-      "score": 4.5
+      "score": 6.045
     },
     {
-      "title": "NVIDIA Corporation $NVDA Stock Position Raised by Cvfg LLC",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWZES2J1TXBFNzhqMDI1eE56WUNlM2hBRjc2V3dpbmp0eUpPb0xEdjEtc1p6MzJ3RERwdVJuQTB0LVU1aVhzamRPQmwxQU0zNmJkWVZ6N2d3dGpXNnNtT18yQ3NoYm9USUFqM0ZqdzRRNHlhSFRxdmVKM3l6MjluYkVWSk9kNy1RWjZiYkxnU19ESHB6ZXdvLVRvUXNoUjFWVTE1QWdlVE9xOUx3eXdlcWlONm8yV2t6dVE?oc=5",
-      "source": "MarketBeat",
-      "published_at": "2026-07-19T07:44:46+00:00",
-      "summary": "NVIDIA Corporation $NVDA Stock Position Raised by Cvfg LLC MarketBeat",
-      "category": "tech",
-      "score": 4.475
-    },
-    {
-      "title": "Mexico's Sheinbaum to attend World Cup final at President Trump's invitation",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1FxbVJVY0k1aVF4cFE3cld3UnQ1bWR1VEtlOWFyRS0yVHhxVmtUNWhfRk80eUd1aWxpWDB6Ui1vZmdTWG85MVR0QUVJcXlZNlhOdl9ILTYxUmVUYVBBTWo5VzF2b0ZURVNmNTBBQm5zajVfeEdEajRxMnctekRqb2d2dHJCZVd2eGN0QThGQWJ1Wi1MX0gxbEp1cFZ2VnRqX2FSbnlNNDZIQlJZUFhwb1g1TmpOLURWTWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-18T23:49:43+00:00",
-      "summary": "Mexico's Sheinbaum to attend World Cup final at President Trump's invitation Reuters",
+      "title": "Former China Development Bank president is under anti-corruption probe",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUE9QdVo3QkM5SkZSdzk1NFAwU3hDS3N6WjlNalgyb3hGZUNPMTZpZFJFNjFTeEd0R2hxbEdUb2JCT1V2UFBNeW4tTUlwXzFfSDIxRFVuT081ZTgxR2tnWGtYVlJfV19tMGdCQzJWM2dPZ29Hc0pGS1NPZEp2RVNKUnZheVRnWm5MNXJORzVFbTl5UkpDWmRKcl9IOGVKd2txRmZOaEUyanVWMEU?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-19T07:23:00+00:00",
+      "summary": "Former China Development Bank president is under anti-corruption probe AP News",
       "category": "politics",
-      "score": 3.83
+      "score": 4.202
+    },
+    {
+      "title": "Institutional demand for CXMT's $8.6 bln Shanghai IPO dented by chip stock selloff",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlsR09iZW45b0NFWWhmTEpad3RlX1hUdmdxRlRBTG1WRk84T1Y1NnotTkUzMWRMZm9FNERUaU5hbUtUNGt4WkZScHEwS2Z5RE43MWxENkxxM3BWbzJtOXVWa0ZiOWQtcmZDemk0dWVaUnAwa0VXQThPSkxLV0wzeFQ2MlBEVjhzNmJXejREYS1YSWdNMXUwN1p3VjN2M3ZrWmVIX3B3ZzNSaWxJeG8wZl9qUVBwczhMbG14MDVURW0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-19T09:12:24+00:00",
+      "summary": "Institutional demand for CXMT's $8.6 bln Shanghai IPO dented by chip stock selloff Reuters",
+      "category": "tech",
+      "score": 4.131
     }
   ],
   "hero_history": [
+    "Russia launches major ballistic missile attack on Ukrainian cities",
     "Iran war",
     "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
     "US military says two service members killed in Iranian strike in Jordan",
     "Russian online retail warehouses hit by deadly Ukrainian strikes",
     "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
     "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up",
-    "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
-    "Apple unseats Nvidia to become world's most valuable company as AI bets shift"
+    "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports"
   ]
 }

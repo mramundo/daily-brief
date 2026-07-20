@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-19T19:31:10.345133+00:00",
+  "updated": "2026-07-20T04:02:44.019332+00:00",
   "hero": {
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-    "source": "TechCrunch",
-    "published_at": "2026-07-19T19:24:45+00:00",
-    "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-    "category": "tech",
-    "score": 6.84
+    "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+    "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-19T23:49:30+00:00",
+    "summary": "The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.",
+    "category": "conflicts",
+    "score": 5.495
   },
   "items": [
     {
-      "title": "China Extending Footprint to Malaysia, Indonesia in Bid to Control Global Rare Earths Industry",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUtURzBkaGd2TXhYX3J3dV82LVNUREFMN1NXSjFtLWNXY1ZkN3YyUkFuSnA3a3RJdEpXZnZsZlBGQUpZV3lFbExzWUtKQ2V4cGJHamJ0T0N0bXoyTHlkOFUyNUM2a09ZZHJOMllWQlJVSlJfa3dYNzlPaGJIa2s5SS1lVVRxMk0yd0lqcmZmQWR0TXcxLVlBRnNaQ3ppdlBSemVsOWRtdm11MmNhU2puYlljYw?oc=5",
-      "source": "International Business Times, Singapore Edition",
-      "published_at": "2026-07-19T15:48:36+00:00",
-      "summary": "China Extending Footprint to Malaysia, Indonesia in Bid to Control Global Rare Earths Industry International Business Times, Singapore Edition",
-      "category": "resources",
-      "score": 5.105
+      "title": "Spain battle past 10-man Argentina 1-0 in extra time to win World Cup",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVUx2OGh0QS1KQmVRb2g0SGlOYmdmdzlEd1E1dTlnYmJoWElCMHR4dnUtR0k3RlMxX3hUcDg1b3VjS2dTVWVKMjN3MmtacGhXWV9VRDg3RTBWSFRfel9nVkFuX21pbFZkTzhkcXhESHJqWUFIcmxaRzRHTFNCYzNsZ3N3Ymo3d1otR2dOSGNQRlpYdFJpbXJHZVdiVnRxTWNnOV9GLVRnanhTZWFhczdYczhsZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-19T23:22:58+00:00",
+      "summary": "Spain battle past 10-man Argentina 1-0 in extra time to win World Cup Reuters",
+      "category": "conflicts",
+      "score": 5.155
     },
     {
-      "title": "Why Apple’s Lawsuit Against OpenAI Over Devices Spares Jony Ive",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOek5YX256a1JPWmJMYms3bUxQeTRrZGppZGRsSktVRDNub3FseWRTZEY4a2ZkN29EejVOWmNnYkRuSjdHWnpkR3N0MDVoNEZ0M0lzUUJOU1h4RlRSLTZVRlVVOVp4dXFsaXNMS3VvNXlMblpvUXV4SVBXb3VvSER0cEJUc2tMOUhIcmZ6OF90N3VsVThBX3p1Y3FJUGlsaERkbkZxcGNnaEpzSzA2VG9BaWZqSnJqMFdiTTdCQmVZSGdYc2xVbGdOTHc4SUVtNVVxSXJZX0k1ekQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-07-19T14:00:01+00:00",
-      "summary": "Why Apple’s Lawsuit Against OpenAI Over Devices Spares Jony Ive Bloomberg.com",
+      "title": "US Vice President JD Vance announces birth of son",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmxnSVc2b0hNWlpUOU40am9DazNNdnowN0QtYjV1cXBiaURBUndtejJWaVBNLUktZVpCT3c0TXBEWEdkbUVudms4RFpkNUM4cmZuLW5vYlpWQjd6WVhsVnRCTFYzVDU1bTgtODJWdGF6dDA1cjRqMUU0bzJWU01aM09sQktqMmFnMVlDWXJKU08zRFNTUUE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-19T22:21:43+00:00",
+      "summary": "US Vice President JD Vance announces birth of son Reuters",
+      "category": "politics",
+      "score": 4.344
+    },
+    {
+      "title": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWtrc3R6QmdYREpuRHNxR3dFNkJkVjdSMTRYcFhmRHJYQ18yaGFfSHcwbmVKSjZvWVo2M0FqdF9VZkJmbG9CVTVObEZTQ2t1amx5MTlJZ201YWR3cE9IMFNxVTNXdlp6SVV5MnZDLXotWS1EQVFNbUFFV2hZUWJJeUVScVNRaUhjci1zUXJoUTBnMFBkSnFzeWgwWkNpd2FqZ2hZQW14cTNCRDcydkp4X2p2QlYyRWlTRWFISmFoSllBY01OWmNlVWNpamk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-19T23:57:52+00:00",
+      "summary": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment Reuters",
       "category": "tech",
-      "score": 4.899
+      "score": 4.232
     },
     {
-      "title": "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
-      "url": "https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-19T18:24:33+00:00",
-      "summary": "Aoun is expected to meet Donald Trump on Tuesday, as Beirut seeks US backing to end Israel-Hezbollah fighting.",
-      "category": "conflicts",
-      "score": 4.326
-    },
-    {
-      "title": "Russia-Ukraine | Breaking News & Live Updates",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-19T17:06:41+00:00",
-      "summary": "Russia-Ukraine | Breaking News & Live Updates AP News",
-      "category": "conflicts",
-      "score": 3.89
+      "title": "Anthropic is reported to be testing AMD GPUs, as AI giants systematically reduce reliance on single-source computing power.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDM4Zko0anoxb3ZQNjVHbkNaVTBtS2JyTDVoU0RldVB6TVpQaThib1FGdnl2WFZLMjlnU1h3V3RYSDhqUXNyTkRFUzY1alJqVkQ2dkhZWnBFTkdJZU1DTzJlNEU2cTNMRW9lNUFlczBjQ2ZfSDBqSGhwa2lqRHNVZjlDb04zd1R6SkdZdS10TFcyX0Vvd3pR?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-07-20T03:32:42+00:00",
+      "summary": "Anthropic is reported to be testing AMD GPUs, as AI giants systematically reduce reliance on single-source computing power. Moomoo",
+      "category": "tech",
+      "score": 3.931
     }
   ],
   "hero_history": [
+    "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
     "Can an Apple lawsuit derail OpenAI’s hardware plans?",
     "Russia launches major ballistic missile attack on Ukrainian cities",
     "Iran war",
     "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
     "US military says two service members killed in Iranian strike in Jordan",
     "Russian online retail warehouses hit by deadly Ukrainian strikes",
-    "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
-    "Wall St Week Ahead Alphabet, Intel results in focus for AI trade as US earnings rev up"
+    "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off"
   ]
 }

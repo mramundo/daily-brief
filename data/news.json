@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-20T19:55:18.289950+00:00",
+  "updated": "2026-07-21T03:43:10.895019+00:00",
   "hero": {
-    "title": "Hamas names Khalil al-Hayya as new overall leader",
-    "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-07-20T14:02:31+00:00",
-    "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
-    "category": "conflicts",
-    "score": 7.929
+    "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-20T23:29:20+00:00",
+    "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit Reuters",
+    "category": "tech",
+    "score": 7.161
   },
   "items": [
     {
-      "title": "Yemen's Houthis declare naval blockade against Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-21T00:12:24+00:00",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "category": "tech",
+      "score": 5.755
+    },
+    {
+      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-21T02:07:48+00:00",
+      "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
+      "category": "politics",
+      "score": 5.688
+    },
+    {
+      "title": "Markets price in two ECB rate hikes by early 2027 on inflation concerns",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkowLVJjV21CdV9TQWhVNDFRRXJEeUFFUk0zanFiek94a2ExaGpxM0dNTWpXdFkxYWpZejdkT3Qwd2Exd25QeVNaTlJYQV9VRzdqRElZb01wMkNWNmJNWTB2TzVkUWFSUkxyXzlBUHFwZ1Q2YmVoaXpWNU1EanZTb2hqMnFBMllPZ3prem9kUk1HTTFma2hTV3ZNc3V2UEVmWVVyd1RJeW4?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-20T16:58:28+00:00",
-      "summary": "Yemen's Houthis declare naval blockade against Saudi Arabia Reuters",
-      "category": "conflicts",
-      "score": 6.817
+      "published_at": "2026-07-20T15:24:03+00:00",
+      "summary": "Markets price in two ECB rate hikes by early 2027 on inflation concerns Reuters",
+      "category": "finance",
+      "score": 5.272
     },
     {
       "title": "Gold, Silver, Rare Earths, and Copper: Public Companies Present at the July 22-23 Precious Metals & Critical Minerals Virtual Investor Conference",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMlZ6YlhGWTh0QjFVUGZvandrbVlKVmJOc19XRTVMWEZFVmRaQXBrNDhFRnltVW9UUXFTUjI3OGd0eGFjd2FUZnUtLVVKcHdLOC14dm5PMUp0SG9vYzZTWTJ3V1B0RE12dVU3aHVmQUxCX2JjWFpaR3otUENJSWNFZElITnNuQVNpZkxndlRsSmh4bks2azNjRDNoWV92dk9uZWo1OXU3dEJncEM4MGVuTDVIckthZ3FQMHI2UHdYbEVfSlk1eEp5TkNfcGdtTkZESFo1N3VNZzc1TTBvTGJPcTU3aUFhMzBCa1RhQ3loaVFlMFdaTjJ4RUtPWjZhS0xHM1lqejdGWlBMNWZoRlp2S044XzJOWW5hdlVnNXJUYlA5U0E?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-07-20T16:05:41+00:00",
-      "summary": "Gold, Silver, Rare Earths, and Copper: Public Companies Present at the July 22-23 Precious Metals & Critical Minerals Virtual Investor Conference TradingView",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOR1VUOV9CdTVDZ2RHSDdFdFBhMEFJREJEMVV1bUl0ajRSVXNXYl9WM21tbmR5azdBalA5dTh4LXBFcEtQV3JZOFVxTVM2NEFEQ0t5aHQ1X0g5d0Y5N2hjVFFrck50UEZONEczUEIxZVpORk0xT2xrdFllVG04VUpOR0ZHQzVzd3V4VUFjcUZRb0tZeTNOMzFXMEt1d0luMEMxN1M2QWVRdllmbm1RWDJySDZaT0c5VXVfdVBwMHJQeVljYkxwMWR6RF9IalhmZUk5SHZBZXBsMGVRdllKUlF3QXRhZktsTGJyemNDaWxGVXRQRTZoMG1RQVBSOWVkaHcwQnRTUTRfMzlQbW9NVUE?oc=5",
+      "source": "NewMediaWire",
+      "published_at": "2026-07-20T16:08:29+00:00",
+      "summary": "Gold, Silver, Rare Earths, and Copper: Public Companies Present at the July 22-23 Precious Metals & Critical Minerals Virtual Investor Conference NewMediaWire",
       "category": "resources",
-      "score": 6.41
-    },
-    {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-20T19:33:25+00:00",
-      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-      "category": "tech",
-      "score": 5.921
-    },
-    {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-20T15:15:00+00:00",
-      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
-      "category": "tech",
-      "score": 5.655
+      "score": 5.077
     }
   ],
   "hero_history": [
+    "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
     "Hamas names Khalil al-Hayya as new overall leader",
     "West Point Gold Presenting at Precious Metals & Critical Minerals Virtual Investor Conference on July 23",
     "Iran war",
     "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
     "Can an Apple lawsuit derail OpenAI’s hardware plans?",
     "Russia launches major ballistic missile attack on Ukrainian cities",
-    "Iran war",
-    "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’"
+    "Iran war"
   ]
 }

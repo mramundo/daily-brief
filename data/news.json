@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-22T08:43:06.632759+00:00",
+  "updated": "2026-07-22T14:20:45.755603+00:00",
   "hero": {
-    "title": "Iran war",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-22T08:40:41+00:00",
-    "summary": "Iran war AP News",
-    "category": "conflicts",
-    "score": 11.834
+    "title": "AMD to invest up to $5 billion in Anthropic, WSJ reports",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-22T14:14:25+00:00",
+    "summary": "AMD to invest up to $5 billion in Anthropic, WSJ reports Reuters",
+    "category": "tech",
+    "score": 8.504
   },
   "items": [
     {
-      "title": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-22T08:04:26+00:00",
-      "summary": "Ukraine AP News",
-      "category": "conflicts",
-      "score": 8.631
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-22T03:20:57+00:00",
-      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnlKVXR0aTVRX0FzM2J3UHBCRUlKbGxfU0JDSFVlMEtzQzFEMndhQ19CUjdhVEtNY1l6b2J2RUpibkZvT0FTNGhQRUZ2V0JVNzU3cUtWMlZHdlFDMTFlUlN4cEFldXhFeXRIUW9oMTJuUjVLTENHVnRWbWFwOXlsTVA3UkpZQVpka3ZQOG9HWld1VGZDWWQ0TDdTeTM1anNHcWNEUWNtMkI0cUkyYUc2ZWczQWVXWG00eG15WnNqbUhWTW5XOEJRbA?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-07-22T13:07:00+00:00",
+      "summary": "AI agent went rogue and hacked startup by itself, OpenAI reveals The Guardian",
       "category": "tech",
-      "score": 6.18
+      "score": 7.763
     },
     {
-      "title": "Food prices rise at slowest rate in nearly two years",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-07-22T07:27:04+00:00",
-      "summary": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
-      "category": "finance",
-      "score": 5.765
+      "title": "A Palestinian family split between Israel and Gaza reunites after years of war and loss",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUVpWLXhFRkxCV3hzUVJLdUt3WGNFakY5T1VaVzl1OGVDUmhKekVnY3U2Q3Z4dzdkVjEyT21LUU52ZDNweVBYcFRqc1lYaDhkQVdfNnB6cmhOQ1pIUHh6aFBfajg0UWVGdHl3ZVpRZllJdDJlOG0tQW9zcHRBeVBNWlFPZHI0emQxU0RPNl9IVFhjMkg3WmFhcEJYZV9VSDd1MXpyaTRUNW1NS2Fldk5SQkNDcF8?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-22T08:43:00+00:00",
+      "summary": "A Palestinian family split between Israel and Gaza reunites after years of war and loss AP News",
+      "category": "conflicts",
+      "score": 6.096
     },
     {
-      "title": "How farmers could fix Wales' polluted rivers and save money",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj2vdl8r2o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine hits more warehouses of top Russian online retailer",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-22T10:22:06+00:00",
+      "summary": "Ukrainian drones have hit two more warehouses belonging to Russia’s biggest online retailer Wildberries.",
+      "category": "conflicts",
+      "score": 5.551
+    },
+    {
+      "title": "Fate of massive 20m-high space radar in ministers' hands",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nxe1g3xxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
-      "published_at": "2026-07-22T05:23:44+00:00",
-      "summary": "Farmers have a crucial role in cleaning up one of the UK's most polluted river systems, a study shows.",
+      "published_at": "2026-07-22T12:04:20+00:00",
+      "summary": "The MoD wants to put 27 giant radar dishes in Pembrokeshire, which campaigners have strongly opposed.",
       "category": "science",
-      "score": 5.702
+      "score": 4.607
     }
   ],
   "hero_history": [
+    "AMD to invest up to $5 billion in Anthropic, WSJ reports",
     "Iran war",
     "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
     "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot",
     "Anthropic’s $1.5 billion copyright settlement approved by US court in landmark AI case",
     "Ukraine",
     "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
-    "Hamas names Khalil al-Hayya as new overall leader",
-    "West Point Gold Presenting at Precious Metals & Critical Minerals Virtual Investor Conference on July 23"
+    "Hamas names Khalil al-Hayya as new overall leader"
   ]
 }

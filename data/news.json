@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-23T14:29:35.450298+00:00",
+  "updated": "2026-07-23T19:44:28.443833+00:00",
   "hero": {
-    "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5",
+    "title": "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHFrc1BFd1MyNGJEdWFibkJiY1dGVjRNY2tOWUNTbEZTaEw5Z3liZFUxOWExS3ZhdExIZGpjRUFsSW9WWVcyZC1aRmdaRWtVSUFyVHBxeU5wOWZfYTBYbFpZZ25uYUVxUE8tRzQ0d2VOYVk2bTZlUW8yY0RZdnFmQnVqQjRkc2RoQ2Nya19n?oc=5",
     "source": "AP News",
-    "published_at": "2026-07-23T10:23:00+00:00",
-    "summary": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot' AP News",
-    "category": "tech",
-    "score": 7.197
+    "published_at": "2026-07-23T19:25:00+00:00",
+    "summary": "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war AP News",
+    "category": "conflicts",
+    "score": 7.604
   },
   "items": [
     {
-      "title": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUJFSWFvTG9vQXNqVmZLWmxuQVN6aU9sa1F3MTZkeE8yZlBvU1lzQVJXZE5samhlQ3JKS2Zoa1pUMlVXNW5MQ3lsOXlOejNGbTFKaUJ6UVgwdU0ydHowaFhBOGszdnNSeU1ic0VEZkR6VmZHZzQ3aU5HbUZscEsxaTBwSXNIVFNOVTN0a09lbUItb2xFT0lTajZsb3FzUTg?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-23T11:44:00+00:00",
-      "summary": "Ukraine hits Russia's largest online marketplace, hurting small businesses and bringing the war home AP News",
+      "title": "EU targets Russian banks in new sanctions package over Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDk5Tmt4am9MUUVyY0V1RGRnbm5hbE5TcDJqTDJuRXlmaVpOdVJuN2VRYXIwaUwyRU9UdDN0b3N1eGMxS0NlelNjWmhqemJfN252N2QyVTBNSU9QSHcxbmwySkRnQk5XSDZLdXEwNEVTbEhmMDJNdFpuM2RvcjItMGJwVF9JMElIekt4TEtjSlF0dXBJMG5XUkw3ZHg1aVdRX2paMnRBdkFWcHlCbW5zU1NWWDRpazZtQjJfTWlQMnZ5cDN1dE5J?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-23T17:18:38+00:00",
+      "summary": "EU targets Russian banks in new sanctions package over Ukraine war Reuters",
       "category": "conflicts",
-      "score": 6.87
+      "score": 6.965
     },
     {
-      "title": "Brent oil’s price briefly tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower",
+      "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-23T13:42:00+00:00",
-      "summary": "Brent oil’s price briefly tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower AP News",
+      "published_at": "2026-07-23T18:44:00+00:00",
+      "summary": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower AP News",
       "category": "resources",
-      "score": 6.841
+      "score": 6.78
     },
     {
-      "title": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3Q1OHN6OGRxUENDanFhdDRSLUUwSWFJWFlsQS1RckM3VU1UTjE0VHlVYXJTRFJPS2NrNEpTMWxZNGFCVFVKbzhUMnpRWlo4OENqekdUTGd2Umh4dG9XaTVONVh0S0ZRSVFGUGV0RVNiWGlDYmRmc1VseTdwRUxqcEtHYmlVYnNENHgxcE9kUkdZTnVkN19NU1IwSFlPdUxVdWs2TXM4LWd4YlJSc2ZXSlJkR0pGUQ?oc=5",
+      "title": "OPEC+ likely to again raise oil output targets from September, sources say",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTU93Z2Fkc0xuTTVYTGlzWkxXbW9YTU9kX2lwa2xXeDJMS1RnZ18yM3drMEpEM0dxWmRBcWJkR2dSSGFqV3FsSVBvdXJzbW5fUm84TDI4THVRWDJpNHNzTFAwUEx6THl0ZnhuUVc1SERMSWtnMEd0YnMxSVptU1EtX2lmV2VSeWpIR2JlQ0Z1ZlY1d201NDI1b1dCQ1N1d3htLTZ6N1FXXzFjWkN5VlVRLWUxQlJFaWs?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-23T10:46:08+00:00",
-      "summary": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia Reuters",
-      "category": "tech",
-      "score": 6.599
+      "published_at": "2026-07-23T17:32:58+00:00",
+      "summary": "OPEC+ likely to again raise oil output targets from September, sources say Reuters",
+      "category": "resources",
+      "score": 6.03
     },
     {
-      "title": "White Gold Corp. to Present at the Precious Metals & Critical Minerals Virtual Investor Conference on July 23, 2026",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQMEJGY1BYd05LMjBVNl9hcXBINV8tSTByMlFPbWprTzh1cEpFSVFaSXR5SGEzbmpERW1kTmpVak1wekN3ZVROTWtWUy1jVjEzQ05MQ1BfaVZSWWRTN3NSWkVSSUMwZENzYU0wRTJ4UEJlenc1TU9TREpIUjZtLS0yem1YeE0yR2NuU2hVcVZpZnFVWUdJcDlyVUs2emZQQ1FRR1hDa3Y3V2dfOVdWRHNqRzNZUFJ5NnVmdXNobGZrYVRqQmE1VW5EMVpXSDRhZVVmemlDTW1LNm9IdXRNcEM0RWZBWkNyN0d3NFowb2ZzY3BfTm5hSEtFeVhHVFhJVzJCMmlFYVFjUndudUZjLVFvTG9McXlUYVhn0gGYAkFVX3lxTFAwQkZjUFh3TksyMFU2X2FxcEg1Xy1JMHIyUU9tamtPOHVwSkVJUVpJdHlIYTNuakRFbWROalVqTXB6Q3dlVE5Na1ZTLWNWMTNDTkxDUF9pVlJZZFM3c1JaRVJJQzBkQ3NhTTBFMnhQQmV6dzVNT1NESkhSNm0tLTJ6bVh4TTJHY25TaFVxVmlmcVVZR0lwOXJVSzZ6ZlBDUVFHWENrdjdXZ185V1ZEc2pHM1lQUnk2dWZ1c2hsZmthVGpCYTVVbkQxWldINGFlVWZ6aUNNbUs2b0h1dE1wQzRFZkFaQ3I3R3c0WjBvZnNjcF9ObmFIS0V5WEdUWElXMkIyaUVhUWNSd251RmMtUW9Mb0xxeVRhWGc?oc=5",
-      "source": "The Manila Times",
-      "published_at": "2026-07-23T11:17:11+00:00",
-      "summary": "White Gold Corp. to Present at the Precious Metals & Critical Minerals Virtual Investor Conference on July 23, 2026 The Manila Times",
-      "category": "resources",
-      "score": 6.255
+      "title": "Burnham says 20% business rates cut for English pubs 'a first step'",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-07-23T19:33:09+00:00",
+      "summary": "Some hospitality firms will get a discount from next April but hotels and restaurants won't get a cut.",
+      "category": "finance",
+      "score": 5.025
     }
   ],
   "hero_history": [
+    "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
     "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
     "Top US and Russian diplomats discuss Ukraine war in Manila",
     "Demand for critical minerals fuels conflict but could help resource-rich nations, WTO says",
     "AMD to sell Anthropic tens of billions in AI servers, invest up to $5 billion in startup",
     "AMD to invest up to $5 billion in Anthropic, WSJ reports",
     "Iran war",
-    "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
-    "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot"
+    "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup"
   ]
 }

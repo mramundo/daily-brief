@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-24T19:44:44.276187+00:00",
+  "updated": "2026-07-25T03:35:11.191030+00:00",
   "hero": {
-    "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-    "source": "The Verge",
-    "published_at": "2026-07-24T17:00:00+00:00",
-    "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the cap",
+    "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-24T23:53:00+00:00",
+    "summary": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership Reuters",
     "category": "tech",
-    "score": 11.122
+    "score": 8.54
   },
   "items": [
     {
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "published_at": "2026-07-24T18:57:39+00:00",
-      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "category": "tech",
-      "score": 6.19
-    },
-    {
-      "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
-      "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
-      "source": "NASA",
-      "published_at": "2026-07-24T17:47:06+00:00",
-      "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 11",
-      "category": "science",
-      "score": 5.02
-    },
-    {
-      "title": "Stocks rise on Wall Street while crude oil prices fall for the first time in a week",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmlYckVuYk1wbnBDMUZSaV9xY3Jha2ktXzUyYzV2VjA4UWJ3ZEdpSHFoNXU0QVdmMUFZR0xSaGc5ZjZJc1JQVzBkNU03SkJ0YXJhTFl4YTZZcVd5N1luLVZRNTlUXzkyLVQ1SzhmcGdvQWd3MzBNY014bS1JdHBVWTJlX25PendGZ3pPY0IyYTJQeVA1WTNqdUlkOA?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-24T16:53:00+00:00",
-      "summary": "Stocks rise on Wall Street while crude oil prices fall for the first time in a week AP News",
-      "category": "finance",
-      "score": 4.731
-    },
-    {
-      "title": "Fed Chairman Warsh faces cruel summer as bond yields spike",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVRCMXNDaHJWRk9ET3BLVEJzU0loSnRRM3hNcTAxQ1pXT1VoWlA1MUJxelBHYlFyRVVGQkZUZkFNc0NfMFNYbE1KN3pXYzRWYnIwN0JTeDVXaEdfOEpaN0pJSU91aEppRURTR1JSSld2cVl5b3Bval8wb3N0MWI4ZlBBcXlUbDA0Q0MtdFcxa3dRMzFXWkZzdC1WTGJRbW02NkE?oc=5",
+      "title": "Saudi-led coalition says it strikes Houthi targets in Yemen's Hodeidah",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXJqVTM2Sjk5OGw4TnB5SWw2S0xRNG03eE5JLVFfZnp1NXluaGlpU3hHa2o2NHVCTERuOEpHeEliODNVblllcG1FTzdINTZVRUFSLWg2dXphTVphTVRtR0tSYVdKaTJPTEpwN1B3TFZZVnBNRjJvLWV4U3BvYUZud0RzNVpCLUJxRjBYU0U4SkVNbnRwNlhVRTZVS0p1TjlOczBLTG8zNG5nSHFZMzY4WFNZSGIyMlFKMmRJUg?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-24T18:04:48+00:00",
-      "summary": "Fed Chairman Warsh faces cruel summer as bond yields spike Reuters",
-      "category": "finance",
-      "score": 4.68
+      "published_at": "2026-07-24T22:54:27+00:00",
+      "summary": "Saudi-led coalition says it strikes Houthi targets in Yemen's Hodeidah Reuters",
+      "category": "conflicts",
+      "score": 6.342
+    },
+    {
+      "title": "Israel",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-24T23:49:11+00:00",
+      "summary": "Israel AP News",
+      "category": "conflicts",
+      "score": 6.084
+    },
+    {
+      "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-24T22:14:00+00:00",
+      "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week Reuters",
+      "category": "tech",
+      "score": 5.286
+    },
+    {
+      "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+      "url": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-07-25T00:41:50+00:00",
+      "summary": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch.",
+      "category": "science",
+      "score": 4.49
     }
   ],
   "hero_history": [
+    "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
     "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
     "Giorgia Meloni's Italy: An authoritarian drift? (Part 2)",
     "Iran war",
     "Asian stocks skid as oil spike revives inflation fears, bonds take a hit",
     "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
     "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
-    "Top US and Russian diplomats discuss Ukraine war in Manila",
-    "Demand for critical minerals fuels conflict but could help resource-rich nations, WTO says"
+    "Top US and Russian diplomats discuss Ukraine war in Manila"
   ]
 }

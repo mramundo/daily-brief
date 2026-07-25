@@ -1,32 +1,32 @@
 {
-  "updated": "2026-07-25T03:35:11.191030+00:00",
+  "updated": "2026-07-25T08:23:04.977901+00:00",
   "hero": {
-    "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVFFLak9qWnRXdllOXzdoR0dESHJsZnUzb3E4UnpreExzYVZMa1lYa1JESlZiZUw4VFFOazNUSE4wTll5U3kycTg4RjlYaDQtdEp0T0xQejFDYXZUaVROT1gtaFRQM1RlM0Fpei1yNmZ5bFZFZlo5VEVVYkVCbzRvLVdpZVMxcG9TQ3c1VERSQmZiRGRDZ1hDNnd5bUhWUGNmNmZYMk9lSjN4bzRGTWhNd2RvQWowYTRqdVdXcjJNejFManNYLXNzb1BuMlg?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-24T23:53:00+00:00",
-    "summary": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership Reuters",
-    "category": "tech",
-    "score": 8.54
+    "title": "Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-25T07:53:55+00:00",
+    "summary": "Ukraine AP News",
+    "category": "conflicts",
+    "score": 10.63
   },
   "items": [
-    {
-      "title": "Saudi-led coalition says it strikes Houthi targets in Yemen's Hodeidah",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXJqVTM2Sjk5OGw4TnB5SWw2S0xRNG03eE5JLVFfZnp1NXluaGlpU3hHa2o2NHVCTERuOEpHeEliODNVblllcG1FTzdINTZVRUFSLWg2dXphTVphTVRtR0tSYVdKaTJPTEpwN1B3TFZZVnBNRjJvLWV4U3BvYUZud0RzNVpCLUJxRjBYU0U4SkVNbnRwNlhVRTZVS0p1TjlOczBLTG8zNG5nSHFZMzY4WFNZSGIyMlFKMmRJUg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-24T22:54:27+00:00",
-      "summary": "Saudi-led coalition says it strikes Houthi targets in Yemen's Hodeidah Reuters",
-      "category": "conflicts",
-      "score": 6.342
-    },
     {
       "title": "Israel",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-24T23:49:11+00:00",
+      "published_at": "2026-07-25T04:15:19+00:00",
       "summary": "Israel AP News",
       "category": "conflicts",
-      "score": 6.084
+      "score": 7.166
+    },
+    {
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-25T06:41:42+00:00",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "category": "politics",
+      "score": 4.72
     },
     {
       "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
@@ -35,26 +35,26 @@
       "published_at": "2026-07-24T22:14:00+00:00",
       "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week Reuters",
       "category": "tech",
-      "score": 5.286
+      "score": 4.328
     },
     {
-      "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
-      "url": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-07-25T00:41:50+00:00",
-      "summary": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch.",
-      "category": "science",
-      "score": 4.49
+      "title": "Nvidia, Microsoft and other tech giants back open-source AI models",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-24T18:07:36+00:00",
+      "summary": "Nvidia, Microsoft and other tech giants back open-source AI models Reuters",
+      "category": "tech",
+      "score": 4.255
     }
   ],
   "hero_history": [
+    "Ukraine",
     "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
     "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
     "Giorgia Meloni's Italy: An authoritarian drift? (Part 2)",
     "Iran war",
     "Asian stocks skid as oil spike revives inflation fears, bonds take a hit",
     "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
-    "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
-    "Top US and Russian diplomats discuss Ukraine war in Manila"
+    "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'"
   ]
 }

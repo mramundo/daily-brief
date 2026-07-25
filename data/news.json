@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-25T08:23:04.977901+00:00",
+  "updated": "2026-07-25T14:00:19.897110+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-25T07:53:55+00:00",
-    "summary": "Ukraine AP News",
-    "category": "conflicts",
-    "score": 10.63
+    "title": "India's education minister resigns after youth protests",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmozZTBOTU42dE9YZHB4bTV5TVUyU01UUjZydFN6aGo3ejJXeFpSUVhJZ3pkYWE5SHNsWjRobGROVV9YS0g3aU9tRElrWmFqbkZtN2I3TDVXaEVlSkdXUl9NSkJIWUViM09QWkxSTm1KMmdSeW9PMk96d3ZXVUNDNnJMTFhNYUotZ3V5aDNwNTZrYVkydTFXYkNDZXZYUmJ3Z1NSYw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-25T09:06:47+00:00",
+    "summary": "India's education minister resigns after youth protests Reuters",
+    "category": "politics",
+    "score": 5.805
   },
   "items": [
     {
-      "title": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+      "title": "India’s education minister resigns in major victory for youth-led ‘Cockroach’ movement",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXFJdGduZGxPd1kyNS03UGZzRjR2eW9oRjVMUGtwV3dsZTcxZlVlRnJtblUzVVdXRmNHZkxpWnZjWktlNFNHaDJrSXp0VTdmSWJiWk0tLUxOMzBERU9Zc0h3a2owckFaa1JGRlcyQm9LeUFsSXZDcUE0TFVLVmNadDVvaFNuLXhCNlQxLVZUM3oycHU0SkQzM3RR?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-25T04:15:19+00:00",
-      "summary": "Israel AP News",
-      "category": "conflicts",
-      "score": 7.166
-    },
-    {
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-07-25T06:41:42+00:00",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "published_at": "2026-07-25T11:58:00+00:00",
+      "summary": "India’s education minister resigns in major victory for youth-led ‘Cockroach’ movement AP News",
       "category": "politics",
-      "score": 4.72
+      "score": 5.057
     },
     {
-      "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-24T22:14:00+00:00",
-      "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week Reuters",
-      "category": "tech",
-      "score": 4.328
+      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
+      "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-25T09:54:44+00:00",
+      "summary": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
+      "category": "conflicts",
+      "score": 4.735
     },
     {
-      "title": "Nvidia, Microsoft and other tech giants back open-source AI models",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-24T18:07:36+00:00",
-      "summary": "Nvidia, Microsoft and other tech giants back open-source AI models Reuters",
+      "title": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdi10ekF0MnFpOWUxZGFheDNMR0dBWkxOaWsxTG9wTHJHTFVoRE1iUXpKOFp5UTJOcWRSdUIxYWxQbG52YWNWSE4tS2FiYlZnVGlVTEFiU1VNcmpVMTdibFRNNWZQZmx5UmFpalVKTTJrUG1VaHIydzF2RWtadWh1WDlQVjJkN1JDVGxQcnVGUmZpWUltQkw3ajNpU283MkQ0dzhrWGVBYUZnX0RwU2h1VmliODRNajlzYU5ULWdLanhTWUp6WFBXSzRHa2NnRTJXUjFhVmVNaW8wLWRJMENJLUFoUEYxLUlDbWNjSHVIQkkwUlJQem1UWVphTTJyVWZNd3pGUWY3S0JaZnZwVmVOWVJmdE9ORDRIZ3hId2NhRW5MRUx1UnhSZTkyZV90aFNfWlY2aEJVU25jTVZzOEtfS1NCNnlWdTBUMHd1eVRmcVRtRUNMUktNWUxpUXhuUQ?oc=5",
+      "source": "TechRadar",
+      "published_at": "2026-07-25T12:30:00+00:00",
+      "summary": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI TechRadar",
       "category": "tech",
-      "score": 4.255
+      "score": 4.712
+    },
+    {
+      "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-25T09:59:32+00:00",
+      "summary": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery Reuters",
+      "category": "conflicts",
+      "score": 4.509
     }
   ],
   "hero_history": [
+    "India's education minister resigns after youth protests",
     "Ukraine",
     "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
     "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
     "Giorgia Meloni's Italy: An authoritarian drift? (Part 2)",
     "Iran war",
     "Asian stocks skid as oil spike revives inflation fears, bonds take a hit",
-    "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war",
-    "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'"
+    "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war"
   ]
 }

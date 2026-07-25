@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-25T14:00:19.897110+00:00",
+  "updated": "2026-07-25T19:33:32.034959+00:00",
   "hero": {
-    "title": "India's education minister resigns after youth protests",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmozZTBOTU42dE9YZHB4bTV5TVUyU01UUjZydFN6aGo3ejJXeFpSUVhJZ3pkYWE5SHNsWjRobGROVV9YS0g3aU9tRElrWmFqbkZtN2I3TDVXaEVlSkdXUl9NSkJIWUViM09QWkxSTm1KMmdSeW9PMk96d3ZXVUNDNnJMTFhNYUotZ3V5aDNwNTZrYVkydTFXYkNDZXZYUmJ3Z1NSYw?oc=5",
+    "title": "Israel kills senior Hamas-led police official in Gaza, medics say",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWTZXaEJBSUxPU1pMdTdsNDM0d0JOZlBqWW5nVmlpbW1Ic0RmbGJPb09wNlBUWXVyeTRJS2JQMFVGSmkyVmJweFV1RHN5R1RYUVlLX09JUnZBNFl5aGlRU2NTeFBXYVl5b0ZEQUk3ZlRieDhPUGNHZjZLc0FqUXRqMjN6WVVFbWE2aDlEano4a3BDa3hNejdjaVRwbkpPS2ticTFiMHNURnVPc3AwQ2pSTV9FUzRWZFNtUldLWDdCLWVBRld4dWxMajBybEQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-25T09:06:47+00:00",
-    "summary": "India's education minister resigns after youth protests Reuters",
-    "category": "politics",
-    "score": 5.805
+    "published_at": "2026-07-25T15:39:25+00:00",
+    "summary": "Israel kills senior Hamas-led police official in Gaza, medics say Reuters",
+    "category": "conflicts",
+    "score": 6.551
   },
   "items": [
     {
-      "title": "India’s education minister resigns in major victory for youth-led ‘Cockroach’ movement",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXFJdGduZGxPd1kyNS03UGZzRjR2eW9oRjVMUGtwV3dsZTcxZlVlRnJtblUzVVdXRmNHZkxpWnZjWktlNFNHaDJrSXp0VTdmSWJiWk0tLUxOMzBERU9Zc0h3a2owckFaa1JGRlcyQm9LeUFsSXZDcUE0TFVLVmNadDVvaFNuLXhCNlQxLVZUM3oycHU0SkQzM3RR?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-25T11:58:00+00:00",
-      "summary": "India’s education minister resigns in major victory for youth-led ‘Cockroach’ movement AP News",
-      "category": "politics",
-      "score": 5.057
-    },
-    {
-      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-25T09:54:44+00:00",
-      "summary": "UN General Assembly votes 144-10 to grant Turk a new four-year term, despite objections from the US, Israel and Russia.",
-      "category": "conflicts",
-      "score": 4.735
-    },
-    {
-      "title": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdi10ekF0MnFpOWUxZGFheDNMR0dBWkxOaWsxTG9wTHJHTFVoRE1iUXpKOFp5UTJOcWRSdUIxYWxQbG52YWNWSE4tS2FiYlZnVGlVTEFiU1VNcmpVMTdibFRNNWZQZmx5UmFpalVKTTJrUG1VaHIydzF2RWtadWh1WDlQVjJkN1JDVGxQcnVGUmZpWUltQkw3ajNpU283MkQ0dzhrWGVBYUZnX0RwU2h1VmliODRNajlzYU5ULWdLanhTWUp6WFBXSzRHa2NnRTJXUjFhVmVNaW8wLWRJMENJLUFoUEYxLUlDbWNjSHVIQkkwUlJQem1UWVphTTJyVWZNd3pGUWY3S0JaZnZwVmVOWVJmdE9ORDRIZ3hId2NhRW5MRUx1UnhSZTkyZV90aFNfWlY2aEJVU25jTVZzOEtfS1NCNnlWdTBUMHd1eVRmcVRtRUNMUktNWUxpUXhuUQ?oc=5",
-      "source": "TechRadar",
-      "published_at": "2026-07-25T12:30:00+00:00",
-      "summary": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI TechRadar",
-      "category": "tech",
-      "score": 4.712
-    },
-    {
-      "title": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5",
+      "title": "Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVE3WVotb1k5eTA4eHhrSEtCWkVJM2xUU3lob3R5OGpPUFZnV0NRUTByU1cwTHJCUi0wYTdVSmVHU1V6TzMydk1EVjBZSVp4aldTLWdaVURyYUM1YmN1U0YtcU9RcDZ5Tm1Jc1hPdGNfZ3dUX19vNXhoV2JWekZaS01WRjBMbUotWHFwLTBTVXVyQXhSbjdBaTAwamJiMkFtZ3E1SV9tc0RZckNIZ3JjS2taS1JfclhQSG5WWUtwS3R1bEFLdE5LY3g4WWdjZjlk?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-25T09:59:32+00:00",
-      "summary": "Ukrainian drone strike sparks fire at Russia's Tyumen oil refinery Reuters",
+      "published_at": "2026-07-25T18:43:48+00:00",
+      "summary": "Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict Reuters",
       "category": "conflicts",
-      "score": 4.509
+      "score": 4.846
+    },
+    {
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-25T17:44:46+00:00",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "category": "politics",
+      "score": 4.696
+    },
+    {
+      "title": "Claude Opus 5 Is Here, Tops Fable 5 on Agentic Search, Anthropic Says",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMVNjM3JtRF9OaDFYVWdnaTlEMHVuTjd6bzdseDBnNF9uN2xubm44dXVac3k4SUFJT2hxMFZmVlVwWjVUOWh2dkJVWEVHS28wbnYwT0JCUjhFc1RnSzlVX2pxQk9ydGZfOEh1Y3lHYi1EaEFkSG1KcGk1ZDV1SVNwVXMzRQ?oc=5",
+      "source": "PCMag",
+      "published_at": "2026-07-25T19:00:41+00:00",
+      "summary": "Claude Opus 5 Is Here, Tops Fable 5 on Agentic Search, Anthropic Says PCMag",
+      "category": "tech",
+      "score": 4.52
+    },
+    {
+      "title": "Flavio Bolsonaro gets party nod to run against Brazil's Lula",
+      "url": "https://www.dw.com/en/flavio-bolsonaro-gets-party-nod-to-run-against-brazil-s-lula/a-78115503?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-07-25T18:35:00+00:00",
+      "summary": "Flavio Bolsonaro won support from Argentine President Javier Milei and Israeli Prime Minister Benjamin Netanyahu, though tariffs imposed by Donald Trump's administration could complicate his path to the presidency.",
+      "category": "politics",
+      "score": 4.094
     }
   ],
   "hero_history": [
+    "Israel kills senior Hamas-led police official in Gaza, medics say",
     "India's education minister resigns after youth protests",
     "Ukraine",
     "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
     "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
     "Giorgia Meloni's Italy: An authoritarian drift? (Part 2)",
     "Iran war",
-    "Asian stocks skid as oil spike revives inflation fears, bonds take a hit",
-    "Yemen’s Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war"
+    "Asian stocks skid as oil spike revives inflation fears, bonds take a hit"
   ]
 }

@@ -1,15 +1,33 @@
 {
-  "updated": "2026-07-26T13:54:41.240999+00:00",
+  "updated": "2026-07-26T19:33:19.264740+00:00",
   "hero": {
-    "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
-    "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-26T12:34:13+00:00",
-    "summary": "Syrian President al-Sharaa tells Al Jazeera Damascus seeks a security deal with Israel, and warns of chaos in Lebanon.",
-    "category": "conflicts",
-    "score": 8.051
+    "title": "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGN4VldSLXUxT0g2Uy1LQy1oTFJSWl9xQmpwY1lHZVN5WHBzQ1Y3RmctaTgwdTVzajRYb0VmWEdZNjFGeVpXTmdxZkNpNFFxUHlGdmR2azRJTjJrOXlBR3lTNHlGVlg2RjRPN0dxbmVaM1FXVjlzUDJqM3VTVmZVN2pTWkVSVkUySVBfSEd2eDkyRkFERFY5Wg?oc=5",
+    "source": "The Motley Fool",
+    "published_at": "2026-07-26T14:37:00+00:00",
+    "summary": "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia? The Motley Fool",
+    "category": "tech",
+    "score": 6.489
   },
   "items": [
+    {
+      "title": "Israel to allow international force into Gaza, Israeli official says",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDN6bHZnREFweVoxWXV3U3RxRk0zVmdxYTJ2X0tXdFlPaUNIOXp0NDVKaUZqb1lmQWMxRVo5eGwybWF6MVJIYmdGSm13M0RFTXdXUHV5M28wLXJrNUNrVkhXdzJLem1QLTJHOU80X2ZraGRZZUM4aXY3aUFGYkdtOTlXWVBlNUR4UHFNMXBtRkxGLW1qc292bVljZ3dLa2pJMGUxOGRockNULXdMLWhYTHk2UWxmaDgwd2QyWGZXYWUtZkhVYU43Z2VFZW0?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-26T17:34:48+00:00",
+      "summary": "Israel to allow international force into Gaza, Israeli official says Reuters",
+      "category": "conflicts",
+      "score": 6.084
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-26T16:33:13+00:00",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "category": "tech",
+      "score": 5.305
+    },
     {
       "title": "Israeli strike kills a top Hamas security official in Gaza, medics and police say",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5",
@@ -17,44 +35,26 @@
       "published_at": "2026-07-26T10:56:32+00:00",
       "summary": "Israeli strike kills a top Hamas security official in Gaza, medics and police say Reuters",
       "category": "conflicts",
-      "score": 5.38
+      "score": 4.899
     },
     {
-      "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdm5uUXhNOEcyUXB6LWVpNDJ3UkJZclpja1ctcFdYclhjenJISmRRZGZTT2hoTDFXa2NuQlVzdGRRYmJWTWRCelg1M3hzWnR4WjBRZThDNjRmckw5c2paZU9pZ282ZVJXeTR6SWxhSG9qdkFUdlkyWUdZRDNPVUVBZGthbExxWThEdW5DWEk1NmJCQUJzT0E?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-26T04:05:00+00:00",
-      "summary": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US AP News",
-      "category": "tech",
-      "score": 4.386
-    },
-    {
-      "title": "OpenAI Agent’s Hugging Face Breach Turns Autonomous Cyber Risk into a Regulatory Test",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BT1pQLUJsZnEwQWt5RUhBVDBnb1U2cGlSTFpXOWVMNGpxSFZPVkhCeXZKT2dSa1Zna3REb0U2SUFzMTdzMERGWVhJbDRfYmFXRC1QbDF4X0g5UzhPdWloa0VKbU9tYWt0Sk9fck9uWmM2QTFkR1E?oc=5",
-      "source": "EU Today",
-      "published_at": "2026-07-26T12:56:39+00:00",
-      "summary": "OpenAI Agent’s Hugging Face Breach Turns Autonomous Cyber Risk into a Regulatory Test EU Today",
-      "category": "tech",
-      "score": 3.855
-    },
-    {
-      "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
-      "source": "NASA",
-      "published_at": "2026-07-26T10:59:44+00:00",
-      "summary": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (",
-      "category": "science",
-      "score": 3.618
+      "title": "Flavio Bolsonaro launches Brazil presidential campaign, touts support from Milei",
+      "url": "https://www.france24.com/en/flavio-bolsonaro-launches-brazil-presidential-campaign-touts-support-from-milei",
+      "source": "France 24",
+      "published_at": "2026-07-26T14:35:21+00:00",
+      "summary": "Brazilian Senator Flavio Bolsonaro, eldest son of former president Jair Bolsonaro, on Saturday formally launched his bid to challenge President Luiz Inacio Lula da Silva in October's election, showcasing support from Argentine President Javier Milei, an AI-generated message from",
+      "category": "politics",
+      "score": 4.301
     }
   ],
   "hero_history": [
+    "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
     "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
     "Brazil denies entry to senior Trump officials ahead of elections",
     "Research articles",
     "Israel kills senior Hamas-led police official in Gaza, medics say",
     "India's education minister resigns after youth protests",
     "Ukraine",
-    "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
-    "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities"
+    "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership"
   ]
 }

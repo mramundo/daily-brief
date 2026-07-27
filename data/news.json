@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-27T10:07:49.240361+00:00",
+  "updated": "2026-07-27T15:11:54.086180+00:00",
   "hero": {
-    "title": "Iran war",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-27T10:03:35+00:00",
-    "summary": "Iran war AP News",
-    "category": "conflicts",
-    "score": 7.097
+    "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTA5S2htM2dsTTR2MTQxOHV6UXNETUJHTHgtQXBUQzExYkhmdlZEWmhRdU93NzF0bzMyaTFVUXJob2VCRXpIa180WmRUTDlNUHFhclk2amxvcHczaGpzTVpYenBaX3ZWVHNoUlBlRkJ1ZjB3bG5sdy1sQUhob2xTWXZYek9vN1RnVTltcUNTenRHYU4wSlk3bDFlTDZXbnMxTTQ5TXFEcnVmUnhscFlJTHRXWHpkQ1U?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-27T10:29:43+00:00",
+    "summary": "Nvidia forms industry alliance for open AI security after Hugging Face hack Reuters",
+    "category": "tech",
+    "score": 7.022
   },
   "items": [
     {
-      "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOTFSSFlHVk93YkRCcEU5cGNibmM5TWpRMmVpOE9KWEYxRnJTZ1dvano1VGJLcUxWWjgyWG5xZ2I5V0lQMUo4LTUtUTQyNTJBT2xLMTdwemEzZ3djWFV2T0cycThHNmRNc1lzcTVxQzhVbGFQS2Z3VGhMdFgtbDBqMTdKYkNtUDYtUEVERVVUMWYwYnVLUFE3TFdoS0ROaW9seDlNWnpJdW91Zk9VWEFPZlN2SlM1ZENRdmZiWA?oc=5",
-      "source": "Energy Connects",
-      "published_at": "2026-07-27T05:28:02+00:00",
-      "summary": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center Energy Connects",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge",
+      "published_at": "2026-07-27T12:06:22+00:00",
+      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiati",
       "category": "tech",
-      "score": 6.564
+      "score": 6.969
     },
     {
-      "title": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-27T09:15:06+00:00",
-      "summary": "Israel AP News",
+      "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168029",
+      "source": "UN News - Global perspective Human stories",
+      "published_at": "2026-07-27T12:00:00+00:00",
+      "summary": "The UN Security Council is meeting on Monday at Ukraine’s request, following recent large-scale Russian attacks on Kyiv and elsewhere. At least one civilian was killed and more than a dozen wounded in an overnight strike on the capital on 19 July that also damaged homes and civil",
       "category": "conflicts",
-      "score": 6.482
+      "score": 5.397
     },
     {
-      "title": "Oil prices sink nearly 7% and world shares gain as Chinese chipmaker CXMT soars in Shanghai debut",
+      "title": "Stocks open higher on Wall Street and crude oil prices drop 5% as Mideast tensions cool",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGtrU05LUy0wS2I2dTJiNjlqZnBXeTB4Ni1fTnktMUZSRk1hWF9jOUVoRXp1M0hpMWZrbFlWTlVwM0MwWXRrNTczenludG53dzQ3U3lZSWtVdVFjR2RDekUyelFhcDI3UGJ2dHM5QWQ2UGxUT1hCVDFtV3o3X3ktUF80dkNwdlNsR0RhZEp1YnEzc28?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-27T09:20:00+00:00",
-      "summary": "Oil prices sink nearly 7% and world shares gain as Chinese chipmaker CXMT soars in Shanghai debut AP News",
-      "category": "tech",
-      "score": 5.156
+      "published_at": "2026-07-27T14:05:00+00:00",
+      "summary": "Stocks open higher on Wall Street and crude oil prices drop 5% as Mideast tensions cool AP News",
+      "category": "finance",
+      "score": 5.088
     },
     {
-      "title": "Crude oil futures are pricing market adaptability, not hopeful Iran peace",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGE1c0g5ZHQxVW9KaV81YjdLV3FXRFo2dnp4S1FaeWZjbTdHbjhMOXVxRDdNVmRIenhzTWdYeU5WQWVqOWVURmxGTXJEVm5mVkN3MkdzSERyM2tHUkt5QWhkNWxkY2tzSXc3OGVtUmVzYXlPSE1vQ29Sak5vN1dDQnJicUZSZlVVSlN5ZkZhUXAxbHhDeWwtQmJxanEwam1FRlVLY2d6OFd6ejVuQUVDaWw5cEJkbHo4cDJ2TG04LU1kSm1aVVNMZE02ZmxwMGZENjZvaEZpUG4?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-27T07:39:01+00:00",
-      "summary": "Crude oil futures are pricing market adaptability, not hopeful Iran peace Reuters",
+      "title": "Oil price dives as US and Iran pause attacks",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-07-27T15:08:37+00:00",
+      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
       "category": "resources",
-      "score": 4.807
+      "score": 5.053
     }
   ],
   "hero_history": [
+    "Nvidia forms industry alliance for open AI security after Hugging Face hack",
     "Iran war",
     "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
     "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
     "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
     "Brazil denies entry to senior Trump officials ahead of elections",
     "Research articles",
-    "Israel kills senior Hamas-led police official in Gaza, medics say",
-    "India's education minister resigns after youth protests"
+    "Israel kills senior Hamas-led police official in Gaza, medics say"
   ]
 }

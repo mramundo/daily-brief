@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-27T15:11:54.086180+00:00",
+  "updated": "2026-07-27T19:53:10.604639+00:00",
   "hero": {
-    "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLTA5S2htM2dsTTR2MTQxOHV6UXNETUJHTHgtQXBUQzExYkhmdlZEWmhRdU93NzF0bzMyaTFVUXJob2VCRXpIa180WmRUTDlNUHFhclk2amxvcHczaGpzTVpYenBaX3ZWVHNoUlBlRkJ1ZjB3bG5sdy1sQUhob2xTWXZYek9vN1RnVTltcUNTenRHYU4wSlk3bDFlTDZXbnMxTTQ5TXFEcnVmUnhscFlJTHRXWHpkQ1U?oc=5",
+    "title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-27T10:29:43+00:00",
-    "summary": "Nvidia forms industry alliance for open AI security after Hugging Face hack Reuters",
+    "published_at": "2026-07-27T17:54:25+00:00",
+    "summary": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says Reuters",
     "category": "tech",
-    "score": 7.022
+    "score": 9.176
   },
   "items": [
     {
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge",
-      "published_at": "2026-07-27T12:06:22+00:00",
-      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiati",
-      "category": "tech",
-      "score": 6.969
+      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
+      "source": "NASA",
+      "published_at": "2026-07-27T18:49:20+00:00",
+      "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platf",
+      "category": "science",
+      "score": 6.004
     },
     {
-      "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168029",
-      "source": "UN News - Global perspective Human stories",
-      "published_at": "2026-07-27T12:00:00+00:00",
-      "summary": "The UN Security Council is meeting on Monday at Ukraine’s request, following recent large-scale Russian attacks on Kyiv and elsewhere. At least one civilian was killed and more than a dozen wounded in an overnight strike on the capital on 19 July that also damaged homes and civil",
-      "category": "conflicts",
-      "score": 5.397
-    },
-    {
-      "title": "Stocks open higher on Wall Street and crude oil prices drop 5% as Mideast tensions cool",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGtrU05LUy0wS2I2dTJiNjlqZnBXeTB4Ni1fTnktMUZSRk1hWF9jOUVoRXp1M0hpMWZrbFlWTlVwM0MwWXRrNTczenludG53dzQ3U3lZSWtVdVFjR2RDekUyelFhcDI3UGJ2dHM5QWQ2UGxUT1hCVDFtV3o3X3ktUF80dkNwdlNsR0RhZEp1YnEzc28?oc=5",
+      "title": "UN human rights chief says Israel must end occupation and house demolitions in Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmFuRVhQTVZnZm02ZzJvWHpMM1ZIOWNTTk85ZlF6ci1tMUQzejR6aGNXZ0hNX2Y5eFdXYnlnam1BZ3FmbXN6UENUa1VVekM4QzBFX015OGJHMUNYTFIySGYtbnRDVmhxams0UmQ2RkZvR0wzdTJTR2JDMkNiVnd1aEt6blh0dTIyTVI2ZFM0TWdVamw0bG1uRV9pWi03bDJEZ0E?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-27T14:05:00+00:00",
-      "summary": "Stocks open higher on Wall Street and crude oil prices drop 5% as Mideast tensions cool AP News",
-      "category": "finance",
-      "score": 5.088
+      "published_at": "2026-07-27T17:18:00+00:00",
+      "summary": "UN human rights chief says Israel must end occupation and house demolitions in Lebanon AP News",
+      "category": "conflicts",
+      "score": 5.931
     },
     {
-      "title": "Oil price dives as US and Iran pause attacks",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-07-27T15:08:37+00:00",
-      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-      "category": "resources",
-      "score": 5.053
+      "title": "Austria plans to extend military service in light of Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmpSaHd3OEpTaHcxbXc0bXhINTVQWUJ2UW9ySnM1amlVUjRjSk9US21BMW9SeGp1RHRRbFZOcXI2MXBYQU0tU1lXZUZ5Z01uOTJyWW1fM2JBbUhSbkRJRTdyX2c4V2wtN0JNanNkTVo1VUZqaUdydjdSY0NiV0tOcTFaR2tSVkNRUlUyWjloV3FvejhZRld4bU1yZE8zdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-27T16:18:10+00:00",
+      "summary": "Austria plans to extend military service in light of Ukraine war Reuters",
+      "category": "conflicts",
+      "score": 5.69
+    },
+    {
+      "title": "Nvidia to Invest $5 Billion in Ilya Sutskever’s AI Research Lab",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDV4a0xGcU1UQTdQTmI0dHNMOGI5WXl6VVNqOWdEOUFNUmhWM2ZpNTh0bDJ3ZXZZYXk1eDdoX0pPQ211YzNQWnBoTDNUTFQ1aVBnNE5laW8wR19NRUh3SmxwUHh4UURCc2VzTnQxNUEwNlo0Y0M0d0pGQ1hxZkU5eDVXdXdfVU91WWM0WF9ZSWV4TzFraGl3RzlFa3JGaDd1ZVNwdk5qYnlXYUp1YnpuU3Vn?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-27T16:31:49+00:00",
+      "summary": "Nvidia to Invest $5 Billion in Ilya Sutskever’s AI Research Lab Bloomberg",
+      "category": "tech",
+      "score": 5.457
     }
   ],
   "hero_history": [
+    "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says",
     "Nvidia forms industry alliance for open AI security after Hugging Face hack",
     "Iran war",
     "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
     "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
     "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
     "Brazil denies entry to senior Trump officials ahead of elections",
-    "Research articles",
-    "Israel kills senior Hamas-led police official in Gaza, medics say"
+    "Research articles"
   ]
 }

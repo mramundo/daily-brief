@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-28T08:50:25.330522+00:00",
+  "updated": "2026-07-28T14:35:11.661429+00:00",
   "hero": {
-    "title": "Iran war",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-28T08:43:31+00:00",
-    "summary": "Iran war AP News",
-    "category": "conflicts",
-    "score": 10.27
+    "title": "US backs Madagascar rare earths project in push to loosen China's supply chain grip",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRU5mVGtfTmItbUhNS1lHU0hDc2NKXzFna3VzNmZNT2pDVzBRbG1XSnlwYmk4TDlza3V1d1dpUDVBQTBUOXRZeFVDakNVNHNjNTE0djZQa19rME1qSm1LOFI4dHJSZ2psM3pqV2tQVGUtbzktU0IxZGd0SjBaWGtxLXBodkxaQzdTWXNjaExVRHVuSlRkdF8yZUNsaEMxaTVXMllERTc0bGZESFg4Z0JIa2V6LVNsbnNySm12eXRSRjg4d00?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-28T13:39:09+00:00",
+    "summary": "US backs Madagascar rare earths project in push to loosen China's supply chain grip Reuters",
+    "category": "resources",
+    "score": 9.824
   },
   "items": [
     {
-      "title": "Nvidia behind $50 billion lease on Texas data center, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3hhTXBGOGJuOHRPd29ITFU3Y29ndDNjNWU4LTNNRzA2cE0wcm96dEFnNmcyM2xqUnQyb3hyT2sxQjNMUVQzTWF0b3Z5Njd5eXNxY2pnanRYWmxrQXAtY3RXcHVOSDNWRTRzOWZmQ0huSmFYa3Y1TFNwWElvdVI0a1RUajY0aXhqUGQ2R0lKRmtLdTlXUzZBUnZIM3duWG9DM1NJVDBkVkRvZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-28T04:13:00+00:00",
-      "summary": "Nvidia behind $50 billion lease on Texas data center, FT reports Reuters",
+      "title": "Taiwan Detains Nvidia Employee in China Chip Smuggling Probe",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaUtDQjNDTzYxbGFhVXNfOFVCcFFLZnZyc2hoUTdjdkpPVU1FeG9VVnNvVEhXTTVEV050OXprbnZoX3FMangzWFV3U1owR2QwT01LenFLNGZQRjB1MS1XM2NlTlpvd2lHZjU1aGIydmpiZ3BXQWJwd1NJVk9BcTdRVVZYcGtoNVA2RzlHU3VXLW93VVd5SF9tdWxxNm5jb05BSGZMT0lORTF5bnhab09URw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-07-28T08:09:12+00:00",
+      "summary": "Taiwan Detains Nvidia Employee in China Chip Smuggling Probe Bloomberg",
       "category": "tech",
-      "score": 7.045
+      "score": 7.241
     },
     {
-      "title": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzhES1BqZV81UjAzZGtjdGg5YkZ1NmxQOFlHLUFUSk5SaGN0T3VjSl9fZ24xdHFLQURIX2ZMd3dsdkdmNDlkc2NwaThUaUc5UF9GcFZuRGQzaldSV2t2Y1RyTGQ5T0h1YTV6OVhJNDBvMmFTYm9WUkEtYVFhSEU4WnRHUmxHUDM5ZnJNRW5lcDFCNVI4TTYxRUNHWVdtdElZck5GUDZUdHJmME85U0JJR3FEdzJfeGto?oc=5",
+      "title": "Most of Wall Street rises as oil prices continue to ease, even as chip stocks keep dropping",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3Rzb3FyVlMwYnpEMC02Rk9LOTlTWGhnOEJSWGJoS3hZVGRkYVlvLVBXa0tJWUlQeDJaU0FjZ0lKeEpQUGJXYUxWRlFzSDVCN19ZMWpmRldpRXY0R0I0bHdUckZhbHNMeW9weXBEenBPY0V5MTdKZW1ZRGZwcXdRT0NpU3kxY0w5RVVNODFnaw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-28T13:51:00+00:00",
+      "summary": "Most of Wall Street rises as oil prices continue to ease, even as chip stocks keep dropping AP News",
+      "category": "finance",
+      "score": 6.03
+    },
+    {
+      "title": "OPEC+ likely to pause oil output hikes after September, sources say",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzgwLWhqV3Q4T1NNeFZJNTJEQTUzeWZud3dwUXRuTWtEU1pjNFZCcVRMVnRiYzVhY1RFRk9UMHQ2ZDJCTm1keUdxLVAtaHFfOWZhb2Z2MURqNTVQSk9YU3pmN3N0ZGpKNG8wbmFhVWdYSkJxRzdBQ2JyZDdoNF9ySmR6ZnowLUtlNjNDRHA0WFR3QTJVbkd5MWY0QkNyUGJwb2JsbnF5X3UxMVJYVGNQSjZlQ3A?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-27T21:32:13+00:00",
-      "summary": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat Reuters",
-      "category": "tech",
-      "score": 5.5
+      "published_at": "2026-07-28T12:07:29+00:00",
+      "summary": "OPEC+ likely to pause oil output hikes after September, sources say Reuters",
+      "category": "resources",
+      "score": 5.962
     },
     {
-      "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
-      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-07-28T00:30:11+00:00",
-      "summary": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
-      "category": "politics",
-      "score": 5.01
-    },
-    {
-      "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
-      "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-28T00:51:50+00:00",
-      "summary": "Speaking in Riyadh, Yemen's internationally recognised government warns global complacency has emboldened the Houthis.",
+      "title": "Trump welcomes Zelenskiy ahead of funeral of Senate ally who championed Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGk2X1JJZzZpZWtUVWl4ZGlwQVRxMHVRV3BIYWRPdUxDZmlJYl9tSU01RVdiVWcwZ21YT3dXeklnU0x5NEJZQjh5M2xYRnRLcVY5T3pndF9CQW5PQTMzcVd6ZFZvRWh0eEFfbzhDV2x0Z1A0dkZlWkFmSlBzc05qaGJfTmpRR2pka3dPeFJ0OGg2azFQc05WR3VtVURRME0zVDdndk1VanBMRm9ISzNfQm5oTnZmQkVuNHZCYzI0dmFobWtI?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-28T13:49:43+00:00",
+      "summary": "Trump welcomes Zelenskiy ahead of funeral of Senate ally who championed Ukraine Reuters",
       "category": "conflicts",
-      "score": 4.699
+      "score": 5.334
     }
   ],
   "hero_history": [
+    "US backs Madagascar rare earths project in push to loosen China's supply chain grip",
     "Iran war",
     "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
     "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says",
     "Nvidia forms industry alliance for open AI security after Hugging Face hack",
     "Iran war",
     "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
-    "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
-    "President Ahmed al-Sharaa: Syria seeking security deal with Israel"
+    "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?"
   ]
 }

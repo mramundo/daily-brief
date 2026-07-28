@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-27T19:53:10.604639+00:00",
+  "updated": "2026-07-28T03:33:24.330061+00:00",
   "hero": {
-    "title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-27T17:54:25+00:00",
-    "summary": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says Reuters",
-    "category": "tech",
-    "score": 9.176
+    "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+    "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-07-28T03:16:30+00:00",
+    "summary": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
+    "category": "conflicts",
+    "score": 7.362
   },
   "items": [
     {
-      "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
-      "source": "NASA",
-      "published_at": "2026-07-27T18:49:20+00:00",
-      "summary": "NASA astronaut Chris Williams will recap his recent eight-month mission aboard the International Space Station during a news conference at 2:45 p.m. EDT Tuesday, Aug. 4, from the agency’s Johnson Space Center in Houston. NASA will stream this event live through a variety of platf",
-      "category": "science",
-      "score": 6.004
-    },
-    {
-      "title": "UN human rights chief says Israel must end occupation and house demolitions in Lebanon",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmFuRVhQTVZnZm02ZzJvWHpMM1ZIOWNTTk85ZlF6ci1tMUQzejR6aGNXZ0hNX2Y5eFdXYnlnam1BZ3FmbXN6UENUa1VVekM4QzBFX015OGJHMUNYTFIySGYtbnRDVmhxams0UmQ2RkZvR0wzdTJTR2JDMkNiVnd1aEt6blh0dTIyTVI2ZFM0TWdVamw0bG1uRV9pWi03bDJEZ0E?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-27T17:18:00+00:00",
-      "summary": "UN human rights chief says Israel must end occupation and house demolitions in Lebanon AP News",
-      "category": "conflicts",
-      "score": 5.931
-    },
-    {
-      "title": "Austria plans to extend military service in light of Ukraine war",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmpSaHd3OEpTaHcxbXc0bXhINTVQWUJ2UW9ySnM1amlVUjRjSk9US21BMW9SeGp1RHRRbFZOcXI2MXBYQU0tU1lXZUZ5Z01uOTJyWW1fM2JBbUhSbkRJRTdyX2c4V2wtN0JNanNkTVo1VUZqaUdydjdSY0NiV0tOcTFaR2tSVkNRUlUyWjloV3FvejhZRld4bU1yZE8zdw?oc=5",
+      "title": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzhES1BqZV81UjAzZGtjdGg5YkZ1NmxQOFlHLUFUSk5SaGN0T3VjSl9fZ24xdHFLQURIX2ZMd3dsdkdmNDlkc2NwaThUaUc5UF9GcFZuRGQzaldSV2t2Y1RyTGQ5T0h1YTV6OVhJNDBvMmFTYm9WUkEtYVFhSEU4WnRHUmxHUDM5ZnJNRW5lcDFCNVI4TTYxRUNHWVdtdElZck5GUDZUdHJmME85U0JJR3FEdzJfeGto?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-27T16:18:10+00:00",
-      "summary": "Austria plans to extend military service in light of Ukraine war Reuters",
-      "category": "conflicts",
-      "score": 5.69
+      "published_at": "2026-07-27T21:32:13+00:00",
+      "summary": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat Reuters",
+      "category": "tech",
+      "score": 6.854
     },
     {
-      "title": "Nvidia to Invest $5 Billion in Ilya Sutskever’s AI Research Lab",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDV4a0xGcU1UQTdQTmI0dHNMOGI5WXl6VVNqOWdEOUFNUmhWM2ZpNTh0bDJ3ZXZZYXk1eDdoX0pPQ211YzNQWnBoTDNUTFQ1aVBnNE5laW8wR19NRUh3SmxwUHh4UURCc2VzTnQxNUEwNlo0Y0M0d0pGQ1hxZkU5eDVXdXdfVU91WWM0WF9ZSWV4TzFraGl3RzlFa3JGaDd1ZVNwdk5qYnlXYUp1YnpuU3Vn?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-27T16:31:49+00:00",
-      "summary": "Nvidia to Invest $5 Billion in Ilya Sutskever’s AI Research Lab Bloomberg",
+      "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+      "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-28T00:51:50+00:00",
+      "summary": "Speaking in Riyadh, Yemen's internationally recognised government warns global complacency has emboldened the Houthis.",
+      "category": "conflicts",
+      "score": 5.856
+    },
+    {
+      "title": "Trump says Iran talks taking place during pause in US military strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-28T02:47:55+00:00",
+      "summary": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes",
+      "category": "politics",
+      "score": 4.534
+    },
+    {
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "source": "TechCrunch",
+      "published_at": "2026-07-28T00:13:33+00:00",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
       "category": "tech",
-      "score": 5.457
+      "score": 4.485
     }
   ],
   "hero_history": [
+    "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
     "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says",
     "Nvidia forms industry alliance for open AI security after Hugging Face hack",
     "Iran war",
     "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
     "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
     "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
-    "Brazil denies entry to senior Trump officials ahead of elections",
-    "Research articles"
+    "Brazil denies entry to senior Trump officials ahead of elections"
   ]
 }

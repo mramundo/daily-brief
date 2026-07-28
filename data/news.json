@@ -1,15 +1,24 @@
 {
-  "updated": "2026-07-28T03:33:24.330061+00:00",
+  "updated": "2026-07-28T08:50:25.330522+00:00",
   "hero": {
-    "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-    "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-07-28T03:16:30+00:00",
-    "summary": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
+    "title": "Iran war",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-28T08:43:31+00:00",
+    "summary": "Iran war AP News",
     "category": "conflicts",
-    "score": 7.362
+    "score": 10.27
   },
   "items": [
+    {
+      "title": "Nvidia behind $50 billion lease on Texas data center, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3hhTXBGOGJuOHRPd29ITFU3Y29ndDNjNWU4LTNNRzA2cE0wcm96dEFnNmcyM2xqUnQyb3hyT2sxQjNMUVQzTWF0b3Z5Njd5eXNxY2pnanRYWmxrQXAtY3RXcHVOSDNWRTRzOWZmQ0huSmFYa3Y1TFNwWElvdVI0a1RUajY0aXhqUGQ2R0lKRmtLdTlXUzZBUnZIM3duWG9DM1NJVDBkVkRvZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-28T04:13:00+00:00",
+      "summary": "Nvidia behind $50 billion lease on Texas data center, FT reports Reuters",
+      "category": "tech",
+      "score": 7.045
+    },
     {
       "title": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzhES1BqZV81UjAzZGtjdGg5YkZ1NmxQOFlHLUFUSk5SaGN0T3VjSl9fZ24xdHFLQURIX2ZMd3dsdkdmNDlkc2NwaThUaUc5UF9GcFZuRGQzaldSV2t2Y1RyTGQ5T0h1YTV6OVhJNDBvMmFTYm9WUkEtYVFhSEU4WnRHUmxHUDM5ZnJNRW5lcDFCNVI4TTYxRUNHWVdtdElZck5GUDZUdHJmME85U0JJR3FEdzJfeGto?oc=5",
@@ -17,7 +26,16 @@
       "published_at": "2026-07-27T21:32:13+00:00",
       "summary": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat Reuters",
       "category": "tech",
-      "score": 6.854
+      "score": 5.5
+    },
+    {
+      "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
+      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-28T00:30:11+00:00",
+      "summary": "Republican Senator Lindsay Graham's funeral is bringing the two world leaders to town, where they'll separately visit the White House to discuss their region's wars.",
+      "category": "politics",
+      "score": 5.01
     },
     {
       "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
@@ -26,35 +44,17 @@
       "published_at": "2026-07-28T00:51:50+00:00",
       "summary": "Speaking in Riyadh, Yemen's internationally recognised government warns global complacency has emboldened the Houthis.",
       "category": "conflicts",
-      "score": 5.856
-    },
-    {
-      "title": "Trump says Iran talks taking place during pause in US military strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-28T02:47:55+00:00",
-      "summary": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes",
-      "category": "politics",
-      "score": 4.534
-    },
-    {
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-28T00:13:33+00:00",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "category": "tech",
-      "score": 4.485
+      "score": 4.699
     }
   ],
   "hero_history": [
+    "Iran war",
     "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
     "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says",
     "Nvidia forms industry alliance for open AI security after Hugging Face hack",
     "Iran war",
     "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports",
     "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
-    "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
-    "Brazil denies entry to senior Trump officials ahead of elections"
+    "President Ahmed al-Sharaa: Syria seeking security deal with Israel"
   ]
 }

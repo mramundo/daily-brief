@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-29T14:30:09.626081+00:00",
+  "updated": "2026-07-29T19:41:13.443143+00:00",
   "hero": {
-    "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-    "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-07-29T10:23:29+00:00",
-    "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-    "category": "conflicts",
-    "score": 7.917
+    "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRHaGJwMjZBLUt2QTBKcTQ2TXJIclVZdjNDSUF6U1d3aFFTa0FtMHIzYXBxNmxRanlKNjA3eG1KYU1uY255d3JhS2dQb0l3dHJUd0ptSk5rSDhGT2xMdlZCVThNMENpMHJYaVZXZjVMMWZRMVlma2MzRER1WlZZMlNSMjRsNWpDYjRZb0hYaENfVks0cVlBMDVBRnJIakdMYUVRTWVmVlk2UDRzT05tZ2RmMVYtb0ttaVFj?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-07-29T17:01:29+00:00",
+    "summary": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents Reuters",
+    "category": "tech",
+    "score": 6.898
   },
   "items": [
     {
-      "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRHaGJwMjZBLUt2QTBKcTQ2TXJIclVZdjNDSUF6U1d3aFFTa0FtMHIzYXBxNmxRanlKNjA3eG1KYU1uY255d3JhS2dQb0l3dHJUd0ptSk5rSDhGT2xMdlZCVThNMENpMHJYaVZXZjVMMWZRMVlma2MzRER1WlZZMlNSMjRsNWpDYjRZb0hYaENfVks0cVlBMDVBRnJIakdMYUVRTWVmVlk2UDRzT05tZ2RmMVYtb0ttaVFj?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-29T11:50:09+00:00",
-      "summary": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents Reuters",
-      "category": "tech",
-      "score": 6.897
-    },
-    {
-      "title": "NASA Webb Explores Family Tree of Newly Discovered Distant Objects",
-      "url": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
+      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
       "source": "NASA",
-      "published_at": "2026-07-29T14:00:00+00:00",
-      "summary": "Since their discovery by NASA’s James Webb Space Telescope in 2022, little red dots (LRDs) have been the subject of great interest to astronomers. Understanding the nature of these extremely distant, compact red sources has been a puzzling scientific endeavor. One popular theory",
+      "published_at": "2026-07-29T15:30:00+00:00",
+      "summary": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. Th",
       "category": "science",
-      "score": 5.334
+      "score": 6.15
     },
     {
-      "title": "Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjZZaTNncGdxWUZzM0xkdnRYQkw1MVZtOUhWMVJaQ0NTNExxZ21kcGhZYkFUYmFyeXZWM2VVa1JycTNaR0RIZVp6dERQMThEV0kySU9VVURjWGdubUg2ODBDVkxraFpmeWtFdEhhYnFRdFI2MVBNS3Z3UHpkWTdkM1J0QkZjSVBwTFZWXzJsbHctZGFuZlg4RWk1dWNTWUlzTDBURGJPTVBxMm8?oc=5",
+      "title": "Oil prices jump following fighting with Iran, Wall Street swings after the Fed holds rates steady",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-29T12:07:00+00:00",
-      "summary": "Ukraine says it hits 2 major Russian oil refineries hours after Zelenskyy's meeting with Trump AP News",
-      "category": "conflicts",
-      "score": 4.825
+      "published_at": "2026-07-29T19:22:00+00:00",
+      "summary": "Oil prices jump following fighting with Iran, Wall Street swings after the Fed holds rates steady AP News",
+      "category": "finance",
+      "score": 6.136
     },
     {
-      "title": "Microsoft, Meta Earnings Face a Market Growing Skeptical of AI",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlAzOWxIcE5NVmcxc0ktVV9lR2MtUWxNWDlpVng4N2F1NlcxNExJT01yUGljVWlzUFE5MUxkSjZqekpORzhEUTRPbWNHZ1hLN1Bfd01MZzU2aDZsSjVQckJaS3JRNWRJRl9ucld4d1NRcHgweS1nOVNNZHkxM2FlOUdGZGVRQWYtaURuTHRzVTN5OERVaDRLZG9xRVpsYmI1azFtYy04blF3eTVHNHRncnNn?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-29T09:23:48+00:00",
-      "summary": "Microsoft, Meta Earnings Face a Market Growing Skeptical of AI Bloomberg",
+      "title": "Gold edges down as dollar, yields rise ahead of Fed rate decision, Warsh remarks",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmpPZkdUdEJHY2hvRUZxbzItX3lCN3IxR0o0V3dXQnJoYi1xakZBT2xzVFVIZjdnVGZya2pFWDRUb0k1NUpWTjZyYnoyUWJNNzJLekRZcDNNeXhZcXpOeGdnenVPZGtVMlY4Wll5YUVSQklMYktHb0FYckJ5ZkNRajZOT0V6M2hjeUJTMVhZbHoyZlRJcnZxZ1ZyeFlCNzVKU29ETFFFc3o?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-29T16:08:11+00:00",
+      "summary": "Gold edges down as dollar, yields rise ahead of Fed rate decision, Warsh remarks Reuters",
+      "category": "finance",
+      "score": 5.363
+    },
+    {
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROVJMSFEwNkZnQ0VObUlmOFR0M05qaVdZUEFhUV9yUVlKSzlyUUNsUDBrUm9ENWRzYzByX2tZUFY5RW5GQ1VEZnlsRGtZWGlJZnVjVlJXNThBQQ?oc=5",
+      "source": "BBC World",
+      "published_at": "2026-07-29T08:49:27+00:00",
+      "summary": "OpenAI says its rogue AI tried to hack other companies BBC",
       "category": "tech",
-      "score": 4.775
+      "score": 4.998
     }
   ],
   "hero_history": [
+    "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents",
     "Russia charges Telegram founder Durov with facilitating terrorism",
     "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq",
     "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says",
     "Pretax income of Terra Critical Minerals Limited Warrant 2025-31.12.26 on Terra Uran – ASX:T92OB",
     "US backs Madagascar rare earths project in push to loosen China's supply chain grip",
     "Iran war",
-    "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-    "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says"
+    "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge"
   ]
 }

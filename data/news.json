@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-30T08:48:05.090542+00:00",
+  "updated": "2026-07-30T14:30:03.992168+00:00",
   "hero": {
-    "title": "Polish police find crater, debris of unidentified object as Russia strikes Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjY4dFJnUXNtdWVUZkJZRVVjRnB1cTBISWJrUFhSc1dRbnpqanF4U3dteloxRHdOcjB5bEJSZ1J4SlFGYTIwR001Qk1XVjJzVnpsQkUteDlrakxYeXYwZHZMTjk5b1pZdHQtcjluZkE0OUFodWRobWcxMm1pYV9hSFlUNFI1YmxmMl9iMF9yeWJtR0Z4RzdJZVFENFdvN2UybWNJWlhma2dWVGtQeVNfWW9BV2dWVmJNVlpvV18zMmlxQQ?oc=5",
+    "title": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEZfOHgyQlRiaG9ucmM3YnBvSnZZaVgxWlA2TU5rWHFBdzBzSTF0MWtjVThYeXBadEtxekF1Q2dRLVNtanFrZko4cVV4czhOVFRhdU9UVld1aS1vc1pwWlFLcnc4Q2wwc2VhUWtuWEhBVXU1MkRLWWo2YXdadG1VaHlGUEJPNlROeXRHN3M1MDlqQU9zeGMteGRHWllNQ3dfQUZwNkVvOEptTDdERGpteEpLZ09JWGt5ZEx6VFo3YWdUdC1r?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-30T07:14:07+00:00",
-    "summary": "Polish police find crater, debris of unidentified object as Russia strikes Ukraine Reuters",
-    "category": "conflicts",
-    "score": 6.189
+    "published_at": "2026-07-30T13:40:51+00:00",
+    "summary": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says Reuters",
+    "category": "tech",
+    "score": 5.151
   },
   "items": [
     {
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "published_at": "2026-07-30T07:23:11+00:00",
-      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "category": "tech",
-      "score": 5.605
-    },
-    {
-      "title": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-      "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+      "title": "How does a safe zone in Lebanon become a target three times?",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-07-30T07:13:24+00:00",
-      "summary": "Rights group says India continues to support the Israeli military despite genocide 'broadcast worldwide on daily basis'.",
+      "published_at": "2026-07-30T11:34:57+00:00",
+      "summary": "Three times in three decades, Qana's shelters were bombed. AJLabs tracks a village the Israeli military keeps hitting.",
       "category": "conflicts",
-      "score": 5.258
+      "score": 4.972
     },
     {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "source": "TechCrunch",
-      "published_at": "2026-07-30T00:21:06+00:00",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
+      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-07-30T14:01:19+00:00",
+      "summary": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
+      "category": "finance",
+      "score": 4.965
+    },
+    {
+      "title": "German minister urges faster AI self-sufficiency after OpenAI test breach",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-30T14:11:44+00:00",
+      "summary": "German minister urges faster AI self-sufficiency after OpenAI test breach Reuters",
       "category": "tech",
-      "score": 4.832
+      "score": 4.953
     },
     {
-      "title": "NASA Johnson Interns Shaping the Future of Exploration",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
-      "source": "NASA",
-      "published_at": "2026-07-30T08:08:55+00:00",
-      "summary": "NASA interns at Johnson Space Center are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight. Learn how these students are gaining hands-on experience, contributing to real miss",
-      "category": "science",
-      "score": 4.638
+      "title": "Russia likely used N.Korean missile in deadly Ukraine strike for first time this year, sources say",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-07-30T13:48:42+00:00",
+      "summary": "Russia likely used N.Korean missile in deadly Ukraine strike for first time this year, sources say Reuters",
+      "category": "conflicts",
+      "score": 4.875
     }
   ],
   "hero_history": [
+    "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says",
     "Polish police find crater, debris of unidentified object as Russia strikes Ukraine",
     "Living with fear: Inside a southern Lebanon village divided by Israel",
     "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents",
     "Russia charges Telegram founder Durov with facilitating terrorism",
     "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq",
     "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says",
-    "Pretax income of Terra Critical Minerals Limited Warrant 2025-31.12.26 on Terra Uran – ASX:T92OB",
-    "US backs Madagascar rare earths project in push to loosen China's supply chain grip"
+    "Pretax income of Terra Critical Minerals Limited Warrant 2025-31.12.26 on Terra Uran – ASX:T92OB"
   ]
 }

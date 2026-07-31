@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-31T03:48:21.775717+00:00",
+  "updated": "2026-07-31T09:15:23.618171+00:00",
   "hero": {
-    "title": "Anthropic says Claude AI hacked three companies during cyber tests",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-30T23:13:00+00:00",
-    "summary": "Anthropic says Claude AI hacked three companies during cyber tests Reuters",
+    "title": "Anthropic says its AI models hacked 3 organizations during testing",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzh0X3ZKZHpTT1p2RjFYSGxCVkx1SVhNUWljWkR1QVRIcEcybVFFa3dKLXZiRkxLdWduOC14b1BSdGdGWVhfNk1BQWlkT3U2U3JZeDRBeGVGUHdqNC1wcGFKcE1KcWFoc09RN2FVNEdFMFkzdHN1NHR2cDJkTENLRm9uMkR5cVNFaURyWWFJTlliVVVLcjBxWVI4NGl6ak0?oc=5",
+    "source": "AP News",
+    "published_at": "2026-07-31T06:11:00+00:00",
+    "summary": "Anthropic says its AI models hacked 3 organizations during testing AP News",
     "category": "tech",
-    "score": 13.707
+    "score": 13.49
   },
   "items": [
     {
-      "title": "Anthropic AI Models Hacked Three Organizations During Tests",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1c2ZzFZczlaRDdURDJTaFJWUkZOMlhmX1pJMlpEN0xmZlRLemZDSk9QMU1iTFNvQURqQUxidVpMNXpfWmRWcmZ1QXlibExBcU9GdzMyNTk2bWlFOU5rSmlfazRLOE01R2RJbEZoYjRURGxqZDdDZnpqcGFoZE5Bc3M0Q2FnZ3I3ci1pcG9ESXVUZXo5OThhVEtmRWlCUDd0MGIzaFoyd0lsVno3WF9NYnVB?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-07-30T23:00:26+00:00",
-      "summary": "Anthropic AI Models Hacked Three Organizations During Tests Bloomberg",
-      "category": "tech",
-      "score": 9.094
-    },
-    {
-      "title": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-07-31T00:03:58+00:00",
-      "summary": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
-      "category": "conflicts",
-      "score": 7.285
-    },
-    {
-      "title": "Inflation",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YRl9lNm5MaDFJc0djbWhoR2pvVEJVN1F6U2ZCdVZWYXFzejc2Wkp6VWs4SVpKeExzMk5MTTM0blRKZTkybDRr?oc=5",
-      "source": "AP News",
-      "published_at": "2026-07-30T20:04:38+00:00",
-      "summary": "Inflation AP News",
-      "category": "finance",
-      "score": 7.06
-    },
-    {
-      "title": "Trump orders restrictions on export of critical minerals scrap, White House officials say",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNU14WEhPWkY3aVFrOTdOWDhod2s5WVB4VDRFTm1CbGptaDRWNDVrV3djUmVyR3JkZVEyTkNCcUdFVG9icGZFMFRnZWxRSzE4Z0o3cjc2WkVuTTltSGtOMGZzYnZtMi1pUFhCUGU1Y2lWRmVTOWNPcDVqbXRXbVJMTWhqMUNDNzZUZzNGSURzTEhrUkxqZW92VTdia0QwUkNaQ1U2WUVVRjV0a1p3LU1OVjdYRTBuT1ZHdUV3cHYwWjB5VnB2a3dibmM2QQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-30T21:38:31+00:00",
-      "summary": "Trump orders restrictions on export of critical minerals scrap, White House officials say Reuters",
+      "title": "Trump Signs Order To Restrict Critical Minerals Scrap Exports",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkNUbWl6LV9YS3hQb2VxVXY5T2poU1Z0bkEwLWtDM0xwdDlzVVBwWFc3RHZyY1VqOXE2Z29ZQTNJY3ZncG1XNExWSHE0ZE9GSDMzZ3UydjF2UFlqVy1qWlNHZHRqMlZOSmhWRnZEaWhmVnZ1MWd3dE9leGJNbEZHWlVxaFlBdklDZHdoT0RfNHFxaGY5eU5OQXloRUdVdEo0Y19HaUM5cmJMZw?oc=5",
+      "source": "BusinessToday Malaysia",
+      "published_at": "2026-07-31T07:38:27+00:00",
+      "summary": "Trump Signs Order To Restrict Critical Minerals Scrap Exports BusinessToday Malaysia",
       "category": "resources",
-      "score": 5.506
+      "score": 5.57
+    },
+    {
+      "title": "Anthropic Says Claude Models Breached Three Companies During Security Tests",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHZwdG92VDR6empyZ194VnllRHdjSWM4SVdRNjlqOXdfUy00WEM1Tlg0b0RqanVndXJhOF8zeldfdno2OVRtNEpsYlR1aTdFa2VwOG1SS0tzX0pPc0YyQkliSWtWcU5LOFhuNDl3cU81Yk1uTy0tbXJzaV9WaXk2Skg4dUlkTU9TQmVF?oc=5",
+      "source": "Technology Org",
+      "published_at": "2026-07-31T08:30:57+00:00",
+      "summary": "Anthropic Says Claude Models Breached Three Companies During Security Tests Technology Org",
+      "category": "tech",
+      "score": 5.231
+    },
+    {
+      "title": "BP puts North Sea business up for sale",
+      "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-07-31T08:35:38+00:00",
+      "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
+      "category": "resources",
+      "score": 4.927
+    },
+    {
+      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-07-31T04:25:49+00:00",
+      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+      "category": "conflicts",
+      "score": 3.775
     }
   ],
   "hero_history": [
+    "Anthropic says its AI models hacked 3 organizations during testing",
     "Anthropic says Claude AI hacked three companies during cyber tests",
     "German minister urges faster AI self-sufficiency after OpenAI test breach",
     "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says",
     "Polish police find crater, debris of unidentified object as Russia strikes Ukraine",
     "Living with fear: Inside a southern Lebanon village divided by Israel",
     "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents",
-    "Russia charges Telegram founder Durov with facilitating terrorism",
-    "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq"
+    "Russia charges Telegram founder Durov with facilitating terrorism"
   ]
 }

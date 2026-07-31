@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-31T09:15:23.618171+00:00",
+  "updated": "2026-07-31T14:32:50.808179+00:00",
   "hero": {
-    "title": "Anthropic says its AI models hacked 3 organizations during testing",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzh0X3ZKZHpTT1p2RjFYSGxCVkx1SVhNUWljWkR1QVRIcEcybVFFa3dKLXZiRkxLdWduOC14b1BSdGdGWVhfNk1BQWlkT3U2U3JZeDRBeGVGUHdqNC1wcGFKcE1KcWFoc09RN2FVNEdFMFkzdHN1NHR2cDJkTENLRm9uMkR5cVNFaURyWWFJTlliVVVLcjBxWVI4NGl6ak0?oc=5",
-    "source": "AP News",
-    "published_at": "2026-07-31T06:11:00+00:00",
-    "summary": "Anthropic says its AI models hacked 3 organizations during testing AP News",
+    "title": "Anthropic says Claude accidentally hacked real companies too",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "source": "The Verge",
+    "published_at": "2026-07-31T13:41:17+00:00",
+    "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer pl",
     "category": "tech",
-    "score": 13.49
+    "score": 11.825
   },
   "items": [
     {
-      "title": "Trump Signs Order To Restrict Critical Minerals Scrap Exports",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkNUbWl6LV9YS3hQb2VxVXY5T2poU1Z0bkEwLWtDM0xwdDlzVVBwWFc3RHZyY1VqOXE2Z29ZQTNJY3ZncG1XNExWSHE0ZE9GSDMzZ3UydjF2UFlqVy1qWlNHZHRqMlZOSmhWRnZEaWhmVnZ1MWd3dE9leGJNbEZHWlVxaFlBdklDZHdoT0RfNHFxaGY5eU5OQXloRUdVdEo0Y19HaUM5cmJMZw?oc=5",
-      "source": "BusinessToday Malaysia",
-      "published_at": "2026-07-31T07:38:27+00:00",
-      "summary": "Trump Signs Order To Restrict Critical Minerals Scrap Exports BusinessToday Malaysia",
-      "category": "resources",
-      "score": 5.57
+      "title": "Anthropic's Claude AI models breached three real companies during cybersecurity tests",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0JCcEJscVBFbDZrMEtJUTVYWkVmcHFrSGZlNFl1dVRaSmFSSklVbXlzc2ZyalN1VXZwNmFxTGJlUlBLbjJCaUpIZmtoLTlaSElUOVRCb0pCOE4yLTNGdGh3aktuV040N2NpMkFaN0dERmZWdEVjSU80Tk9ORFlYRDlyUl8tSDQ?oc=5",
+      "source": "qz.com",
+      "published_at": "2026-07-31T12:32:03+00:00",
+      "summary": "Anthropic's Claude AI models breached three real companies during cybersecurity tests qz.com",
+      "category": "tech",
+      "score": 7.563
     },
     {
-      "title": "Anthropic Says Claude Models Breached Three Companies During Security Tests",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHZwdG92VDR6empyZ194VnllRHdjSWM4SVdRNjlqOXdfUy00WEM1Tlg0b0RqanVndXJhOF8zeldfdno2OVRtNEpsYlR1aTdFa2VwOG1SS0tzX0pPc0YyQkliSWtWcU5LOFhuNDl3cU81Yk1uTy0tbXJzaV9WaXk2Skg4dUlkTU9TQmVF?oc=5",
-      "source": "Technology Org",
-      "published_at": "2026-07-31T08:30:57+00:00",
-      "summary": "Anthropic Says Claude Models Breached Three Companies During Security Tests Technology Org",
-      "category": "tech",
-      "score": 5.231
+      "title": "Trump orders export restrictions on critical minerals scrap - mining-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWpDdE9QOUJKemxOU3ZCdUR5LU1CdGM4NjFtV0RBeXBVZ2hIWk5QbzEzSmpEME5ORm5kN3lMSm03TC1JWmdMMDNOeUNwMy03bHlTZjgzVk15TEdVa250WElad3dzbHhKM1dZY3NSakUxSUt3OXk4UWI4VERFOGlzaG91YWg3bnM2dlRhdjZaeU5uS0ZNQVpPNFZ5dzRETF9kUEFvZXJCcnoyY2hZWFhPX2FPMA?oc=5",
+      "source": "mining-journal.com",
+      "published_at": "2026-07-31T12:23:04+00:00",
+      "summary": "Trump orders export restrictions on critical minerals scrap mining-journal.com",
+      "category": "resources",
+      "score": 5.445
     },
     {
       "title": "BP puts North Sea business up for sale",
       "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published_at": "2026-07-31T08:35:38+00:00",
+      "published_at": "2026-07-31T13:27:29+00:00",
       "summary": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
       "category": "resources",
-      "score": 4.927
+      "score": 4.84
     },
     {
-      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-07-31T04:25:49+00:00",
-      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+      "title": "Read the full text of the deal for Hamas to disarm and Israel to leave Gaza",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0tKalpfWEVodm5Lb0Fiak4yZ284cHRMMHhZTjFhSnNiZlVlYXdPNDNGWWNHV3VRX0wwUHlNdkhBRnNkWVZhODIxa0RXZU5vMWZtMUVacFd0b2puWW04UlB4aXZJWGxjYmx5TDBFOWR2S0FWZnZUMWpVREh1ZHFpOUZDRDlYWlB6eDZxdjBFRVA?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-31T12:33:00+00:00",
+      "summary": "Read the full text of the deal for Hamas to disarm and Israel to leave Gaza AP News",
       "category": "conflicts",
-      "score": 3.775
+      "score": 4.616
     }
   ],
   "hero_history": [
+    "Anthropic says Claude accidentally hacked real companies too",
     "Anthropic says its AI models hacked 3 organizations during testing",
     "Anthropic says Claude AI hacked three companies during cyber tests",
     "German minister urges faster AI self-sufficiency after OpenAI test breach",
     "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says",
     "Polish police find crater, debris of unidentified object as Russia strikes Ukraine",
     "Living with fear: Inside a southern Lebanon village divided by Israel",
-    "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents",
-    "Russia charges Telegram founder Durov with facilitating terrorism"
+    "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents"
   ]
 }

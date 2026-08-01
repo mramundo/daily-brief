@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-01T08:33:04.558272+00:00",
+  "updated": "2026-08-01T13:53:01.605889+00:00",
   "hero": {
-    "title": "Iran war",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-01T08:31:22+00:00",
-    "summary": "Iran war AP News",
+    "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+    "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-08-01T13:35:39+00:00",
+    "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
     "category": "conflicts",
-    "score": 7.11
+    "score": 5.212
   },
   "items": [
     {
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-01T08:24:09+00:00",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "category": "conflicts",
-      "score": 4.587
-    },
-    {
-      "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm1UZEtzb3Zzem5MeU1jTGFIV2pKUzJSbjlhcWNrT1RNM3B1aWZBcDRsX3ZkbHBaQXBiTkVZY2pmeERNUmw2c2NVeldxR2VBT2dzeGJUZTVwalRIaWJOZUt3R0tuc29yeUt0R1k4bEJaUW1MTWtiT0szQl9mdml4X1VnRzROSUR6eG55dXZVVTZSbHRnaklpVWZFMExWdUV2ODl6MGFJM3NyVG1WaGd6UHRPdnVJYmFuNFRwMExqOXpGdjFReW9GdGhzRQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-01T02:12:00+00:00",
-      "summary": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT Reuters",
-      "category": "finance",
-      "score": 3.85
-    },
-    {
-      "title": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fbU9CMFNDdzVFR25taEt1ZzlmY01POUxMQnFLT0VTZzBqYU4tMWE1b3h6MThLbWhfZmlOdWNRM2tCOUx4MEFfMWw1TEtSc0tVSDRGbl9seF9sNmxaZzFnWmNjRGk3LWNINElEQ3ZDYTg4SHB0VnFienZPSTM?oc=5",
-      "source": "Barron's",
-      "published_at": "2026-08-01T07:00:00+00:00",
-      "summary": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia Barron's",
+      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLYzBENjN2cXVSaTVxRGhpOUxIYllVay1xczdPNGdpV1E2SUtsb2VSZDM0MDJ5VW9QUEhycHJtVGxRS05zbWZwXzNJaU0tN0dQSTBaMmoxMENMZ1B3dGJtaVVXSEUycnlpUEw0?oc=5",
+      "source": "صحيفة مال",
+      "published_at": "2026-08-01T11:03:45+00:00",
+      "summary": "Anthropic, OpenAI Cyber Failures Point to US Security Risks صحيفة مال",
       "category": "tech",
-      "score": 3.762
+      "score": 4.797
     },
     {
-      "title": "Inflation",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YRl9lNm5MaDFJc0djbWhoR2pvVEJVN1F6U2ZCdVZWYXFzejc2Wkp6VWs4SVpKeExzMk5MTTM0blRKZTkybDRr?oc=5",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-01T12:43:21+00:00",
+      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "category": "politics",
+      "score": 4.397
+    },
+    {
+      "title": "Photos show the scene after the latest Israeli strikes in Gaza",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDFnU1RxRkh0QzdSZU9pLUZ0QU00VHZZNWJoeXZWUmVZcHduOHRENjZxTEY3cXBsUEU5bllmS2Y2MGRYSmRsbjFlT2RZcDVHU19UV3pwOEN6VnVOb1VJSzF1bzFoaXZGWVpCcnVzdlZHdHAzMmx1QjctMVBrbnpfdzh3VVFRUFF1dGh3ZVlwaU5EQ0tUV3J4Y2F0YnFzZ0laRmh2a0RUdTFWeGRubUxpdVlGV2t3aXI4?oc=5",
       "source": "AP News",
-      "published_at": "2026-07-31T22:38:40+00:00",
-      "summary": "Inflation AP News",
-      "category": "finance",
-      "score": 3.643
+      "published_at": "2026-08-01T11:39:00+00:00",
+      "summary": "Photos show the scene after the latest Israeli strikes in Gaza AP News",
+      "category": "conflicts",
+      "score": 3.918
+    },
+    {
+      "title": "NVIDIA Stock Analysis August 2026: AI Chip Leader Market Outlook",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZGdIcXM0T055WVhJdkJCb0ZYSDdKRVZVdjRRaXRGNmpJUDlTcnFVS29hYzZyUWZJVzlpQ0xuNlpJaFAyem00bUhKc0MxRThIVjZLRW5nTmF6NWdTd3daMlQyMld3TTZQZnNN?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "2026-08-01T12:10:00+00:00",
+      "summary": "NVIDIA Stock Analysis August 2026: AI Chip Leader Market Outlook Intellectia AI",
+      "category": "tech",
+      "score": 3.736
     }
   ],
   "hero_history": [
+    "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
     "Iran war",
     "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
     "EU in talks with OpenAI, Anthropic after rogue AI agent hacks",
     "Anthropic says Claude accidentally hacked real companies too",
     "Anthropic says its AI models hacked 3 organizations during testing",
     "Anthropic says Claude AI hacked three companies during cyber tests",
-    "German minister urges faster AI self-sufficiency after OpenAI test breach",
-    "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says"
+    "German minister urges faster AI self-sufficiency after OpenAI test breach"
   ]
 }

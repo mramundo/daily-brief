@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-01T03:48:01.209599+00:00",
+  "updated": "2026-08-01T08:33:04.558272+00:00",
   "hero": {
-    "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-07-31T22:39:05+00:00",
-    "summary": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters",
-    "category": "tech",
-    "score": 6.892
+    "title": "Iran war",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+    "source": "AP News",
+    "published_at": "2026-08-01T08:31:22+00:00",
+    "summary": "Iran war AP News",
+    "category": "conflicts",
+    "score": 7.11
   },
   "items": [
     {
-      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0RRWm94MnZvTW44UkNVUVJwN0JodGVjRDQwc0FRRXJYM2xWcERZQWVobERUbEJOX1NUODB4T2JxTlZScEhqNGFCdHVQYk5WajJhRmZDcTRKbXlYNFhjZm1IbUZFM2FpbWlaQV9jN0NYdlR0a2tCMXhMWjNPWU1YbXlIdGhhUnBLY0x6NXlRcHFFMkVHNTVLMmo0bW91Mjl0aWFTX001YlUwU24yMUE?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-07-31T19:46:30+00:00",
-      "summary": "Anthropic, OpenAI Cyber Failures Point to US Security Risks Bloomberg.com",
-      "category": "tech",
-      "score": 4.993
+      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-01T08:24:09+00:00",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "category": "conflicts",
+      "score": 4.587
     },
     {
       "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT",
@@ -26,35 +26,35 @@
       "published_at": "2026-08-01T02:12:00+00:00",
       "summary": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT Reuters",
       "category": "finance",
-      "score": 4.693
+      "score": 3.85
     },
     {
-      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-01T00:48:37+00:00",
-      "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
-      "category": "conflicts",
-      "score": 4.303
+      "title": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fbU9CMFNDdzVFR25taEt1ZzlmY01POUxMQnFLT0VTZzBqYU4tMWE1b3h6MThLbWhfZmlOdWNRM2tCOUx4MEFfMWw1TEtSc0tVSDRGbl9seF9sNmxaZzFnWmNjRGk3LWNINElEQ3ZDYTg4SHB0VnFienZPSTM?oc=5",
+      "source": "Barron's",
+      "published_at": "2026-08-01T07:00:00+00:00",
+      "summary": "How Chinese AI Models Could Upend Anthropic, OpenAI, and Nvidia Barron's",
+      "category": "tech",
+      "score": 3.762
     },
     {
-      "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
-      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-07-31T23:43:10+00:00",
-      "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
-      "category": "science",
-      "score": 4.273
+      "title": "Inflation",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YRl9lNm5MaDFJc0djbWhoR2pvVEJVN1F6U2ZCdVZWYXFzejc2Wkp6VWs4SVpKeExzMk5MTTM0blRKZTkybDRr?oc=5",
+      "source": "AP News",
+      "published_at": "2026-07-31T22:38:40+00:00",
+      "summary": "Inflation AP News",
+      "category": "finance",
+      "score": 3.643
     }
   ],
   "hero_history": [
+    "Iran war",
     "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
     "EU in talks with OpenAI, Anthropic after rogue AI agent hacks",
     "Anthropic says Claude accidentally hacked real companies too",
     "Anthropic says its AI models hacked 3 organizations during testing",
     "Anthropic says Claude AI hacked three companies during cyber tests",
     "German minister urges faster AI self-sufficiency after OpenAI test breach",
-    "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says",
-    "Polish police find crater, debris of unidentified object as Russia strikes Ukraine"
+    "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-07-31T19:51:23.237825+00:00",
+  "updated": "2026-08-01T03:48:01.209599+00:00",
   "hero": {
-    "title": "EU in talks with OpenAI, Anthropic after rogue AI agent hacks",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFU0cGsyYkR2Q3o5TnhiOW1td0YxUFhHbzFYaHd4WlNsUkFXYTJvTkR0a3hxR252aGZUelV5eENtdXhFZlpfNlNCSjBxbTRXaHpTSGZHWWdjSllxRTdxb0dsMTVLaFJabWpRbjhYQmRMeTY0Z3JmYm1wYjk4Z3N2WkF0OUpjLTRfbW9qOWpBcnFKdThPZzd4T3B6a1pkdkdZdW5BWnI1TFc5QjZnRTZ4aWFDTzdITE9JVm9iMnpUOA?oc=5",
+    "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
     "source": "Reuters",
-    "published_at": "2026-07-31T17:10:16+00:00",
-    "summary": "EU in talks with OpenAI, Anthropic after rogue AI agent hacks Reuters",
+    "published_at": "2026-07-31T22:39:05+00:00",
+    "summary": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters",
     "category": "tech",
-    "score": 7.836
+    "score": 6.892
   },
   "items": [
     {
-      "title": "Trump says US has not agreed to Ukraine building Patriot missiles",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXNqSU9WRVUwMm1rWkFyY0ZVdXpoQ3RudWlwQmI5aGh1VmJITWJuWkpjc3NJQ2VfQU1PZlFwZkhfYTZvYWNxZ1NvM1FseWMxU1J2SDZkN2N3SW5HYmJUTWozTlpwWTBNYmEzQ1Y0N1lPYUotUllyTW5PZ0xQUmo0b3NSNzdsV1QzNzJGNk1ZWVhIam9FNXpUMUVSOGxVaGVCWGJmR0VnV2x3bUZ1Nzh2OHY2TkRyd0dCdGlpYWRhVWhNcVU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-31T18:08:09+00:00",
-      "summary": "Trump says US has not agreed to Ukraine building Patriot missiles Reuters",
-      "category": "conflicts",
-      "score": 6.149
-    },
-    {
-      "title": "Moonshot has Nvidia chip cluster from Alibaba computing deal, Bloomberg News reports",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeVViREhmXzZUal83SHNUWjJqSkxJbWt1RXBQc1R6MUVVMm1SWFNwRG5xM0VyR096MVNxN05qNEtRVXdaME5JMXo5TUNwaGJoVUJZTG5WNzBPdTlaQmxxYzlHaWNiMXZsQzdkSHh1ZTA1NVlfdERQZ0t1b0VlcUY0QW45VXVDb0d5SjZleXVINnBDWnNkZTVzd0lEMXZkYUZfVlV3cnRva1p1TXoxcVhOOFRYdnFuRHNUX3FFQ2xzZXpVV2RjeG9SZVdVTXhRR2dxdkdDblR3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-07-31T16:51:27+00:00",
-      "summary": "Moonshot has Nvidia chip cluster from Alibaba computing deal, Bloomberg News reports Reuters",
+      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0RRWm94MnZvTW44UkNVUVJwN0JodGVjRDQwc0FRRXJYM2xWcERZQWVobERUbEJOX1NUODB4T2JxTlZScEhqNGFCdHVQYk5WajJhRmZDcTRKbXlYNFhjZm1IbUZFM2FpbWlaQV9jN0NYdlR0a2tCMXhMWjNPWU1YbXlIdGhhUnBLY0x6NXlRcHFFMkVHNTVLMmo0bW91Mjl0aWFTX001YlUwU24yMUE?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-07-31T19:46:30+00:00",
+      "summary": "Anthropic, OpenAI Cyber Failures Point to US Security Risks Bloomberg.com",
       "category": "tech",
-      "score": 5.83
+      "score": 4.993
     },
     {
-      "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
-      "source": "UN News - Global perspective Human stories",
-      "published_at": "2026-07-31T12:00:00+00:00",
-      "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
-      "category": "conflicts",
-      "score": 5.556
-    },
-    {
-      "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMERpMHRBTzlIVWdUcV9memhfa19FRnM0UGY3YnpwdjRLYjJyQ1A1UXRrZU5FTDZSejhiV3VmeC00TEg2RUFhZ1VlQ0pieEJicEw2MTBIaWFBSEtBVUJfbVA1MnBfc0F5bTl6bFNTRno3RHItN1MwTWpnQ21JLUZGZmFONXZyY1pfMHVJXzFnM3ZzZk1rSW1MblBzSlcxSk15dkJMRDYtRW1adDMxNE94anZDelY1NWM?oc=5",
+      "title": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdm1UZEtzb3Zzem5MeU1jTGFIV2pKUzJSbjlhcWNrT1RNM3B1aWZBcDRsX3ZkbHBaQXBiTkVZY2pmeERNUmw2c2NVeldxR2VBT2dzeGJUZTVwalRIaWJOZUt3R0tuc29yeUt0R1k4bEJaUW1MTWtiT0szQl9mdml4X1VnRzROSUR6eG55dXZVVTZSbHRnaklpVWZFMExWdUV2ODl6MGFJM3NyVG1WaGd6UHRPdnVJYmFuNFRwMExqOXpGdjFReW9GdGhzRQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-07-31T17:56:01+00:00",
-      "summary": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' Reuters",
+      "published_at": "2026-08-01T02:12:00+00:00",
+      "summary": "Treasury selloff signals need to bolster Fed's inflation credibility, Musalem tells FT Reuters",
       "category": "finance",
-      "score": 5.292
+      "score": 4.693
+    },
+    {
+      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-01T00:48:37+00:00",
+      "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
+      "category": "conflicts",
+      "score": 4.303
+    },
+    {
+      "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
+      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-07-31T23:43:10+00:00",
+      "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
+      "category": "science",
+      "score": 4.273
     }
   ],
   "hero_history": [
+    "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
     "EU in talks with OpenAI, Anthropic after rogue AI agent hacks",
     "Anthropic says Claude accidentally hacked real companies too",
     "Anthropic says its AI models hacked 3 organizations during testing",
     "Anthropic says Claude AI hacked three companies during cyber tests",
     "German minister urges faster AI self-sufficiency after OpenAI test breach",
     "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says",
-    "Polish police find crater, debris of unidentified object as Russia strikes Ukraine",
-    "Living with fear: Inside a southern Lebanon village divided by Israel"
+    "Polish police find crater, debris of unidentified object as Russia strikes Ukraine"
   ]
 }

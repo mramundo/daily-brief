@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-03T15:13:54.425092+00:00",
+  "updated": "2026-08-03T19:55:55.730085+00:00",
   "hero": {
-    "title": "Defense Critical Minerals",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFVZNENNVnA1dkozM1RPR2VicWtlbzJJbGxtSUdLczNLbHRtNFBhY2VHYjVBcndHV1JuWDg5OS1hVU05aFltMHVBelJNZFp1b0ozUDhtQUEwUVh5ZTlNZU5GYXVWNlJQQ1JMLTAtT2hiM0ZfOWdaMkRpSEVUQm5tUGR2Q3VEdHRqS3RORHBPa3FOUl9DR0E?oc=5",
-    "source": "TelegraphHerald.com",
-    "published_at": "2026-08-03T13:12:21+00:00",
-    "summary": "Defense Critical Minerals TelegraphHerald.com",
+    "title": "Trump expected to attend event with mining execs amid critical minerals push",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUV9DajRkYmdWaDR1ekNVVEhGektuN2VxMTREcFNIVjU1alh5SmRGWkt6R0ZYYUx6Z2VBLVJyY2taVVRCamVzY3hpbDlGV0hHU19QZmtOWFJjNGEyQkxsTk9mNlFYMVNQZnFLeDZ2V1ZPOGw2ekNmMThUcGxGSjExTXdFaFl3bFIwRUk4RmJzQ1EzYkkyakpHYVJKRmE0TDY5UlBZR0FaRGJVcWpNVzBHS1VsTEpqNVlDbnpNOTg4ZEc0bGM?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-03T17:40:41+00:00",
+    "summary": "Trump expected to attend event with mining execs amid critical minerals push Reuters",
     "category": "resources",
-    "score": 11.445
+    "score": 7.748
   },
   "items": [
     {
-      "title": "More than 10 killed as Russia and Ukraine trade heavy attacks",
-      "url": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-03T14:23:07+00:00",
-      "summary": "Exchange of fire intensifies as the war, now in its fifth year, shows no signs of slowing down.",
-      "category": "conflicts",
-      "score": 9.345
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-03T19:45:35+00:00",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize",
+      "category": "tech",
+      "score": 7.674
     },
     {
-      "title": "OPEC+ oil output hike is irrelevant for now, not for later",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1F5SEtvVzlTU0VibXRmNGx4ZldyYllQcHBfSEkzRHVLVGdrNUxMLUZtQXZsT1pTWjJ4Z1F0ekFyN3NkWjRITjdCc2NtcmpFZ0k2OWN5Z25WOVVFVHpJNEVWQkU3emxZYkUtVFhFand1cWVHSWUyRUpQa1FOOUtPWlRKUzRVQUs3V3oxcWphVzVKUUhSSUNZaHNtdHVkM1U5VXE2Q0ZPNzE4UG5WQmdVS2cwZlU3UnNN?oc=5",
+      "title": "Meta, Anthropic invited to meet with Trump officials about AI safety testing",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-03T12:04:29+00:00",
-      "summary": "OPEC+ oil output hike is irrelevant for now, not for later Reuters",
+      "published_at": "2026-08-03T19:03:19+00:00",
+      "summary": "Meta, Anthropic invited to meet with Trump officials about AI safety testing Reuters",
+      "category": "tech",
+      "score": 7.431
+    },
+    {
+      "title": "US companies are stepping up to cut reliance on China for critical minerals used in key weapons - Yakima Herald-Republic",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNb1F1ajhxOXA1dEtnbThWOXNmdmtSeHF6cmVOQ2JyTzJoOEZEQk04eVRabXVkVzl1c2NSaFQ4UHdGQmM2RGJBaGtjdGlaZTJza29jQ0RhN3p1Zm9ZazRuUXhOQ2ZoZFhzeVdPejE4ZldibTV1czV6aGlvNVVnUFlEV0MzR2ZHTVluSm9SRWd0STFwLV9TSmROZy1GZ3Jrb1ZuWWdrd2tURWdsT2l0RWNINXNiTUpoQzNVNXQ0ZmstZkVRNU1OMVVXVEJ1QXFWRjdLUW84Z0FIMTJNZkhqbGZGYUNlaHZYNk1zc0RwbTNHVVc1NlppdGcxZzVjTlV4eGRKcnF5NjU4b2FlVk13bTFrWVduUXVCRmlLOVlN0gGgAkFVX3lxTE1hdEIyU2YzSkJJQVUzbnJ5YjllbkdYMmZuSTFac3RkVjI1NEZ4Vl91WER4ZnIwb1pJaFNVUldhWUZsdDJRYkFIV3dmSEVMaWUxNnc2b2lRUTctMllxOE94aXdEUDFDbkUtZVJKR1JlTGtTcmRiX1BVTGY0MnNHeURRT0FMcFVUNWFjYk0xMExqcW96c3A0cmRJUzY5VW5IMS1vUEpvT1QwUnlzb2RRSHBZZmdOdS1KTEJ1bVNwa1BPbGJQRUhvWDd0Sk9MQTlzRXN0cUhDWWhFTFowWTlBclF6N1lVQVhaRE1zd3ByNWVIUjNxOHNOanR2TGhqd3pyZVk5c1k4QzB1V1VydW1zMURma0N6cWg5Z29KUXN6Q2FVSQ?oc=5",
+      "source": "Yakima Herald-Republic",
+      "published_at": "2026-08-03T17:27:06+00:00",
+      "summary": "US companies are stepping up to cut reliance on China for critical minerals used in key weapons Yakima Herald-Republic",
       "category": "resources",
-      "score": 5.792
+      "score": 6.49
     },
     {
-      "title": "Falling oil prices help calm worries about inflation, and Wall Street rallies",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTMweFRadm51ZDBCVG5fZlAzdEFVZGZpZ2dVcVdsb0dfRHI4M3VzTWI4YllxTDBQUzJNUDQwLXFjZnVMMG43aW0zbnJ1ZmxyODhmdk1zeXhIVmdxc2F4OUlPNWZ6MFFZRTlKNnduenlqcjJDQ3JNWHpuZFBpejZmTXVva3ZwTWg1cnduR2hhMTJQYmVVZ3JacklNYw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-03T14:27:00+00:00",
-      "summary": "Falling oil prices help calm worries about inflation, and Wall Street rallies AP News",
-      "category": "finance",
-      "score": 5.159
-    },
-    {
-      "title": "NASA Brings Space Exploration to the FIFA World Cup",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/",
-      "source": "NASA",
-      "published_at": "2026-08-03T13:55:32+00:00",
-      "summary": "From June 11 through July 19, NASA’s free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston. More than 500,000 visitors explored the exhibit during the tournament, learning how the agency’s missions, research, and technolo",
-      "category": "science",
-      "score": 5.158
+      "title": "Serbia, Sweden follow Wales in withdrawing support for Infantino re-election",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm1tTGRXdDNDdFJ6UjEtVU9hOGpEY0RPZG1feFlLU09pdnF3OTZjNnYzZ0RoX1oxUC1MdHNjRnR4S0J6R3BMamFVeU9aUFFpZkpYTGZzWEo1RnJjZ0dNbXNnWlF6c2F4TnpKaDNncXh3djF5OURvaU9Qc2lZX3I2NFd4RGJ5NmRGcmswTGpnNmpmdExTS1hBQ0V3Y2ZVT1pkWnF4YXJ3SG01SHFKWGR1QlVzWU5KTkk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-03T16:40:11+00:00",
+      "summary": "Serbia, Sweden follow Wales in withdrawing support for Infantino re-election Reuters",
+      "category": "politics",
+      "score": 4.806
     }
   ],
   "hero_history": [
+    "Trump expected to attend event with mining execs amid critical minerals push",
     "Defense Critical Minerals",
     "Iran war",
     "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION",
     "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
     "OPEC agrees September oil hike, completing rollback of voluntary cuts",
     "Iran war",
-    "Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intelligence Companies?",
-    "Sam Altman is still making the case for parenting via ChatGPT"
+    "Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intelligence Companies?"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-04T09:05:44.992985+00:00",
+  "updated": "2026-08-04T14:37:53.572282+00:00",
   "hero": {
-    "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-04T05:57:00+00:00",
-    "summary": "Apple seeks preliminary injunction against OpenAI in trade secrets case Reuters",
+    "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "source": "The Verge",
+    "published_at": "2026-08-04T11:27:55+00:00",
+    "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trad",
     "category": "tech",
-    "score": 8.741
+    "score": 6.948
   },
   "items": [
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-04T09:02:36+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 7.068
-    },
-    {
-      "title": "OPEC+ oil output hike is irrelevant for now, not for later",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1F5SEtvVzlTU0VibXRmNGx4ZldyYllQcHBfSEkzRHVLVGdrNUxMLUZtQXZsT1pTWjJ4Z1F0ekFyN3NkWjRITjdCc2NtcmpFZ0k2OWN5Z25WOVVFVHpJNEVWQkU3emxZYkUtVFhFand1cWVHSWUyRUpQa1FOOUtPWlRKUzRVQUs3V3oxcWphVzVKUUhSSUNZaHNtdHVkM1U5VXE2Q0ZPNzE4UG5WQmdVS2cwZlU3UnNN?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-04T06:00:00+00:00",
-      "summary": "OPEC+ oil output hike is irrelevant for now, not for later Reuters",
-      "category": "resources",
-      "score": 5.807
-    },
-    {
-      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-04T09:04:49+00:00",
-      "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
-      "category": "conflicts",
-      "score": 5.271
-    },
-    {
-      "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUJ3OG9JQXRfZ2I2Rkp1TjZWbXpOZXRYNFp3Yi1CZW5VczUxOC1LeVJmbUlaTFdkbFB5NVhXV3hvNTFJSy1CMDlIdDlyMFhwaFg3NVhvSHhuVHNTRW1JQmtxcmNLT1VDRGtjSFllRmN2T2lONXFJNDFsZTZqRDhJYkQ2cWdJcHEyd1kzWW9tVkJyVzdqQzJLMV93Qm5KbmZwOVV5THBnNTJNTE9pSnc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-03T21:31:04+00:00",
-      "summary": "US House panel seeks briefing on OpenAI's AI agent security breach Reuters",
+      "title": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlB6WWhvX0hXc09XN1J3SWJWR0FVVC1lRXJ1LXl4a0hmdXk4THcyek5VNmMyZWtNWjNVVWE5eGYycWo1aktHQTl2RG9pMXU4SGtrOWx6WE85QzgxM2RhMVJKb25IbGxyajVraE9ZXzFzZ3lwdDUyeTM3Rk9jaWFudTI5Q0psQ2tFakNCVkVGdE1HWHdFc2Vhd01ZN0dYeW84eEtkUkV6RUFURTN3bnFXanhNaUg?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-08-04T13:24:06+00:00",
+      "summary": "Anthropic Inks $10 Billion Computing Deal With New Cloud Startup Bloomberg.com",
       "category": "tech",
-      "score": 4.758
+      "score": 6.627
+    },
+    {
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-08-04T09:13:37+00:00",
+      "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
+      "category": "science",
+      "score": 5.661
+    },
+    {
+      "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-04T11:26:28+00:00",
+      "summary": "Missile and drone strikes far beyond the front lines are causing a mounting civilian death toll in both countries.",
+      "category": "conflicts",
+      "score": 5.334
+    },
+    {
+      "title": "Ukraine strikes 3 more Russian warehouses and kills 5 people in overnight attacks, officials say",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXNqV053eGo1Y3UtWjV1S0VuZGFOdU1KWlJRb2pDZkFlTl9ETEhta21XNjIxaDMwRDU5S1c0bTBLemdLdkVEN1FZa19jVU5ZWkRHRDd6aVBhZFNYYnRXU3pkbnN3UWlaYnNyMG12Tm9jMF9ZdkczOFQ0OTNXOHEzWTlQZ0NCRkJWUXhhYXdrSGhBdGV1anpWWXdxS053WEwydjAxSVNYanI4SjBUX0xzcEFET2VFMnE0U2Y3NERmbXFLX3h4VklR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-04T13:35:11+00:00",
+      "summary": "Ukraine strikes 3 more Russian warehouses and kills 5 people in overnight attacks, officials say Reuters",
+      "category": "conflicts",
+      "score": 4.803
     }
   ],
   "hero_history": [
+    "OpenAI drags Apple’s lawsuit into the court of public opinion",
     "Apple seeks preliminary injunction against OpenAI in trade secrets case",
     "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
     "Trump expected to attend event with mining execs amid critical minerals push",
     "Defense Critical Minerals",
     "Iran war",
     "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION",
-    "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-    "OPEC agrees September oil hike, completing rollback of voluntary cuts"
+    "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say"
   ]
 }

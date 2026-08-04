@@ -1,15 +1,42 @@
 {
-  "updated": "2026-08-04T03:34:49.564778+00:00",
+  "updated": "2026-08-04T09:05:44.992985+00:00",
   "hero": {
-    "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
+    "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
     "source": "Reuters",
-    "published_at": "2026-08-03T23:26:37+00:00",
-    "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing Reuters",
+    "published_at": "2026-08-04T05:57:00+00:00",
+    "summary": "Apple seeks preliminary injunction against OpenAI in trade secrets case Reuters",
     "category": "tech",
-    "score": 11.462
+    "score": 8.741
   },
   "items": [
+    {
+      "title": "Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-04T09:02:36+00:00",
+      "summary": "Iran war AP News",
+      "category": "conflicts",
+      "score": 7.068
+    },
+    {
+      "title": "OPEC+ oil output hike is irrelevant for now, not for later",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1F5SEtvVzlTU0VibXRmNGx4ZldyYllQcHBfSEkzRHVLVGdrNUxMLUZtQXZsT1pTWjJ4Z1F0ekFyN3NkWjRITjdCc2NtcmpFZ0k2OWN5Z25WOVVFVHpJNEVWQkU3emxZYkUtVFhFand1cWVHSWUyRUpQa1FOOUtPWlRKUzRVQUs3V3oxcWphVzVKUUhSSUNZaHNtdHVkM1U5VXE2Q0ZPNzE4UG5WQmdVS2cwZlU3UnNN?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-04T06:00:00+00:00",
+      "summary": "OPEC+ oil output hike is irrelevant for now, not for later Reuters",
+      "category": "resources",
+      "score": 5.807
+    },
+    {
+      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-04T09:04:49+00:00",
+      "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+      "category": "conflicts",
+      "score": 5.271
+    },
     {
       "title": "US House panel seeks briefing on OpenAI's AI agent security breach",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUJ3OG9JQXRfZ2I2Rkp1TjZWbXpOZXRYNFp3Yi1CZW5VczUxOC1LeVJmbUlaTFdkbFB5NVhXV3hvNTFJSy1CMDlIdDlyMFhwaFg3NVhvSHhuVHNTRW1JQmtxcmNLT1VDRGtjSFllRmN2T2lONXFJNDFsZTZqRDhJYkQ2cWdJcHEyd1kzWW9tVkJyVzdqQzJLMV93Qm5KbmZwOVV5THBnNTJNTE9pSnc?oc=5",
@@ -17,44 +44,17 @@
       "published_at": "2026-08-03T21:31:04+00:00",
       "summary": "US House panel seeks briefing on OpenAI's AI agent security breach Reuters",
       "category": "tech",
-      "score": 7.741
-    },
-    {
-      "title": "US companies are stepping up to cut reliance on China for critical minerals used in key weapons - Austin American-Statesman",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSVR5QVVJU0sxSGNETms0b0RaQmsyZHUzWXFWc2Fyc3IyOV9IZmtsVDBkYkR2QkY0eC1xUlNVT3ZDNV9jM29xajVaVV9PX002VmZXR0FjZ0l2amQzT2swd3FqTlVhcmJKNElfLUNPU0c2M00ydWF5SmNNWUdhSmQzT3hOTENRMGIxc2ZkWllLa2JaSGtaSWFJSTQzWU5NQlAyYWZ1OA?oc=5",
-      "source": "Austin American-Statesman",
-      "published_at": "2026-08-04T00:03:56+00:00",
-      "summary": "US companies are stepping up to cut reliance on China for critical minerals used in key weapons Austin American-Statesman",
-      "category": "resources",
-      "score": 5.146
-    },
-    {
-      "title": "Asia stocks move higher on Wall Street lead, oil steady",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-04T00:38:00+00:00",
-      "summary": "Asia stocks move higher on Wall Street lead, oil steady Reuters",
-      "category": "finance",
-      "score": 4.714
-    },
-    {
-      "title": "OPEC+ oil output hike is irrelevant for now, not for later",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1F5SEtvVzlTU0VibXRmNGx4ZldyYllQcHBfSEkzRHVLVGdrNUxMLUZtQXZsT1pTWjJ4Z1F0ekFyN3NkWjRITjdCc2NtcmpFZ0k2OWN5Z25WOVVFVHpJNEVWQkU3emxZYkUtVFhFand1cWVHSWUyRUpQa1FOOUtPWlRKUzRVQUs3V3oxcWphVzVKUUhSSUNZaHNtdHVkM1U5VXE2Q0ZPNzE4UG5WQmdVS2cwZlU3UnNN?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-03T16:28:11+00:00",
-      "summary": "OPEC+ oil output hike is irrelevant for now, not for later Reuters",
-      "category": "resources",
-      "score": 4.158
+      "score": 4.758
     }
   ],
   "hero_history": [
+    "Apple seeks preliminary injunction against OpenAI in trade secrets case",
     "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
     "Trump expected to attend event with mining execs amid critical minerals push",
     "Defense Critical Minerals",
     "Iran war",
     "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION",
     "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-    "OPEC agrees September oil hike, completing rollback of voluntary cuts",
-    "Iran war"
+    "OPEC agrees September oil hike, completing rollback of voluntary cuts"
   ]
 }

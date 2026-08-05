@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-04T19:55:18.352445+00:00",
+  "updated": "2026-08-05T03:30:44.206595+00:00",
   "hero": {
-    "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
-    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "source": "TechCrunch",
-    "published_at": "2026-08-04T19:48:40+00:00",
-    "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-05T00:41:00+00:00",
+    "summary": "OpenAI, Anthropic AI agents implicated in new security breaches Reuters",
     "category": "tech",
-    "score": 8.842
+    "score": 7.829
   },
   "items": [
     {
-      "title": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkdIMTExVUw5YWtlVV96cWRTNEJQU3NtZ0xnQVE1YmdyaEp5UjV4NFU0UnpqMHIzUnJsWmMxVmNkV3hLd3l4MHBIOV9FdHVobHlOUUpZR2ZyNGhOU2wzeHBlX2g5N3dQeUxTTHVVczRJSUpSdFFONGhpYXYxdWM4NlVGMzlqS1FyMFZvazdULUtmSzBHNURCVHlKOTNjU29tLTBOdm5DUzJVRlhEc2VrbW9rNS14SmZyNlE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-04T16:56:55+00:00",
-      "summary": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist Reuters",
+      "title": "OpenAI pays $3.2m to settle claims it discriminated against US workers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGdBZ3owUlBRekJPSW5BTUFnREdjbFFlSVRFUklkbl94b05ua2kwdlBHMEc0U2ZHdzJZQzVSRE5icVlPRVFQVVdfTHAtem5UY3VpVU9Ta3hrVW5YZFFfS2hLRTAyR3hVOWVqV3JQTEhSXy1hVm9CWEpYRXNVNWlGVXhZS0VxeU1UM0dJWmJXSklmU0tLeUNpRW1R?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-08-05T00:58:00+00:00",
+      "summary": "OpenAI pays $3.2m to settle claims it discriminated against US workers The Guardian",
       "category": "tech",
-      "score": 7.546
+      "score": 7.532
     },
     {
-      "title": "AI-linked earnings, Mideast deal hopes send Dow, S&P 500 to record highs",
+      "title": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-04T18:57:58+00:00",
-      "summary": "AI-linked earnings, Mideast deal hopes send Dow, S&P 500 to record highs Reuters",
+      "published_at": "2026-08-04T23:02:38+00:00",
+      "summary": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes Reuters",
       "category": "finance",
-      "score": 7.219
+      "score": 5.484
     },
     {
-      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-04T15:07:52+00:00",
-      "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
+      "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-05T00:58:00+00:00",
+      "summary": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed AP News",
       "category": "conflicts",
-      "score": 5.808
+      "score": 5.156
     },
     {
-      "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test/",
-      "source": "NASA",
-      "published_at": "2026-08-04T18:02:55+00:00",
-      "summary": "Using continuous imagery from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, scientists predicted the near-Earth arrival of a solar eruption to within 30 minutes in an initial proof of concept test. The results, presented Tuesday at the Committee on Space",
-      "category": "science",
-      "score": 5.038
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-05T00:19:04+00:00",
+      "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+      "category": "politics",
+      "score": 5.041
     }
   ],
   "hero_history": [
+    "OpenAI, Anthropic AI agents implicated in new security breaches",
     "Anthropic signs $10 billion deal with AI cloud startup Volta",
     "OpenAI drags Apple’s lawsuit into the court of public opinion",
     "Apple seeks preliminary injunction against OpenAI in trade secrets case",
     "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing",
     "Trump expected to attend event with mining execs amid critical minerals push",
     "Defense Critical Minerals",
-    "Iran war",
-    "RAW: OPEC TO INCREASE SEPTEMBER PRODUCTION"
+    "Iran war"
   ]
 }

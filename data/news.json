@@ -1,15 +1,24 @@
 {
-  "updated": "2026-08-06T09:04:29.320198+00:00",
+  "updated": "2026-08-06T14:33:12.119390+00:00",
   "hero": {
-    "title": "Iran war",
-    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+    "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUc1OHhTU1VHSmtkeXBGM0Vob3M5VW01VVRVMVNIS3hXdk1mTDRDOUdqX0oyMmZpVTY0VUZENE4zaTdkcjR5SlRDdmVrQTVqblBGNmFIcmxPRVdsTllFU1g0Y3ZpeGNpMTJEbTN2TVZFV3F4S0pROHFvR2k5WXVLUTI4T0ItaEhsdkxBb0hYUGFFU2ZRQk5pYkZqZlp0bF9M?oc=5",
     "source": "AP News",
-    "published_at": "2026-08-06T09:03:18+00:00",
-    "summary": "Iran war AP News",
+    "published_at": "2026-08-06T13:17:00+00:00",
+    "summary": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah AP News",
     "category": "conflicts",
-    "score": 10.272
+    "score": 7.31
   },
   "items": [
+    {
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-06T12:18:48+00:00",
+      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+      "category": "conflicts",
+      "score": 5.211
+    },
     {
       "title": "Webb opens a Treasure Chest filled with stars",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
@@ -17,16 +26,16 @@
       "published_at": "2026-08-06T08:00:00+00:00",
       "summary": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy , where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula, which lies just 7500 ligh",
       "category": "science",
-      "score": 6.305
+      "score": 5.018
     },
     {
-      "title": "OpenAI moves to dismiss Apple's trade secret lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LT3hrQ05xWEVpRTZVeHRiTFRseEVmRTFMbjZISDhDangzY2N5TzMwb0VRclBWanZxZ0I0dTJZeVRSN1lqUzRXTmdEYVEyOFZ5UHdUQW05dFZhN3ZyTEIyNExMV0IzZTY1QkVLLUxQWFY?oc=5",
-      "source": "Axios",
-      "published_at": "2026-08-06T06:09:35+00:00",
-      "summary": "OpenAI moves to dismiss Apple's trade secret lawsuit Axios",
+      "title": "Microsoft opens its largest India data center hub as AI race heats up",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-06T12:43:19+00:00",
+      "summary": "Microsoft opens its largest India data center hub as AI race heats up Reuters",
       "category": "tech",
-      "score": 5.461
+      "score": 4.648
     },
     {
       "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
@@ -35,26 +44,17 @@
       "published_at": "2026-08-06T08:25:00+00:00",
       "summary": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president AP News",
       "category": "politics",
-      "score": 5.356
-    },
-    {
-      "title": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWNLdnd6QTJNaVRGaG5aOVJqRjBnOFAzT05ubjAxY2dya0luUWg4Rk5xZU5KOXF2aEEzY3pQcDlLWXhvQmlNcXBKMTk4M09lWHFqM0ltOXlyeXdxQTFVRTZTTDR2Rl9pNFlDQm1PdFhpRE1zc1hhTzQ2MkZPR0lFbmZ4WXVLRzVLcmdOLXc1QVhUNm1GQlY4MWgxekxSM1NtOGNPS0tlbnJlSDRybFdZNFlqM2k0b1NNeWFaZA?oc=5",
-      "source": "reuters.com",
-      "published_at": "2026-08-06T07:30:00+00:00",
-      "summary": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome reuters.com",
-      "category": "conflicts",
-      "score": 5.052
+      "score": 4.263
     }
   ],
   "hero_history": [
+    "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
     "Iran war",
     "Why haven't we seen images of SpaceX Moon crash yet?",
     "Anthropic to build in-house chip design team for Claude, hire engineers",
     "Anthropic is hiring an AI chip design team",
     "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
     "OpenAI, Anthropic AI agents implicated in new security breaches",
-    "Anthropic signs $10 billion deal with AI cloud startup Volta",
-    "OpenAI drags Apple’s lawsuit into the court of public opinion"
+    "Anthropic signs $10 billion deal with AI cloud startup Volta"
   ]
 }

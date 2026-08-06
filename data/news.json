@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-06T03:34:27.014938+00:00",
+  "updated": "2026-08-06T09:04:29.320198+00:00",
   "hero": {
-    "title": "Why haven't we seen images of SpaceX Moon crash yet?",
-    "url": "https://www.bbc.co.uk/news/videos/ce3qznlqkp7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "published_at": "2026-08-05T21:13:02+00:00",
-    "summary": "A rocket is believed to have crashed into the Moon, forming a new crater - but why haven't images been released yet?",
-    "category": "science",
-    "score": 4.663
+    "title": "Iran war",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+    "source": "AP News",
+    "published_at": "2026-08-06T09:03:18+00:00",
+    "summary": "Iran war AP News",
+    "category": "conflicts",
+    "score": 10.272
   },
   "items": [
     {
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-05T20:03:36+00:00",
-      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
-      "category": "conflicts",
-      "score": 4.339
+      "title": "Webb opens a Treasure Chest filled with stars",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+      "source": "ESA",
+      "published_at": "2026-08-06T08:00:00+00:00",
+      "summary": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy , where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula, which lies just 7500 ligh",
+      "category": "science",
+      "score": 6.305
     },
     {
-      "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-06T00:00:00+00:00",
-      "summary": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
-      "category": "conflicts",
-      "score": 4.199
-    },
-    {
-      "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-      "url": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-06T02:06:03+00:00",
-      "summary": "Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.",
-      "category": "politics",
-      "score": 3.437
-    },
-    {
-      "title": "Why Lightspeed is going all-in on creator-led venture capital",
-      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-      "source": "TechCrunch",
-      "published_at": "2026-08-05T20:48:54+00:00",
-      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners",
+      "title": "OpenAI moves to dismiss Apple's trade secret lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LT3hrQ05xWEVpRTZVeHRiTFRseEVmRTFMbjZISDhDangzY2N5TzMwb0VRclBWanZxZ0I0dTJZeVRSN1lqUzRXTmdEYVEyOFZ5UHdUQW05dFZhN3ZyTEIyNExMV0IzZTY1QkVLLUxQWFY?oc=5",
+      "source": "Axios",
+      "published_at": "2026-08-06T06:09:35+00:00",
+      "summary": "OpenAI moves to dismiss Apple's trade secret lawsuit Axios",
       "category": "tech",
-      "score": 3.374
+      "score": 5.461
+    },
+    {
+      "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUUzblFjVFRKQWlxYngzbXZvcllLWG4wVHo1LW9ZNk5NLU9WVmV5eXhOdEo4a2tEcklkbzZzaHpvT3NBM2NVTjd1MWFWc2lzcW1QWG5vbmxoMVdMZUZVS1duZGdkMDRZRUtydzZYYWZEd2lSeUJ0ZjMwR09oaWxHUzM3UWcwc3pnY0hKdGlZTFdPZGhJR0Vz?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-06T08:25:00+00:00",
+      "summary": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president AP News",
+      "category": "politics",
+      "score": 5.356
+    },
+    {
+      "title": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWNLdnd6QTJNaVRGaG5aOVJqRjBnOFAzT05ubjAxY2dya0luUWg4Rk5xZU5KOXF2aEEzY3pQcDlLWXhvQmlNcXBKMTk4M09lWHFqM0ltOXlyeXdxQTFVRTZTTDR2Rl9pNFlDQm1PdFhpRE1zc1hhTzQ2MkZPR0lFbmZ4WXVLRzVLcmdOLXc1QVhUNm1GQlY4MWgxekxSM1NtOGNPS0tlbnJlSDRybFdZNFlqM2k0b1NNeWFaZA?oc=5",
+      "source": "reuters.com",
+      "published_at": "2026-08-06T07:30:00+00:00",
+      "summary": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome reuters.com",
+      "category": "conflicts",
+      "score": 5.052
     }
   ],
   "hero_history": [
+    "Iran war",
     "Why haven't we seen images of SpaceX Moon crash yet?",
     "Anthropic to build in-house chip design team for Claude, hire engineers",
     "Anthropic is hiring an AI chip design team",
     "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
     "OpenAI, Anthropic AI agents implicated in new security breaches",
     "Anthropic signs $10 billion deal with AI cloud startup Volta",
-    "OpenAI drags Apple’s lawsuit into the court of public opinion",
-    "Apple seeks preliminary injunction against OpenAI in trade secrets case"
+    "OpenAI drags Apple’s lawsuit into the court of public opinion"
   ]
 }

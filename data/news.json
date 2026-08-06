@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-05T19:52:48.516747+00:00",
+  "updated": "2026-08-06T03:34:27.014938+00:00",
   "hero": {
-    "title": "Anthropic to build in-house chip design team for Claude, hire engineers",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-05T14:15:43+00:00",
-    "summary": "Anthropic to build in-house chip design team for Claude, hire engineers Reuters",
-    "category": "tech",
-    "score": 7.885
+    "title": "Why haven't we seen images of SpaceX Moon crash yet?",
+    "url": "https://www.bbc.co.uk/news/videos/ce3qznlqkp7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "published_at": "2026-08-05T21:13:02+00:00",
+    "summary": "A rocket is believed to have crashed into the Moon, forming a new crater - but why haven't images been released yet?",
+    "category": "science",
+    "score": 4.663
   },
   "items": [
     {
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-08-05T18:19:51+00:00",
-      "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "published_at": "2026-08-05T20:03:36+00:00",
+      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
       "category": "conflicts",
-      "score": 7.597
+      "score": 4.339
     },
     {
-      "title": "Demis Hassabis steps down from Google DeepMind CEO role amid a major AI leadership shakeup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU201elU5cHhhNHU1elpXWDNIN1MwYjVUYk5OelNvTjJDbVlPUVBnTUJucWpwdWVEd1F2MWRKNXVha2kyVnB1QjdqaDU3QU9xLW5jbWNCaU1Nbm9ZSTdaWThXZTIxWWw1bkVvOTZQUW5aRE1xQjRLWFUyeWZSb0dfeU8yRExPOUhQUFdNWg?oc=5",
-      "source": "fortune.com",
-      "published_at": "2026-08-05T18:43:00+00:00",
-      "summary": "Demis Hassabis steps down from Google DeepMind CEO role amid a major AI leadership shakeup fortune.com",
-      "category": "tech",
-      "score": 5.696
-    },
-    {
-      "title": "Is the conflict between Russia and Ukraine deepening?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+      "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-08-05T18:16:03+00:00",
-      "summary": "The war sees a surge in attacks by both sides with little diplomatic movement.",
+      "published_at": "2026-08-06T00:00:00+00:00",
+      "summary": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
       "category": "conflicts",
-      "score": 5.648
+      "score": 4.199
     },
     {
-      "title": "Part of SpaceX rocket believed to have struck Moon",
-      "url": "https://www.bbc.co.uk/news/videos/cn8n19wz4e6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-08-05T15:41:15+00:00",
-      "summary": "A stray SpaceX rocket is believed to have crashed into the Moon, forming a crater",
-      "category": "science",
-      "score": 5.104
+      "title": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
+      "url": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-06T02:06:03+00:00",
+      "summary": "Presidents of Argentina, Paraguay, Chile and Ecuador, along with Spain’s King Felipe VI, are expected to attend.",
+      "category": "politics",
+      "score": 3.437
+    },
+    {
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-05T20:48:54+00:00",
+      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners",
+      "category": "tech",
+      "score": 3.374
     }
   ],
   "hero_history": [
+    "Why haven't we seen images of SpaceX Moon crash yet?",
     "Anthropic to build in-house chip design team for Claude, hire engineers",
     "Anthropic is hiring an AI chip design team",
     "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
     "OpenAI, Anthropic AI agents implicated in new security breaches",
     "Anthropic signs $10 billion deal with AI cloud startup Volta",
     "OpenAI drags Apple’s lawsuit into the court of public opinion",
-    "Apple seeks preliminary injunction against OpenAI in trade secrets case",
-    "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing"
+    "Apple seeks preliminary injunction against OpenAI in trade secrets case"
   ]
 }

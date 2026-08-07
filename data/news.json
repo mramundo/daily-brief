@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-06T14:33:12.119390+00:00",
+  "updated": "2026-08-07T00:13:53.921437+00:00",
   "hero": {
-    "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUc1OHhTU1VHSmtkeXBGM0Vob3M5VW01VVRVMVNIS3hXdk1mTDRDOUdqX0oyMmZpVTY0VUZENE4zaTdkcjR5SlRDdmVrQTVqblBGNmFIcmxPRVdsTllFU1g0Y3ZpeGNpMTJEbTN2TVZFV3F4S0pROHFvR2k5WXVLUTI4T0ItaEhsdkxBb0hYUGFFU2ZRQk5pYkZqZlp0bF9M?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-06T13:17:00+00:00",
-    "summary": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah AP News",
+    "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+    "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-08-06T22:41:09+00:00",
+    "summary": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
     "category": "conflicts",
-    "score": 7.31
+    "score": 6.648
   },
   "items": [
     {
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-06T12:18:48+00:00",
-      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-      "category": "conflicts",
-      "score": 5.211
-    },
-    {
-      "title": "Webb opens a Treasure Chest filled with stars",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
-      "source": "ESA",
-      "published_at": "2026-08-06T08:00:00+00:00",
-      "summary": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy , where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula, which lies just 7500 ligh",
-      "category": "science",
-      "score": 5.018
-    },
-    {
-      "title": "Microsoft opens its largest India data center hub as AI race heats up",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-06T12:43:19+00:00",
-      "summary": "Microsoft opens its largest India data center hub as AI race heats up Reuters",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mNnh6ZnRBcHVETXFOWE9ROUdOX1FmWnVmRkNmN1VaWUFlTnpPUUUyN25RY1N4ZmRhdkJYb1l0RFMwc1AtcmhLSEk4VExVZXlQUktQSjR0dlRWcUU0LS00RHpnUTBNLXh3blBnMHFPaw?oc=5",
+      "source": "OpenAI",
+      "published_at": "2026-08-06T20:43:08+00:00",
+      "summary": "New ways to learn and teach with ChatGPT Work and Codex OpenAI",
       "category": "tech",
-      "score": 4.648
+      "score": 6.026
     },
     {
-      "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUUzblFjVFRKQWlxYngzbXZvcllLWG4wVHo1LW9ZNk5NLU9WVmV5eXhOdEo4a2tEcklkbzZzaHpvT3NBM2NVTjd1MWFWc2lzcW1QWG5vbmxoMVdMZUZVS1duZGdkMDRZRUtydzZYYWZEd2lSeUJ0ZjMwR09oaWxHUzM3UWcwc3pnY0hKdGlZTFdPZGhJR0Vz?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-06T08:25:00+00:00",
-      "summary": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president AP News",
-      "category": "politics",
-      "score": 4.263
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "source": "The Verge",
+      "published_at": "2026-08-06T17:00:00+00:00",
+      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers",
+      "category": "tech",
+      "score": 5.898
+    },
+    {
+      "title": "Zelenskiy says Ukraine to help farmers hit by Russian attacks",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUZsVGhhT3FxalVSdGpPeC1wd2FkbzhINWRfcHpIeUFuWXhES2xtWndhNTBVZ3Y0NjRHdmg1VTBkaUs5akU2NXlCUHIzRkh1TDlrYUY1THk3NXlGbW54djcxNzRZRmdxLTNpdzdMSG83YWZXNXE4NUVWdGp6SGd4NTVlRGZVYXBTVGpETFZTUkNibUNkeS1aR2VTTDUtTnk0WkE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-06T21:19:19+00:00",
+      "summary": "Zelenskiy says Ukraine to help farmers hit by Russian attacks Reuters",
+      "category": "conflicts",
+      "score": 5.852
+    },
+    {
+      "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
+      "url": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-08-06T21:49:48+00:00",
+      "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
+      "category": "science",
+      "score": 5.499
     }
   ],
   "hero_history": [
+    "Houthi attacks reportedly kill at least 30 Yemeni government forces",
     "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
     "Iran war",
     "Why haven't we seen images of SpaceX Moon crash yet?",
     "Anthropic to build in-house chip design team for Claude, hire engineers",
     "Anthropic is hiring an AI chip design team",
     "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
-    "OpenAI, Anthropic AI agents implicated in new security breaches",
-    "Anthropic signs $10 billion deal with AI cloud startup Volta"
+    "OpenAI, Anthropic AI agents implicated in new security breaches"
   ]
 }

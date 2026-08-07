@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-07T07:39:36.447342+00:00",
+  "updated": "2026-08-07T13:37:19.422389+00:00",
   "hero": {
-    "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53c1ZVMkEtbUV6SHVqUWNuNnpqOENGRl9fa2dVR2NsR09rX0N6ZEZlR3JyZkZnU3BaX1I4YUpJZEV4eHhrUDI1RTZFRHduelJpMjlVOUdHWmNkb1hJTFJiZVh1TEIxdGZEbEhJUkQwLWMtWk0?oc=5",
-    "source": "Claims Journal",
-    "published_at": "2026-08-07T05:00:05+00:00",
-    "summary": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit Claims Journal",
-    "category": "tech",
-    "score": 5.519
+    "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-07T10:03:45+00:00",
+    "summary": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views Reuters",
+    "category": "finance",
+    "score": 4.943
   },
   "items": [
     {
-      "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY191Y2FEemJtMWI3NGhTYXBXTUEtQnZiWE9lTG1CVWhaWnc3aUVuZC1sTXNkdXc4eFRtSExvaS1UaUFqYi10X1VLZzN3cXF0N0JXeHYtY1p0QXJQLVlCTlV5LVpPYjQzUGpmbTg2ZzI4a29MMi1FeWl0LVlmRW9ObkpHVlBCNjUtRHljZWg5NzVTU0l5bURsSFBvWDlnWjNja2FQbWVESGZha29OQjJmZC1YRVczdw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-07T05:42:00+00:00",
-      "summary": "ByteDance targets mega AI model that could match Mythos scale, FT reports Reuters",
+      "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-07T12:34:13+00:00",
+      "summary": "UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine attacks intensify.",
+      "category": "conflicts",
+      "score": 4.665
+    },
+    {
+      "title": "Trump to meet mining CEOs as US steps up critical minerals push for defence supply chains",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZlJqUlNSZ1ByWWpCd05Tb2ZVd3hXa0c5aVFTWHVIWGlsdjFKN0o0eFJ1alFoVV9WS1dmOFUtVEIwX1VQQ0dkTV9qeDRtZkticWEtX3AzQ19IRjBOS0ROTjlJMDdLR0xSQlJYcklBbDRNRUVFN0RSWHdEbGtMdC1QdlgyQUViVEJuYU11VzhwdWE5emRvRzVtVTRLbDNleGs0QkNNQWl6dHNxMWlleXRaZVFXQ05LbUZfRC12cnh3cFItV1RoRzd0blVaZl9NdURRX2dDWNIB2gFBVV95cUxPYUFYMXJYdVRVZ0tfOHZYX3ZWT09CZGYzS3pJdDlrM215Z1Z1V01TeXpzVk9tZ3lNU0dMQWpRZnl0WGxjOTVLeEFhcFlxOEZqREotZmYyZHlHc0pDNjRyeEI1b0hQSlJLdkNjUi1QWDBoVHB0bnhFeFVYbDVVb1d1TEY2ZzlGRE1NSjJGNFhYWXp1ZlNnMkNvWHhhYmcxbE5ibWo5cXBLWktBbGN1aW93d19XRjB1QjJrOXZNN0JRdWJtbl9TOVo2aVFzTjFLY0ZQd0hzVmo0YUNGUQ?oc=5",
+      "source": "Firstpost",
+      "published_at": "2026-08-07T13:12:21+00:00",
+      "summary": "Trump to meet mining CEOs as US steps up critical minerals push for defence supply chains Firstpost",
+      "category": "resources",
+      "score": 4.545
+    },
+    {
+      "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxORm5iZ2QzQkJoZFB2UFlObDRTNU11WDVaeDdFbGYtMWoyRmd2VzV3UWppV2g1TWJjdFZZZ0dlZVNaaWk5MmVCZzFSRUNfRXN4ZFY1TFdKWkx2SWJIczNqaTlzQ1JYTmJnT09ST2VrTUhJMS05dE9DUUczVml5ZUxJbjNYZVpoa1BkclR0QkZmMWZlUFpyTWdtUG5HYkNMUHhuNHJaWDF0SDYza2sycGJ6VUFjS1dzMmRaSDdSV1dIVng5X2IxWDl6aFEwQ0hyVDhDNWRFR24tVDFwMEF0OHpSQjRfOEM5aDlLSHNzanNqb1NpWDRCNTVsV0dxSjA1TDhlU29UNFZvRFVjZFYycnRnSkhsaVFXSmxBNnk4MWRCNURNanRkTkt4dEhmV1Jmc0k?oc=5",
+      "source": "Tom's Hardware",
+      "published_at": "2026-08-07T10:30:00+00:00",
+      "summary": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker Tom's Hardware",
       "category": "tech",
-      "score": 5.073
+      "score": 4.405
     },
     {
-      "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUc1OHhTU1VHSmtkeXBGM0Vob3M5VW01VVRVMVNIS3hXdk1mTDRDOUdqX0oyMmZpVTY0VUZENE4zaTdkcjR5SlRDdmVrQTVqblBGNmFIcmxPRVdsTllFU1g0Y3ZpeGNpMTJEbTN2TVZFV3F4S0pROHFvR2k5WXVLUTI4T0ItaEhsdkxBb0hYUGFFU2ZRQk5pYkZqZlp0bF9M?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-07T01:30:00+00:00",
-      "summary": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah AP News",
+      "title": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
+      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-07T11:11:10+00:00",
+      "summary": "Houthis' expansion of cross-border attacks means an even bloodier war may be imminent, analysts say.",
       "category": "conflicts",
-      "score": 4.71
-    },
-    {
-      "title": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
-      "source": "NASA",
-      "published_at": "2026-08-07T06:25:27+00:00",
-      "summary": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar Development and Test Facility are tackli",
-      "category": "science",
-      "score": 4.527
-    },
-    {
-      "title": "Zelenskiy says Ukraine to help farmers hit by Russian attacks",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUZsVGhhT3FxalVSdGpPeC1wd2FkbzhINWRfcHpIeUFuWXhES2xtWndhNTBVZ3Y0NjRHdmg1VTBkaUs5akU2NXlCUHIzRkh1TDlrYUY1THk3NXlGbW54djcxNzRZRmdxLTNpdzdMSG83YWZXNXE4NUVWdGp6SGd4NTVlRGZVYXBTVGpETFZTUkNibUNkeS1aR2VTTDUtTnk0WkE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-06T20:24:00+00:00",
-      "summary": "Zelenskiy says Ukraine to help farmers hit by Russian attacks Reuters",
-      "category": "conflicts",
-      "score": 4.132
+      "score": 4.403
     }
   ],
   "hero_history": [
+    "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views",
     "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
     "Israel-Hamas war: Tracking the Gaza ceasefire",
     "Houthi attacks reportedly kill at least 30 Yemeni government forces",
     "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
     "Iran war",
     "Why haven't we seen images of SpaceX Moon crash yet?",
-    "Anthropic to build in-house chip design team for Claude, hire engineers",
-    "Anthropic is hiring an AI chip design team"
+    "Anthropic to build in-house chip design team for Claude, hire engineers"
   ]
 }

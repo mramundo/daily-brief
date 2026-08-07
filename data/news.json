@@ -1,32 +1,41 @@
 {
-  "updated": "2026-08-07T03:14:40.858044+00:00",
+  "updated": "2026-08-07T07:39:36.447342+00:00",
   "hero": {
-    "title": "Israel-Hamas war: Tracking the Gaza ceasefire",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56b0Q1VHdPYTJVdzRsMVlfMzZxRWF6aHpYdE1IZXRnZmVPVDcxN2RXZkhCSTQxOU12ZllQNFhJU2JId2djaGVfcU5wemN6dVBqZG9EbmRLLVBaazVBZXN4T0NZSlp1WVQteXdfVkNOWG9ka2hTWnFMYlQyMTN6eTQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-07T02:15:44+00:00",
-    "summary": "Israel-Hamas war: Tracking the Gaza ceasefire AP News",
-    "category": "conflicts",
-    "score": 6.191
+    "title": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53c1ZVMkEtbUV6SHVqUWNuNnpqOENGRl9fa2dVR2NsR09rX0N6ZEZlR3JyZkZnU3BaX1I4YUpJZEV4eHhrUDI1RTZFRHduelJpMjlVOUdHWmNkb1hJTFJiZVh1TEIxdGZEbEhJUkQwLWMtWk0?oc=5",
+    "source": "Claims Journal",
+    "published_at": "2026-08-07T05:00:05+00:00",
+    "summary": "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit Claims Journal",
+    "category": "tech",
+    "score": 5.519
   },
   "items": [
     {
-      "title": "OpenAI’s new device will be hockey puck-size and cost over $300",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2l1ZERaMEpTUUlMLVY5RmRRaGlEX3c5dGFSTV92UnNSeGJCTTJ6bXdhUmlpN2FTV1lHS3M5aG9QNU00VTFPcDFyT05EZVBSc1RhRVJVMVJPYkVsdS1zTjB5d2E5OTQyTWJ6OE5SSjJUdjZ3ekc3aHVGSkctOUJmVXR5NA?oc=5",
-      "source": "The Japan Times",
-      "published_at": "2026-08-07T03:02:00+00:00",
-      "summary": "OpenAI’s new device will be hockey puck-size and cost over $300 The Japan Times",
+      "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY191Y2FEemJtMWI3NGhTYXBXTUEtQnZiWE9lTG1CVWhaWnc3aUVuZC1sTXNkdXc4eFRtSExvaS1UaUFqYi10X1VLZzN3cXF0N0JXeHYtY1p0QXJQLVlCTlV5LVpPYjQzUGpmbTg2ZzI4a29MMi1FeWl0LVlmRW9ObkpHVlBCNjUtRHljZWg5NzVTU0l5bURsSFBvWDlnWjNja2FQbWVESGZha29OQjJmZC1YRVczdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-07T05:42:00+00:00",
+      "summary": "ByteDance targets mega AI model that could match Mythos scale, FT reports Reuters",
       "category": "tech",
-      "score": 5.927
+      "score": 5.073
     },
     {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "source": "The Verge",
-      "published_at": "2026-08-06T17:00:00+00:00",
-      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers",
-      "category": "tech",
-      "score": 5.202
+      "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUc1OHhTU1VHSmtkeXBGM0Vob3M5VW01VVRVMVNIS3hXdk1mTDRDOUdqX0oyMmZpVTY0VUZENE4zaTdkcjR5SlRDdmVrQTVqblBGNmFIcmxPRVdsTllFU1g0Y3ZpeGNpMTJEbTN2TVZFV3F4S0pROHFvR2k5WXVLUTI4T0ItaEhsdkxBb0hYUGFFU2ZRQk5pYkZqZlp0bF9M?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-07T01:30:00+00:00",
+      "summary": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah AP News",
+      "category": "conflicts",
+      "score": 4.71
+    },
+    {
+      "title": "NASA’s Lunar Development and Test Facility Prepares Artemis Hardware for Moon",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
+      "source": "NASA",
+      "published_at": "2026-08-07T06:25:27+00:00",
+      "summary": "Before astronauts return to the Moon’s surface through NASA’s Artemis program, the hardware they depend on must first prove it can survive the unforgiving lunar environment. At NASA’s Johnson Space Center in Houston, engineers at the Lunar Development and Test Facility are tackli",
+      "category": "science",
+      "score": 4.527
     },
     {
       "title": "Zelenskiy says Ukraine to help farmers hit by Russian attacks",
@@ -35,26 +44,17 @@
       "published_at": "2026-08-06T20:24:00+00:00",
       "summary": "Zelenskiy says Ukraine to help farmers hit by Russian attacks Reuters",
       "category": "conflicts",
-      "score": 4.967
-    },
-    {
-      "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
-      "url": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-08-06T21:49:48+00:00",
-      "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
-      "category": "science",
-      "score": 4.85
+      "score": 4.132
     }
   ],
   "hero_history": [
+    "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
     "Israel-Hamas war: Tracking the Gaza ceasefire",
     "Houthi attacks reportedly kill at least 30 Yemeni government forces",
     "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
     "Iran war",
     "Why haven't we seen images of SpaceX Moon crash yet?",
     "Anthropic to build in-house chip design team for Claude, hire engineers",
-    "Anthropic is hiring an AI chip design team",
-    "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says"
+    "Anthropic is hiring an AI chip design team"
   ]
 }

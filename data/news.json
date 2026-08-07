@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-07T00:13:53.921437+00:00",
+  "updated": "2026-08-07T03:14:40.858044+00:00",
   "hero": {
-    "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-    "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-08-06T22:41:09+00:00",
-    "summary": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
+    "title": "Israel-Hamas war: Tracking the Gaza ceasefire",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56b0Q1VHdPYTJVdzRsMVlfMzZxRWF6aHpYdE1IZXRnZmVPVDcxN2RXZkhCSTQxOU12ZllQNFhJU2JId2djaGVfcU5wemN6dVBqZG9EbmRLLVBaazVBZXN4T0NZSlp1WVQteXdfVkNOWG9ka2hTWnFMYlQyMTN6eTQ?oc=5",
+    "source": "AP News",
+    "published_at": "2026-08-07T02:15:44+00:00",
+    "summary": "Israel-Hamas war: Tracking the Gaza ceasefire AP News",
     "category": "conflicts",
-    "score": 6.648
+    "score": 6.191
   },
   "items": [
     {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mNnh6ZnRBcHVETXFOWE9ROUdOX1FmWnVmRkNmN1VaWUFlTnpPUUUyN25RY1N4ZmRhdkJYb1l0RFMwc1AtcmhLSEk4VExVZXlQUktQSjR0dlRWcUU0LS00RHpnUTBNLXh3blBnMHFPaw?oc=5",
-      "source": "OpenAI",
-      "published_at": "2026-08-06T20:43:08+00:00",
-      "summary": "New ways to learn and teach with ChatGPT Work and Codex OpenAI",
+      "title": "OpenAI’s new device will be hockey puck-size and cost over $300",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2l1ZERaMEpTUUlMLVY5RmRRaGlEX3c5dGFSTV92UnNSeGJCTTJ6bXdhUmlpN2FTV1lHS3M5aG9QNU00VTFPcDFyT05EZVBSc1RhRVJVMVJPYkVsdS1zTjB5d2E5OTQyTWJ6OE5SSjJUdjZ3ekc3aHVGSkctOUJmVXR5NA?oc=5",
+      "source": "The Japan Times",
+      "published_at": "2026-08-07T03:02:00+00:00",
+      "summary": "OpenAI’s new device will be hockey puck-size and cost over $300 The Japan Times",
       "category": "tech",
-      "score": 6.026
+      "score": 5.927
     },
     {
       "title": "OpenAI is giving ChatGPT free users unlimited text chats",
@@ -26,16 +26,16 @@
       "published_at": "2026-08-06T17:00:00+00:00",
       "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers",
       "category": "tech",
-      "score": 5.898
+      "score": 5.202
     },
     {
       "title": "Zelenskiy says Ukraine to help farmers hit by Russian attacks",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUZsVGhhT3FxalVSdGpPeC1wd2FkbzhINWRfcHpIeUFuWXhES2xtWndhNTBVZ3Y0NjRHdmg1VTBkaUs5akU2NXlCUHIzRkh1TDlrYUY1THk3NXlGbW54djcxNzRZRmdxLTNpdzdMSG83YWZXNXE4NUVWdGp6SGd4NTVlRGZVYXBTVGpETFZTUkNibUNkeS1aR2VTTDUtTnk0WkE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-06T21:19:19+00:00",
+      "published_at": "2026-08-06T20:24:00+00:00",
       "summary": "Zelenskiy says Ukraine to help farmers hit by Russian attacks Reuters",
       "category": "conflicts",
-      "score": 5.852
+      "score": 4.967
     },
     {
       "title": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
@@ -44,17 +44,17 @@
       "published_at": "2026-08-06T21:49:48+00:00",
       "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
       "category": "science",
-      "score": 5.499
+      "score": 4.85
     }
   ],
   "hero_history": [
+    "Israel-Hamas war: Tracking the Gaza ceasefire",
     "Houthi attacks reportedly kill at least 30 Yemeni government forces",
     "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
     "Iran war",
     "Why haven't we seen images of SpaceX Moon crash yet?",
     "Anthropic to build in-house chip design team for Claude, hire engineers",
     "Anthropic is hiring an AI chip design team",
-    "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
-    "OpenAI, Anthropic AI agents implicated in new security breaches"
+    "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says"
   ]
 }

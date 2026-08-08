@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-07T19:13:39.643460+00:00",
+  "updated": "2026-08-08T02:20:15.085293+00:00",
   "hero": {
-    "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-07T17:50:07+00:00",
-    "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls Reuters",
-    "category": "tech",
-    "score": 7.273
+    "title": "Trump unveils $2B critical minerals push",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmhwTTlpSGU0a1gxWHZWMmNvaVdpdEFJZmxpSGc5dWJ0cFhqMGlPZ2JUVXN4NmVuaFNZNkZoTFdKYVRBc3hVdmVqT3hSVHVQZWZhRkswYzZaVG1SdUlXVFRaaUhEYnBWaW5NMUNsSHpIYVM5NTJ0UEs1TjVENXhabkg4NGluMGNTRVcxMUZOSXRYbnp2bFRhMUQ5bEdEcnlobjhtOFFMRV9GZ1VL?oc=5",
+    "source": "Metal Tech News",
+    "published_at": "2026-08-07T22:50:39+00:00",
+    "summary": "Trump unveils $2B critical minerals push Metal Tech News",
+    "category": "resources",
+    "score": 7.733
   },
   "items": [
     {
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge",
-      "published_at": "2026-08-07T18:40:34+00:00",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthro",
-      "category": "tech",
-      "score": 6.887
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-07T17:42:54+00:00",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "category": "conflicts",
-      "score": 5.407
-    },
-    {
-      "title": "Trump to host mining CEOs as administration seeks minerals for defense supply chains",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-07T16:42:55+00:00",
-      "summary": "Trump to host mining CEOs as administration seeks minerals for defense supply chains Reuters",
-      "category": "resources",
-      "score": 4.958
-    },
-    {
-      "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-      "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-08-07T18:54:55+00:00",
-      "summary": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow's war efforts.",
+      "published_at": "2026-08-08T00:06:22+00:00",
+      "summary": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
       "category": "conflicts",
-      "score": 4.81
+      "score": 5.97
+    },
+    {
+      "title": "US appeals court halts White House ballroom construction",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-07T21:18:20+00:00",
+      "summary": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+      "category": "politics",
+      "score": 5.887
+    },
+    {
+      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5",
+      "source": "WSJ",
+      "published_at": "2026-08-07T21:17:00+00:00",
+      "summary": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns WSJ",
+      "category": "tech",
+      "score": 5.651
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-07T22:48:24+00:00",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "category": "tech",
+      "score": 5.189
     }
   ],
   "hero_history": [
+    "Trump unveils $2B critical minerals push",
     "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
     "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views",
     "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
     "Israel-Hamas war: Tracking the Gaza ceasefire",
     "Houthi attacks reportedly kill at least 30 Yemeni government forces",
     "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
-    "Iran war",
-    "Why haven't we seen images of SpaceX Moon crash yet?"
+    "Iran war"
   ]
 }

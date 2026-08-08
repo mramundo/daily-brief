@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-08T02:20:15.085293+00:00",
+  "updated": "2026-08-08T07:12:54.881742+00:00",
   "hero": {
-    "title": "Trump unveils $2B critical minerals push",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmhwTTlpSGU0a1gxWHZWMmNvaVdpdEFJZmxpSGc5dWJ0cFhqMGlPZ2JUVXN4NmVuaFNZNkZoTFdKYVRBc3hVdmVqT3hSVHVQZWZhRkswYzZaVG1SdUlXVFRaaUhEYnBWaW5NMUNsSHpIYVM5NTJ0UEs1TjVENXhabkg4NGluMGNTRVcxMUZOSXRYbnp2bFRhMUQ5bEdEcnlobjhtOFFMRV9GZ1VL?oc=5",
-    "source": "Metal Tech News",
-    "published_at": "2026-08-07T22:50:39+00:00",
-    "summary": "Trump unveils $2B critical minerals push Metal Tech News",
-    "category": "resources",
-    "score": 7.733
+    "title": "Child among three killed in Russian missile attacks near Kyiv",
+    "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-08-08T06:12:56+00:00",
+    "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+    "category": "conflicts",
+    "score": 7.055
   },
   "items": [
     {
-      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-08T00:06:22+00:00",
-      "summary": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVlHNnRpWjl0RUFEajBjQnAtMGtUTnYyVXVBNEpCMFRFVEJNb3g4Q0FPWWtRNnAxX0x3RHMzdVFLN3dJLXQ3Z0pTOEtMQnFnUWFCVS1jUlhZYXZIaGpCTF9EQXVWVmhyemxIZmF5X1JveTNJbC1Hb2FWNjBrZkFyRjNmQlRhbFpET2Q2c3pRMjhYVUN4eEs1WURpaEVWWnpi?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-08T01:42:00+00:00",
+      "summary": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports Reuters",
+      "category": "tech",
+      "score": 6.788
+    },
+    {
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-08T00:02:49+00:00",
+      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
       "category": "conflicts",
-      "score": 5.97
+      "score": 5.26
     },
     {
-      "title": "US appeals court halts White House ballroom construction",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-07T21:18:20+00:00",
-      "summary": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+      "title": "Next steps for Effingham County’s OpenAI data center",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1k1SlVNTnNHajFGbDZORVJvZUVMTWVySzZTMXJaQnpVMk8ySjVNekoyTUhLcnp0ZDV4MmVKM3pOOEpHaEZBejQ0ZENqeXpQemE0Q2NXdm5kbnNyd0FFNUhPa0pGT2hyM2JSRXpISk81SGxyYVB3N0Izd0Jra3ZGMdIBlAFBVV95cUxNaXNKU2Y4TloxUlBFb29Xcl9JaG9NcTN0UWI2NWxGaHNHaVhqOTgwcGttX1doZU5odlNRRFktSkJSSW9zU1g2QlRtM1NDZzBJMnE5ZjMxM082WWtRQ2owOEk1SWpic19abFYwcjZiYnlaQXdfUEQ4YUFuMW93VExiVEFFZlhUVFlMcm9KaF9oT3ZWNG5G?oc=5",
+      "source": "WTOC",
+      "published_at": "2026-08-08T03:17:00+00:00",
+      "summary": "Next steps for Effingham County’s OpenAI data center WTOC",
+      "category": "tech",
+      "score": 4.58
+    },
+    {
+      "title": "Russian strikes kill three near Kyiv, Zelensky makes landmark visit to Serbia",
+      "url": "https://www.france24.com/en/video/20260808-russian-strikes-kill-three-near-kyiv-zelensky-makes-landmark-visit-to-serbia",
+      "source": "France 24",
+      "published_at": "2026-08-08T06:34:07+00:00",
+      "summary": "Russian missile strikes killed three people, including a child, in ‌the Kyiv region on Saturday, said local authorities. The attack came hours after Ukrainian President Volodymyr Zelensky arrived in Belgrade on a landmark visit to Serbia, a country with close ties to Moscow. FRAN",
       "category": "politics",
-      "score": 5.887
-    },
-    {
-      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-07T21:17:00+00:00",
-      "summary": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns WSJ",
-      "category": "tech",
-      "score": 5.651
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "published_at": "2026-08-07T22:48:24+00:00",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "category": "tech",
-      "score": 5.189
+      "score": 4.394
     }
   ],
   "hero_history": [
+    "Child among three killed in Russian missile attacks near Kyiv",
     "Trump unveils $2B critical minerals push",
     "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
     "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views",
     "OpenAI Asks Judge to Toss Apple’s Trade Secrets Lawsuit",
     "Israel-Hamas war: Tracking the Gaza ceasefire",
     "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-    "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
-    "Iran war"
+    "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah"
   ]
 }

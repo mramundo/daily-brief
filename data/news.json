@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-10T02:33:01.309577+00:00",
+  "updated": "2026-08-10T08:02:54.368576+00:00",
   "hero": {
-    "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-08-10T01:34:26+00:00",
-    "summary": "Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.",
+    "title": "Millions of burnt books show how 'war of endurance' is hurting Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHFPcnh2dmV3Z2ZzV0FIT0wtajFaY1FLdjNTY0pjUEdrM2FXX05tQ3AxelV2QWJEMWpNRHROUzlRM2RQRDBPNWVScEJZbnItdHFlRTlqb2JSZ3h4emNKRERlM19ydzk0bk0zai1jTlZvVENuclV2aF9aZ1BUNVY3ZDNZbGlQYU5uVmtXZ3RhcDBoV1JCOFZrbFU0RHBNN1RORURTd0dfUQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-10T06:01:00+00:00",
+    "summary": "Millions of burnt books show how 'war of endurance' is hurting Ukraine Reuters",
     "category": "conflicts",
-    "score": 6.29
+    "score": 6.07
   },
   "items": [
     {
-      "title": "Markets",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-08-10T02:09:09+00:00",
-      "summary": "Markets Bloomberg.com",
-      "category": "finance",
-      "score": 5.86
-    },
-    {
-      "title": "Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine \"Funding Everyone and Anyone.\" Here's What That Means for AI Stocks.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcl9TaUVudkNramh4TDNfVVZodnlGTXlpMTFlckx1UVU1MDdMdmplTk4yUG9veWhqcGRIblRNTEw3WWR6TXVXU09vX3BmSXpmT053T0VIcU5pOVVIYTg3S3B4QXRMSDNFUE5ZNF91SzBLY0IxVDFEY3I3bzlCUUVZRGxIQmJZSmhsSXJYRUhyc3RFVXhvX1dDNA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "2026-08-10T01:04:47+00:00",
-      "summary": "Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine \"Funding Everyone and Anyone.\" Here's What That Means for AI Stocks. The Motley Fool",
-      "category": "tech",
-      "score": 5.074
-    },
-    {
-      "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjVnWVNDOGo3QWJxaTRzendUTU5mZ3VjMUpoVU52YVlTdkEtXzFHTDlGeEhxZmZISVJYVHduY1VIcExFcS1UVjAyaEl2V0lqV1lBRUFVMENxLUt6Wm9HcTNNS2lISlZhWVJHeVFDXy1DNERjTzFDNFpuc0U3OUNORy1jOGhhWXQtc3Ftdkg1eVZJNEZVM2xaT204VkVhZw?oc=5",
+      "title": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDJ4QUJwdmtvMmFkNUFCdHJvdEZEWmR5MWlNYnliVlU0R1FsRm5kVzM0bHozaDNmVFdCVGlzejFqbmF2eDQ5SVFPdUwxLU52R0VwVUh5WWRhRHVxVkpMSHl2aTFhazZqMjZtc0ZjbHFjS2FTV1FnVWhMdVdKQXgyS0VBRDlBekczZWl0RGN2OWJJeEN3TzQ4Z1dHTFB3anFMc3RPR1Q4VzcybW1LZVhvb0J3?oc=5",
       "source": "AP News",
-      "published_at": "2026-08-09T23:52:00+00:00",
-      "summary": "Trump announces staff secretary Will Scharf will be his new White House counsel AP News",
+      "published_at": "2026-08-10T07:14:00+00:00",
+      "summary": "Count Binface, the man in a can with a plan, seeks Parliament seat in Britain's wackiest election AP News",
       "category": "politics",
-      "score": 4.923
+      "score": 5.152
     },
     {
-      "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-09T22:36:00+00:00",
-      "summary": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news AP News",
-      "category": "conflicts",
-      "score": 4.521
+      "title": "Pensana Plc - Trump announces US$3 billion support for U.S. critical minerals supply chains",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaElwUjlXcmJTWnNGc3VzRm9KY3lrWkZXS1NNMFpORkItYjJhOXhUaGE1aHlwSVRTRkR3YWJvOFAxTDhjcEluaXN1alBjMmxTcjh3WE5tLVhhSWlvS28zNEphdS1HakN2VlRlNGdXV09zSi1DU0RSbnhlSVpFMy1BeVJCdUhSUQ?oc=5",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-08-10T06:00:00+00:00",
+      "summary": "Pensana Plc - Trump announces US$3 billion support for U.S. critical minerals supply chains Yahoo Finance UK",
+      "category": "resources",
+      "score": 4.246
+    },
+    {
+      "title": "South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnZjclJ4ZTNzOU1TQllqMUJkMTRUWDVXakRfV21XQWpXWGg1OVlzYUhDV2RPSTlwQnhrVVhCZm5ZMWVVZmNPMUlPN2FVZ0RtOVBOTHNWRzZmRXRJYUh5bU00UW0yYjY2SC1jcEE2ekIxbHpyNTM1YzQ3TTdOaExTN3o0cnM2WTRsNExXVFVSN0wtclpxVDctZWl6Uk9FM2RMREIwbGV0Z3NhRW9Xa0VENUhFdGo4SV9sdHV2QXctSTJnVERCM2I1LQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-10T06:13:00+00:00",
+      "summary": "South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster Reuters",
+      "category": "tech",
+      "score": 3.984
+    },
+    {
+      "title": "Trump names Will Scharf as White House counsel ahead of midterms",
+      "url": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-10T04:00:21+00:00",
+      "summary": "Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.",
+      "category": "politics",
+      "score": 3.954
     }
   ],
   "hero_history": [
+    "Millions of burnt books show how 'war of endurance' is hurting Ukraine",
     "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
     "BREAKING NEWS: ELEKTROS Energizes Its Growth Story as Lithium, Critical Minerals and Advanced EV Charging Technology Reach a Broader Investment Audience",
     "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
     "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
     "OpenAI acquires presentation startup NextSlide",
     "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-    "Woman screams in fear as Ukraine war recruiters pounce on man",
-    "Child among three killed in Russian missile attacks near Kyiv"
+    "Woman screams in fear as Ukraine war recruiters pounce on man"
   ]
 }

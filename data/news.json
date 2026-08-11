@@ -1,15 +1,24 @@
 {
-  "updated": "2026-08-11T02:26:24.061099+00:00",
+  "updated": "2026-08-11T07:35:02.451849+00:00",
   "hero": {
-    "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-10T19:48:45+00:00",
-    "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents Reuters",
-    "category": "tech",
-    "score": 5.848
+    "title": "Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+    "source": "AP News",
+    "published_at": "2026-08-11T07:28:38+00:00",
+    "summary": "Ukraine AP News",
+    "category": "conflicts",
+    "score": 7.236
   },
   "items": [
+    {
+      "title": "Anthropic Strikes $9 Billion Deal With Cloud Computing Firm Riot",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUh6enBVWEI2ZTNVakNYcVRtd2gzREpSb3VvbGlyZ3pWZVYzcndna1dTWC1wV0sxcTNsWmRKQzA5ME1hTGdYSmFMUFlCdmZ4YkdHWTgzV0ozNnBiMXFVWm1ob09ZbUx6LVZ4VGR0Rlh1ekNzeVpISS1FOE4wRXRiYUlVOGpXcVppWEFLWndtSDFCYzQtSDJmVTU2dnhBSTNTOUtGcjZVX1hwWUxRRHFDcTB6Uk4?oc=5",
+      "source": "bloomberg.com",
+      "published_at": "2026-08-11T00:17:00+00:00",
+      "summary": "Anthropic Strikes $9 Billion Deal With Cloud Computing Firm Riot bloomberg.com",
+      "category": "tech",
+      "score": 4.411
+    },
     {
       "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
       "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
@@ -17,44 +26,35 @@
       "published_at": "2026-08-10T23:56:15+00:00",
       "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
       "category": "tech",
-      "score": 5.416
+      "score": 4.371
     },
     {
-      "title": "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNci1maVlrNmVzYTBwcUppT0JtVTk1dmJUUjVZSjJpUVNYN29ZQWpVcGNZb2FlOTlITl9yRDdkbk5adHFqVXg5R0IwVjVwekc2QWxCWHpWSUV0MkFKNzFFVWszQTUySDMwdUR6eHRkNzNsdnk3RUpYSXF0OUdXWm9vbF82NDIwMVIxUmI5ejJhWDJ1cnRPeDVMQWUzbzNGaWdLLXNqZ2JfOEhyUkE2Ul9V?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-10T18:23:00+00:00",
-      "summary": "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine AP News",
+      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+      "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-11T06:05:07+00:00",
+      "summary": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
       "category": "conflicts",
-      "score": 5.012
+      "score": 4.006
     },
     {
-      "title": "Russia's top court bars anti-war party from parliamentary vote",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-10T21:05:44+00:00",
-      "summary": "Russia's top court bars anti-war party from parliamentary vote Reuters",
+      "title": "Middle East: Trump took secret flight out of Turkey over Iran threat",
+      "url": "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-08-11T06:05:00+00:00",
+      "summary": "President Donald Trump reportedly used an elaborate ruse to leave the NATO summit in Turkey, amid a credible assassination threat. Meanwhile, oil prices rose as hopes for a deal on the Strait of Hormuz fade. DW has more.",
       "category": "politics",
-      "score": 5.01
-    },
-    {
-      "title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamx6ZmttRHhDNkRmaGxMNngyOFpJbkwxcVU4a3JqZFZ0U3ZXSzNmeUlNWkowUHh2Q29FYnhfNVZ3Wm15WUFsd1FjSDJfczk5Sk90bG1zV2I1emtmOGZuUHpNZTF6TXNGSDVEQXVhMjBRSHQ5TkJ2eWljS3lCU24tRGlCeWgwMlhOa0V0SGlLQUZDX0RDOFExS3VacFpzUWJQdFJEMUFfYVNzeWNzUVE2bmZrNTVkN2tBOVBneVR0dlp1SWwyS2JQLQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-10T18:59:25+00:00",
-      "summary": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows Reuters",
-      "category": "resources",
-      "score": 4.843
+      "score": 4.006
     }
   ],
   "hero_history": [
+    "Ukraine",
     "US House Democrats press Anthropic, OpenAI about rogue AI agents",
     "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine",
     "Wildfires, drought and extreme heat, 2026",
     "Millions of burnt books show how 'war of endurance' is hurting Ukraine",
     "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
     "BREAKING NEWS: ELEKTROS Energizes Its Growth Story as Lithium, Critical Minerals and Advanced EV Charging Technology Reach a Broader Investment Audience",
-    "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks."
+    "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says"
   ]
 }

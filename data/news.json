@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-10T19:15:09.221398+00:00",
+  "updated": "2026-08-11T02:26:24.061099+00:00",
   "hero": {
-    "title": "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNci1maVlrNmVzYTBwcUppT0JtVTk1dmJUUjVZSjJpUVNYN29ZQWpVcGNZb2FlOTlITl9yRDdkbk5adHFqVXg5R0IwVjVwekc2QWxCWHpWSUV0MkFKNzFFVWszQTUySDMwdUR6eHRkNzNsdnk3RUpYSXF0OUdXWm9vbF82NDIwMVIxUmI5ejJhWDJ1cnRPeDVMQWUzbzNGaWdLLXNqZ2JfOEhyUkE2Ul9V?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-10T17:42:00+00:00",
-    "summary": "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine AP News",
-    "category": "conflicts",
-    "score": 10.214
+    "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-10T19:48:45+00:00",
+    "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents Reuters",
+    "category": "tech",
+    "score": 5.848
   },
   "items": [
     {
-      "title": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0Y5VVJWSkc1aEJOMEF4QlNaeGxsVDg0YklRUzluTE5rVTVKekh5ZnM5VWh4NUcxNXBvNXB3djlZbm1DbHkxNTJhMFI4anFvakJnSndGYTI1WktTS2hOSmhXcUE5c0hXS1lrTmhjTEY3aGNERmlKOWc5TER3MUQtOHk4VHg3T0FwU0NLQmlNR09FbnMwLV9FaE80VU5qWG9HMXg2TDFKVENTeHJ6d0E5Mg?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-08-10T12:31:17+00:00",
-      "summary": "Anthropic, Macquarie and GIC Form Venture for AI Data Centers Bloomberg.com",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-10T23:56:15+00:00",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
       "category": "tech",
-      "score": 6.022
+      "score": 5.416
+    },
+    {
+      "title": "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNci1maVlrNmVzYTBwcUppT0JtVTk1dmJUUjVZSjJpUVNYN29ZQWpVcGNZb2FlOTlITl9yRDdkbk5adHFqVXg5R0IwVjVwekc2QWxCWHpWSUV0MkFKNzFFVWszQTUySDMwdUR6eHRkNzNsdnk3RUpYSXF0OUdXWm9vbF82NDIwMVIxUmI5ejJhWDJ1cnRPeDVMQWUzbzNGaWdLLXNqZ2JfOEhyUkE2Ul9V?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-10T18:23:00+00:00",
+      "summary": "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine AP News",
+      "category": "conflicts",
+      "score": 5.012
+    },
+    {
+      "title": "Russia's top court bars anti-war party from parliamentary vote",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUFBcmJEaktPRWUyd2VRaFVob05RVXZic2dIMmIyQ2pxcUNrZ2c2ZERNMENsamM3YXdkQkJMbWJncjV1UUdsZmsxZ0h5MGtzczdCc0lhb2F1b1pkdzlvMzBPTE51ZHlTb01JQlNMRFRwMmdKbkZndmZlY24xN0NPYTZHaEJwUVVuNW5Jby1ONUk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-10T21:05:44+00:00",
+      "summary": "Russia's top court bars anti-war party from parliamentary vote Reuters",
+      "category": "politics",
+      "score": 5.01
     },
     {
       "title": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamx6ZmttRHhDNkRmaGxMNngyOFpJbkwxcVU4a3JqZFZ0U3ZXSzNmeUlNWkowUHh2Q29FYnhfNVZ3Wm15WUFsd1FjSDJfczk5Sk90bG1zV2I1emtmOGZuUHpNZTF6TXNGSDVEQXVhMjBRSHQ5TkJ2eWljS3lCU24tRGlCeWgwMlhOa0V0SGlLQUZDX0RDOFExS3VacFpzUWJQdFJEMUFfYVNzeWNzUVE2bmZrNTVkN2tBOVBneVR0dlp1SWwyS2JQLQ?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published_at": "2026-08-10T18:59:25+00:00",
-      "summary": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows reuters.com",
+      "summary": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows Reuters",
       "category": "resources",
-      "score": 5.914
-    },
-    {
-      "title": "Nvidia, Wall Street firms partner on $500 billion AI financing venture, source says",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5",
-      "source": "reuters.com",
-      "published_at": "2026-08-10T17:08:36+00:00",
-      "summary": "Nvidia, Wall Street firms partner on $500 billion AI financing venture, source says reuters.com",
-      "category": "tech",
-      "score": 4.941
-    },
-    {
-      "title": "When and where to see the solar eclipse in Scotland",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-08-10T15:29:51+00:00",
-      "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
-      "category": "science",
-      "score": 4.331
+      "score": 4.843
     }
   ],
   "hero_history": [
+    "US House Democrats press Anthropic, OpenAI about rogue AI agents",
     "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine",
     "Wildfires, drought and extreme heat, 2026",
     "Millions of burnt books show how 'war of endurance' is hurting Ukraine",
     "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
     "BREAKING NEWS: ELEKTROS Energizes Its Growth Story as Lithium, Critical Minerals and Advanced EV Charging Technology Reach a Broader Investment Audience",
     "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
-    "OpenAI acquires presentation startup NextSlide"
+    "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks."
   ]
 }

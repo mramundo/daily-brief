@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-12T07:50:26.160856+00:00",
+  "updated": "2026-08-12T13:44:43.260880+00:00",
   "hero": {
-    "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-    "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-08-12T05:26:26+00:00",
-    "summary": "Ukraine's president also says Russia will use its election next month as a pretext to declare a new mobilisation.",
-    "category": "conflicts",
-    "score": 6.134
+    "title": "US inflation eases as food costs cool",
+    "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published_at": "2026-08-12T13:40:51+00:00",
+    "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+    "category": "finance",
+    "score": 5.051
   },
   "items": [
     {
       "title": "What time and where to see the solar eclipse in Scotland",
       "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
-      "published_at": "2026-08-12T07:09:42+00:00",
+      "published_at": "2026-08-12T10:01:43+00:00",
       "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
       "category": "science",
-      "score": 4.924
+      "score": 4.338
     },
     {
-      "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-      "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-12T03:09:06+00:00",
-      "summary": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
-      "category": "conflicts",
-      "score": 4.51
+      "title": "Burnham warned of Iran war impact on UK growth next year",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-08-12T13:33:58+00:00",
+      "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+      "category": "resources",
+      "score": 3.927
     },
     {
-      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-12T03:44:55+00:00",
-      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-      "category": "politics",
-      "score": 4.448
-    },
-    {
-      "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: ‘I Experienced This Same Play’ Against Intel",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2M0cXppTmhMYVdvRVRLcnBWN0lGbW5hcEhoV3hINF8tRkVpVkpqVS1hQzRMZnlLUmtvNndETWhkSTh6TGNqOEQyRHdaakE5X2t2UUtNbE5uWFpnTXJBdGw5bTFWdVNBY0xESUNPNHhqZVk5cm43bFo3OTFzS0ZKTUYwTDlpVTlXLW9DRkF4OWRlZC1Cd0JuZUw1ZGZZZm1hc3R5Z1Q3WjRpeVYwRXdGZEpkQlRadHVDdWVUcA?oc=5",
-      "source": "Stocktwits",
-      "published_at": "2026-08-12T06:52:00+00:00",
-      "summary": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: ‘I Experienced This Same Play’ Against Intel Stocktwits",
+      "title": "Honor’s Robot Phone is better than a gimbal in a phone has any right to be",
+      "url": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
+      "source": "The Verge",
+      "published_at": "2026-08-12T12:30:00+00:00",
+      "summary": "The Robot Phone, which launches today in China, doesn't sound like a good idea - and not only because it's not actually a robot. Instead it's a regular Android smartphone with its main camera installed on a compact gimbal arm that unfolds from the phone's rear. Cramming the equiv",
       "category": "tech",
-      "score": 3.854
+      "score": 3.811
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "source": "The Verge",
+      "published_at": "2026-08-12T12:09:34+00:00",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer",
+      "category": "tech",
+      "score": 3.757
     }
   ],
   "hero_history": [
+    "US inflation eases as food costs cool",
     "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
     "Senior OpenAI executive Brad Lightcap to leave for new venture",
     "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
     "Nvidia partners with Wall Street giants on $500B AI infrastructure buildout",
     "Ukraine",
     "US House Democrats press Anthropic, OpenAI about rogue AI agents",
-    "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine",
-    "Wildfires, drought and extreme heat, 2026"
+    "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine"
   ]
 }

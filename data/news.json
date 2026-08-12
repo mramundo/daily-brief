@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-12T02:42:34.765804+00:00",
+  "updated": "2026-08-12T07:50:26.160856+00:00",
   "hero": {
-    "title": "Senior OpenAI executive Brad Lightcap to leave for new venture",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaW9tVHl4S3FDMjB1RzBIbTdSZzN0OERJeE10VVNoelUwUDFGczV3R2lOR1FidVNJY3FqS0xGeFhEOFphV19NQkhtOE9MdEpyTC1kOXJtYWM4eFlZcFpUOG9JTVZiU0V1Rkhnd0pYM0ZjX0ZWMUdtQnFNdWlXbVJicw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-11T19:27:52+00:00",
-    "summary": "Senior OpenAI executive Brad Lightcap to leave for new venture Reuters",
-    "category": "tech",
-    "score": 5.699
+    "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+    "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-08-12T05:26:26+00:00",
+    "summary": "Ukraine's president also says Russia will use its election next month as a pretext to declare a new mobilisation.",
+    "category": "conflicts",
+    "score": 6.134
   },
   "items": [
     {
-      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "title": "What time and where to see the solar eclipse in Scotland",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-08-12T07:09:42+00:00",
+      "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
+      "category": "science",
+      "score": 4.924
+    },
+    {
+      "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
+      "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-12T03:09:06+00:00",
+      "summary": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
+      "category": "conflicts",
+      "score": 4.51
+    },
+    {
+      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
       "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-08-12T02:05:30+00:00",
-      "summary": "The president says the Secret Service wanted him to go on a different flight after the Nato summit in Turkey.",
+      "published_at": "2026-08-12T03:44:55+00:00",
+      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
       "category": "politics",
-      "score": 4.498
+      "score": 4.448
     },
     {
-      "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHpmV1NwTWxHeTRKVUtlY3lwWmlUVWtzX0NUYkhGR2VFRzZDQ0JXRXp1LVZ4alp5SXplU2RHTmRFNG5EaG9GWVpRbkVPZE4tS2NxUlc2UXhBVTMteFRHVWo0a0xZZGdNWFNWNmVnOTdZcHBvcGx6bnEycGlqaHNqRDI4Vkw4YTVkcnhPZEI3cGVRa0psa2xFWWE2b2g1SkJ0T0RhWlRiODVSLVBxdUxIWkl4Zl9uN1Ew?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-11T17:03:14+00:00",
-      "summary": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster Reuters",
+      "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: ‘I Experienced This Same Play’ Against Intel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2M0cXppTmhMYVdvRVRLcnBWN0lGbW5hcEhoV3hINF8tRkVpVkpqVS1hQzRMZnlLUmtvNndETWhkSTh6TGNqOEQyRHdaakE5X2t2UUtNbE5uWFpnTXJBdGw5bTFWdVNBY0xESUNPNHhqZVk5cm43bFo3OTFzS0ZKTUYwTDlpVTlXLW9DRkF4OWRlZC1Cd0JuZUw1ZGZZZm1hc3R5Z1Q3WjRpeVYwRXdGZEpkQlRadHVDdWVUcA?oc=5",
+      "source": "Stocktwits",
+      "published_at": "2026-08-12T06:52:00+00:00",
+      "summary": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: ‘I Experienced This Same Play’ Against Intel Stocktwits",
       "category": "tech",
-      "score": 4.418
-    },
-    {
-      "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-08-11T23:17:15+00:00",
-      "summary": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
-      "category": "science",
-      "score": 4.392
-    },
-    {
-      "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
-      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
-      "source": "NASA",
-      "published_at": "2026-08-11T21:04:39+00:00",
-      "summary": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. __________",
-      "category": "science",
-      "score": 4.308
+      "score": 3.854
     }
   ],
   "hero_history": [
+    "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
     "Senior OpenAI executive Brad Lightcap to leave for new venture",
     "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
     "Nvidia partners with Wall Street giants on $500B AI infrastructure buildout",
     "Ukraine",
     "US House Democrats press Anthropic, OpenAI about rogue AI agents",
     "Russian court bars from parliamentary ballot the only party opposing the conflict in Ukraine",
-    "Wildfires, drought and extreme heat, 2026",
-    "Millions of burnt books show how 'war of endurance' is hurting Ukraine"
+    "Wildfires, drought and extreme heat, 2026"
   ]
 }

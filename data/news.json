@@ -1,15 +1,42 @@
 {
-  "updated": "2026-08-13T02:45:29.851968+00:00",
+  "updated": "2026-08-13T07:51:00.860220+00:00",
   "hero": {
-    "title": "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-12T19:21:00+00:00",
-    "summary": "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast AP News",
-    "category": "conflicts",
-    "score": 6.469
+    "title": "Anthropic in talks to buy Israeli AI startup Decart for about $6bn",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWU84bEtVYjBlNlRzVzBlU1dEeDVoU1FlOGVhTDA1UklfVkRqWDBxOWN5eURmenpOVGxrRmhuc1J5VWRqcHJGU0RHQXgxNEQ2eVp2NE9YTWdtYnhsMkhUQWxTWngyLWtSTnk3M0VIWVpQQUg3VzRiQlBIdnR2UEZjVk9mRnBNdw?oc=5",
+    "source": "Yahoo! Finance Canada",
+    "published_at": "2026-08-13T07:41:00+00:00",
+    "summary": "Anthropic in talks to buy Israeli AI startup Decart for about $6bn Yahoo! Finance Canada",
+    "category": "tech",
+    "score": 9.481
   },
   "items": [
+    {
+      "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-13T04:58:00+00:00",
+      "summary": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion Bloomberg",
+      "category": "tech",
+      "score": 8.395
+    },
+    {
+      "title": "Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-13T07:44:46+00:00",
+      "summary": "Iran war AP News",
+      "category": "conflicts",
+      "score": 7.087
+    },
+    {
+      "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+      "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-13T05:26:05+00:00",
+      "summary": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
+      "category": "conflicts",
+      "score": 5.924
+    },
     {
       "title": "Trump says White House press secretary Karoline Leavitt to leave post",
       "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
@@ -17,44 +44,17 @@
       "published_at": "2026-08-12T22:58:45+00:00",
       "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
       "category": "politics",
-      "score": 5.192
-    },
-    {
-      "title": "Anthropic Said in Talks to Buy AI Startup Decart for $6 Billion",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-08-13T01:25:00+00:00",
-      "summary": "Anthropic Said in Talks to Buy AI Startup Decart for $6 Billion Bloomberg.com",
-      "category": "tech",
-      "score": 5.102
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "source": "TechCrunch",
-      "published_at": "2026-08-12T22:26:37+00:00",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "category": "tech",
-      "score": 5.023
-    },
-    {
-      "title": "Asian stocks rise as US inflation data dents September Fed hike bets",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-13T01:02:00+00:00",
-      "summary": "Asian stocks rise as US inflation data dents September Fed hike bets Reuters",
-      "category": "finance",
-      "score": 4.669
+      "score": 5.43
     }
   ],
   "hero_history": [
+    "Anthropic in talks to buy Israeli AI startup Decart for about $6bn",
     "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast",
     "OPEC further lowers 2026 global oil demand growth forecast",
     "US inflation eases as food costs cool",
     "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
     "Senior OpenAI executive Brad Lightcap to leave for new venture",
     "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-    "Nvidia partners with Wall Street giants on $500B AI infrastructure buildout",
-    "Ukraine"
+    "Nvidia partners with Wall Street giants on $500B AI infrastructure buildout"
   ]
 }

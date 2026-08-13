@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-12T19:18:50.503507+00:00",
+  "updated": "2026-08-13T02:45:29.851968+00:00",
   "hero": {
-    "title": "OPEC further lowers 2026 global oil demand growth forecast",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGtBOHhHeFZVQ0xfdlpxYWtxd1Y4VUVEMFFFMlUxakNMd29IeThMN1RxeVlEbHJpMk8xN0RzakdZWEZxUWFHOGVDSXNRTEM4WjYzcW13TkVSbHBPT1c5VEdCM1A0cFJNVG5fd19yeDlRLTJNYjJYbjVVN1lLRmtQZk5oMW85MXkwNzBhaHNuQUR1Z0RnbHI4RHduQ3dRdFMyOXdvYzZEUmRkVjV6ZXVZ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-12T12:12:46+00:00",
-    "summary": "OPEC further lowers 2026 global oil demand growth forecast Reuters",
-    "category": "resources",
-    "score": 12.17
+    "title": "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
+    "source": "AP News",
+    "published_at": "2026-08-12T19:21:00+00:00",
+    "summary": "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast AP News",
+    "category": "conflicts",
+    "score": 6.469
   },
   "items": [
     {
-      "title": "Strong AI earnings lift S&P 500, Nasdaq as inflation data calms rate-hike jitters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-12T16:28:01+00:00",
-      "summary": "Strong AI earnings lift S&P 500, Nasdaq as inflation data calms rate-hike jitters Reuters",
-      "category": "finance",
-      "score": 5.729
-    },
-    {
-      "title": "Pakistan says 3 citizens killed in Houthi attack on ship, and other developments in the Mideast",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-12T15:52:00+00:00",
-      "summary": "Pakistan says 3 citizens killed in Houthi attack on ship, and other developments in the Mideast AP News",
-      "category": "conflicts",
-      "score": 5.722
-    },
-    {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-08-12T17:47:01+00:00",
-      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "category": "conflicts",
-      "score": 5.702
+      "published_at": "2026-08-12T22:58:45+00:00",
+      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "category": "politics",
+      "score": 5.192
     },
     {
-      "title": "OPEC Further Cuts 2026 Global Oil Demand Growth Outlook, Sees Stronger Rebound Next Year",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOS0zZUVkUXNZckE4Tld1dUhfYkttM0oyYTRzUFdrWFRjMl96YUdtbUJub0d5T1I1Wk9UTzFOM0xhTFY1N1g3bldpMVh3bG1HbEJsQWtzTWUtLTIwcTRJTkZfcncwbGdPUVJVTGc4a3NtaGFiRHVlMi1vdDdyRTd0X3JTMmx6UWYwZlVGUXdlUWhjbm80RU14ZEdTeEVIY0lwdjRibnMyb09uS2dnOXBudkF4TUt4bTVOVjNZV0wwQ0c3dm5TWHRlZFB2bGhrQ2hzamFwQUVxQQ?oc=5",
-      "source": "marketscreener.com",
-      "published_at": "2026-08-12T16:44:22+00:00",
-      "summary": "OPEC Further Cuts 2026 Global Oil Demand Growth Outlook, Sees Stronger Rebound Next Year marketscreener.com",
-      "category": "resources",
-      "score": 5.371
+      "title": "Anthropic Said in Talks to Buy AI Startup Decart for $6 Billion",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-08-13T01:25:00+00:00",
+      "summary": "Anthropic Said in Talks to Buy AI Startup Decart for $6 Billion Bloomberg.com",
+      "category": "tech",
+      "score": 5.102
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-12T22:26:37+00:00",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "category": "tech",
+      "score": 5.023
+    },
+    {
+      "title": "Asian stocks rise as US inflation data dents September Fed hike bets",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-13T01:02:00+00:00",
+      "summary": "Asian stocks rise as US inflation data dents September Fed hike bets Reuters",
+      "category": "finance",
+      "score": 4.669
     }
   ],
   "hero_history": [
+    "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast",
     "OPEC further lowers 2026 global oil demand growth forecast",
     "US inflation eases as food costs cool",
     "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
     "Senior OpenAI executive Brad Lightcap to leave for new venture",
     "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
     "Nvidia partners with Wall Street giants on $500B AI infrastructure buildout",
-    "Ukraine",
-    "US House Democrats press Anthropic, OpenAI about rogue AI agents"
+    "Ukraine"
   ]
 }

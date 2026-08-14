@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-13T19:18:15.999047+00:00",
+  "updated": "2026-08-14T02:44:23.405790+00:00",
   "hero": {
-    "title": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVAyN1FTME4xT3BNeld6NHNVMEpaWElYUkJrVjdmZmFVMVBtX0NlZGp3cXk4UUItS1ZDaGhCVE54bkptY0tiSTJDTHF2VU5HSzB3YTRFay1KY09uM1RuNkZJSXFtbVNiNVlzTU1rWEF2TTV4LUZzazNDU2dkdTVsdENPdnFvZDJMWmcxWTdwNE5na2NzeVBwVlVwTnNrQUN5VHV3bEIwaS1vTmZXOVhGeEVnN1FyQ1VxMTQ0T2g4aw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-13T18:24:22+00:00",
-    "summary": "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says Reuters",
+    "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+    "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-08-14T00:02:22+00:00",
+    "summary": "Civilian and military casualties have been reported as fighting has flared across Yemeni front lines in recent days.",
     "category": "conflicts",
-    "score": 6.364
+    "score": 6.69
   },
   "items": [
     {
-      "title": "OpenAI Chief Revenue Officer to Depart After Less Than a Year",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVJlNlNUaGVkT0pFZms3UXVaS3c2VkRheVVNbWRKUXZHNU0tVTZMWElHZXhUc3pqTlBMbUNSLXFEWktmZXU1QWdFLWE3OUpSQlhIOTFSTHNQbGROdHJmMTZRVVdsN040alFGX2dfRHBfVkdfRGVyTlZIX0NaUWhDeUs2M0dDdXIxb0dYQUNITk9oZ194YkFJZnQtY1hmcDQ?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-08-13T16:58:00+00:00",
-      "summary": "OpenAI Chief Revenue Officer to Depart After Less Than a Year WSJ",
+      "title": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFBTR1VKWUlRMkNjY2g4YUU1M2Ruc0lIQWdEUklmb2x0VmhPbEgweWdweDBwWGNPX0FDZFhHcEtuWW41NnQ2cDRVV0lUX3JtS0FmV3NoTVZuQW5BN2ZSMGViVG9Xd0JJN3pScHA3b0UzSzBFUUVBWDZRV2lVMVpwU1ozUlRrMkNadTNKVTg3SGl2MGduajJnakVLb2hkQWlxSG9xaW1Cc18?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-13T21:36:04+00:00",
+      "summary": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO Bloomberg",
       "category": "tech",
-      "score": 5.424
+      "score": 5.911
     },
     {
-      "title": "ELEKTROS Highlights Lithium, Critical Minerals and Next-Generation EV Charging in a Transformative Era for Technology and Energy",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQnVqUWZzd2JqYUdfQm5icGp4NG9PSTkzazMzeVpra2tsaFhHSHJqV1BPM1hCZ3o2MFk1OHdNXzktbTFXSUM2aWtfT2FzOUtGLVYtNExSZmlPZVZMMVN2elQtUWt6VHlQRzlRbmhrdzJkYUFJS0FGbmo3OVRJaEdiazNVSnVVVHc4V1pONkN1cjJCeUJzMDV0Zk85cXpTNUVnb2xVRDRpYmdWQkZjWlRSM01mRnN3VGpRTTh5d3dMYXVkSUxTQjU5UEpfNEt1U0VPRGRXcGtWM05ad0lCa1NuSkQ4Smkyb3l2UjJ2cXQ3TVB0QjhHb0psV2toQnJuNkZrdFhfMlpFYWNPUmY0QVJVakhpcnVtckpLN2JERUlXSHp5RXc?oc=5",
-      "source": "The Batesville Daily Guard",
-      "published_at": "2026-08-13T16:17:09+00:00",
-      "summary": "ELEKTROS Highlights Lithium, Critical Minerals and Next-Generation EV Charging in a Transformative Era for Technology and Energy The Batesville Daily Guard",
-      "category": "resources",
-      "score": 5.272
+      "title": "OpenAI Hires New Chief Revenue Officer After Less Than a Year",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEJmT0pZQ2VMODVNNVdTQ1g4VjJUdVlMV2xLUFl4Um9oNjg4STQwSjJRaWhYT1FiUzJDd3pON3VJVGNPVm5OTWNHd0gtY2pjWUFJVkg2MmNIdzNHcnVpMDNFNUtRV04tUVFPeTZPeEVfUXpTeWdPV0gyYVg3bkFOWWM1SE5DbEduS1V5TlZCeVhMMER3ckJYektBbHFPczgycXd6MEI0emlpbkJsSlljWkRn?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-13T15:55:22+00:00",
+      "summary": "OpenAI Hires New Chief Revenue Officer After Less Than a Year Bloomberg",
+      "category": "tech",
+      "score": 5.17
     },
     {
-      "title": "US stocks tick toward records as oil prices drop and inflation gets less bad",
+      "title": "Israeli strikes in Gaza kill two, including police chief",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-13T21:10:47+00:00",
+      "summary": "Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
+      "category": "conflicts",
+      "score": 4.349
+    },
+    {
+      "title": "US stocks rise to a record as oil prices drop and inflation gets less bad",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVotZ0lJOWNnZjE3MXRvdkM2MXJuY2dScktoRFRXSnk0UWg3M3B4ck5UWWM1NHFmcDRXaldfeVFSbDN4QU04bkkwNlBZaXNQN0s1c3pCZDlUT041R2lfUlROU2Q1bzF3V08tbXRrYXVURzJaeXpwNG1URkdPWnRHeW5Dd2t4ZXVUaHpmUDlVZU5RekxSNVU3ckxySk1WOE1QdWV1Sg?oc=5",
       "source": "AP News",
-      "published_at": "2026-08-13T18:16:00+00:00",
-      "summary": "US stocks tick toward records as oil prices drop and inflation gets less bad AP News",
+      "published_at": "2026-08-13T21:23:00+00:00",
+      "summary": "US stocks rise to a record as oil prices drop and inflation gets less bad AP News",
       "category": "finance",
-      "score": 5.104
-    },
-    {
-      "title": "Watch Anthropic in Talks to Buy AI Startup Decart for $6 Billion",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmNqYmpkTGgyR2xUVzJqQ0QwWGdpNjdqOXZabzBWWWlMeXFmN2FuSHZUTUFrWVJla2NfemdtTXE5MDJ5aWZIcUdiX2NLSlBkZmhQQlZUMlg5SVJlNTF4T1Frb2E1MHRhTERQMk9kOHpacXNPT0tTS3pSQ1A4dEg3aWxMX1ExRlJDd2M5R2Q5cTRzNUxUWU1lTndTWEJtY1ZWdmxPS0pKV3g?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-08-13T17:04:58+00:00",
-      "summary": "Watch Anthropic in Talks to Buy AI Startup Decart for $6 Billion Bloomberg.com",
-      "category": "tech",
-      "score": 5.095
+      "score": 4.264
     }
   ],
   "hero_history": [
+    "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
     "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says",
     "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt",
     "Anthropic in talks to buy Israeli AI startup Decart for about $6bn",
     "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast",
     "OPEC further lowers 2026 global oil demand growth forecast",
     "US inflation eases as food costs cool",
-    "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-    "Senior OpenAI executive Brad Lightcap to leave for new venture"
+    "Zelenskyy says Ukraine has sent proposals to US to end war with Russia"
   ]
 }

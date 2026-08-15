@@ -1,23 +1,41 @@
 {
-  "updated": "2026-08-15T12:57:36.710157+00:00",
+  "updated": "2026-08-15T18:46:20.227780+00:00",
   "hero": {
-    "title": "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
+    "title": "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0NBVmpueWNUWGJ1ckoxSW1wR1dkX0ZHRzk3bWFUcUlGamk0NjBjMEo2LXVRNTlUUkxibVdSbHdLS245VF9Hc2hzbE9JYld3WEt4VnBPSWVwMjFoTlQyc2RSYjdzLU5ZN0FoZ1dSaVVGUGIwbU1XbzlCY256ZnloUFBuNnlPakV3RFlFWHpqRERKa3lIblRReG80R1hyN1RCczFLdXYtRmJQNlo3?oc=5",
     "source": "AP News",
-    "published_at": "2026-08-15T06:12:51+00:00",
-    "summary": "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says AP News",
+    "published_at": "2026-08-15T17:39:00+00:00",
+    "summary": "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news AP News",
     "category": "conflicts",
-    "score": 5.819
+    "score": 6.304
   },
   "items": [
     {
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
       "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-08-15T12:25:11+00:00",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+      "published_at": "2026-08-15T16:02:49+00:00",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
       "category": "conflicts",
-      "score": 4.513
+      "score": 4.12
+    },
+    {
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-14T23:44:00+00:00",
+      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports Reuters",
+      "category": "tech",
+      "score": 4.07
+    },
+    {
+      "title": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmx4aVFteXdJZ2FQN3FyeUFPQUJiaVJ0aFRUNmhEZzdrVWc4ckFHMXZ0T3NIdXJWQVdWLXdESTRBdFJfcXRacEZhSnAyaXY1VXN2ZWpTT1VzR0pGSnU2RGRyWUdVQktVQWR4YVpGanZXb1NPdmp0T2ppcFY5WkZTcXIxRmhzRzR0U1VNdUdBbi0?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-15T13:43:00+00:00",
+      "summary": "Not Nvidia. Not AMD. This Chip Stock Will Be the Biggest Winner of the Historic AI Semiconductor Boom Yahoo Finance",
+      "category": "tech",
+      "score": 3.658
     },
     {
       "title": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released",
@@ -26,35 +44,17 @@
       "published_at": "2026-08-15T08:00:00+00:00",
       "summary": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released AP News",
       "category": "finance",
-      "score": 4.08
-    },
-    {
-      "title": "Zambia resumes vote count after pause over violence",
-      "url": "https://www.france24.com/en/zambia-resumes-vote-count-after-pause-over-violence",
-      "source": "France 24",
-      "published_at": "2026-08-15T12:32:22+00:00",
-      "summary": "Zambia resumed vote counting Friday after a nationwide suspension over alleged attacks on polling staff and stolen marked ballot papers. The halt came a day after presidential and parliamentary elections, with opposition leader Brian Mundubile already claiming victory. Sishuwa Si",
-      "category": "politics",
-      "score": 4.042
-    },
-    {
-      "title": "Anthropic Eyes Israeli Startup Reportedly Coveted By Nvidia, SpaceX. What Is Spurring The Suitors",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQTNPVnVhU3VnVnNvcUFWQl9oSUVGWGFUZXUzNF9LVlJ0eXRra0ZWVnVtd3dvZ1BOaTNFc2h6OXMwdy1TcnltMXlwOXlzVm1vZEFOTjQwVy16Q1haNGJJN2lhZWRfaExlYnR2QV8wVGx1ZnlEdUlYclE4N01KcUdlU21iU090RDBMYVNtWWVmMlI3dzZlenNiY0JDXzFSbnNuSDJ2dG1fZVBzMEFRVzFYcEpCbWlwZWxL?oc=5",
-      "source": "International Business Times",
-      "published_at": "2026-08-15T12:41:37+00:00",
-      "summary": "Anthropic Eyes Israeli Startup Reportedly Coveted By Nvidia, SpaceX. What Is Spurring The Suitors International Business Times",
-      "category": "tech",
-      "score": 3.473
+      "score": 3.203
     }
   ],
   "hero_history": [
+    "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news",
     "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says",
     "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
     "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
     "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here’s Why Critical Minerals Are Moving Today",
     "OpenAI’s Revenue Run Rate Tops $40 Billion, Bolstering IPO Case",
     "Nigel Farage beats Count Binface to win back seat in Parliament in widely mocked election",
-    "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-    "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says"
+    "Yemen faces highest risk of returning to war since 2022 truce, UN warns"
   ]
 }

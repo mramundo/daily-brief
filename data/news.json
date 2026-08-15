@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-15T01:48:30.986901+00:00",
+  "updated": "2026-08-15T06:56:23.399707+00:00",
   "hero": {
-    "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+    "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
     "source": "Reuters",
-    "published_at": "2026-08-14T23:49:53+00:00",
-    "summary": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports Reuters",
+    "published_at": "2026-08-15T00:12:00+00:00",
+    "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say Reuters",
     "category": "tech",
-    "score": 10.488
+    "score": 4.989
   },
   "items": [
     {
-      "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-15T00:12:00+00:00",
-      "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say Reuters",
-      "category": "tech",
-      "score": 6.178
+      "title": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXVvcWZIbkY5aDNaUWczOEFHWVBiRkJ4MlVkVzNqaE1yODh5cW5BLVROY3NpamtVS05uQ2JiYk9PVDdoMjlIOVZZc2tXV21CVUNQV3cxS0N6X2p0TUxmaWMtbk1GX2dpSmdvSEF5WGhNcXJkTEk1ZU9tanhSaTUxM2dwZXhpUnQ2ODA4OE1UQWwxbVVzLWpibF9OSmRRMlpDOWdWWnQyOXZqMmUtNDdUUQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-15T06:15:00+00:00",
+      "summary": "Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say AP News",
+      "category": "conflicts",
+      "score": 4.875
     },
     {
       "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
@@ -26,7 +26,16 @@
       "published_at": "2026-08-14T22:58:58+00:00",
       "summary": "Six Houthi ballistic missiles struck Yemen's government-held al-Makha port, killing at least four.",
       "category": "conflicts",
-      "score": 5.824
+      "score": 4.703
+    },
+    {
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-14T23:44:00+00:00",
+      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports Reuters",
+      "category": "tech",
+      "score": 4.639
     },
     {
       "title": "Trump asks Supreme Court to let White House ballroom construction continue",
@@ -35,26 +44,17 @@
       "published_at": "2026-08-14T22:02:00+00:00",
       "summary": "Justice Department lawyers echoed the US president's claim that the $400 million White House ballroom project is a security necessity.",
       "category": "politics",
-      "score": 4.798
-    },
-    {
-      "title": "Woman charged over vandalism of Washington's World War Two Memorial",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-14T21:33:52+00:00",
-      "summary": "Woman charged over vandalism of Washington's World War Two Memorial Reuters",
-      "category": "politics",
-      "score": 4.613
+      "score": 3.874
     }
   ],
   "hero_history": [
+    "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
     "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
     "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here’s Why Critical Minerals Are Moving Today",
     "OpenAI’s Revenue Run Rate Tops $40 Billion, Bolstering IPO Case",
     "Nigel Farage beats Count Binface to win back seat in Parliament in widely mocked election",
     "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
     "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says",
-    "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt",
-    "Anthropic in talks to buy Israeli AI startup Decart for about $6bn"
+    "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt"
   ]
 }

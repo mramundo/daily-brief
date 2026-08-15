@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-14T19:12:33.922371+00:00",
+  "updated": "2026-08-15T01:48:30.986901+00:00",
   "hero": {
-    "title": "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here’s Why Critical Minerals Are Moving Today",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XQm5RNzQ3Y2FoU05UV2ZZblIzMDQ0dGJiTWFVVzlXanp2aTVESzF3Nlh1bk5vbW9BMVF4WnZ6MGg3TElSblEzM2YtMnQwNGxYNG9HNmRTREJsYzNpaFJjVGoyTUFWU0ZoS3pxQlJNUEJwYVVs?oc=5",
-    "source": "AOL.com",
-    "published_at": "2026-08-14T17:43:55+00:00",
-    "summary": "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here’s Why Critical Minerals Are Moving Today AOL.com",
-    "category": "resources",
-    "score": 5.622
+    "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-14T23:49:53+00:00",
+    "summary": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports Reuters",
+    "category": "tech",
+    "score": 10.488
   },
   "items": [
     {
-      "title": "Private credit roundup: Nvidia's half trillion for chips financing, plus others",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWtyVEpfcVNDRlNMYkRlOFNBOFRSVnBMazVkeVc3b2FRZWNYVVpvcjJsbFJxODVvVEFNMmFiaTdvaEpxLWc0N2lYZnRCRXBhM2Y1djB3RlJMMFJWVlgtR19wdGF5WW16aFFia2lSZ3hXUTVrUTF0dFdWQVBGWkxsbEZ5UXJlU2dzYW43OXlxQkFaRS00V2VKNWtzb0FvdGliQ3JzQ3NnMDNPZU5tSEdLUlluQ0E4dlc3bUxfeVptb2ttUndhVU9Z?oc=5",
+      "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-14T13:54:07+00:00",
-      "summary": "Private credit roundup: Nvidia's half trillion for chips financing, plus others Reuters",
+      "published_at": "2026-08-15T00:12:00+00:00",
+      "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say Reuters",
       "category": "tech",
-      "score": 5.296
+      "score": 6.178
     },
     {
-      "title": "Woman charged over vandalism of Washington's World War Two memorial",
+      "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-14T22:58:58+00:00",
+      "summary": "Six Houthi ballistic missiles struck Yemen's government-held al-Makha port, killing at least four.",
+      "category": "conflicts",
+      "score": 5.824
+    },
+    {
+      "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "url": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-08-14T22:02:00+00:00",
+      "summary": "Justice Department lawyers echoed the US president's claim that the $400 million White House ballroom project is a security necessity.",
+      "category": "politics",
+      "score": 4.798
+    },
+    {
+      "title": "Woman charged over vandalism of Washington's World War Two Memorial",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-14T18:01:37+00:00",
-      "summary": "Woman charged over vandalism of Washington's World War Two memorial Reuters",
+      "published_at": "2026-08-14T21:33:52+00:00",
+      "summary": "Woman charged over vandalism of Washington's World War Two Memorial Reuters",
       "category": "politics",
-      "score": 5.241
-    },
-    {
-      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-14T12:53:19+00:00",
-      "summary": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests Reuters",
-      "category": "tech",
-      "score": 5.077
-    },
-    {
-      "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
-      "source": "NASA",
-      "published_at": "2026-08-14T17:00:23+00:00",
-      "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever. Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the",
-      "category": "science",
-      "score": 4.969
+      "score": 4.613
     }
   ],
   "hero_history": [
+    "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
     "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here’s Why Critical Minerals Are Moving Today",
     "OpenAI’s Revenue Run Rate Tops $40 Billion, Bolstering IPO Case",
     "Nigel Farage beats Count Binface to win back seat in Parliament in widely mocked election",
     "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
     "EXCLUSIVE: Ukraine offers Russia truce in Black Sea as food supply fears mount, source says",
     "Nigel Farage faces off against Count Binface in special election that's been denounced as a stunt",
-    "Anthropic in talks to buy Israeli AI startup Decart for about $6bn",
-    "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast"
+    "Anthropic in talks to buy Israeli AI startup Decart for about $6bn"
   ]
 }

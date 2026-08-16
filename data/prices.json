@@ -1,37 +1,37 @@
 {
-  "updated": "2026-08-16T08:47:12.772525+00:00",
+  "updated": "2026-08-16T09:42:36.434811+00:00",
   "categories": {
     "crypto": [
       {
         "ticker": "BTC",
         "name": "Bitcoin",
         "currency": "USD",
-        "price": 63014.3268,
-        "change_pct": -0.03,
-        "change_1w": -2.93,
-        "change_1m": -1.22,
-        "change_3m": -18.62,
-        "change_6m": -8.49,
-        "change_1y": -46.32,
-        "sma50": 63577.2596,
-        "sma200": 69221.5381,
-        "rsi14": 42.97,
+        "price": 62997.1234,
+        "change_pct": -0.05,
+        "change_1w": -2.96,
+        "change_1m": -1.25,
+        "change_3m": -18.64,
+        "change_6m": -8.51,
+        "change_1y": -46.34,
+        "sma50": 63576.9155,
+        "sma200": 69221.452,
+        "rsi14": 42.85,
         "signal": "bear"
       },
       {
         "ticker": "ETH",
         "name": "Ethereum",
         "currency": "USD",
-        "price": 1878.6582,
-        "change_pct": -0.12,
-        "change_1w": -1.92,
-        "change_1m": 0.84,
-        "change_3m": -11.83,
-        "change_6m": -5.98,
-        "change_1y": -57.53,
-        "sma50": 1836.495,
-        "sma200": 2017.4769,
-        "rsi14": 50.57,
+        "price": 1879.7901,
+        "change_pct": -0.06,
+        "change_1w": -1.86,
+        "change_1m": 0.9,
+        "change_3m": -11.78,
+        "change_6m": -5.92,
+        "change_1y": -57.5,
+        "sma50": 1836.5177,
+        "sma200": 2017.4825,
+        "rsi14": 50.8,
         "signal": "neutral"
       }
     ],
@@ -81,9 +81,9 @@
         "change_3m": 5.09,
         "change_6m": 13.89,
         "change_1y": 20.36,
-        "sma50": 7512.3892,
-        "sma200": 7074.9023,
-        "rsi14": 65.9,
+        "sma50": 7517.7,
+        "sma200": 7064.4394,
+        "rsi14": 65.84,
         "signal": "bull"
       },
       {
@@ -213,9 +213,9 @@
         "change_3m": 20.94,
         "change_6m": 7.65,
         "change_1y": 23.41,
-        "sma50": 60.415,
-        "sma200": 62.5092,
-        "rsi14": 73.28,
+        "sma50": 60.4809,
+        "sma200": 62.5253,
+        "rsi14": 72.89,
         "signal": "neutral"
       },
       {
@@ -229,9 +229,9 @@
         "change_3m": 6.16,
         "change_6m": -27.39,
         "change_1y": -27.86,
-        "sma50": 1259.1185,
-        "sma200": 1681.1572,
-        "rsi14": 65.85,
+        "sma50": 1257.2942,
+        "sma200": 1677.5594,
+        "rsi14": 65.95,
         "signal": "neutral"
       }
     ]

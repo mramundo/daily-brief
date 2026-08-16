@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-16T06:57:09.897941+00:00",
+  "updated": "2026-08-16T12:59:22.248720+00:00",
   "hero": {
-    "title": "A nation divided: What do Israelis want in October’s elections?",
-    "url": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+    "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+    "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
     "source": "Al Jazeera",
-    "published_at": "2026-08-16T06:06:31+00:00",
-    "summary": "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.",
+    "published_at": "2026-08-16T10:59:10+00:00",
+    "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
     "category": "conflicts",
-    "score": 4.374
+    "score": 6.887
   },
   "items": [
     {
-      "title": "Israel strikes south Lebanon again as families flee north",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-16T04:43:21+00:00",
-      "summary": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-16T10:52:08+00:00",
+      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
       "category": "conflicts",
-      "score": 3.886
+      "score": 5.985
     },
     {
-      "title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
-      "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
-      "source": "The Verge",
-      "published_at": "2026-08-16T03:00:00+00:00",
-      "summary": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usua",
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-15T23:33:33+00:00",
+      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports Reuters",
       "category": "tech",
-      "score": 3.404
+      "score": 5.033
     },
     {
-      "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
-      "url": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-16T03:39:32+00:00",
-      "summary": "Vote counting in Thursday's presidential polls were briefly suspended amid security threats to the electoral process.",
+      "title": "Chad : Opposition figure Succès Masra speaks to France 24",
+      "url": "https://www.france24.com/en/video/20260816-chad-opposition-figure-succ%C3%A8s-masra-speaks-to-france-24",
+      "source": "France 24",
+      "published_at": "2026-08-16T09:23:29+00:00",
+      "summary": "Chadian opposition leader and former Prime Minister Succès Masra, who founded the opposition party Les Transformateurs and challenged President Mahamat Idriss Déby in the 2024 presidential election, was jailed for more than a year after being sentenced to 20 years in 2025. Pardon",
       "category": "politics",
-      "score": 3.186
+      "score": 4.047
     },
     {
-      "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-      "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-16T04:54:33+00:00",
-      "summary": "Romania's Defence Ministry didn't specify origin of the drone but has previously blamed Russia for similar incidents.",
-      "category": "politics",
-      "score": 2.797
+      "title": "Rogue AI aren’t science fiction anymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "source": "The Verge",
+      "published_at": "2026-08-16T12:00:00+00:00",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of",
+      "category": "tech",
+      "score": 3.851
     }
   ],
   "hero_history": [
+    "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
     "A nation divided: What do Israelis want in October’s elections?",
     "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
     "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news",
     "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says",
     "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
     "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports",
-    "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here’s Why Critical Minerals Are Moving Today",
-    "OpenAI’s Revenue Run Rate Tops $40 Billion, Bolstering IPO Case"
+    "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here’s Why Critical Minerals Are Moving Today"
   ]
 }

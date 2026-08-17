@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-17T01:53:51.172720+00:00",
+  "updated": "2026-08-17T07:14:37.323386+00:00",
   "hero": {
-    "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-08-16T19:58:14+00:00",
-    "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-    "category": "conflicts",
-    "score": 5.539
+    "title": "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ29IU1NtbXowV1BNNGhCc3IxM3NuMThnV1E3UEdxOXB6b1hyS2o0eVc0dXU5UTd0U3N3OFRPQlZlUlBxQjlhdVE5RHFsbHZsQVQ3aWpyN0haN0NOaVpPUThmOGRxMlF4Mllxd1ZlTFRwTzJUWVYzNzk0RVllWGVSQ09JMzNhd1YzejBMS2IxS0NrcDJiUHdMUV82c2I2dw?oc=5",
+    "source": "digitimes",
+    "published_at": "2026-08-17T06:09:22+00:00",
+    "summary": "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center digitimes",
+    "category": "tech",
+    "score": 5.893
   },
   "items": [
     {
-      "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-17T00:00:35+00:00",
-      "summary": "Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-17T04:50:56+00:00",
+      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
       "category": "conflicts",
-      "score": 4.505
+      "score": 4.99
     },
     {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "source": "The Verge",
-      "published_at": "2026-08-16T21:32:56+00:00",
-      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hac",
-      "category": "tech",
-      "score": 4.409
+      "title": "Hezbollah holds funeral for family of six killed in Israeli airstrike in southern Lebanon",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeENCRjhaZmVJTVNxMWxHNE5JX3EyTDllcUxzMUJpZnYzWXBoczBfSkVCLWQyVlJPZ1lLS2pLT01oYlF1VWF6RlJhLVFhQk1GR3A1NUdZd3huVTFRX0E4Z0tuRHJubkRIQm1UeFhSbTh1Ym50SVpWQjZQdjlieUYtSUJ5UldLbGJ0Y1VkR1JqUkFHUTNqSmMzejJLemJPZXg0TGJMOEJEcTFCZnIyTkVaUElSMUw4amh5Q0ZVd0ZDTEVLbG85UmlTdlZMbU9UbWpYYWNUUnRJRENpcmhydDF3Wg?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-17T02:16:00+00:00",
+      "summary": "Hezbollah holds funeral for family of six killed in Israeli airstrike in southern Lebanon AP News",
+      "category": "conflicts",
+      "score": 4.66
     },
     {
-      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-16T23:54:51+00:00",
-      "summary": "Shipping slows through Strait of Hormuz after tanker attacks, data shows Reuters",
-      "category": "finance",
-      "score": 4.089
+      "title": "American Rare Earths Signs Agreement with US-Based Novex to Develop Domestic Supply Chain",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnJJWFRIdklGeldINWZfUVNRZUl1ZDQ3c1A3cVJXdHB0WVViS0lvQURFM0lYdEh1bU9IeTJxeVNCUmNqQV9seTI0VzdGcks3V1dYOE52d2luR0hnazQ0SllySWh4ZmpoVm5VenFVOTBlV0c4c2xVSG4tQkJkcmFrYTVqRjl5WFUtRkNLRGJ2QndPSUlhWkEzS2xjdE05WjFXYzluc0QyZHNRNTIyanRkTG53ZVFGNFQ5RDNjZlYxSQ?oc=5",
+      "source": "smallcaps.com.au",
+      "published_at": "2026-08-17T02:51:07+00:00",
+      "summary": "American Rare Earths Signs Agreement with US-Based Novex to Develop Domestic Supply Chain smallcaps.com.au",
+      "category": "resources",
+      "score": 3.851
     },
     {
-      "title": "Yen edges up as traders push back Fed rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-17T00:41:00+00:00",
-      "summary": "Yen edges up as traders push back Fed rate hike bets Reuters",
-      "category": "finance",
-      "score": 4.088
+      "title": "The Small Cap Wrap: Queensland Government deploys expanded $250 million Critical Minerals Fund and more...",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcjBQTWNfMlVFX2NJSjIydEFBTlpJRnhLVmY3Y0xKQmh0a0Vucl9SMGZ1WHUtTzFuT0pCZWpRX29La2VNYl93Qk5nanJVSi1xdDFLQ2RHMUprb1h1d2tKNWJfUGk0RXFBbUVjSnRocDlKTUhQWlR6QlFqOU5KTEFHbmFFQnR3bHE1ejFobTMxNVozWFBIdUZpTHdOTmZRTHVDaVVuMDVXdGdrTkRiUUxBVFNFRkFYZ1NDbUY2cHN2allGX19xYW9hN2Nrel8tOUpVZzJ4VHRDQVhhelU0RG9HMU9mbWZWMmRmR2IxQnBvemdMazRUM2w0Y1RvMWkwQktTVXZpU0p3?oc=5",
+      "source": "Proactive financial news",
+      "published_at": "2026-08-17T06:08:00+00:00",
+      "summary": "The Small Cap Wrap: Queensland Government deploys expanded $250 million Critical Minerals Fund and more... Proactive financial news",
+      "category": "resources",
+      "score": 3.679
     }
   ],
   "hero_history": [
+    "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center",
     "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
     "Trump's envoys meet mediators, Israel strikes Gaza",
     "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
     "A nation divided: What do Israelis want in October’s elections?",
     "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
     "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news",
-    "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says",
-    "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say"
+    "Israeli airstrikes on southern Lebanon kill 9 people, Health Ministry says"
   ]
 }

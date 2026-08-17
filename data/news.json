@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-17T13:04:01.756074+00:00",
+  "updated": "2026-08-17T18:56:18.803135+00:00",
   "hero": {
-    "title": "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal",
+    "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
     "source": "Reuters",
-    "published_at": "2026-08-17T12:46:51+00:00",
-    "summary": "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal Reuters",
+    "published_at": "2026-08-17T15:52:24+00:00",
+    "summary": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center Reuters",
     "category": "tech",
-    "score": 11.254
+    "score": 9.192
   },
   "items": [
     {
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-17T12:27:11+00:00",
-      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "category": "conflicts",
-      "score": 6.547
-    },
-    {
-      "title": "World shares are mixed and Brent crude is higher after worries over stagflation pull US stocks lower",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGMxazQ3aC1nN2JTWmNzUGxNd1JaNXlUam9PQ05SVW44a2NCTlNNRzlwdnRBQkpEY0pIYTdpYk5DUzhnZG9XVWdwbUxNM3BJOEpJQzk4djduaTVHcl92NXFIS01kZ2lTcnplZE8teGdCaDhpdzQzLVZqeFVfTjl1ODJjcy1nRnlkZlBFOG5UaEszcXhFVTZ6U003ZlBfbWM?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-17T09:05:00+00:00",
-      "summary": "World shares are mixed and Brent crude is higher after worries over stagflation pull US stocks lower AP News",
-      "category": "resources",
-      "score": 4.515
-    },
-    {
-      "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
-      "url": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+      "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-08-17T12:44:01+00:00",
-      "summary": "Houthi and government forces exchange drone attacks, marking a major shift in war tactics.",
+      "published_at": "2026-08-17T18:53:06+00:00",
+      "summary": "Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.",
       "category": "conflicts",
-      "score": 4.205
+      "score": 7.433
     },
     {
-      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "source": "The Verge",
-      "published_at": "2026-08-17T10:57:13+00:00",
-      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source w",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-17T15:16:24+00:00",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
       "category": "tech",
-      "score": 4.2
+      "score": 6.635
+    },
+    {
+      "title": "Total solar eclipse 2026 (Official ESA broadcast)",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast",
+      "source": "ESA",
+      "published_at": "2026-08-17T14:00:00+00:00",
+      "summary": "Video: 01:10:42 We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. The path of totality swept across Greenland, Iceland, Spain and a small area of northeastern Portugal, while much of Europe experi",
+      "category": "science",
+      "score": 4.831
+    },
+    {
+      "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-17T18:46:12+00:00",
+      "summary": "Supreme Court ruling supports Kremlin's clampdown on the political party ahead of September's parliamentary vote.",
+      "category": "politics",
+      "score": 4.234
     }
   ],
   "hero_history": [
+    "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
     "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal",
     "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center",
     "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
     "Trump's envoys meet mediators, Israel strikes Gaza",
     "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
     "A nation divided: What do Israelis want in October’s elections?",
-    "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
-    "Iran says Qatar is holding pilots, Israeli strikes kill 11 in Lebanon, and other Middle East news"
+    "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says"
   ]
 }

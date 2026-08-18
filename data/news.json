@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-18T13:06:09.686958+00:00",
+  "updated": "2026-08-18T18:55:04.760338+00:00",
   "hero": {
-    "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
+    "title": "AI chip startup Etched doubles valuation to $21 billion in under a month",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
     "source": "Reuters",
-    "published_at": "2026-08-18T12:08:09+00:00",
-    "summary": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls Reuters",
+    "published_at": "2026-08-18T16:31:30+00:00",
+    "summary": "AI chip startup Etched doubles valuation to $21 billion in under a month Reuters",
     "category": "tech",
-    "score": 9.572
+    "score": 6.976
   },
   "items": [
+    {
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-08-18T18:20:08+00:00",
+      "summary": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+      "category": "finance",
+      "score": 6.745
+    },
+    {
+      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-18T18:06:54+00:00",
+      "summary": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks Reuters",
+      "category": "tech",
+      "score": 6.338
+    },
     {
       "title": "UK will support Ukraine \"100%\" despite Russian warning, PM Burnham says",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-18T11:39:43+00:00",
+      "published_at": "2026-08-18T12:13:49+00:00",
       "summary": "UK will support Ukraine \"100%\" despite Russian warning, PM Burnham says Reuters",
       "category": "conflicts",
-      "score": 9.385
+      "score": 5.833
     },
     {
-      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot AP News",
-      "category": "tech",
-      "score": 7.061
-    },
-    {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-18T12:36:11+00:00",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "category": "conflicts",
-      "score": 5.603
-    },
-    {
-      "title": "Wildfires, drought and extreme heat, 2026",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
-      "source": "ESA",
-      "published_at": "2026-08-18T13:00:00+00:00",
-      "summary": "Earth observation satellites help us monitor phenomena such as wildfires, drought and heatwaves from space. This page is updated on a regular basis with a selection of ESA’s most recent news-related images showing how the effects of climate change are impacting our world.",
-      "category": "science",
-      "score": 5.252
+      "title": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-18T16:31:13+00:00",
+      "summary": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb Reuters",
+      "category": "finance",
+      "score": 4.823
     }
   ],
   "hero_history": [
+    "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
     "Palestinian American returns to West Bank with his home under siege by Israeli settlers",
     "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
     "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
     "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal",
     "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center",
-    "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-    "Trump's envoys meet mediators, Israel strikes Gaza"
+    "Trump envoy Kushner meets Hamas leader to push Gaza peace plan"
   ]
 }

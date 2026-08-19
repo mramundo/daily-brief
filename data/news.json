@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-19T07:03:55.924829+00:00",
+  "updated": "2026-08-19T13:07:03.525958+00:00",
   "hero": {
-    "title": "Ukraine’s ousted defence minister calls for elections during war",
-    "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-08-19T05:59:44+00:00",
-    "summary": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion.",
-    "category": "conflicts",
-    "score": 7.124
+    "title": "Sacked Ukrainian defence minister calls for presidential election",
+    "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-08-19T11:00:21+00:00",
+    "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+    "category": "politics",
+    "score": 6.493
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-08-19T02:17:00+00:00",
       "summary": "Nvidia H200 chips reach China in small shipments, FT reports Reuters",
       "category": "tech",
-      "score": 6.998
+      "score": 5.439
     },
     {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-19T04:44:41+00:00",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "title": "Ukraine updates: Ousted minister Fedorov calls for elections",
+      "url": "https://www.dw.com/en/ukraine-updates-ousted-minister-fedorov-calls-for-elections/live-78421712?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-08-19T08:11:00+00:00",
+      "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has called for wartime elections in Ukraine in the biggest challenge to President Volodymyr Zelenskyy since the start of the full-scale Russian invasion. DW has more.",
       "category": "politics",
-      "score": 6.437
+      "score": 5.334
     },
     {
-      "title": "US sanctions ICC president, senior trial lawyer in latest attack on court",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa216Q2JDZGZ2enFuVmRjLXkzbFU5RmdyZkszQnJnVHFkZExkRmI4ZWpOV2FGMVpZV29qNzhtaFhyZmZKYUxMRDRyTlduM3J4ZHF1N0czVlo1dGs2amxDektLMFR5a0VjQ2I3MGNQTHRSWE5Mck9lMnUxNWZiVTJQX2ZPdlJlQmFKYUktOUdHeXRSYlFYSG8xbk80bUxJNVVhS1h5dDNhNm9RV2UyYWJ4QTFXY090SzFOV2VEYmpwRnp0RXZFQ21xTW9sWTJnNmM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-18T22:42:56+00:00",
-      "summary": "US sanctions ICC president, senior trial lawyer in latest attack on court Reuters",
-      "category": "politics",
-      "score": 4.665
+      "title": "Fly around Schiaparelli Crater with Mars Express",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
+      "source": "ESA",
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "summary": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been filled in over the last few billion year",
+      "category": "science",
+      "score": 4.999
     },
     {
-      "title": "Anthropic prepares supervoting power for founders ahead of IPO, the Information reports",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWhlcVlRMWxYS3FJNUhUVXRBbHBaMXh6OTdJYm9JODFsNUF3Z2NVd2tjWGpCUkExSENidW9ZSzlObEtvbWJ4dlIxd21ab3lseXRRY21ad1dyeGdNV2dZdXNWc0lhR3NBYWo4SGwxYm9wZi1CVzNXQlVObGROTVZxcm93SzlIVkhJTG5QWVplMV9WNm9yZEpsOTZxb0Z5QjJ4OWF4czUtRDdkWWV5TlRiVzVqWWV0YXd3WEVQQw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-18T22:22:54+00:00",
-      "summary": "Anthropic prepares supervoting power for founders ahead of IPO, the Information reports Reuters",
-      "category": "tech",
-      "score": 4.601
+      "title": "Inflation is heating up but don't expect another crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-08-19T11:27:39+00:00",
+      "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
+      "category": "finance",
+      "score": 4.727
     }
   ],
   "hero_history": [
+    "Sacked Ukrainian defence minister calls for presidential election",
     "Ukraine’s ousted defence minister calls for elections during war",
     "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
     "Palestinian American returns to West Bank with his home under siege by Israeli settlers",
     "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
-    "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
-    "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal"
+    "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center"
   ]
 }

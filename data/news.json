@@ -1,15 +1,33 @@
 {
-  "updated": "2026-08-19T01:51:39.879107+00:00",
+  "updated": "2026-08-19T07:03:55.924829+00:00",
   "hero": {
-    "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-18T20:27:00+00:00",
-    "summary": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot AP News",
-    "category": "tech",
-    "score": 6.152
+    "title": "Ukraine’s ousted defence minister calls for elections during war",
+    "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-08-19T05:59:44+00:00",
+    "summary": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion.",
+    "category": "conflicts",
+    "score": 7.124
   },
   "items": [
+    {
+      "title": "Nvidia H200 chips reach China in small shipments, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2tBTmsySF9VRGZpdVNsWmM1TGhwMXRhdGFGUGZiZDNjamtuNjlRbHo3OGpDQnNZVjByNkt6cWNEMFN4MkZybm95R29hMnlTVmxMYzktVC1DNUYwUnpsa3FlYjl1QldWczlmelFwNFM0YlJ0T1lPVlB1UGZ6NXdQRGU1dFVjRkdGUXdTYlJwUnM3dEtNSjBvdmZCbG42UGNaVFRqZTI0NXN2VjlQbmpDVw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-19T02:17:00+00:00",
+      "summary": "Nvidia H200 chips reach China in small shipments, FT reports Reuters",
+      "category": "tech",
+      "score": 6.998
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-19T04:44:41+00:00",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "category": "politics",
+      "score": 6.437
+    },
     {
       "title": "US sanctions ICC president, senior trial lawyer in latest attack on court",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa216Q2JDZGZ2enFuVmRjLXkzbFU5RmdyZkszQnJnVHFkZExkRmI4ZWpOV2FGMVpZV29qNzhtaFhyZmZKYUxMRDRyTlduM3J4ZHF1N0czVlo1dGs2amxDektLMFR5a0VjQ2I3MGNQTHRSWE5Mck9lMnUxNWZiVTJQX2ZPdlJlQmFKYUktOUdHeXRSYlFYSG8xbk80bUxJNVVhS1h5dDNhNm9RV2UyYWJ4QTFXY090SzFOV2VEYmpwRnp0RXZFQ21xTW9sWTJnNmM?oc=5",
@@ -17,7 +35,7 @@
       "published_at": "2026-08-18T22:42:56+00:00",
       "summary": "US sanctions ICC president, senior trial lawyer in latest attack on court Reuters",
       "category": "politics",
-      "score": 5.795
+      "score": 4.665
     },
     {
       "title": "Anthropic prepares supervoting power for founders ahead of IPO, the Information reports",
@@ -26,35 +44,17 @@
       "published_at": "2026-08-18T22:22:54+00:00",
       "summary": "Anthropic prepares supervoting power for founders ahead of IPO, the Information reports Reuters",
       "category": "tech",
-      "score": 5.715
-    },
-    {
-      "title": "Tech selloff weighs down Wall Street as bond yields climb",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-18T22:58:54+00:00",
-      "summary": "Tech selloff weighs down Wall Street as bond yields climb Reuters",
-      "category": "finance",
-      "score": 4.45
-    },
-    {
-      "title": "Russian missile strike kills 10 civilians in Kharkiv",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-18T20:26:01+00:00",
-      "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
-      "category": "conflicts",
-      "score": 4.373
+      "score": 4.601
     }
   ],
   "hero_history": [
+    "Ukraine’s ousted defence minister calls for elections during war",
     "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
     "Palestinian American returns to West Bank with his home under siege by Israeli settlers",
     "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
     "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
-    "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal",
-    "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center"
+    "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal"
   ]
 }

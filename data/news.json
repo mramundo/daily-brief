@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-19T18:51:52.525695+00:00",
+  "updated": "2026-08-20T01:50:05.445252+00:00",
   "hero": {
-    "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-    "url": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
+    "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+    "url": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
     "source": "Al Jazeera",
-    "published_at": "2026-08-19T18:08:09+00:00",
-    "summary": "Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
+    "published_at": "2026-08-19T23:21:32+00:00",
+    "summary": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad's government fell.",
     "category": "conflicts",
-    "score": 7.043
+    "score": 5.909
   },
   "items": [
     {
-      "title": "OpenAI hit the brakes. Now what?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "source": "The Verge",
-      "published_at": "2026-08-19T17:10:09+00:00",
-      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened se",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-19T22:10:46+00:00",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
       "category": "tech",
-      "score": 6.566
+      "score": 5.162
     },
     {
-      "title": "Ancient Milky Way Merger",
-      "url": "https://www.nasa.gov/image-article/ancient-milky-way-merger/",
-      "source": "NASA",
-      "published_at": "2026-08-19T16:18:48+00:00",
-      "summary": "This artist’s concept, released on Aug. 17, 2026, depicts a collision between our Milky Way galaxy and a dwarf galaxy known as LKH that happened about 12 billion years ago. A study of data from NASA’s Hubble Space Telescope, recently published in the journal Nature Astronomy, sho",
-      "category": "science",
-      "score": 4.898
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-19T18:46:14+00:00",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "category": "tech",
+      "score": 4.479
     },
     {
-      "title": "Dead and injured people moved to ambulances after Israeli airstrikes hit Gaza Strip",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOG5sRGY1TUpDa3hxTHBETjhwMlFiU2hxX3JpQ1pwNFFyOFhyVThPVks4ZU9RcWZlX1RvYUp2ZTFDcFJ5bF9mZjVmLUtXeEZDcEtaYjNuN21ybW41NGJIZ2tkeDZWcUNYTThMQ2xuZHpEampHUHZmYlNrT2R4amlPc0NHMU52X3YxX1Q5eU95VzVCYlo3T2JxSzlVemlGS1VXanJSdXN4eGVBWWExV3MySHhON1FjclJSQWJEeVV2MndUVFEycTBFRXpPOFFBTWJuMVZSajA3aW4?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-19T17:44:00+00:00",
-      "summary": "Dead and injured people moved to ambulances after Israeli airstrikes hit Gaza Strip AP News",
+      "title": "Euro zone yields slip from multi-year highs after US Treasury announcement",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXBZX1BWaGNBWmxlLXZuY1FjdkJyX3kwdEZhSE9JSXg3cTNWXzk5UlBhTi1LTjQwaGNOaHYtbTFwYlpiNHNXaF9vdDZ2NWJreHlhQXhpZmVKb1NUNzJOaEIzTDRrdkI2VDJiakUxWTl2T2w0WlA4aGpaUFFaVVdnVmNhelF5ajdZQndfUno2UEZWWlphU2QzT2RHMWwySU9TX2xkSGZYc0lRWlNZZTVXbTRR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-19T15:45:45+00:00",
+      "summary": "Euro zone yields slip from multi-year highs after US Treasury announcement Reuters",
+      "category": "finance",
+      "score": 4.342
+    },
+    {
+      "title": "Russian ballistic missiles kill at least three in Ukraine's Kyiv, mayor says",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-19T22:08:00+00:00",
+      "summary": "Russian ballistic missiles kill at least three in Ukraine's Kyiv, mayor says Reuters",
       "category": "conflicts",
-      "score": 4.786
-    },
-    {
-      "title": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-      "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
-      "source": "NASA",
-      "published_at": "2026-08-19T18:08:25+00:00",
-      "summary": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct",
-      "category": "science",
-      "score": 4.624
+      "score": 4.3
     }
   ],
   "hero_history": [
+    "Lebanon hands former Syrian army general to Damascus after arrest warrant",
     "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
     "Sacked Ukrainian defence minister calls for presidential election",
     "Ukraine’s ousted defence minister calls for elections during war",
     "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
     "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
-    "Palestinian American returns to West Bank with his home under siege by Israeli settlers",
-    "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center"
+    "Palestinian American returns to West Bank with his home under siege by Israeli settlers"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-20T01:50:05.445252+00:00",
+  "updated": "2026-08-20T07:04:53.801518+00:00",
   "hero": {
-    "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-    "url": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-08-19T23:21:32+00:00",
-    "summary": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad's government fell.",
-    "category": "conflicts",
-    "score": 5.909
+    "title": "Trump says will meet North Korea's Kim later this year",
+    "url": "https://www.france24.com/en/trump-says-will-meet-north-korea-s-kim-later-this-year",
+    "source": "France 24",
+    "published_at": "2026-08-20T06:07:05+00:00",
+    "summary": "US President Donald Trump said Wednesday that he would meet Kim Jong Un later this year, seeking to revive the bond he claims to have forged with the leader of nuclear-armed North Korea in his first term. FRANCE 24’s Monte Francis brings us more with this report.",
+    "category": "politics",
+    "score": 5.607
   },
   "items": [
     {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "source": "TechCrunch",
-      "published_at": "2026-08-19T22:10:46+00:00",
-      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-08-20T02:05:20+00:00",
+      "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+      "category": "science",
+      "score": 5.319
+    },
+    {
+      "title": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWRad2pqRFM3MFFjMmpQTXRQOXFvYjJzVlRvUXJiNWlOVUhKMWQwR09FcGl5am03VjdJZVJnbXVDQTdjM0N0OFBkUDJGbEwteUtKazJ0SU9reUJTcGpUdFpnQmlhNmZ6LVlsTGVheXZSd2x3UXpMTTk2bDBiY0d4OFJRUDEyT01vRXU2eVRMajVPbFZDMjVLZw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-08-20T06:35:21+00:00",
+      "summary": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins. The Motley Fool",
       "category": "tech",
-      "score": 5.162
+      "score": 5.286
     },
     {
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "source": "TechCrunch",
-      "published_at": "2026-08-19T18:46:14+00:00",
-      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "category": "tech",
-      "score": 4.479
-    },
-    {
-      "title": "Euro zone yields slip from multi-year highs after US Treasury announcement",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXBZX1BWaGNBWmxlLXZuY1FjdkJyX3kwdEZhSE9JSXg3cTNWXzk5UlBhTi1LTjQwaGNOaHYtbTFwYlpiNHNXaF9vdDZ2NWJreHlhQXhpZmVKb1NUNzJOaEIzTDRrdkI2VDJiakUxWTl2T2w0WlA4aGpaUFFaVVdnVmNhelF5ajdZQndfUno2UEZWWlphU2QzT2RHMWwySU9TX2xkSGZYc0lRWlNZZTVXbTRR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-19T15:45:45+00:00",
-      "summary": "Euro zone yields slip from multi-year highs after US Treasury announcement Reuters",
-      "category": "finance",
-      "score": 4.342
-    },
-    {
-      "title": "Russian ballistic missiles kill at least three in Ukraine's Kyiv, mayor says",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2hpTTJYeTlzS2hqZHBTdkg1TjhTUklENW93WjNKNjgzZlJsaGxHTW1wTlliVEttM0lndVdGeGRBUHpHaWR4Q3JrTTJ3dThqMzl0VlJxUWZTMXdFS2R2QzlhdTRkaTFVNEoyTzFVZnptUlVqemxCUFJyS1lyVjZqNW1EOERzU3c3dW1rdmwxbjl6RGJMVmVtN1lmbHVscWNkMlVTWVhHeDd0MThsYzV3QnNCaURqb2c5b0E?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-19T22:08:00+00:00",
-      "summary": "Russian ballistic missiles kill at least three in Ukraine's Kyiv, mayor says Reuters",
+      "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-20T06:44:20+00:00",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
       "category": "conflicts",
-      "score": 4.3
+      "score": 4.55
+    },
+    {
+      "title": "UN aid chief warns Russian drones threaten civilians and aid work in Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXd4Y05nb01uMGR2ZG1qamlzR0ZPY09kZFRqdUM4R2JFNF9lRFFDOUEtMWlMUGtVWEp5eFFuZ1FPVlF0dXYtVUs3elJ1d2hnZVZfQXRjcW5JbmZQR3B4UzUtcDBDY2stUWozYzNkbUowaDRhR1BZTkxNd25UbjVEbjlENTBJcmtUMTBxMlpZV09KSURXVFAyS0JVdVh3QXR2UVh2Y0FWYm5HaVZORGFJamROOWhHTGdvU0RDYXc2LThRMG1CbUk5WnFuVkQ0Z2M?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-20T04:41:00+00:00",
+      "summary": "UN aid chief warns Russian drones threaten civilians and aid work in Ukraine AP News",
+      "category": "conflicts",
+      "score": 4.54
     }
   ],
   "hero_history": [
+    "Trump says will meet North Korea's Kim later this year",
     "Lebanon hands former Syrian army general to Damascus after arrest warrant",
     "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
     "Sacked Ukrainian defence minister calls for presidential election",
     "Ukraine’s ousted defence minister calls for elections during war",
     "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
     "AI chip startup Etched doubles valuation to $21 billion in under a month",
-    "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
-    "Palestinian American returns to West Bank with his home under siege by Israeli settlers"
+    "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls"
   ]
 }

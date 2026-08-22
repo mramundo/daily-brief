@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-22T01:48:43.774854+00:00",
+  "updated": "2026-08-22T06:57:53.156571+00:00",
   "hero": {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "source": "TechCrunch",
-    "published_at": "2026-08-21T22:37:38+00:00",
-    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "category": "tech",
-    "score": 8.139
+    "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+    "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-08-22T06:40:30+00:00",
+    "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+    "category": "conflicts",
+    "score": 4.56
   },
   "items": [
     {
@@ -17,7 +17,7 @@
       "published_at": "2026-08-21T21:30:13+00:00",
       "summary": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% Reuters",
       "category": "tech",
-      "score": 5.521
+      "score": 4.454
     },
     {
       "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
@@ -26,7 +26,16 @@
       "published_at": "2026-08-22T00:06:48+00:00",
       "summary": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
       "category": "conflicts",
-      "score": 5.108
+      "score": 4.121
+    },
+    {
+      "title": "OPEC Further Lowers 2026 Global Oil Demand Growth Forecast",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGF4eTctTUVhdU5hYTlzcU1DWDdzWVZVXzl2ZDl1ai1PT2wxbTR0XzJtNGdKYnJrMVZRZFZXc1FoaG9IVTg3ZlRMUllWYnZzZ0NaeVVfU0FtZ1laOUhxRTZ0ZlZzNHVLR3hjNWRfLU1qZndQR1BEbmtjOU9YTXN1eEliN2NkWXI3M1VsS0RxOVVCR2Yy?oc=5",
+      "source": "EnergyNow",
+      "published_at": "2026-08-22T04:01:09+00:00",
+      "summary": "OPEC Further Lowers 2026 Global Oil Demand Growth Forecast EnergyNow",
+      "category": "resources",
+      "score": 4.09
     },
     {
       "title": "Iranian president says time to end war with US from ‘position of strength’",
@@ -35,26 +44,17 @@
       "published_at": "2026-08-22T00:59:37+00:00",
       "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
       "category": "politics",
-      "score": 4.71
-    },
-    {
-      "title": "One killed, three wounded in sword attack at Swedish high school",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-21T21:23:35+00:00",
-      "summary": "One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.",
-      "category": "conflicts",
-      "score": 4.671
+      "score": 3.8
     }
   ],
   "hero_history": [
+    "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
     "Nvidia partners with data center developer Cloverleaf",
     "BNKR: Merger forms a top-tier U.S. silver and critical minerals producer with major growth potential",
     "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
     "Anthropic Expects to Match or Top SpaceX’s Record IPO Size",
     "The US and others turn to Brazil for rare earths, raising environmental concerns",
     "Nvidia to ship AI chip for China by year-end, The Information reports",
-    "The US and others turn to Brazil for rare earths, raising environmental concerns",
-    "Trump says will meet North Korea's Kim later this year"
+    "The US and others turn to Brazil for rare earths, raising environmental concerns"
   ]
 }

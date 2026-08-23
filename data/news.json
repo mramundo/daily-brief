@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-23T01:58:30.602005+00:00",
+  "updated": "2026-08-23T06:59:58.564291+00:00",
   "hero": {
-    "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-22T20:00:21+00:00",
-    "summary": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Reuters",
-    "category": "tech",
-    "score": 10.151
+    "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+    "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-08-23T05:46:43+00:00",
+    "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+    "category": "politics",
+    "score": 4.66
   },
   "items": [
     {
-      "title": "NVIDIA Faces Price Hike on AI Servers Amid Rising Chip Costs",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORDBULW9RLVRIcHJWa1B5S1M5RmYtMUxZX0xxdElheXk1TlQyeW5ORHJVTnhrLXNwc0FDT3g4WE9Sd2E2MUlISTdzMWRXcFBvekVNU1BzT2hCaEJWTExEUm9LckZqbFdwVkJ3bFZQSFhIdlJlWnprT0ZQV01raEJXM19tcnpaMVJhOVJkV0k5ZWJDdmhnWVg3c2ZSUjh4UWpL?oc=5",
-      "source": "GuruFocus",
-      "published_at": "2026-08-23T01:48:03+00:00",
-      "summary": "NVIDIA Faces Price Hike on AI Servers Amid Rising Chip Costs GuruFocus",
+      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-22T20:00:21+00:00",
+      "summary": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Reuters",
       "category": "tech",
-      "score": 5.356
+      "score": 4.528
+    },
+    {
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-08-23T04:23:00+00:00",
+      "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.",
+      "category": "politics",
+      "score": 4.37
     },
     {
       "title": "Tropical Storm Moke advances toward Hawaii as winds strengthen",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFhJUENlV3lDN1gzczBrRVVjWEFpdWpqcFhjWmtveXlGOGREU1VLV0JNZVFhQU4zSE1jU3VWTjFMaVpQWVVqOF92ZlZmVlpPa0duN1RZZmthTjVSNjhCdnpNUFlOY21Gd3FNYi1JZk1xd1RWYTloa1UwYWt1QU42N1VNQVg1NmpvRVV1a0FHQjU3d21zNUdLUHNFaHl6R2g4R2xz?oc=5",
       "source": "AP News",
-      "published_at": "2026-08-22T21:11:00+00:00",
+      "published_at": "2026-08-23T01:08:00+00:00",
       "summary": "Tropical Storm Moke advances toward Hawaii as winds strengthen AP News",
       "category": "conflicts",
-      "score": 4.509
+      "score": 4.311
     },
     {
-      "title": "Marcos EO seeks development of PH critical minerals industry",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbFo3NmYxT3N6T2FYeWd0TzNBQnVlam53OVZPeUdRNExPSkpyVmVDVjVTdUdqY1VVS1BzWlJKYXlOS0hqLVF6eHJuTko0SXJwZld1ZlZhYWItWGwtWk12WEpZMFdUM2UwalV2dmR5dDR0THZ1SGt1Y1B5UG5HUERhVXV6ME1DTkw4Z0tKbFdVRXVNek9xSEdYNGtXN1NoZGtvRXdGUmVWdVFMQkhLMWZEUUstWjdkU2xWdGVXetIBwgFBVV95cUxPdVJodHJwU1FSd3psT3JQem81UUYxRFJoaGw1azkzc2Y1SEJxSTVZQ3poVEE5UFVINXc3VHJwb2ZBMnhoazk5Z0o2ZEZaQmdCaHRaYnREbXIwbjI2ZTg1OV82eGZLR0tpWHBWbjhmUm9ZQTBBX1Znd2tScjkwTU9wSzZ2N3Z2S0E2bUQzalhuaURtdVI1TFF2aXhkVTkyZ00xN2RpcXBVN0tSUVJUTDlpNnBqbjJJQ1h4VFFhUnZLcVZrZw?oc=5",
-      "source": "GMA Network",
-      "published_at": "2026-08-22T22:51:36+00:00",
-      "summary": "Marcos EO seeks development of PH critical minerals industry GMA Network",
-      "category": "resources",
-      "score": 4.376
-    },
-    {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-22T20:02:46+00:00",
-      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "category": "politics",
-      "score": 3.605
+      "title": "Peace through strength, Taiwan president says on China battle anniversary",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29YcXQzMHVTQVR1SFNUb2tUV1AxR18yZFlfYzlZWXNQNVlBQVV5a21raGM0X3dobTU5cVFIZXAzYnIyVURoc0ZWOW45bFd6WWREOXhaazhiSFB4OHBxSWM4cEJhVVB6WHctM0RQOXBjbkJBdnVnZTB5RlhIY2NuUGpielJhVVNfM0lEZHdJNEEzSmVuWFZuNWlidkZMNlRFbE5LRHNXRDF5MEhfVHF3RWJnajFETktY?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-23T05:33:00+00:00",
+      "summary": "Peace through strength, Taiwan president says on China battle anniversary Reuters",
+      "category": "conflicts",
+      "score": 4.181
     }
   ],
   "hero_history": [
+    "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
     "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
     "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
     "100 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter",
     "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
     "Nvidia partners with data center developer Cloverleaf",
     "BNKR: Merger forms a top-tier U.S. silver and critical minerals producer with major growth potential",
-    "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
-    "Anthropic Expects to Match or Top SpaceX’s Record IPO Size"
+    "Nvidia in Talks With Chip Startup Rebellions for Potential Deal"
   ]
 }

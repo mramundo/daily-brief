@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-23T18:47:09.170054+00:00",
+  "updated": "2026-08-24T01:56:14.432633+00:00",
   "hero": {
-    "title": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFU5eGhHTHlWTGEwdF9hVzNLSFJMR2hZWTRFOGQ0aFNvVmFzaTFsRmRGa3JPZVhFcFFfeUs3YmRCYjBtNDZmYi15WF9xLUpjeDJXYThlaUFTNU5ISkMtTDl6MUo3N25rSmRWbXVpN1dhdzJ0QmpxZGFKRDMwcmlWaS1IOTVEM1NwY05Xdjd2ejZJcG13c2NjRmVrVHJZNEEwYTVmYW5fb0I3Zk01eGgzMjE0dHpDUjlrVFFzUVpKdlN4QjFoZVZ6dDBR?oc=5",
+    "title": "Shares flat in Asia before Iran sanctions news, Nvidia results",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-08-23T17:39:35+00:00",
-    "summary": "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say Reuters",
-    "category": "conflicts",
-    "score": 5.933
+    "published_at": "2026-08-24T00:49:00+00:00",
+    "summary": "Shares flat in Asia before Iran sanctions news, Nvidia results Reuters",
+    "category": "tech",
+    "score": 5.974
   },
   "items": [
     {
-      "title": "Iran says new sanctions threatened by 'desperate' US will fail",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-23T18:16:16+00:00",
-      "summary": "Iran says new sanctions threatened by 'desperate' US will fail Reuters",
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-23T20:19:36+00:00",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "category": "politics",
-      "score": 4.347
+      "score": 4.811
     },
     {
-      "title": "Nvidia announces AI-related price hikes",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SElHdFIyZDRldjJHTEk1ZEZEM2pDbjR4OGViTFNOTDAwVnB2REJjaV8zbkpwYWNSdzZXbHZXWEJCeF9uWmxFTlpPa2lrMFNjcGwyeEdvUlhJZm5BdEdBcVZyOHFIaWhWYTNGU1F2UkNWZnBfNnc?oc=5",
-      "source": "Taipei Times",
-      "published_at": "2026-08-23T16:00:00+00:00",
-      "summary": "Nvidia announces AI-related price hikes Taipei Times",
-      "category": "tech",
-      "score": 4.206
-    },
-    {
-      "title": "OpenAI wants California to strengthen its newly passed AI safety law",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU3kwUUdkQkoxeHZQajktMlZTSVpxMWhqMjFLUXowNEMzV2gyLXBHR3ViWkI2MGxwX3RlUVE4TjF3RlA1dFJFUFU3bUN3alRvWmF4bjFpQ1YtQlZwT2JtcFV1a3VXY29Ya3hYNWM3eTlFMUVOUjhScVZWS1V2U2RHU3lCT0l2TW8?oc=5",
-      "source": "Mashable",
-      "published_at": "2026-08-23T15:50:47+00:00",
-      "summary": "OpenAI wants California to strengthen its newly passed AI safety law Mashable",
-      "category": "tech",
-      "score": 4.091
-    },
-    {
-      "title": "Photos: Ukraine celebrates National Flag Day",
-      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-23T17:18:25+00:00",
-      "summary": "People observe a minute of silence for those killed in war to mark the holiday established in 2004.",
+      "title": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVA3N0RmLUxielhCSXB5WE9MYU94X0h0dWNCZ0l2bzZMNkNIdkhEZy1xSDlpOTFpcWtBQ29SeURBR0NIQnRRem5EbExpTkI3ajZlaG1vazM4dFNoQlZ3WVd2OWtHb3RXZjYxXy1vTklDOXBZcktNTERTWTFWRlRnZTRDR0t1T2dJMVNnd1gzTVF4YkJwRWV4bzJnVE01VTVXVGdvV0h4WWJ4cXhsM3ItTXBuM0dfVjlFVmVzTGpyc1hpRURY?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-23T23:12:32+00:00",
+      "summary": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says Reuters",
       "category": "conflicts",
-      "score": 4.009
+      "score": 3.838
+    },
+    {
+      "title": "Shein Seeks Up to $1.8 Billion in Long-Awaited Hong Kong IPO",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTEc3b2FVd3BwZ09penBuc2JtckdCQ1hFcHhDUi1CM3V4dnJWRV9JWC1JTmx2MjZiWTQtcWZnU2x2TmlHSTVmNDJTU3E5X2pIMkxfalZ4REtKSHVOMDA0NFlDUFk4WUpzU1EyV3Bmc0dqOWJ2WGlTN2lyR2c1WjdBeDI5VUV4UU8xbXNlUzd4T18xVG5HT2Nzd3N1ZFNYWHRtRVpwU2l6UTAtZU03RWlj?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-08-24T00:26:00+00:00",
+      "summary": "Shein Seeks Up to $1.8 Billion in Long-Awaited Hong Kong IPO Bloomberg",
+      "category": "tech",
+      "score": 3.837
+    },
+    {
+      "title": "UK's Burnham to visit Ukraine with plan to support long-range missile production",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlJiOHBHQVlWUC1FMFFRMUctRkpSVnZlOS1LTmVQQ3kxWkZTRU9FSVJzaC0tWTJyaTlUbWhYc0pnWTdBejhaemt6YllZbUx6MDV0QVlvMTVuQUx0LURPdm9qVEZ3eEtKQ01EeHMtY0pHVVJkYTVuVUFUcENEVm53cmFFQmE2QWU4SEVBVTViS2lCUnlJaVYtUy1lQjJ6TWNEc1BYbXphMmpwT0Radkw3ejNWM19oSWtHYXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-23T23:06:56+00:00",
+      "summary": "UK's Burnham to visit Ukraine with plan to support long-range missile production Reuters",
+      "category": "conflicts",
+      "score": 3.823
     }
   ],
   "hero_history": [
+    "Shares flat in Asia before Iran sanctions news, Nvidia results",
     "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
     "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
     "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
     "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
     "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
     "100 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter",
-    "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-    "Nvidia partners with data center developer Cloverleaf"
+    "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall"
   ]
 }

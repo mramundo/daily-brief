@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-25T13:10:05.083827+00:00",
+  "updated": "2026-08-25T18:55:29.894028+00:00",
   "hero": {
-    "title": "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1dGaTZHRWtJTFZDTU16bXdIajItMUxnbXZMeGd2MnluZVEzM1VtOTdGaUV4TG1BSDV1RlNySVl2WmVWNWtHbTZiR2hzWC1vVnRpQmoza1JYeEp3ZV80WkE2V0Y0aWxGNnl3UEpEV1lIcVNqd3V1bzkzOGlVRzdwOHA0UHRXa3Nvb01pb2k1S0JJcGZWdGhNWWdFanRkNHNrUkdLQW01SlZtalE4ejNyWDF0SnBaQQ?oc=5",
+    "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0xINWRaSDFhQkxzcWtKd3Q4ZmNhUndScGdaQWl4U0J6dURXY1J0UmJ6aE96ajBIdzZHa3hGWUE2dktKYjJkdE44N05YZ1E3MmR1WXJ5Wm1xTWNFQW5oUHl0bEZXZklvd1RhaFFTSFBmcXFNX3pFYWRkLXpIQ1FleW4xdlhmTXcwdUlCQUZkUFpYWl9mSnA2cTFGWGtsT1Jad1RsaGRVYTdyREpiSUtXemx4djJHNkhrS1lUMw?oc=5",
     "source": "Bloomberg",
-    "published_at": "2026-08-25T12:04:45+00:00",
-    "summary": "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins Bloomberg",
+    "published_at": "2026-08-25T16:19:39+00:00",
+    "summary": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests Bloomberg",
     "category": "tech",
-    "score": 6.997
+    "score": 9.71
   },
   "items": [
     {
-      "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYU91VUx2bDVfM1V1NDN3eGYtVk1kNzBLUEpUS2tkcW9ULXV2U0NqaVdEUG03aXc2SVd2Q3J4QXVtYWlnbFRpQWszb19mR3JqWTh3RHlKMVZfeTFwalZxLTJMRGhSbHJVeHdHUjlTOVBDcklqVXdLcDYxbXk4VW85VWZpZEhRdHNNTzJiemtnUHlESWx0LWJmbVFQaHVTVzBqbmZRUFRlS3hqN0hWRVkxTlVXWWJDdE1wTk02RUd4cmxKaUU?oc=5",
+      "title": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlR3eXlsWC1xOV9yNnI3OUcySkF2Z2xmdHJoZElUaWQxZXpwRlVoUHZXaDVsWU00ckUtR0FVdWN0RlhVSDFKS0tyZ0VuWVBXLVV4bDNfa3M0Zll5blM0OWJsQmU5TDJRVmZRVXFLM3VZNjdLMFhRTXBncE1pQUhrRDVORkpnODFtdXJiNjRsakFyQUR5c0phRVR2LXlWV1VFTUdEYThjZVEyMGNfcWQtRmNyblVaN2FJRFBPRjliT2RORkprd09YUDJBVUtzbWo2RUpTUHpB?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-25T10:27:04+00:00",
-      "summary": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny Reuters",
+      "published_at": "2026-08-25T16:56:38+00:00",
+      "summary": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports Reuters",
       "category": "tech",
-      "score": 5.899
+      "score": 6.554
     },
     {
-      "title": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEw0WEVBUHVmekViRzdXbkticFc3NlZWcGhPckhZdVBUcDE2WGpoQjhfbndEdXdKRmJ6SjJYNDd1TWFIZTJnWFl3TkVYVGwzYWNrVmgyQ0VPLUZWYWN4YzhIUFl1T2xkeE5QcEhKNGZqZHNEdmxOX2lZR3hBNjJWSnZqUGtublFGNUpSclZMWXYtTFhuNUUtUG9CTGxpS3RBV3RF?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-25T12:24:00+00:00",
-      "summary": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks AP News",
-      "category": "conflicts",
-      "score": 5.332
-    },
-    {
-      "title": "Gaza parents urged to stop kids flying kites after Israel warning to Hamas",
+      "title": "Gaza parents urged to stop children flying kites after Israel warning to Hamas",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzZiTDE1d29fYldmdmNnOU9NX2thNGlWVDBodVFxSWJ2eXdoc0dkOWhxX05hUEJjaVVCX1FRMHhfTmlLT3hubHhqc0hjUjFnamdNbEUxSHhBMTlSZHhmLURPSkNmaHBOOWgxd1VuUl92a2FoN19VT1lGbXhvQnM4WHVTZThFRlZ6SlhudTg1X2c5dDVyWnEzR01WZk9GNk1sNS1BR01hSTR0cmxPZjR1OHVsbkRyempsRi1LSnhoRQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-25T09:23:43+00:00",
-      "summary": "Gaza parents urged to stop kids flying kites after Israel warning to Hamas Reuters",
+      "published_at": "2026-08-25T17:28:41+00:00",
+      "summary": "Gaza parents urged to stop children flying kites after Israel warning to Hamas Reuters",
       "category": "conflicts",
-      "score": 4.899
+      "score": 5.398
     },
     {
-      "title": "Nova Minerals: Western Caucus Congressional Delegation Visits the Estelle Gold and Critical Minerals Project",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTWg0SERaeXFQZjItUXFZZHhJOVpGZWwtZTNMQ3JaYzdRTUlZRkZTWkhwZmhXVmtEbnFLSXNVZmFPNUFGUF9PNVRNQmdCbE5UMHNMS1o2aC1ZcjdJSXVXSUNEOE9LSG9HZnVZcDQ5Q2pySk5vQ2lzQXF5WVNFNU8tZXY0S3RsODNhWE5Ya3lxdzhIQzJYcXplSGdtZHh4WlZHc2MzME12ZXdWMVZXRzAwcXAtcFV1NE01dUZtNTVJS2FhMWdNWWxrOXF3bFhGY3pNekhxOGJ6TXhXQi1ULUZCVnFjQzA0U252ZUpkRzQzc3Fxd2xrWEdNajNYXzdHckkzWTdjSmQzOVdLN1d5djBwcGZGbHFaLV8yQ1Fr?oc=5",
-      "source": "Junior Mining Network",
-      "published_at": "2026-08-25T11:20:41+00:00",
-      "summary": "Nova Minerals: Western Caucus Congressional Delegation Visits the Estelle Gold and Critical Minerals Project Junior Mining Network",
-      "category": "resources",
-      "score": 4.286
+      "title": "Chinese robot Tiangong clocks sub-9 second 100 metres in Beijing",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFR5YUFPa2FZQmFzbXUwLTBPQkIzRXhQZnlnM0M3NmVkbXUzTDFudVFRbVFEZXZBUE04NjYyVXRCVFVfTHFxVzRqbVVVUjNhclBuWHRyRWJKQnBvR3NGVmlzQnl0bF9FdXZzZXVoeXI0RmZqWnFqSzZFbjEyYm9hUzhWSmNDZDB5Zk5FS2hYTGdyVGxEVVIyamVCRlBndXJOMFdUbEFnMG5NS2pXcjJEVVN4MTV0VFk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-25T17:40:34+00:00",
+      "summary": "Chinese robot Tiangong clocks sub-9 second 100 metres in Beijing Reuters",
+      "category": "politics",
+      "score": 5.226
+    },
+    {
+      "title": "Falling oil prices help calm the stock and bond markets",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-25T17:49:00+00:00",
+      "summary": "Falling oil prices help calm the stock and bond markets AP News",
+      "category": "finance",
+      "score": 5.089
     }
   ],
   "hero_history": [
+    "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests",
     "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins",
     "Alabama launches probe into OpenAI after Hugging Face breach",
     "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers",
     "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
     "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results",
     "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
-    "Shares flat in Asia before Iran sanctions news, Nvidia results",
-    "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say"
+    "Shares flat in Asia before Iran sanctions news, Nvidia results"
   ]
 }

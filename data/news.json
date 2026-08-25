@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-24T18:57:41.585635+00:00",
+  "updated": "2026-08-25T01:50:54.532123+00:00",
   "hero": {
-    "title": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
+    "title": "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHdWeFdrSnZnVUI0SVAtZkxscnU2ZVlRdXg2cnRhUVRwSHY3VlZvVHI1VW9uNndkeTlnd3poYnFBYVpSVnNaV1BmeE9obU81Qk1aSnhNNjVaQVBVUmpJQ2t1b3loQThHSmRvQlJ4MnNiMHhGT1VWV2ZabVd0WFgxZUpiYXIwRTBkdTFwTnZTM1BZQzJPeDlGY21zYUJBQXV0ZlpIdkJNVUw1N0RNUHJ3VFpld0NIQQ?oc=5",
     "source": "AP News",
-    "published_at": "2026-08-24T16:17:00+00:00",
-    "summary": "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen AP News",
-    "category": "resources",
-    "score": 19.516
+    "published_at": "2026-08-24T19:43:00+00:00",
+    "summary": "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers AP News",
+    "category": "conflicts",
+    "score": 6.616
   },
   "items": [
     {
-      "title": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-24T16:42:51+00:00",
-      "summary": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom Reuters",
-      "category": "finance",
-      "score": 5.662
-    },
-    {
-      "title": "Israeli strike on Gaza shelter extends casualty list",
-      "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-08-24T16:27:36+00:00",
-      "summary": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
-      "category": "conflicts",
-      "score": 4.94
+      "published_at": "2026-08-24T22:32:26+00:00",
+      "summary": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a 'terrorist' organisation.",
+      "category": "politics",
+      "score": 5.563
     },
     {
-      "title": "Anthropic Wants to Beat SpaceX’s IPO, and It Could Reprice Every AI Stock You Own",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLUhWajdVZ2VMdWt4TDZsRDAyZTBSVkxEbTVuTllSc2dWUWU5QUxIZEg0UFVoS094MTB6cnEzQ3VCX09XSXY3LV9yTi1XSVYtRjI0VW5wV29CYXNleHdTdDYzdERwQjFDamxhTzRFX0hNV1lzMHZKVWNnSVc3X0ZNakNPNzY5V0s3Tk4zYnBZTjFiejNseHNkRW84RVlzdUF2cmFyMlV0Z2xLbjZiN2NVSjI0M092Qnp0MnAxVzRrVTU?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-08-24T16:20:23+00:00",
-      "summary": "Anthropic Wants to Beat SpaceX’s IPO, and It Could Reprice Every AI Stock You Own 24/7 Wall St.",
-      "category": "tech",
-      "score": 4.837
-    },
-    {
-      "title": "Wall Street drifts ahead of a big week that could swing stocks and bonds",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1dReDZpZnhwWEQySC1XMWxPbjNmY2Zaa3pEbUJESmZHWkVJd21EelRubnpIY2d4Ulh0QTRRY05wQ1hGRkliWTdlbGVqSjlGMUFmRUgtZXY5ZnBXVVI3clJFcGZVQU5wclptaUlUTmdaNTJ5Q1p4bFB6V1hJVEtJZDRyZ1NmNjZRejdFNDNWQV9oMlhaRnNN?oc=5",
+      "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzZTRjhQNGdDeDFHNnJXaWZvam1XY3dSOVU1dnRNS016T2tySWU4ejVsNS1oR1hRTVFVQVNFUDdrV05Ja21LQlFfMFpTNGwyZjNQdFhtYnZ0Q1l1SGs5dXZHVS1jQUN6SHNmV3UwTjdaVmR2c01UYXFuTTFUejdlU1ZHWTZoY2NfSEJRZVVpTkNFUFF5Sjg2TVhBV3RqQk0wS203MTUwTWdxOGNTclFndjl3?oc=5",
       "source": "AP News",
-      "published_at": "2026-08-24T17:49:00+00:00",
-      "summary": "Wall Street drifts ahead of a big week that could swing stocks and bonds AP News",
-      "category": "finance",
-      "score": 4.783
+      "published_at": "2026-08-24T19:33:00+00:00",
+      "summary": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff AP News",
+      "category": "tech",
+      "score": 5.081
+    },
+    {
+      "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-24T23:12:09+00:00",
+      "summary": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
+      "category": "conflicts",
+      "score": 4.931
+    },
+    {
+      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-25T00:52:58+00:00",
+      "summary": "Alabama launches probe into OpenAI after Hugging Face breach Reuters",
+      "category": "tech",
+      "score": 4.819
     }
   ],
   "hero_history": [
+    "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers",
     "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
     "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results",
     "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
     "Shares flat in Asia before Iran sanctions news, Nvidia results",
     "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
     "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
-    "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-    "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports"
+    "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war"
   ]
 }

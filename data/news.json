@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-25T01:50:54.532123+00:00",
+  "updated": "2026-08-25T07:06:43.994486+00:00",
   "hero": {
-    "title": "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHdWeFdrSnZnVUI0SVAtZkxscnU2ZVlRdXg2cnRhUVRwSHY3VlZvVHI1VW9uNndkeTlnd3poYnFBYVpSVnNaV1BmeE9obU81Qk1aSnhNNjVaQVBVUmpJQ2t1b3loQThHSmRvQlJ4MnNiMHhGT1VWV2ZabVd0WFgxZUpiYXIwRTBkdTFwTnZTM1BZQzJPeDlGY21zYUJBQXV0ZlpIdkJNVUw1N0RNUHJ3VFpld0NIQQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-24T19:43:00+00:00",
-    "summary": "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers AP News",
-    "category": "conflicts",
-    "score": 6.616
+    "title": "Alabama launches probe into OpenAI after Hugging Face breach",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-08-25T00:47:00+00:00",
+    "summary": "Alabama launches probe into OpenAI after Hugging Face breach Reuters",
+    "category": "tech",
+    "score": 7.655
   },
   "items": [
     {
-      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "title": "Nvidia shares set for $280 billion price swing after earnings, options show",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-25T05:01:00+00:00",
+      "summary": "Nvidia shares set for $280 billion price swing after earnings, options show Reuters",
+      "category": "tech",
+      "score": 5.045
+    },
+    {
+      "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+      "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-08-24T22:32:26+00:00",
-      "summary": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a 'terrorist' organisation.",
-      "category": "politics",
-      "score": 5.563
-    },
-    {
-      "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRzZTRjhQNGdDeDFHNnJXaWZvam1XY3dSOVU1dnRNS016T2tySWU4ejVsNS1oR1hRTVFVQVNFUDdrV05Ja21LQlFfMFpTNGwyZjNQdFhtYnZ0Q1l1SGs5dXZHVS1jQUN6SHNmV3UwTjdaVmR2c01UYXFuTTFUejdlU1ZHWTZoY2NfSEJRZVVpTkNFUFF5Sjg2TVhBV3RqQk0wS203MTUwTWdxOGNTclFndjl3?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-24T19:33:00+00:00",
-      "summary": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff AP News",
-      "category": "tech",
-      "score": 5.081
-    },
-    {
-      "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-24T23:12:09+00:00",
-      "summary": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
+      "published_at": "2026-08-25T02:54:40+00:00",
+      "summary": "Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.",
       "category": "conflicts",
-      "score": 4.931
+      "score": 4.714
     },
     {
-      "title": "Alabama launches probe into OpenAI after Hugging Face breach",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-25T00:52:58+00:00",
-      "summary": "Alabama launches probe into OpenAI after Hugging Face breach Reuters",
-      "category": "tech",
-      "score": 4.819
+      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-25T04:06:34+00:00",
+      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+      "category": "conflicts",
+      "score": 4.327
+    },
+    {
+      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-25T05:26:00+00:00",
+      "summary": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran AP News",
+      "category": "resources",
+      "score": 4.141
     }
   ],
   "hero_history": [
+    "Alabama launches probe into OpenAI after Hugging Face breach",
     "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers",
     "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
     "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results",
     "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
     "Shares flat in Asia before Iran sanctions news, Nvidia results",
     "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
-    "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power",
-    "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war"
+    "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power"
   ]
 }

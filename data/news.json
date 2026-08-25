@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-25T07:06:43.994486+00:00",
+  "updated": "2026-08-25T13:10:05.083827+00:00",
   "hero": {
-    "title": "Alabama launches probe into OpenAI after Hugging Face breach",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEpUUVNqdVEtZ2FQaGFZSnhRQ3BOa21DYlc3aEtLY2g1VFVINnR4MUFtTTlsdGUydkJsZllRQ3pJR3dNWnBjQlRrTjRVSWdVY2ZBdThOcXRlSkM1dTNYMlZlSF9MNnZ2M1dFc1BvNmVKTUZUYi1aR3RSeC1NWTk4d0F6aDNUbnlqZjNrMng2NFh2VVcwZk9UVkgwajFnOU9lOFRZSGJFRVF4MlBPUVhOSzF4UQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-25T00:47:00+00:00",
-    "summary": "Alabama launches probe into OpenAI after Hugging Face breach Reuters",
+    "title": "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1dGaTZHRWtJTFZDTU16bXdIajItMUxnbXZMeGd2MnluZVEzM1VtOTdGaUV4TG1BSDV1RlNySVl2WmVWNWtHbTZiR2hzWC1vVnRpQmoza1JYeEp3ZV80WkE2V0Y0aWxGNnl3UEpEV1lIcVNqd3V1bzkzOGlVRzdwOHA0UHRXa3Nvb01pb2k1S0JJcGZWdGhNWWdFanRkNHNrUkdLQW01SlZtalE4ejNyWDF0SnBaQQ?oc=5",
+    "source": "Bloomberg",
+    "published_at": "2026-08-25T12:04:45+00:00",
+    "summary": "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins Bloomberg",
     "category": "tech",
-    "score": 7.655
+    "score": 6.997
   },
   "items": [
     {
-      "title": "Nvidia shares set for $280 billion price swing after earnings, options show",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa182VERRNl9ULTg3MXh0Z004aGNnVW9HQW9TLTI3R01YZzRMeWZEMFhramsxeHVLNGE1ZXAwYTRZcWxMbGF5YTB5dkl6OHVyT2FrTks2ODRFdlNPSTNmUE1MM0ZhaF9LT1JRZEdVX1ZJU2NMNlZiQWlQZ0toUWk1WmVSbXdYTWJva3NxTG92LVJrczhfQzVnLTZ4aE1yYTAwVHVucFNQbHRxSDN6OGJZcjZNVHo?oc=5",
+      "title": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYU91VUx2bDVfM1V1NDN3eGYtVk1kNzBLUEpUS2tkcW9ULXV2U0NqaVdEUG03aXc2SVd2Q3J4QXVtYWlnbFRpQWszb19mR3JqWTh3RHlKMVZfeTFwalZxLTJMRGhSbHJVeHdHUjlTOVBDcklqVXdLcDYxbXk4VW85VWZpZEhRdHNNTzJiemtnUHlESWx0LWJmbVFQaHVTVzBqbmZRUFRlS3hqN0hWRVkxTlVXWWJDdE1wTk02RUd4cmxKaUU?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-25T05:01:00+00:00",
-      "summary": "Nvidia shares set for $280 billion price swing after earnings, options show Reuters",
+      "published_at": "2026-08-25T10:27:04+00:00",
+      "summary": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny Reuters",
       "category": "tech",
-      "score": 5.045
+      "score": 5.899
     },
     {
-      "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
-      "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-25T02:54:40+00:00",
-      "summary": "Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.",
-      "category": "conflicts",
-      "score": 4.714
-    },
-    {
-      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-25T04:06:34+00:00",
-      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
-      "category": "conflicts",
-      "score": 4.327
-    },
-    {
-      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
+      "title": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEw0WEVBUHVmekViRzdXbkticFc3NlZWcGhPckhZdVBUcDE2WGpoQjhfbndEdXdKRmJ6SjJYNDd1TWFIZTJnWFl3TkVYVGwzYWNrVmgyQ0VPLUZWYWN4YzhIUFl1T2xkeE5QcEhKNGZqZHNEdmxOX2lZR3hBNjJWSnZqUGtublFGNUpSclZMWXYtTFhuNUUtUG9CTGxpS3RBV3RF?oc=5",
       "source": "AP News",
-      "published_at": "2026-08-25T05:26:00+00:00",
-      "summary": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran AP News",
+      "published_at": "2026-08-25T12:24:00+00:00",
+      "summary": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks AP News",
+      "category": "conflicts",
+      "score": 5.332
+    },
+    {
+      "title": "Gaza parents urged to stop kids flying kites after Israel warning to Hamas",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzZiTDE1d29fYldmdmNnOU9NX2thNGlWVDBodVFxSWJ2eXdoc0dkOWhxX05hUEJjaVVCX1FRMHhfTmlLT3hubHhqc0hjUjFnamdNbEUxSHhBMTlSZHhmLURPSkNmaHBOOWgxd1VuUl92a2FoN19VT1lGbXhvQnM4WHVTZThFRlZ6SlhudTg1X2c5dDVyWnEzR01WZk9GNk1sNS1BR01hSTR0cmxPZjR1OHVsbkRyempsRi1LSnhoRQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-25T09:23:43+00:00",
+      "summary": "Gaza parents urged to stop kids flying kites after Israel warning to Hamas Reuters",
+      "category": "conflicts",
+      "score": 4.899
+    },
+    {
+      "title": "Nova Minerals: Western Caucus Congressional Delegation Visits the Estelle Gold and Critical Minerals Project",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTWg0SERaeXFQZjItUXFZZHhJOVpGZWwtZTNMQ3JaYzdRTUlZRkZTWkhwZmhXVmtEbnFLSXNVZmFPNUFGUF9PNVRNQmdCbE5UMHNMS1o2aC1ZcjdJSXVXSUNEOE9LSG9HZnVZcDQ5Q2pySk5vQ2lzQXF5WVNFNU8tZXY0S3RsODNhWE5Ya3lxdzhIQzJYcXplSGdtZHh4WlZHc2MzME12ZXdWMVZXRzAwcXAtcFV1NE01dUZtNTVJS2FhMWdNWWxrOXF3bFhGY3pNekhxOGJ6TXhXQi1ULUZCVnFjQzA0U252ZUpkRzQzc3Fxd2xrWEdNajNYXzdHckkzWTdjSmQzOVdLN1d5djBwcGZGbHFaLV8yQ1Fr?oc=5",
+      "source": "Junior Mining Network",
+      "published_at": "2026-08-25T11:20:41+00:00",
+      "summary": "Nova Minerals: Western Caucus Congressional Delegation Visits the Estelle Gold and Critical Minerals Project Junior Mining Network",
       "category": "resources",
-      "score": 4.141
+      "score": 4.286
     }
   ],
   "hero_history": [
+    "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins",
     "Alabama launches probe into OpenAI after Hugging Face breach",
     "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers",
     "Ontario's premier: Canada should be ready to cut electricity, critical minerals as trade woes worsen",
     "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results",
     "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports",
     "Shares flat in Asia before Iran sanctions news, Nvidia results",
-    "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say",
-    "Kazakhstan votes in a parliamentary election expected to strengthen president’s grip on power"
+    "Israeli airstrikes in Gaza kill two people, including 4-year-old boy, medics say"
   ]
 }

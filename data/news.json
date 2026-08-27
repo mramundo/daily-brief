@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-26T20:01:05.742856+00:00",
+  "updated": "2026-08-27T09:45:48.124420+00:00",
   "hero": {
-    "title": "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-08-26T18:18:40+00:00",
-    "summary": "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus Reuters",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "source": "TechCrunch",
+    "published_at": "2026-08-27T06:32:51+00:00",
+    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
     "category": "tech",
-    "score": 7.955
+    "score": 6.76
   },
   "items": [
     {
-      "title": "Meta reaches $18 billion settlement with states in landmark trial over teen social media addiction",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlhBT1Zvb1ZRZFhDYmpQdzhKVlJ3LXFEb1VUby1ZR0xZQnp3LTdwY2E2UWFzVy1sbHRUWTJXM0VaeVRZRnJFdjZUS3c3Q3V4VzdXYW1KeXRIT0JGZmFLeE1iNklXQkdZdmxmVnB3bnpGZ1V0bUpGSGZiZjF1c01FcU5zd3NCblNzSU9RRnR4OGNNdGpSRmc?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-26T18:56:00+00:00",
-      "summary": "Meta reaches $18 billion settlement with states in landmark trial over teen social media addiction AP News",
+      "title": "Brazil's Vale studies extracting rare earths, gold from mining waste",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHZzanc2TTJ2QVNtYWxGdG5vWVF6Z0JFZ1B0d2NzNkdZdDF2ZTFPVFhjSTN3VmYzZjhlbFB6LThaaXo1Vmh5SzJBNHJ5Zlh2cHczWU1BalQtVG00bEdLbm1ZWTM3RnE2ME8xMUNFeTVrX2NleGlDTGN2YUE0OWJteG5mUWVMSTJRQ25YQVZnOTh3S05rWUhtSmg2alJKU0R5OEsxVEhpT1p5Qy1UNE1razVnQU1RVTlmU0hlZVRuODc3V1duQ2R4Wi1XY3RjRHc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-26T23:56:00+00:00",
+      "summary": "Brazil's Vale studies extracting rare earths, gold from mining waste Reuters",
+      "category": "resources",
+      "score": 5.671
+    },
+    {
+      "title": "OPEC+ loses oil market sway in Iran war as China gains influence",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzQ5cjA0LVhLZTN3aEpkcDBvMXNmV3BnTHVtMFBzZnFfN05PSXFjZFAyUTZ3OEtBTnVCRDhIQXkwbGMwUFZSSTBLek9IbmNqTG16bGdlVlVjOHZ1ZER2c3Z5aXJuaV95ZFFObV9XZlYwNHNqdXcxN2FzeVRkSDF1OURPRThrUHhjOThzTEFyY1NBSG10Zlh4VXRTQWhzMXg3TGJINkRyWGhHLTd1NHc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-27T07:14:25+00:00",
+      "summary": "OPEC+ loses oil market sway in Iran war as China gains influence Reuters",
+      "category": "resources",
+      "score": 5.342
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-26T23:47:18+00:00",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
       "category": "tech",
-      "score": 6.803
+      "score": 5.101
     },
     {
-      "title": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science/",
-      "source": "NASA",
-      "published_at": "2026-08-26T17:33:05+00:00",
-      "summary": "During the Aug. 12 total solar eclipse over Europe, scientists aimed to study a long-standing mystery: why the Sun’s outer atmosphere, the corona, is far hotter than its visible surface. Capturing the data they needed meant being in exactly the right place at exactly the right ti",
-      "category": "science",
-      "score": 6.143
-    },
-    {
-      "title": "US stocks drift while bonds yields rise following the latest update on inflation",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWdQR1Nqb3FRVG95ZjdkaHVNek03MDg5QnRkWjhkdXBOOTNDdWhWRGV3Ti1xU2QzY1F6eU15Y3ZVVl9kUVgtLVVuSFFoOWpKXzMtMk5pc0pxUDlReHZlSnU1eGM5SE5YRnhONjAyTU1xUDZKWk9pbkl2MmstVWNsZW4xaVpubzlTQ2xNS2xiVHpQUQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-26T18:14:00+00:00",
-      "summary": "US stocks drift while bonds yields rise following the latest update on inflation AP News",
-      "category": "finance",
-      "score": 5.323
-    },
-    {
-      "title": "Roman Space Telescope Travels to SpaceX Hangar",
-      "url": "https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar/",
-      "source": "NASA",
-      "published_at": "2026-08-26T18:40:19+00:00",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels from the Payload Hazardous Servicing Facility to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026, ahead of mating to a SpaceX Falcon Heavy rocke",
-      "category": "science",
-      "score": 5.15
+      "title": "Six months of war: How the Middle East conflict has shaped financial markets",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZPbXZOMTI2d1doSndZUnZ4VTVxV2hlUzFvRmJyUHpXRnlTNUV2bk13WS1rVTNnYmRLbzE4VkN0RlpiUG1MakRKUUpRNkNkYVg3d2s4aXhBaWpUb3ZYd0poN1BlRndYTVk5enNRckZmWS1lQklIRWtTMFBUdW5raDJUWTRzeUdCQTBCRDBpTkhVcDBnMlo4dTFPVXJqT3ExcTQ0aFUzV1pjak1YSzNYdkJDZ0h1UjhKRG91Qw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-27T06:06:00+00:00",
+      "summary": "Six months of war: How the Middle East conflict has shaped financial markets Reuters",
+      "category": "conflicts",
+      "score": 4.575
     }
   ],
   "hero_history": [
+    "Nvidia closes in on Hugging Face acquisition",
     "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus",
     "At least 14 infants killed in Islamabad hospital fire",
     "Iran war",
     "Gaza parents urged to stop children flying kites after Israel warning to Hamas",
     "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests",
     "Indian AI Data Center Firm Orders 9,000 Nvidia Vera Rubins",
-    "Alabama launches probe into OpenAI after Hugging Face breach",
-    "Armed men ambush patrol in South Sudan and kill 2 UN peacekeepers"
+    "Alabama launches probe into OpenAI after Hugging Face breach"
   ]
 }

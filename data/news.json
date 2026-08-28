@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-28T11:21:38.884097+00:00",
+  "updated": "2026-08-28T22:17:49.595165+00:00",
   "hero": {
-    "title": "US judge blocks Pentagon blacklisting of AI firm Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTNzNk5XaHlld1A2T1NvbXM0SU5WclJhOXRPWGxRMXQyTjQzV1hhdFItZXZCYmFEWHBGWEdMU0N1bFRMVjFFMFZzOTdGWkhsd2ZvdjVuSGV6M2VFZnE5VnNWS0lhZ2ZNekZ0TWpPSUtCaHplc1ZWdFlBT08zd0I2ZElXOERnaGtLb2dldlY3NlFRVHU0OEI3LTdEWHlNekY40gGmAUFVX3lxTE5fZFRGc3ZiMmRGTlA5dHpnVmVvTm9pdU81Nk1QaEx4RUVqMnJLV1ZNeFJhcW5jcXhzTERCcFlURjBqZWdxTHRXcVhnbjdzVkN5RnNBMXg5eEE2TkFPSHhMQmhLdFlGRng4ZWVqVWhwVEg2R1FKaHhpNnpUTjh4ZFEzUHh1bl90S0Jjbm5BYnVPNHVud21yWm5KOXlOYjJvR0Q1clhTcHc?oc=5",
+    "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
+    "url": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
     "source": "Al Jazeera",
-    "published_at": "2026-08-28T07:06:54+00:00",
-    "summary": "US judge blocks Pentagon blacklisting of AI firm Anthropic Al Jazeera",
-    "category": "tech",
-    "score": 10.13
+    "published_at": "2026-08-28T19:03:02+00:00",
+    "summary": "Ongoing Russian attacks have killed several people and wounded dozens across Ukraine.",
+    "category": "conflicts",
+    "score": 6.54
   },
   "items": [
     {
-      "title": "Pipelines and ports: Iran war spurs Gulf infrastructure investment",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFpCNDNNRjl2ZVJGeG1nOHNCd09IQ1VQS1hJejJiX0V1TFRGalFNS1EzbjZHS1Nua0pNNlVWZzlpVl9GM0FoNGVNMGhEY1djUW9HRFRpODlUQnNLaGtXT092WVRNT3NyWHFaN2tYT1N5OW00VDljVXB0cDJ6UU5tMktQaFBwVUZCZHFmRkVfcVRrR25NTWFFd2ZhRnVpVGhKNXk1dzhVQ21YUFcwWC1YODdvUQ?oc=5",
+      "title": "The bond market prepares for a hike to interest rates, while US stocks drift lower",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JWTC1aei1PWXBXLVdLb0kyX1JQaGtTXy1hX3M1UmNtWFRTZHB6blRtakpDOUUwSW1kRDZVTmlhaHRBMjNTbkR4TTQxczQzZWUycHNIR1R1UEtTS2VLQkRMQ1ppVks4YzJ0Qzh3b1RQdi1NYWxmbjFFLUVlMHFMdjgzX0NUQjVZY0ZsbTBfR2NIZw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-28T21:03:00+00:00",
+      "summary": "The bond market prepares for a hike to interest rates, while US stocks drift lower AP News",
+      "category": "finance",
+      "score": 5.443
+    },
+    {
+      "title": "Anthropic’s Pentagon blacklist struck down: How the conflict unfolded",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEE5dlpOenBnWFhOMW9iOXBBOHJBbTQxSURnRVdfUWhVWHVlYUdNVWtjN2gwUUFpQWZ3cFF0NklQcEVsTXlMVW5xTFhxS1hxbFhYQmZxSDdxazBScm42MUg4QktMY2JiMXBFaTNQOGpzb2xabVRveE4tNGtHTWR3Vk52N2Z0bDdOVndYZk96WHFWWVkzZHZkdmFoWE55aVF2Z0Fj?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-28T09:07:35+00:00",
-      "summary": "Pipelines and ports: Iran war spurs Gulf infrastructure investment Reuters",
-      "category": "conflicts",
-      "score": 5.016
-    },
-    {
-      "title": "UEFA prepares complaint against FIFA president Infantino",
-      "url": "https://www.france24.com/en/uefa-prepares-complaint-against-fifa-president-infantino",
-      "source": "France 24",
-      "published_at": "2026-08-28T09:08:42+00:00",
-      "summary": "UEFA is preparing a legal complaint against FIFA president Gianni Infantino over what it calls \"unfair management\" linked to his abandoned plan to open the World Cup to private investors. The European governing body has meanwhile suspended its threat to boycott FIFA competitions",
-      "category": "politics",
-      "score": 4.939
-    },
-    {
-      "title": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-28T08:28:57+00:00",
-      "summary": "Ukraine AP News",
-      "category": "conflicts",
-      "score": 4.883
-    },
-    {
-      "title": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV29iNUw2TzZMZ1lHeVF0UENjVVhSdU1CcFhsVWtwUHlXbnZJWk16dWlqdjlNLW5SOU1nMkh6TWtGQlJiRjVUUnJ2OFdMNncxZDBLaTBNSVRxTllqSHpteEliaXV6dHIyNjk0My1MN1hVR0VOLVdHekFYQ1B3RFhSVUxnSTl1VkVzSXUzYWxya0QzVG5mWnRrRkRETjg2VGpnOWpsVVE5MA?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-28T03:39:00+00:00",
-      "summary": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’ AP News",
+      "published_at": "2026-08-28T21:11:56+00:00",
+      "summary": "Anthropic’s Pentagon blacklist struck down: How the conflict unfolded Reuters",
       "category": "tech",
-      "score": 4.791
+      "score": 5.259
+    },
+    {
+      "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+      "source": "NASA",
+      "published_at": "2026-08-28T20:30:52+00:00",
+      "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, li",
+      "category": "science",
+      "score": 5.057
+    },
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-28T20:24:11+00:00",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "category": "tech",
+      "score": 4.649
     }
   ],
   "hero_history": [
+    "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
     "US judge blocks Pentagon blacklisting of AI firm Anthropic",
     "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "Nvidia closes in on Hugging Face acquisition",
     "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus",
     "At least 14 infants killed in Islamabad hospital fire",
     "Iran war",
-    "Gaza parents urged to stop children flying kites after Israel warning to Hamas",
-    "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests"
+    "Gaza parents urged to stop children flying kites after Israel warning to Hamas"
   ]
 }

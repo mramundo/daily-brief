@@ -1,41 +1,32 @@
 {
-  "updated": "2026-08-29T16:42:05.628432+00:00",
+  "updated": "2026-08-29T20:54:09.040633+00:00",
   "hero": {
-    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "published_at": "2026-08-29T16:15:56+00:00",
-    "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-    "category": "resources",
-    "score": 4.815
+    "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-08-29T20:36:49+00:00",
+    "summary": "Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.",
+    "category": "politics",
+    "score": 8.369
   },
   "items": [
     {
-      "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-29T15:25:43+00:00",
-      "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
-      "category": "conflicts",
-      "score": 4.622
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-29T18:41:59+00:00",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "category": "tech",
+      "score": 6.268
     },
     {
-      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-08-29T13:55:55+00:00",
-      "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+      "title": "Israeli strikes and fire kill 3 Palestinians in Gaza, and other Middle East news",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG5kUUxjQldPMkpnV09WNy1acUl6NXd4QmFPc080bURMTzFvcms2dXNub0pfR2tQTjhPUllUMFI0bVdHMUtjWGhzcTRiR092cWtpOHNLSi1Wel9lbV9oQTA3aHJGZURhMUpqczhHRFJzMnE5TGdWVnN4VEhxT1VOVWhubktNcWhsaDgteklJTmx4cFFZRUZrd2M1Q1RkOWh3SGlKaHA0SS1iWEE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-08-29T15:52:00+00:00",
+      "summary": "Israeli strikes and fire kill 3 Palestinians in Gaza, and other Middle East news AP News",
       "category": "conflicts",
-      "score": 4.112
-    },
-    {
-      "title": "India news: PM Modi in Uzbekistan on way to SCO summit",
-      "url": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-08-29T15:34:00+00:00",
-      "summary": "Indian Prime Minister Narendra Modi is in Uzbekistan for a two-day state visit, after which he will go to Kyrgyzstan for the SCO Summit. Meanwhile, hundreds of Indians are still missing in Nepal. DW has more.",
-      "category": "politics",
-      "score": 4.067
+      "score": 5.356
     },
     {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
@@ -44,17 +35,26 @@
       "published_at": "2026-08-29T13:00:00+00:00",
       "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
       "category": "tech",
-      "score": 3.833
+      "score": 4.943
+    },
+    {
+      "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
+      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-29T15:25:43+00:00",
+      "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+      "category": "conflicts",
+      "score": 3.88
     }
   ],
   "hero_history": [
+    "Iceland votes in a tight race on whether to resume talks to join the EU",
     "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
     "OpenAI to end Cursor partnership after SpaceX acquisition",
     "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
     "US judge blocks Pentagon blacklisting of AI firm Anthropic",
     "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "Nvidia closes in on Hugging Face acquisition",
-    "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus",
-    "At least 14 infants killed in Islamabad hospital fire"
+    "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-29T07:02:48.171843+00:00",
+  "updated": "2026-08-29T16:42:05.628432+00:00",
   "hero": {
-    "title": "OpenAI to end Cursor partnership after SpaceX acquisition",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0ktd2hYUGFuWXI1MVpEQ2lvakhrQS1ILUgtWms5QURmU3R1RXhOU05XdWtRT1cxTHl1cmI0aUdQUzBVNW1lWVBVNHFaSjRlVTlRb3B4WUdiZ2JvcHdpTEZuSXFPMGhTOTAxb1BwQWNGYVdOV3YyWTNQaWdLUTNRSkpJZjFJcnhUTklhSzVBSXZOTjZubG5Pd2hRQTB3LVdzcnNjd09CQXpDODhvYkE?oc=5",
-    "source": "Investing.com",
-    "published_at": "2026-08-29T03:21:42+00:00",
-    "summary": "OpenAI to end Cursor partnership after SpaceX acquisition Investing.com",
-    "category": "tech",
-    "score": 5.983
+    "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "published_at": "2026-08-29T16:15:56+00:00",
+    "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+    "category": "resources",
+    "score": 4.815
   },
   "items": [
     {
-      "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-29T02:01:00+00:00",
-      "summary": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash Reuters",
-      "category": "tech",
-      "score": 5.357
+      "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-29T15:25:43+00:00",
+      "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+      "category": "conflicts",
+      "score": 4.622
     },
     {
-      "title": "Icelanders vote in referendum on whether to resume EU membership talks",
-      "url": "https://www.france24.com/en/europe/20260829-icelanders-vote-in-referendum-on-whether-to-resume-eu-membership-talks",
-      "source": "© Marco Di Marco, AP",
-      "published_at": "2026-08-29T06:56:50+00:00",
-      "summary": "Iceland will vote in a tight referendum on Saturday on whether to reopen membership negotiations with the European Union. Reykjavik applied for EU membership in 2009, following a financial crisis that devastated its economy but a eurosceptic government suspended the process in 20",
-      "category": "politics",
-      "score": 4.605
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-29T13:55:55+00:00",
+      "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+      "category": "conflicts",
+      "score": 4.112
     },
     {
-      "title": "India news: PM Modi leaves for Central Asian tour",
-      "url": "https://www.dw.com/en/india-news-pm-modi-leaves-for-central-asian-tour/live-78554796?maca=en-rss-en-all-1573-rdf",
+      "title": "India news: PM Modi in Uzbekistan on way to SCO summit",
+      "url": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
-      "published_at": "2026-08-29T06:32:00+00:00",
-      "summary": "Indian Prime Minister Narendra Modi is traveling to Uzbekistan for a two-day state visit, after which he will go to Kyrgyzstan for the SCO Summit. Meanwhile, hundreds of Indians are still missing in Nepal. DW has more.",
+      "published_at": "2026-08-29T15:34:00+00:00",
+      "summary": "Indian Prime Minister Narendra Modi is in Uzbekistan for a two-day state visit, after which he will go to Kyrgyzstan for the SCO Summit. Meanwhile, hundreds of Indians are still missing in Nepal. DW has more.",
       "category": "politics",
-      "score": 4.174
+      "score": 4.067
     },
     {
-      "title": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1RUYUM0TDhTNURUOVdtU1ZYc0p2YTZQZGhTREUtRkRNWms5UVN5LUVxelJjWVluQVJkQ0UteTAtMng0V2h1Z014d2xQZXBZUDZfSHdSM2ZXdWljRFBJT0lXR1VHVUo3N0djMVJmaHkzaVh4YWJpWlZtSFM3RjJLYUc0Zw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-28T21:16:01+00:00",
-      "summary": "Stocks fall while dollar, bond yields rise as Warsh prompts rate hike bets Reuters",
-      "category": "finance",
-      "score": 3.815
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-29T13:00:00+00:00",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "category": "tech",
+      "score": 3.833
     }
   ],
   "hero_history": [
+    "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
     "OpenAI to end Cursor partnership after SpaceX acquisition",
     "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
     "US judge blocks Pentagon blacklisting of AI firm Anthropic",
     "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "Nvidia closes in on Hugging Face acquisition",
     "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus",
-    "At least 14 infants killed in Islamabad hospital fire",
-    "Iran war"
+    "At least 14 infants killed in Islamabad hospital fire"
   ]
 }

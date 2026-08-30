@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-30T11:52:56.328675+00:00",
+  "updated": "2026-08-30T16:39:37.148081+00:00",
   "hero": {
-    "title": "Iceland voters reject EU accession talks",
-    "url": "https://www.dw.com/en/iceland-voters-reject-eu-accession-talks/a-78560633?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "published_at": "2026-08-30T10:21:00+00:00",
-    "summary": "A nationwide referendum failed to win enough support to restart negotiations on European Union membership, despite geopolitical tensions in the North Atlantic.",
-    "category": "politics",
-    "score": 9.502
+    "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
+    "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "published_at": "2026-08-30T15:28:08+00:00",
+    "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+    "category": "science",
+    "score": 6.747
   },
   "items": [
     {
-      "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
+      "title": "NASA launches powerful Roman Space Telescope, a spy satellite turned to the stars",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUZyNnZKUzR6VV9kSG1yeEZhTkFNaF9rYUxvbGh1THRJMXBodUNMMmZIeV9xQzE3ZzNsZFdvWFFJZnAySDAwbDhFRklFc3VKR3Fuakk3MUo3cGFsVnYwbWFsZlpKaWFrR2F1dzNNVkREM1RibDY1cVkyeVlnVkppOFh1Q21ieFFVQnZPeTl5dXNQYVhYOXp2TEM2N2s5RHVibkE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-30T10:32:20+00:00",
-      "summary": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil Reuters",
+      "published_at": "2026-08-30T15:57:37+00:00",
+      "summary": "NASA launches powerful Roman Space Telescope, a spy satellite turned to the stars Reuters",
+      "category": "science",
+      "score": 5.569
+    },
+    {
+      "title": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUp0Y2RpUlUyc1ZQakFhRXB4TjZwTlIzb1FUTVFCdEVMNHp6LWdkdXc2ZkdCUVo0TmZyb25XWUYzS0dkLTJuVzAzcldNWnhRZTJLREotVi1pQUlOeS1QMmM3ZWhVeTZIOTg2UGMtNzhZQ1EzM3BydUVGMC0xdzdOMzNBZ2VxOTNncUJOT2ZQa0FGU2FrR1YxYUNNcU9va2VRTXJ6ZGFscUdSRmc3V3JtRDJHaXE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-30T13:15:45+00:00",
+      "summary": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks Reuters",
       "category": "finance",
-      "score": 6.266
+      "score": 5.397
     },
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-08-30T10:29:16+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 5.194
-    },
-    {
-      "title": "Netanyahu condemns violence in West Bank",
-      "url": "https://www.france24.com/en/netanyahu-condemns-violence-in-west-bank",
-      "source": "France 24",
-      "published_at": "2026-08-30T08:46:45+00:00",
-      "summary": "It was a rare condemnation from what is widely seen as the most religious and ultranationalist government in Israel’s history. Prime Minister Benjamin Netanyahu condemned recent attacks by Israeli settlers on Palestinians in the occupied West Bank, but described the violence as t",
-      "category": "politics",
-      "score": 4.76
-    },
-    {
-      "title": "I've Covered Semiconductors for 5 Years. Nvidia Is My No. 1 Pick Heading Into 2027.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUjlVcjBkY3FLdGpaV1RDY2pndFRfZmVUVnMtTnVQOGQ3dE44X1ExWGlEQkdDTzNGNC1peldvSnNvTndvdk5IU0JLUElJQnk0LTJzVWMzbjljZGk4LXlCSFhyMGlBbE9YT2NyWk9WU3Nhc2tHY1BQSTRJT0RnbXB3ZUsxSVB4U20zUkNhVl8zRVkyMjByeklqNw?oc=5",
+      "title": "Nvidia Just Delivered Bad News for AMD and Intel",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkdKT3FrWVF6am1xeXZJdXhobGk0S0I2UUVDZUpKa2xyZFd0MDVxVVNUVWJWZ0hyUHNDbW1Ja1NsZERnaUtxTXcyQW9BZUdMVC1fQXRWRm5vUkd3VUJxN1c1MW8zNWxPb2JSc0NPWVJaTDFsUG1kN0thRmdsMEhSYXl2REwyQ1dpS0hhaW5KRE9WNFQyUEE?oc=5",
       "source": "The Motley Fool",
-      "published_at": "2026-08-30T10:12:28+00:00",
-      "summary": "I've Covered Semiconductors for 5 Years. Nvidia Is My No. 1 Pick Heading Into 2027. The Motley Fool",
+      "published_at": "2026-08-30T15:49:46+00:00",
+      "summary": "Nvidia Just Delivered Bad News for AMD and Intel The Motley Fool",
       "category": "tech",
-      "score": 4.313
+      "score": 5.212
+    },
+    {
+      "title": "Iceland voters reject EU accession talks",
+      "url": "https://www.dw.com/en/iceland-voters-reject-eu-accession-talks/a-78560633?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-08-30T10:21:00+00:00",
+      "summary": "A nationwide referendum failed to win enough support to restart negotiations on European Union membership, despite geopolitical tensions in the North Atlantic.",
+      "category": "politics",
+      "score": 4.902
     }
   ],
   "hero_history": [
+    "Nasa launches powerful new space telescope to explore mysteries of the Universe",
     "Iceland voters reject EU accession talks",
     "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "Iceland votes in a tight race on whether to resume talks to join the EU",
     "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
     "OpenAI to end Cursor partnership after SpaceX acquisition",
     "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
-    "US judge blocks Pentagon blacklisting of AI firm Anthropic",
-    "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI"
+    "US judge blocks Pentagon blacklisting of AI firm Anthropic"
   ]
 }

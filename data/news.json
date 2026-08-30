@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-29T20:54:09.040633+00:00",
+  "updated": "2026-08-30T05:22:35.880177+00:00",
   "hero": {
-    "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-08-29T20:36:49+00:00",
-    "summary": "Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.",
-    "category": "politics",
-    "score": 8.369
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "source": "TechCrunch",
+    "published_at": "2026-08-29T18:41:59+00:00",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "category": "tech",
+    "score": 4.403
   },
   "items": [
     {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch",
-      "published_at": "2026-08-29T18:41:59+00:00",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "title": "Nvidia Earnings August 2026: AI Chip Demand Analysis & Stock Forecast",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83VEdzc2l6d2xWeDR5cDVacU1xVkxtbFVROG0wak90S3M4UExOOGppUE9XZ1hNejNPZmJPRU9MTTNITW1mUUZsZVFJWXVBMjdmYVBTeHNzSmsybjZkLXFhLVhKY1ItNkEydTR4cFVwaW1pUTc1N3hremQzYw?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "2026-08-30T04:30:00+00:00",
+      "summary": "Nvidia Earnings August 2026: AI Chip Demand Analysis & Stock Forecast Intellectia AI",
       "category": "tech",
-      "score": 6.268
+      "score": 3.869
     },
     {
-      "title": "Israeli strikes and fire kill 3 Palestinians in Gaza, and other Middle East news",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG5kUUxjQldPMkpnV09WNy1acUl6NXd4QmFPc080bURMTzFvcms2dXNub0pfR2tQTjhPUllUMFI0bVdHMUtjWGhzcTRiR092cWtpOHNLSi1Wel9lbV9oQTA3aHJGZURhMUpqczhHRFJzMnE5TGdWVnN4VEhxT1VOVWhubktNcWhsaDgteklJTmx4cFFZRUZrd2M1Q1RkOWh3SGlKaHA0SS1iWEE?oc=5",
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-08-30T03:57:01+00:00",
+      "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
+      "category": "politics",
+      "score": 3.728
+    },
+    {
+      "title": "Europe's central bankers fear more turbulence in testy U.S. relations",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-30T05:06:00+00:00",
+      "summary": "Europe's central bankers fear more turbulence in testy U.S. relations Reuters",
+      "category": "finance",
+      "score": 3.542
+    },
+    {
+      "title": "Roger Federer brought to tears during his induction into International Tennis Hall of Fame",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUJTR0NrdTVJa0pqb1lnbnpZRTFySC13Sk14V003SXd3ZGhVdGF5MW5GZEYxWjdPUm1KYmNtTmhtWGZiVjFJV1RtRndyVVZiRlJoOE0xcDJOUEtBS3pKak01Rk9TOS0yRzc0TG9YUHZIbGswcjFpN3g2b0FfRkltMWdyUmVIQXl6ZlJBQjVvWDBTQm1xOW9NdzRsbjFhbllRQU1nTERfZ0VHNVF6QzZGSERNQTdKcTFHMnU1bg?oc=5",
       "source": "AP News",
-      "published_at": "2026-08-29T15:52:00+00:00",
-      "summary": "Israeli strikes and fire kill 3 Palestinians in Gaza, and other Middle East news AP News",
-      "category": "conflicts",
-      "score": 5.356
-    },
-    {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch",
-      "published_at": "2026-08-29T13:00:00+00:00",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "category": "tech",
-      "score": 4.943
-    },
-    {
-      "title": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
-      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-29T15:25:43+00:00",
-      "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
-      "category": "conflicts",
-      "score": 3.88
+      "published_at": "2026-08-30T04:00:00+00:00",
+      "summary": "Roger Federer brought to tears during his induction into International Tennis Hall of Fame AP News",
+      "category": "finance",
+      "score": 3.384
     }
   ],
   "hero_history": [
+    "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "Iceland votes in a tight race on whether to resume talks to join the EU",
     "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
     "OpenAI to end Cursor partnership after SpaceX acquisition",
     "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
     "US judge blocks Pentagon blacklisting of AI firm Anthropic",
     "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "Nvidia closes in on Hugging Face acquisition",
-    "Apple to launch next iPhone on September 9 in first major event under new CEO Ternus"
+    "Nvidia closes in on Hugging Face acquisition"
   ]
 }

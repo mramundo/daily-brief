@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-31T05:31:47.357654+00:00",
+  "updated": "2026-08-31T13:46:20.930343+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-08-31T01:10:55+00:00",
-    "summary": "Ukraine AP News",
-    "category": "conflicts",
-    "score": 5.939
+    "title": "Watch Nvidia Investing $3.5 Billion in Chipmaker MediaTek",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYU9vNzNQd2FXUFBES2VUbm9wQV8zc1JQRTRHQkQycXR2dzVCR3JsWVctNnhINVhQSzJEUGZpWjJsX2pnQWo1bEFvQThwWnFjeVNsZUpIOFlqd3RybFVMMlpocXBEOHkzVEtBbmhlTmhYNTBhNGNRamRCZUhhYlF0Q3M5RVVUVHJRX1NyRWJUZy0xUTh4LUFMSEhlckdXR3hBVXVYYW8ybDI?oc=5",
+    "source": "Bloomberg.com",
+    "published_at": "2026-08-31T12:54:27+00:00",
+    "summary": "Watch Nvidia Investing $3.5 Billion in Chipmaker MediaTek Bloomberg.com",
+    "category": "tech",
+    "score": 6.897
   },
   "items": [
     {
-      "title": "Amazon brings OpenAI, Meta, Anthropic AI models to AWS GovCloud (AMZN:NASDAQ)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWlYSVdrSVZRUjd6X1VDNmpKWnpQS3lIUW9VUGpaeE5nQlpPMDVJeTRrR3FWdmlFN3FOVmx5cWE2Sk9feUI3bHBzTnNTMkdFc3NVQTZLR21PUVFvc3gzOC04YmNvNkU5RmlfYjhkaDNIWG1FRkJQMHVVZUQ3RjJ5RHczVlo0NDNubjl3WkhWSXRDbTM1R3dCdWNCQVp3dG9i?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "2026-08-31T05:01:50+00:00",
-      "summary": "Amazon brings OpenAI, Meta, Anthropic AI models to AWS GovCloud (AMZN:NASDAQ) Seeking Alpha",
+      "title": "Nvidia invests $3.5 billion in MediaTek convertible bonds",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-31T12:54:35+00:00",
+      "summary": "Nvidia invests $3.5 billion in MediaTek convertible bonds Reuters",
       "category": "tech",
-      "score": 5.405
+      "score": 6.039
     },
     {
-      "title": "US plans to sanction another bank to keep economic pressure on Iran",
-      "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-31T02:08:46+00:00",
-      "summary": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
-      "category": "politics",
-      "score": 4.877
-    },
-    {
-      "title": "Israeli strike kills 3-year-old child in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-08-30T21:02:45+00:00",
-      "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
-      "category": "conflicts",
-      "score": 4.6
-    },
-    {
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-08-30T18:53:53+00:00",
-      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "title": "Roman lifts off on a mission to survey the infrared sky",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
+      "source": "ESA",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "summary": "Image: NASA’s Nancy Grace Roman Space Telescope lifted off on a SpaceX Falcon Heavy rocket from NASA’s Kennedy Space Center in Florida, USA, at 07:26 EDT / 12:26 BST/ 13:26 CEST on 30 August 2026. With the successful launch, Roman began its mission to survey the sky in visible to",
       "category": "science",
-      "score": 4.553
+      "score": 5.47
+    },
+    {
+      "title": "Modi-Putin meeting at SCO: Can India-Russia ties hold?",
+      "url": "https://www.dw.com/en/modi-putin-meeting-at-sco-can-india-russia-ties-hold/a-78575121?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-08-31T12:02:00+00:00",
+      "summary": "Indian PM Modi and Russian President Putin are at the SCO summit in Bishkek as Moscow and New Delhi face rising tensions with Washington — Russia over war-related sanctions, and India over its energy and trade choices.",
+      "category": "politics",
+      "score": 4.533
+    },
+    {
+      "title": "Gold feeble as Fed rate-hike bets rise; eyes best month since January",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0RWUzI1UllwOTY2MWljS0syQ3hHRHQtZlVTV2g0WlNzalQ1eVdqSlVZb285NEZhck1VS1czbU1KUlF2azBfMkZ4X1JUdlNaZkNZdkF4bnczbS1jR0hVX01iaW1RZzRINkhjZDNuelJIa1JUY2pVWkFnMzlGRzh5Y1p1MUhEdlJ5N2lseVZ3X2RzV1Y3eUQ4YUtJN2NFQnNJVS1R?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-31T12:37:50+00:00",
+      "summary": "Gold feeble as Fed rate-hike bets rise; eyes best month since January Reuters",
+      "category": "finance",
+      "score": 4.1
     }
   ],
   "hero_history": [
+    "Watch Nvidia Investing $3.5 Billion in Chipmaker MediaTek",
     "Ukraine",
     "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
     "Nasa launches powerful new space telescope to explore mysteries of the Universe",
     "Iceland voters reject EU accession talks",
     "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "Iceland votes in a tight race on whether to resume talks to join the EU",
-    "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "OpenAI to end Cursor partnership after SpaceX acquisition"
+    "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil"
   ]
 }

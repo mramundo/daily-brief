@@ -1,15 +1,42 @@
 {
-  "updated": "2026-08-30T21:03:51.898345+00:00",
+  "updated": "2026-08-31T05:31:47.357654+00:00",
   "hero": {
-    "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFN0RTZoMXNQZ0JUS2dHcWtFeGdKVGZtQjl2M1I4N1BYZWNkNVo5SkxPcWdQNmxIcnRkbnhRVUl1X3ZhbktwN2FKZWlmaEJXNm1DdXZLVkctLTE5T2hVS0JaUUlQVGtWTFAyaXoxbGp3NUNaRlYwRVBqQi1rLTVZbXF3VF9Ka2MyTWJacTNiandvN21CZ1E?oc=5",
-    "source": "The Motley Fool",
-    "published_at": "2026-08-30T17:50:51+00:00",
-    "summary": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race. The Motley Fool",
-    "category": "tech",
-    "score": 6.74
+    "title": "Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+    "source": "AP News",
+    "published_at": "2026-08-31T01:10:55+00:00",
+    "summary": "Ukraine AP News",
+    "category": "conflicts",
+    "score": 5.939
   },
   "items": [
+    {
+      "title": "Amazon brings OpenAI, Meta, Anthropic AI models to AWS GovCloud (AMZN:NASDAQ)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWlYSVdrSVZRUjd6X1VDNmpKWnpQS3lIUW9VUGpaeE5nQlpPMDVJeTRrR3FWdmlFN3FOVmx5cWE2Sk9feUI3bHBzTnNTMkdFc3NVQTZLR21PUVFvc3gzOC04YmNvNkU5RmlfYjhkaDNIWG1FRkJQMHVVZUQ3RjJ5RHczVlo0NDNubjl3WkhWSXRDbTM1R3dCdWNCQVp3dG9i?oc=5",
+      "source": "Seeking Alpha",
+      "published_at": "2026-08-31T05:01:50+00:00",
+      "summary": "Amazon brings OpenAI, Meta, Anthropic AI models to AWS GovCloud (AMZN:NASDAQ) Seeking Alpha",
+      "category": "tech",
+      "score": 5.405
+    },
+    {
+      "title": "US plans to sanction another bank to keep economic pressure on Iran",
+      "url": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-31T02:08:46+00:00",
+      "summary": "Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.",
+      "category": "politics",
+      "score": 4.877
+    },
+    {
+      "title": "Israeli strike kills 3-year-old child in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-30T21:02:45+00:00",
+      "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+      "category": "conflicts",
+      "score": 4.6
+    },
     {
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
@@ -17,44 +44,17 @@
       "published_at": "2026-08-30T18:53:53+00:00",
       "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
       "category": "science",
-      "score": 6.479
-    },
-    {
-      "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-30T17:41:00+00:00",
-      "summary": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil Reuters",
-      "category": "finance",
-      "score": 5.264
-    },
-    {
-      "title": "Ukraine defence chief to outline war plan as Kyiv seeks more funds",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3pyLXRWVzhHRFhiUGpqQWNVbk1SV25DX2RuU1pYLTVfYnRDUzI1NzZiMjFIcjk3bEVSRF9weVhQVU9udXFpSUwwc1FHQVd1Sy0wNnpDeHVpTkVOMlF1cXc4cUNNakpuV3gwU3BDNGtISE5xWnk1QUxKZXdsSUgxNDR3NWcwRHFKNVpvQmZxUi1pdVBSOUQtTmJ3V0xIZzdDajFVVnNfZzJQY3NPRDNKS0JMeUhMMkU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-30T19:04:11+00:00",
-      "summary": "Ukraine defence chief to outline war plan as Kyiv seeks more funds Reuters",
-      "category": "conflicts",
-      "score": 4.905
-    },
-    {
-      "title": "NASA launches powerful Roman Space Telescope, a spy satellite turned to the stars",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUZyNnZKUzR6VV9kSG1yeEZhTkFNaF9rYUxvbGh1THRJMXBodUNMMmZIeV9xQzE3ZzNsZFdvWFFJZnAySDAwbDhFRklFc3VKR3Fuakk3MUo3cGFsVnYwbWFsZlpKaWFrR2F1dzNNVkREM1RibDY1cVkyeVlnVkppOFh1Q21ieFFVQnZPeTl5dXNQYVhYOXp2TEM2N2s5RHVibkE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-30T16:58:15+00:00",
-      "summary": "NASA launches powerful Roman Space Telescope, a spy satellite turned to the stars Reuters",
-      "category": "science",
-      "score": 4.834
+      "score": 4.553
     }
   ],
   "hero_history": [
+    "Ukraine",
     "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
     "Nasa launches powerful new space telescope to explore mysteries of the Universe",
     "Iceland voters reject EU accession talks",
     "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "Iceland votes in a tight race on whether to resume talks to join the EU",
     "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    "OpenAI to end Cursor partnership after SpaceX acquisition",
-    "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day"
+    "OpenAI to end Cursor partnership after SpaceX acquisition"
   ]
 }

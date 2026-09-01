@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-01T11:37:13.283497+00:00",
+  "updated": "2026-09-01T16:38:02.069156+00:00",
   "hero": {
-    "title": "Anthropic signed a $35 billion cloud deal with Nvidia-backed Lambda",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RckU2YlV1VGRORVVSaGdCMjB1d3lWVTByODlwTndsUXBIYWVJZFJ5VTMzMW9iclFmNHJFZW9QZnBBLVQ3U3FPaGMzeEswazJqUnVCTlNOVjAtdkQyVlhWc1pua0R1TjBYd1NhNzJsMGRRVk9vR1E?oc=5",
-    "source": "qz.com",
-    "published_at": "2026-09-01T11:18:57+00:00",
-    "summary": "Anthropic signed a $35 billion cloud deal with Nvidia-backed Lambda qz.com",
-    "category": "tech",
-    "score": 6.888
+    "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-01T15:06:00+00:00",
+    "summary": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off AP News",
+    "category": "finance",
+    "score": 5.833
   },
   "items": [
     {
-      "title": "Apple accuses OpenAI of destroying evidence in trade secrets case",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9faUlIYXFvblpxdFlMVDdtemJ5NzFnb0IyWnhVS21QTE84a1RWSDdObDFjcXF5aEJ2azJSVEtsZnQ0MVduSlMwdlJZYnRaNEJlNGFUOEo5Uy1OVC1TbnJ2bmY0ek1CTUh0Y1BBTE1RUGEyN29rVGgw?oc=5",
-      "source": "qz.com",
-      "published_at": "2026-09-01T11:10:57+00:00",
-      "summary": "Apple accuses OpenAI of destroying evidence in trade secrets case qz.com",
-      "category": "tech",
-      "score": 6.85
-    },
-    {
-      "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-01T10:40:55+00:00",
-      "summary": "Unconfirmed local reports say the Israeli military carried out air and artillery strikes after a raid by an Israel-backed militia was discovered.",
+      "title": "Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-01T10:55:27+00:00",
+      "summary": "Iran war AP News",
       "category": "conflicts",
-      "score": 6.819
+      "score": 5.611
     },
     {
-      "title": "Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies",
-      "url": "https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss",
+      "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-09-01T08:14:07+00:00",
-      "summary": "A price cap increase is on the way, the latest blow to people already struggling with rising costs.",
+      "published_at": "2026-09-01T15:29:48+00:00",
+      "summary": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
       "category": "conflicts",
-      "score": 4.877
+      "score": 5.229
     },
     {
-      "title": "Euro zone inflation rises above 3%, cementing ECB rate hike bets",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlU0ZGJQMWt6NVhpVng4SW1jUk1SM3NXZWlRZzliNnV5emhYeDRaVF9FYnA1aWNDUVphdW1hQTcwRWVOVGR1YjBfdm9sOUlWcFpCSnFwOVNubkh6VnZrTjRyMERVTWRKaXYzZHNaVjBZZ2hYT015OHgzb2o5S25uaG1OaFNGVzRpZk1XSDZMMVhhUUM1V19VbWktVnRmXy1YbEFUS3JxeGEtY0E?oc=5",
+      "title": "OpenAI says Apple has only itself to blame in trade-secret fight",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2FsN3ZxcVlYLXhzU25JQ0t1UkEtOXYzVm4wekxhQl93OUw1Y0QxblQ4M1lZVEV2VFFNaEl5eFZIVGJ3VU96UDBBdjhRbnRMQ3BwNVcyRU1RejBQWDBqVnREeklZdXUwRXd0eXczaklOWDMwVzF4eGFldy13dzM4TERFRTVTUHpzN1VoT3hYREZpTTFodExPM2lNeDBlNjh0dTFSalNrUGxSQTMtMGRhOA?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-01T10:15:30+00:00",
-      "summary": "Euro zone inflation rises above 3%, cementing ECB rate hike bets Reuters",
-      "category": "finance",
-      "score": 4.74
+      "published_at": "2026-09-01T05:32:00+00:00",
+      "summary": "OpenAI says Apple has only itself to blame in trade-secret fight Reuters",
+      "category": "tech",
+      "score": 4.853
+    },
+    {
+      "title": "AI data center firm SB Energy, which is backed by Softbank, Nvidia and OpenAI, files for IPO",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WjktbGRkY3BXT2x4TmhXWGRvcnVyZHcyaFl0X2pTOEp5ZjFoa1F5cGNGSEJUME13bDBPT3ZBdWhxR2dQNTJsTjdoNUFIa3dua241V2RIXzh6OWhET0ZOUGRMVWF4cDVvRThOZTNudVhKWHRkSFYxR2g2Sll0bzDSAYQBQVVfeXFMTmtTeUdFWGpBZWpZWnVYYWVTZkZfdnJreTBqQW1TQVc0ZlZkdDhtU20wWWU5VzFTbFZJNDhsMFMwcEhuemYyUm9JRmxGNnZiRVF1ekZLTEtTWExjQ3c2RTY1QVBNSG9iZXdFSnFrVEo4dTlKbzl6VXpTYVJwWVExdS1sNE9U?oc=5",
+      "source": "CNBC",
+      "published_at": "2026-09-01T15:32:36+00:00",
+      "summary": "AI data center firm SB Energy, which is backed by Softbank, Nvidia and OpenAI, files for IPO CNBC",
+      "category": "tech",
+      "score": 4.315
     }
   ],
   "hero_history": [
+    "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
     "Anthropic signed a $35 billion cloud deal with Nvidia-backed Lambda",
     "Anthropic Signs $35 Billion Cloud Agreement With Nvidia-Backed Lambda in Deal Where Chip Giant Holds the",
     "Trump on possible Venezuela departure from OPEC: 'It's up to them'",
     "Watch Nvidia Investing $3.5 Billion in Chipmaker MediaTek",
     "Ukraine",
     "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-    "Nasa launches powerful new space telescope to explore mysteries of the Universe",
-    "Iceland voters reject EU accession talks"
+    "Nasa launches powerful new space telescope to explore mysteries of the Universe"
   ]
 }

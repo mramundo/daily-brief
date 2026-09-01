@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-01T16:38:02.069156+00:00",
+  "updated": "2026-09-01T21:00:52.905025+00:00",
   "hero": {
-    "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjFxdjAwdUlwU0xFYkdsbEF5RTVIX2Z2NkQ2Tnp4dkhZZ0JkTDlsYU96UVp4SWViaU5xejQzVkd4ZzZEUDU3RkIzLWdmaDBYb20zRHZ4SkFYa0RRenFpSEJtX1hSX241VDl3eVIxaEJzQnVXV082eVQ4dFl4X21NSHpnd2hFaERGSHktZw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-01T15:06:00+00:00",
-    "summary": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off AP News",
-    "category": "finance",
-    "score": 5.833
+    "title": "Germany says Russia behind Leipzig airport drone attack",
+    "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-09-01T19:13:03+00:00",
+    "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+    "category": "conflicts",
+    "score": 7.266
   },
   "items": [
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-01T10:55:27+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 5.611
+      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWthd1kzYVd1aVdMV05kS1JTUFFCRGdhalRUOXlyUE5nVVJPMURrSGZ1SzdBMkw2eG5CLTJQZnRPSEp5QzR3T0x1SG9TRlFGa0h3NUVDNVZ6b0U2VGJhcHJPZ2g1MnptckE5dUd1dnZ3REpyMXg3RnQ1eHJCME1JTEhiVVVteFMyTVlWaW56RDZMc2ozV3NtZzc4ODk1NW10MGM4dUNBX0VBLUhPcjR1YW1BUTBjdC1vTHB1cUpyVTFsdmpZRFlnV0RQQQ?oc=5",
+      "source": "VentureBeat",
+      "published_at": "2026-09-01T18:41:21+00:00",
+      "summary": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads VentureBeat",
+      "category": "tech",
+      "score": 4.897
     },
     {
-      "title": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-01T15:29:48+00:00",
-      "summary": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
-      "category": "conflicts",
-      "score": 5.229
+      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+      "source": "TechCrunch",
+      "published_at": "2026-09-01T19:45:28+00:00",
+      "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+      "category": "tech",
+      "score": 4.89
     },
     {
-      "title": "OpenAI says Apple has only itself to blame in trade-secret fight",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2FsN3ZxcVlYLXhzU25JQ0t1UkEtOXYzVm4wekxhQl93OUw1Y0QxblQ4M1lZVEV2VFFNaEl5eFZIVGJ3VU96UDBBdjhRbnRMQ3BwNVcyRU1RejBQWDBqVnREeklZdXUwRXd0eXczaklOWDMwVzF4eGFldy13dzM4TERFRTVTUHpzN1VoT3hYREZpTTFodExPM2lNeDBlNjh0dTFSalNrUGxSQTMtMGRhOA?oc=5",
+      "title": "Wall Street dips as higher yields, rising oil prices mark shaky start to September",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjZiWGhvamxJTzU5Ync5V2xObHhDRk1PRlZFRkZnZVNqQzM0dHhuUnBMeGJDYW9YWmgxc29fRTNUaTVRT2xLWFZUOGJMWDU4MTlhQVVXRmFOQ3VGQnlNME9tQ09nUW0yMGNUR1c2amZkSVBQbHcwWDNQY0tfZHZoREF4SzVqZ2pNYzlCQVFmSkJMNFFwMEptQi03WlZlZG82bDVNZWhnUm9KMnFDS1pqVWlHZDZ2MmE1?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-01T05:32:00+00:00",
-      "summary": "OpenAI says Apple has only itself to blame in trade-secret fight Reuters",
-      "category": "tech",
-      "score": 4.853
+      "published_at": "2026-09-01T18:54:27+00:00",
+      "summary": "Wall Street dips as higher yields, rising oil prices mark shaky start to September Reuters",
+      "category": "finance",
+      "score": 4.882
     },
     {
-      "title": "AI data center firm SB Energy, which is backed by Softbank, Nvidia and OpenAI, files for IPO",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WjktbGRkY3BXT2x4TmhXWGRvcnVyZHcyaFl0X2pTOEp5ZjFoa1F5cGNGSEJUME13bDBPT3ZBdWhxR2dQNTJsTjdoNUFIa3dua241V2RIXzh6OWhET0ZOUGRMVWF4cDVvRThOZTNudVhKWHRkSFYxR2g2Sll0bzDSAYQBQVVfeXFMTmtTeUdFWGpBZWpZWnVYYWVTZkZfdnJreTBqQW1TQVc0ZlZkdDhtU20wWWU5VzFTbFZJNDhsMFMwcEhuemYyUm9JRmxGNnZiRVF1ekZLTEtTWExjQ3c2RTY1QVBNSG9iZXdFSnFrVEo4dTlKbzl6VXpTYVJwWVExdS1sNE9U?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-09-01T15:32:36+00:00",
-      "summary": "AI data center firm SB Energy, which is backed by Softbank, Nvidia and OpenAI, files for IPO CNBC",
-      "category": "tech",
-      "score": 4.315
+      "title": "Israeli special forces capture Hamas official in raid on Gaza City",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1dvY08wWUVmMGNwR3hXbVR4anpDeXoxcndHakhnUzRqNk9Ub3ZqcEhsUUdHTTM3dGxuODQ4bXpNRGkxQjhyTmR5QkVFR2FKVTVaOEhwUi1PTTVSal9xZjd2ME4yUjhleFFSMUFHc1RmNVBUSjBtNUhpRndqb25sVi1HaDBmYmpyR0xFY1lKTVgyd2pSdlBJMEYtb1lMTTVkU2Vya1FjSjR3ZjZnQmlEbnlHeW1ZSmc5eURPTHFNSndsVEk?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-01T19:31:58+00:00",
+      "summary": "Israeli special forces capture Hamas official in raid on Gaza City Reuters",
+      "category": "conflicts",
+      "score": 4.716
     }
   ],
   "hero_history": [
+    "Germany says Russia behind Leipzig airport drone attack",
     "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
     "Anthropic signed a $35 billion cloud deal with Nvidia-backed Lambda",
     "Anthropic Signs $35 Billion Cloud Agreement With Nvidia-Backed Lambda in Deal Where Chip Giant Holds the",
     "Trump on possible Venezuela departure from OPEC: 'It's up to them'",
     "Watch Nvidia Investing $3.5 Billion in Chipmaker MediaTek",
     "Ukraine",
-    "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-    "Nasa launches powerful new space telescope to explore mysteries of the Universe"
+    "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race."
   ]
 }

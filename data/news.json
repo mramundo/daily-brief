@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-01T21:00:52.905025+00:00",
+  "updated": "2026-09-02T04:31:02.660082+00:00",
   "hero": {
-    "title": "Germany says Russia behind Leipzig airport drone attack",
-    "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-09-01T19:13:03+00:00",
-    "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-    "category": "conflicts",
-    "score": 7.266
+    "title": "Germany blames Russia for airport drone incident, hits back with sanctions",
+    "url": "https://www.france24.com/en/germany-blames-russia-for-airport-drone-incident-hits-back-with-sanctions",
+    "source": "France 24",
+    "published_at": "2026-09-01T20:58:01+00:00",
+    "summary": "Germany on Tuesday blamed Russia for an attempted \"hybrid attack\" involving an explosive-laden drone at a strategic airport last month and announced diplomatic counter-measures. The European Union expressed \"full solidarity\" with Germany, NATO assured that it would defend its mem",
+    "category": "politics",
+    "score": 5.932
   },
   "items": [
     {
-      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWthd1kzYVd1aVdMV05kS1JTUFFCRGdhalRUOXlyUE5nVVJPMURrSGZ1SzdBMkw2eG5CLTJQZnRPSEp5QzR3T0x1SG9TRlFGa0h3NUVDNVZ6b0U2VGJhcHJPZ2g1MnptckE5dUd1dnZ3REpyMXg3RnQ1eHJCME1JTEhiVVVteFMyTVlWaW56RDZMc2ozV3NtZzc4ODk1NW10MGM4dUNBX0VBLUhPcjR1YW1BUTBjdC1vTHB1cUpyVTFsdmpZRFlnV0RQQQ?oc=5",
-      "source": "VentureBeat",
-      "published_at": "2026-09-01T18:41:21+00:00",
-      "summary": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads VentureBeat",
-      "category": "tech",
-      "score": 4.897
-    },
-    {
-      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-      "source": "TechCrunch",
-      "published_at": "2026-09-01T19:45:28+00:00",
-      "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
-      "category": "tech",
-      "score": 4.89
-    },
-    {
-      "title": "Wall Street dips as higher yields, rising oil prices mark shaky start to September",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjZiWGhvamxJTzU5Ync5V2xObHhDRk1PRlZFRkZnZVNqQzM0dHhuUnBMeGJDYW9YWmgxc29fRTNUaTVRT2xLWFZUOGJMWDU4MTlhQVVXRmFOQ3VGQnlNME9tQ09nUW0yMGNUR1c2amZkSVBQbHcwWDNQY0tfZHZoREF4SzVqZ2pNYzlCQVFmSkJMNFFwMEptQi03WlZlZG82bDVNZWhnUm9KMnFDS1pqVWlHZDZ2MmE1?oc=5",
+      "title": "Bond selloff deepens as inflation, oil prices jolt markets",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-01T18:54:27+00:00",
-      "summary": "Wall Street dips as higher yields, rising oil prices mark shaky start to September Reuters",
+      "published_at": "2026-09-02T03:11:00+00:00",
+      "summary": "Bond selloff deepens as inflation, oil prices jolt markets Reuters",
       "category": "finance",
-      "score": 4.882
+      "score": 5.882
     },
     {
-      "title": "Israeli special forces capture Hamas official in raid on Gaza City",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1dvY08wWUVmMGNwR3hXbVR4anpDeXoxcndHakhnUzRqNk9Ub3ZqcEhsUUdHTTM3dGxuODQ4bXpNRGkxQjhyTmR5QkVFR2FKVTVaOEhwUi1PTTVSal9xZjd2ME4yUjhleFFSMUFHc1RmNVBUSjBtNUhpRndqb25sVi1HaDBmYmpyR0xFY1lKTVgyd2pSdlBJMEYtb1lMTTVkU2Vya1FjSjR3ZjZnQmlEbnlHeW1ZSmc5eURPTHFNSndsVEk?oc=5",
+      "title": "Asian markets tumble as US-Iran fighting lifts oil and bond yields",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-01T19:31:58+00:00",
-      "summary": "Israeli special forces capture Hamas official in raid on Gaza City Reuters",
-      "category": "conflicts",
-      "score": 4.716
+      "published_at": "2026-09-02T00:43:00+00:00",
+      "summary": "Asian markets tumble as US-Iran fighting lifts oil and bond yields Reuters",
+      "category": "finance",
+      "score": 5.307
+    },
+    {
+      "title": "OpenAI says upcoming model is so capable it requires stronger guardrails",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZmFpdE5PNUc2RGxZcDJtQ09LMTZsaHNRTE5NVWg2bWtHYU1wNVBjZDlDdmN5MnlOVFNNb0QySm9xWkdtSEhBajkyZzFEbXF0ZW9PbjVBNGdRVGlXVXlqbEVNOXFLV3hGUVlBdzdHZExNR1ZrVE9xaVphTlowdFBBaU5mRzFlYVZadUd6TmdRei16aHFXc0FCdVdvbUNNUDVscVNnUmJNSTBIdWYwMll6TlBsWGxEMGg5?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-01T21:47:44+00:00",
+      "summary": "OpenAI says upcoming model is so capable it requires stronger guardrails Reuters",
+      "category": "tech",
+      "score": 4.993
+    },
+    {
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "TechCrunch",
+      "published_at": "2026-09-01T21:06:24+00:00",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "category": "tech",
+      "score": 4.415
     }
   ],
   "hero_history": [
+    "Germany blames Russia for airport drone incident, hits back with sanctions",
     "Germany says Russia behind Leipzig airport drone attack",
     "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
     "Anthropic signed a $35 billion cloud deal with Nvidia-backed Lambda",
     "Anthropic Signs $35 Billion Cloud Agreement With Nvidia-Backed Lambda in Deal Where Chip Giant Holds the",
     "Trump on possible Venezuela departure from OPEC: 'It's up to them'",
     "Watch Nvidia Investing $3.5 Billion in Chipmaker MediaTek",
-    "Ukraine",
-    "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race."
+    "Ukraine"
   ]
 }

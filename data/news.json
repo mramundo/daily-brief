@@ -1,23 +1,41 @@
 {
-  "updated": "2026-09-02T11:16:07.682564+00:00",
+  "updated": "2026-09-02T16:33:22.172616+00:00",
   "hero": {
-    "title": "Lynas Rare Earths says it was in takeover talks earlier this year",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZy1RVzl5TzJscVBPQ2thNHlLMXpBZnZwUzY1MWxuTTlUdnZ2ckRPS2xxajZuNGd4d1VKNG5BUnpCU0JzcGJwRWZZekhRWkJRb1ZKakkwUEVzRGdBQm8tdTJXbk1nRzFKSGNlSkxfNDVOa3o0WHRqX3lLT012WVVMYmZrVklNb0tpcDE3X3RldjdSeFVsRUVCdFA2T1Y1MFloajRJaTA3cWI4V00?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-02T08:58:57+00:00",
-    "summary": "Lynas Rare Earths says it was in takeover talks earlier this year Reuters",
-    "category": "resources",
-    "score": 7.738
+    "title": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-02T16:13:00+00:00",
+    "summary": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady AP News",
+    "category": "finance",
+    "score": 7.007
   },
   "items": [
     {
-      "title": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+      "title": "US government backs OpenAI in New York Times copyright case",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODVsb2JiWUlRc3pRYm51czFaekswTjZmUXNCc3N6R0FhVllZNTJ3OXp6dHBiamNYazFmdHNpTUswSUZ3U3AwbENheHhKbjJmN2hwaS0zZUlMcEp5cm9LWDlLUkZUZlBLc21NZk5IMkNtQ3JzVFdUcGhVaWJCemgxZGtRdkFpR0lpbzA4WUhEX0FqQjZVaklRdUVuU2o3SkxWVEpFRkZyNUt0cThiTVE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-02T16:13:49+00:00",
+      "summary": "US government backs OpenAI in New York Times copyright case Reuters",
+      "category": "tech",
+      "score": 6.517
+    },
+    {
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "source": "The Verge",
+      "published_at": "2026-09-02T14:35:03+00:00",
+      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federa",
+      "category": "tech",
+      "score": 5.679
+    },
+    {
+      "title": "US oil giant Chevron confirms it will expand operations in Venezuela",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-02T09:48:45+00:00",
-      "summary": "Israel AP News",
-      "category": "conflicts",
-      "score": 6.699
+      "published_at": "2026-09-02T16:07:00+00:00",
+      "summary": "US oil giant Chevron confirms it will expand operations in Venezuela AP News",
+      "category": "resources",
+      "score": 5.405
     },
     {
       "title": "Astronauts set out on rare all-female spacewalk",
@@ -26,35 +44,17 @@
       "published_at": "2026-09-02T11:10:22+00:00",
       "summary": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
       "category": "science",
-      "score": 6.522
-    },
-    {
-      "title": "US oil giant Chevron confirms it will expand operations in Venezuela",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-02T10:40:00+00:00",
-      "summary": "US oil giant Chevron confirms it will expand operations in Venezuela AP News",
-      "category": "resources",
-      "score": 5.369
-    },
-    {
-      "title": "Breakingviews - COMMENTARY: Financiers are set to turn Nvidia into an AI baron",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDFUZWNxM2RXcnh6VkJHaW1Gd082cjJLdGZSa2hNTTBVaVRxcXd5YTIyMVRNR0hiTGJPRFo1UGE5X3ZabEFrYVVTUE5KSHV2U1A5b0p4b1FQRFJmeXNoYVBEOGVEVHV5NzFZRGN5ZTJMY3lzRXY3TWI3eTFWZ3dNTmdhRlVDZUxzdmRsWlliakhYTzJ3cmJBRUNWcTM3ajdESGlHMW1tamlHX0xw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-02T05:00:00+00:00",
-      "summary": "Breakingviews - COMMENTARY: Financiers are set to turn Nvidia into an AI baron Reuters",
-      "category": "tech",
-      "score": 5.088
+      "score": 5.233
     }
   ],
   "hero_history": [
+    "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady",
     "Lynas Rare Earths says it was in takeover talks earlier this year",
     "Germany blames Russia for airport drone incident, hits back with sanctions",
     "Germany says Russia behind Leipzig airport drone attack",
     "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
     "Anthropic signed a $35 billion cloud deal with Nvidia-backed Lambda",
     "Anthropic Signs $35 Billion Cloud Agreement With Nvidia-Backed Lambda in Deal Where Chip Giant Holds the",
-    "Trump on possible Venezuela departure from OPEC: 'It's up to them'",
-    "Watch Nvidia Investing $3.5 Billion in Chipmaker MediaTek"
+    "Trump on possible Venezuela departure from OPEC: 'It's up to them'"
   ]
 }

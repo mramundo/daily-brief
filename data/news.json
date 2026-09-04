@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-04T16:20:07.493383+00:00",
+  "updated": "2026-09-04T20:44:25.252451+00:00",
   "hero": {
-    "title": "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says",
+    "title": "Russian drone strikes Ukraine's security service HQ, escalating air war",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-04T14:21:44+00:00",
-    "summary": "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says Reuters",
+    "published_at": "2026-09-04T16:35:54+00:00",
+    "summary": "Russian drone strikes Ukraine's security service HQ, escalating air war Reuters",
     "category": "conflicts",
-    "score": 6.085
+    "score": 7.412
   },
   "items": [
     {
-      "title": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTdNLWtPQVlCTmNqVS0zVHFSbkdxSnhwdHU2MGtaWVliUHNpTHRvZzkwc2lQLUVqcEU4LUp3eEw1M2RXcW9kVXgta3ZYV2FxNndyZmxaMWVHZHFZOHZfWGhjbG5CWVpRdVhRT2tCVlNYWlVSVWZ3UnVrQ1hEaWpkbFdYbFBjNEtBclM2RzJPRkViT09FVEhVZkZpdGpuSm00Y0p2Ym1OYkppVjl0OTFSaUIyUkJyZHdkeldmUnhRdnYtdnpHa2dYdzVDVQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-04T06:50:00+00:00",
-      "summary": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets Reuters",
-      "category": "resources",
-      "score": 5.729
-    },
-    {
-      "title": "Nvidia buying open-source AI platform Hugging Face for $13B",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWI4dmsxQjdrMkUxUkE1Q2F0ZmRGbGhodVpMRlg5RzZidGxSX1Q0WUNJMF9VSGdKR1FGRWtadTk1aDVicHgtZ00wUGJEaVRQVDZaSWtEX2pzV2FMMGVrbmxEQkgycGlxVnEwTGRoaHd6Zm5RT1NDS3VuZHVUTVlLcA?oc=5",
-      "source": "wng.org",
-      "published_at": "2026-09-04T14:38:00+00:00",
-      "summary": "Nvidia buying open-source AI platform Hugging Face for $13B wng.org",
-      "category": "tech",
-      "score": 5.57
-    },
-    {
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-09-04T14:27:10+00:00",
+      "published_at": "2026-09-04T20:03:52+00:00",
       "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
       "category": "conflicts",
-      "score": 5.289
+      "score": 5.562
     },
     {
-      "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1%",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
+      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-04T14:52:23+00:00",
-      "summary": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1% Reuters",
-      "category": "finance",
-      "score": 5.18
+      "published_at": "2026-09-04T20:15:37+00:00",
+      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring Reuters",
+      "category": "tech",
+      "score": 4.339
+    },
+    {
+      "title": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
+      "url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv",
+      "source": "France 24",
+      "published_at": "2026-09-04T15:24:33+00:00",
+      "summary": "A Russian drone struck the headquarters of Ukraine's SBU security services on Friday, Ukrainian President Volodymyr Zelensky said, accusing Moscow of aiming directly at the SBU head's personal office. Zelensky said he had instructed the SBU to deliver an \"appropriate, tangible re",
+      "category": "politics",
+      "score": 4.338
+    },
+    {
+      "title": "AGI is whatever you want it to be",
+      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+      "source": "The Verge",
+      "published_at": "2026-09-04T17:16:49+00:00",
+      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and N",
+      "category": "tech",
+      "score": 3.971
     }
   ],
   "hero_history": [
+    "Russian drone strikes Ukraine's security service HQ, escalating air war",
     "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says",
     "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
     "Brazil's Vale drops IPO plans for critical minerals unit, The Globe and Mail reports",
     "American Resources joins Critical Minerals Institute as inaugural Platinum member",
     "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models",
     "Uganda names its crude oil blend ‘Pearl Sweet’ ahead of commercial production",
-    "US government backs OpenAI in New York Times copyright case",
-    "Trump administration sides with OpenAI in lawsuit against New York Times"
+    "US government backs OpenAI in New York Times copyright case"
   ]
 }

@@ -1,33 +1,15 @@
 {
-  "updated": "2026-09-04T11:15:52.531558+00:00",
+  "updated": "2026-09-04T16:20:07.493383+00:00",
   "hero": {
-    "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+    "title": "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-04T10:22:22+00:00",
-    "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring Reuters",
-    "category": "tech",
-    "score": 8.23
+    "published_at": "2026-09-04T14:21:44+00:00",
+    "summary": "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says Reuters",
+    "category": "conflicts",
+    "score": 6.085
   },
   "items": [
-    {
-      "title": "US diesel prices hit an all-time-high",
-      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-09-04T10:52:56+00:00",
-      "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-      "category": "resources",
-      "score": 5.668
-    },
-    {
-      "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
-      "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-04T10:17:47+00:00",
-      "summary": "Argentina's president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
-      "category": "politics",
-      "score": 5.393
-    },
     {
       "title": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTdNLWtPQVlCTmNqVS0zVHFSbkdxSnhwdHU2MGtaWVliUHNpTHRvZzkwc2lQLUVqcEU4LUp3eEw1M2RXcW9kVXgta3ZYV2FxNndyZmxaMWVHZHFZOHZfWGhjbG5CWVpRdVhRT2tCVlNYWlVSVWZ3UnVrQ1hEaWpkbFdYbFBjNEtBclM2RzJPRkViT09FVEhVZkZpdGpuSm00Y0p2Ym1OYkppVjl0OTFSaUIyUkJyZHdkeldmUnhRdnYtdnpHa2dYdzVDVQ?oc=5",
@@ -35,26 +17,44 @@
       "published_at": "2026-09-04T06:50:00+00:00",
       "summary": "Russia’s Sechin says China, not OPEC, calls shots on global energy markets Reuters",
       "category": "resources",
-      "score": 4.577
+      "score": 5.729
     },
     {
-      "title": "Trump envoys to visit Russia and Ukraine at weekend, TASS reports",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEp2N095ZTZRVGpXbnNoa2M2RmZUZWEwMGlyekx2bzR1R1JZb056bjZVak1YVUpWNVhIellmSWVOTUxsbVpVX2Y2N2MyTXZSMHhZbW9jdjI4VHUyNjVOTEk2SFFDTDQwSmpTMTB4Qm91NEFVOGFrNmtXdmVkR2RETmFBcW5WWWFrT0hsUUZZQmFPcTJMdU5MckVDdk9WRjdMZUh1dm1n?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-04T09:55:37+00:00",
-      "summary": "Trump envoys to visit Russia and Ukraine at weekend, TASS reports Reuters",
+      "title": "Nvidia buying open-source AI platform Hugging Face for $13B",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWI4dmsxQjdrMkUxUkE1Q2F0ZmRGbGhodVpMRlg5RzZidGxSX1Q0WUNJMF9VSGdKR1FGRWtadTk1aDVicHgtZ00wUGJEaVRQVDZaSWtEX2pzV2FMMGVrbmxEQkgycGlxVnEwTGRoaHd6Zm5RT1NDS3VuZHVUTVlLcA?oc=5",
+      "source": "wng.org",
+      "published_at": "2026-09-04T14:38:00+00:00",
+      "summary": "Nvidia buying open-source AI platform Hugging Face for $13B wng.org",
+      "category": "tech",
+      "score": 5.57
+    },
+    {
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-04T14:27:10+00:00",
+      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
       "category": "conflicts",
-      "score": 4.067
+      "score": 5.289
+    },
+    {
+      "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1%",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-04T14:52:23+00:00",
+      "summary": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1% Reuters",
+      "category": "finance",
+      "score": 5.18
     }
   ],
   "hero_history": [
+    "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says",
     "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
     "Brazil's Vale drops IPO plans for critical minerals unit, The Globe and Mail reports",
     "American Resources joins Critical Minerals Institute as inaugural Platinum member",
     "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models",
     "Uganda names its crude oil blend ‘Pearl Sweet’ ahead of commercial production",
     "US government backs OpenAI in New York Times copyright case",
-    "Trump administration sides with OpenAI in lawsuit against New York Times",
-    "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady"
+    "Trump administration sides with OpenAI in lawsuit against New York Times"
   ]
 }

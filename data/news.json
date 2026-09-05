@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-05T04:25:30.067209+00:00",
+  "updated": "2026-09-05T10:33:25.593736+00:00",
   "hero": {
-    "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-05T03:01:43+00:00",
-    "summary": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement Reuters",
-    "category": "tech",
-    "score": 7.272
+    "title": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUdGWkMtN2RpZ3JFMV9kVU9lSGdtU0FuTW5xVzVlNzE2WmhQSUJ1LUpyaHNkVWk3VHlsbjdRLWl2WnNBT0VqMFVHbm9EUmRsLUZLMGdBcW5STDNwaTRDUnlzd0RsUGlDTXlTQjlpMWVHVWpNOTFZTFN2cF9CcTQwX1J2bXZiNVk3aUF0MVNSdUhkZ0dzNjVEdUpOcURCaGtCdWM4Nl8tM05URHJGS2c?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-05T06:41:00+00:00",
+    "summary": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon AP News",
+    "category": "conflicts",
+    "score": 7.495
   },
   "items": [
     {
-      "title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-04T22:41:00+00:00",
-      "summary": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say Reuters",
-      "category": "tech",
-      "score": 5.201
+      "title": "Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-05T10:28:55+00:00",
+      "summary": "Iran war AP News",
+      "category": "conflicts",
+      "score": 7.096
     },
     {
       "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
       "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
-      "published_at": "2026-09-04T22:01:41+00:00",
+      "published_at": "2026-09-05T05:52:05+00:00",
       "summary": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
       "category": "science",
-      "score": 4.656
+      "score": 4.999
     },
     {
-      "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-05T03:25:46+00:00",
-      "summary": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
-      "category": "conflicts",
-      "score": 4.346
+      "title": "Trump sends envoys to Moscow, Kyiv with new plan to 'end war'",
+      "url": "https://www.france24.com/en/video/20260905-trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war",
+      "source": "France 24",
+      "published_at": "2026-09-05T09:15:34+00:00",
+      "summary": "US President Donald Trump said Friday he is sending envoys Steve Witkoff and Jared Kushner to Moscow and Kyiv with a plan to end more than four years of war in Ukraine.",
+      "category": "politics",
+      "score": 4.277
     },
     {
-      "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
+      "title": "Artificial intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-04T19:05:00+00:00",
-      "summary": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected AP News",
-      "category": "conflicts",
-      "score": 3.885
+      "published_at": "2026-09-05T10:20:59+00:00",
+      "summary": "Artificial intelligence AP News",
+      "category": "tech",
+      "score": 4.263
     }
   ],
   "hero_history": [
+    "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
     "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
     "Russian drone strikes Ukraine's security service HQ, escalating air war",
     "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says",
     "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
     "Brazil's Vale drops IPO plans for critical minerals unit, The Globe and Mail reports",
     "American Resources joins Critical Minerals Institute as inaugural Platinum member",
-    "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models",
-    "Uganda names its crude oil blend ‘Pearl Sweet’ ahead of commercial production"
+    "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models"
   ]
 }

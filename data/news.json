@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-04T20:44:25.252451+00:00",
+  "updated": "2026-09-05T04:25:30.067209+00:00",
   "hero": {
-    "title": "Russian drone strikes Ukraine's security service HQ, escalating air war",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
+    "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-04T16:35:54+00:00",
-    "summary": "Russian drone strikes Ukraine's security service HQ, escalating air war Reuters",
-    "category": "conflicts",
-    "score": 7.412
+    "published_at": "2026-09-05T03:01:43+00:00",
+    "summary": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement Reuters",
+    "category": "tech",
+    "score": 7.272
   },
   "items": [
     {
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-04T20:03:52+00:00",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "category": "conflicts",
-      "score": 5.562
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "title": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHVnRVBYTlF2Z1Zwc3NNRnMyZFkyZDVvM0NqUUcyOTZJSE5FUlhMaVR4WkVwWjBqSmNOXzdnY3hsTHBza2tSand0REo3M3NiU1AxWkFBNUwwZU5XLXNYNkEzcUl0QkRValFFYUdCeFFPdVUzcmNyZDJjZ3REZE5UaC1jR1dWSHJfcFkyZkVMZjE3bzFuOC1icDU2M1JlclRxdlE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-04T20:15:37+00:00",
-      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring Reuters",
+      "published_at": "2026-09-04T22:41:00+00:00",
+      "summary": "EXCLUSIVE: Anthropic IPO launch shifts toward mid-October, sources say Reuters",
       "category": "tech",
-      "score": 4.339
+      "score": 5.201
     },
     {
-      "title": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
-      "url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv",
-      "source": "France 24",
-      "published_at": "2026-09-04T15:24:33+00:00",
-      "summary": "A Russian drone struck the headquarters of Ukraine's SBU security services on Friday, Ukrainian President Volodymyr Zelensky said, accusing Moscow of aiming directly at the SBU head's personal office. Zelensky said he had instructed the SBU to deliver an \"appropriate, tangible re",
-      "category": "politics",
-      "score": 4.338
+      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-09-04T22:01:41+00:00",
+      "summary": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
+      "category": "science",
+      "score": 4.656
     },
     {
-      "title": "AGI is whatever you want it to be",
-      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-      "source": "The Verge",
-      "published_at": "2026-09-04T17:16:49+00:00",
-      "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and N",
-      "category": "tech",
-      "score": 3.971
+      "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-05T03:25:46+00:00",
+      "summary": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
+      "category": "conflicts",
+      "score": 4.346
+    },
+    {
+      "title": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFoxRFRUdHcwU1o2cnBDR1ZaYTlncFB4TmZxZjdXN0dJSEpBdXFCVEhoM0ZwTzFQQ29CWnVGWjdWREVvQlY5WERJTjNnbXpDNzBnRWUxdklNejI0TlpzUHNEME5pMnpDZVJ0NUlLRkZ3M2FaaHhyUHBLN3NsNXZwdWNOaFg3dnpCcFJFbmFGQWlvbU1XaVlOaUpDUXhRSGhLdFB1ZFZUZWlBSWhOVWczbDhYX2E?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-04T19:05:00+00:00",
+      "summary": "Russian drone strikes Ukraine security service headquarters as US talks on the war are expected AP News",
+      "category": "conflicts",
+      "score": 3.885
     }
   ],
   "hero_history": [
+    "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
     "Russian drone strikes Ukraine's security service HQ, escalating air war",
     "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says",
     "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
     "Brazil's Vale drops IPO plans for critical minerals unit, The Globe and Mail reports",
     "American Resources joins Critical Minerals Institute as inaugural Platinum member",
     "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models",
-    "Uganda names its crude oil blend ‘Pearl Sweet’ ahead of commercial production",
-    "US government backs OpenAI in New York Times copyright case"
+    "Uganda names its crude oil blend ‘Pearl Sweet’ ahead of commercial production"
   ]
 }

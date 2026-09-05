@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-05T15:11:51.928023+00:00",
+  "updated": "2026-09-05T20:18:37.127950+00:00",
   "hero": {
-    "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+    "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+    "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
-    "published_at": "2026-09-05T15:05:14+00:00",
-    "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+    "published_at": "2026-09-05T18:48:37+00:00",
+    "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
     "category": "conflicts",
-    "score": 6.05
+    "score": 4.758
   },
   "items": [
     {
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVBYRU9QSWszWHltSXpjQlNQb0FNMUE1cjZib1p2T3RBeGdfcGN3MXJUdzdVQ1VpcmZzNzFDWDBsQXcyQk1uUUdKcG1JRTlxR0dsRWI2bzRXNEdJS2VUV0RhZGpqdWJON0Q4UFdTbTdSRm5FWld5S1NpZDZLOG1hbG9Nb3hJVnJfdnpuZkpybUttaUo4LWZRd3YwTmtpQnppdF9tVV90ck1jWGVfNm5TTTl1cEluZ0lUcFVFdUQwRQ?oc=5",
-      "source": "the-decoder.com",
-      "published_at": "2026-09-05T11:04:28+00:00",
-      "summary": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki the-decoder.com",
-      "category": "tech",
-      "score": 5.874
-    },
-    {
-      "title": "Games - NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamNnTlREbVVWc1BOWXFnRXczM2RQb3VGVW56NW9vbHBjYXNodE9kNHp0MGhPS0VoVlNmaE5iUkgzZktSRFVDUmZFUjI3V3hwT0d6eU1yMmhYd3JmSzRSWlllRElfZkZEOTFmcDNyc2VJZmkxcEZRV0NDbXJQZGVvdWVpV0QzbVFSSzhHOFNsY1JPMUZ5Q2d0LXlaOE53OWFsTnRhOHZ3OHhlaWJZbjJZeVkxRk92LWZtODh5Z2FTdEJVSWJ5MEpjN00wcUt5SHRR?oc=5",
-      "source": "nvidia.com",
-      "published_at": "2026-09-05T14:00:36+00:00",
-      "summary": "Games - NVIDIA nvidia.com",
-      "category": "tech",
-      "score": 5.67
-    },
-    {
-      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
+      "title": "Germany’s far-right AfD eyes historic first in state election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-09-05T12:54:15+00:00",
-      "summary": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
-      "category": "conflicts",
-      "score": 4.429
-    },
-    {
-      "title": "Costa Rica’s president says US ground forces would boost national security",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/costa-ricas-president-says-us-ground-forces-would-boost-national-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-05T12:09:56+00:00",
-      "summary": "Costa Rican President Laura Fernandez said US ground operations could boost national security.",
+      "published_at": "2026-09-05T18:07:43+00:00",
+      "summary": "Germany’s far-right AfD is projected to take power in one of the country’s 16 states for the first time.",
       "category": "politics",
-      "score": 4.124
+      "score": 4.273
+    },
+    {
+      "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+      "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-05T18:12:52+00:00",
+      "summary": "Both Russia and Ukraine vow not to strike each other's capitals for three days during talks in Moscow and Kyiv.",
+      "category": "conflicts",
+      "score": 3.908
+    },
+    {
+      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-09-05T05:52:05+00:00",
+      "summary": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
+      "category": "science",
+      "score": 3.33
+    },
+    {
+      "title": "Croatia: Toxic waste protest draws tens of thousands",
+      "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-09-05T17:32:00+00:00",
+      "summary": "The Zagreb demonstrators demanded that the government come up with a plan to clear illegal toxic waste in 20 days. Prime Minister Plenkovic has promised to tackle the issue.",
+      "category": "politics",
+      "score": 3.256
     }
   ],
   "hero_history": [
+    "US hits three Iranian oil tankers after saying its warships were targeted",
     "US envoys arrive in Moscow ahead of Ukraine talks",
     "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
     "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
     "Russian drone strikes Ukraine's security service HQ, escalating air war",
     "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says",
     "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-    "Brazil's Vale drops IPO plans for critical minerals unit, The Globe and Mail reports",
-    "American Resources joins Critical Minerals Institute as inaugural Platinum member"
+    "Brazil's Vale drops IPO plans for critical minerals unit, The Globe and Mail reports"
   ]
 }

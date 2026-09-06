@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-06T10:54:05.857019+00:00",
+  "updated": "2026-09-06T15:26:44.625001+00:00",
   "hero": {
-    "title": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-06T07:39:21+00:00",
-    "summary": "OPEC+ set to keep oil output policy unchanged on Sunday, sources say Reuters",
-    "category": "resources",
-    "score": 7.461
+    "title": "Israeli airstrikes on southern Lebanon kill 4 people and wound 20 others",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0tiOHA4ZG80YjBoRGU0RmNtUXVnMnpISENuWDZnbG9aMkRobXFuVTZXSjZQVERQb0NoNm1jR0xjZGlVeklVYUM0TTZyNUpyZHdHMEpkN3FNc0ZiTlFMdWNqbVBXZ1lYRXYzdnZwSXJPTks2RTFCU01Dd1h1am1qbW9JY1dScjZhemJENnlTamF6MDdKeGhHX1JlU1AwaGY2aFhVbUxZa3NqcnY5aHVmOUl0NEFRWUVkSnRlcm1ncFl6Tk5iSzFKQUtn?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-06T12:52:00+00:00",
+    "summary": "Israeli airstrikes on southern Lebanon kill 4 people and wound 20 others AP News",
+    "category": "conflicts",
+    "score": 6.922
   },
   "items": [
     {
-      "title": "Israeli air attacks on Lebanon kill at least four",
-      "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-06T09:15:20+00:00",
-      "summary": "Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.",
+      "title": "OPEC+ keeps oil output policy unchanged for October",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-06T12:03:29+00:00",
+      "summary": "OPEC+ keeps oil output policy unchanged for October Reuters",
+      "category": "resources",
+      "score": 5.584
+    },
+    {
+      "title": "US envoys make first Kyiv visit amid Ukraine war peace push",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-06T15:10:42+00:00",
+      "summary": "US envoys make first Kyiv visit amid Ukraine war peace push Reuters",
       "category": "conflicts",
-      "score": 6.117
+      "score": 5.271
     },
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-06T08:44:36+00:00",
-      "summary": "Iran war AP News",
-      "category": "conflicts",
-      "score": 5.032
-    },
-    {
-      "title": "Germany's far-right AfD clear frontrunner in eastern state vote",
-      "url": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote",
-      "source": "France 24",
-      "published_at": "2026-09-06T08:59:26+00:00",
-      "summary": "German voters headed to the polls Sunday for a crucial regional election in the ex-communist east where the far-right, anti-immigration and Moscow-friendly AfD is expected to win easily.",
-      "category": "politics",
-      "score": 4.169
-    },
-    {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "source": "OpenAI",
-      "published_at": "2026-09-06T09:51:02+00:00",
-      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
+      "title": "China Is Still Chasing Nvidia’s 3-Year-Old Chip — While Nvidia Has Moved Generations Ahead",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDM3bndSQlJLWTF3T1QtRTJTMDdnb0FCM2lncU5ESm5iRUNUdEtTTnVFUlRMbVREaXZQSFFST29FdHVZSV9jTkdGZjlvelNaOXktc3pSOUxtWDVWMmg2S3lTaTZrNWYyaHc2bElLT2ZEOXFCTFJrdnJaOWN0TE9oZTk2ckVoNHRYaVY0MjhsbGdNd0tMczlycQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-06T14:35:11+00:00",
+      "summary": "China Is Still Chasing Nvidia’s 3-Year-Old Chip — While Nvidia Has Moved Generations Ahead Yahoo Finance",
       "category": "tech",
-      "score": 3.361
+      "score": 4.462
+    },
+    {
+      "title": "Anthropic, OpenAI, Meta and Google All Shipped New AI Models in One Week",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2ZxWVRGaTFpd3Flclo5MlZGVVlZcEw2dzJ4eFZIc3BPR3l4WlhOU1A1N3luMnQxSU9taER4Q2Uxcmp6MElYNW1qaE5XUEpwOEQzQ2xzNWtiQ3ZiSFItQ0REMjBXcFBidnlDZFhEYkpBNDNKTzVXMEFEVHlHaEQ2M0ZKRUp5bHdyQVZYQ1lrb1YwMm13SjNMVmZ4WjZhWFU?oc=5",
+      "source": "Startup Fortune",
+      "published_at": "2026-09-06T13:24:12+00:00",
+      "summary": "Anthropic, OpenAI, Meta and Google All Shipped New AI Models in One Week Startup Fortune",
+      "category": "tech",
+      "score": 4.147
     }
   ],
   "hero_history": [
+    "Israeli airstrikes on southern Lebanon kill 4 people and wound 20 others",
     "OPEC+ set to keep oil output policy unchanged on Sunday, sources say",
     "Gamescom 2026 Ray Reconstruction and game announcements - NVIDIA",
     "US hits three Iranian oil tankers after saying its warships were targeted",
     "US envoys arrive in Moscow ahead of Ukraine talks",
     "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
     "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
-    "Russian drone strikes Ukraine's security service HQ, escalating air war",
-    "Russia's drone attack hits Ukraine's SBU headquarters, Zelenskiy says"
+    "Russian drone strikes Ukraine's security service HQ, escalating air war"
   ]
 }

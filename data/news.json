@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-07T04:38:07.637829+00:00",
+  "updated": "2026-09-07T12:29:29.189019+00:00",
   "hero": {
-    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "source": "The Verge",
-    "published_at": "2026-09-06T23:36:04+00:00",
-    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in",
-    "category": "tech",
-    "score": 7.387
+    "title": "Israeli strikes in southern Lebanese village kill nine",
+    "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-09-07T10:16:56+00:00",
+    "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+    "category": "conflicts",
+    "score": 7.391
   },
   "items": [
     {
-      "title": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2V3MzMyWDhGbmtOTkItcEdzR2dPdHNPelhqSG9sbEw1Mk0xTE85N29vZmtoTnZOa2NpOWFpNF9BSmd5N2EwMDVNOEFWWFlZR2l3SUlSNTdxR2wtT01Kc3RoUmh1bm9xTHBZNjItVXJ0dHZCeHNfX0pRTDBfdlh0QVV0N21fT2ZUZlF1WVFBWW5TejczdUE5MmRkaHpNeGZkTG1zVTlzbw?oc=5",
+      "title": "OpenAI has sent EU incident report on hijacked German website, Commission says",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-07T02:53:00+00:00",
-      "summary": "Breakingviews - COMMENTARY: China's AI dragons breathe fire on Nvidia's moat Reuters",
+      "published_at": "2026-09-07T10:56:49+00:00",
+      "summary": "OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
       "category": "tech",
-      "score": 6.141
+      "score": 6.195
     },
     {
-      "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-07T02:17:17+00:00",
-      "summary": "An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
-      "category": "conflicts",
-      "score": 5.941
-    },
-    {
-      "title": "OPEC+ keeps October oil output quota unchanged from September levels",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHJqaG8wOGNwUTdsZDhLVnYzMVFjS2phTHhXc2tIUHMwRTBUNVYxLTJ6UDlvMnRyZ2wyNUtMSnoxY3Z3UlkxS3Rpakd5NFI4RTBsaV9JbTZET0w1OHN0dEdrSTdiTXc3WXYwTW8zdXVCcGthNlJyNDdvZ01kallmb0VzcVgtS2pJWW9nWGdjd2FiQjdQV0pOYTVIcFZlY21wLUEzMmZHSTRIUGZacWhhU3NPQ1djakRocEJ1OTBKRQ?oc=5",
-      "source": "ANI News",
-      "published_at": "2026-09-07T01:35:00+00:00",
-      "summary": "OPEC+ keeps October oil output quota unchanged from September levels ANI News",
+      "title": "OPEC+ keeps oil output policy unchanged for October",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWmg1b09IQmhEc296TUhxZWJiSWdfYWs2cFMwQ20xOEtHWFM3M1R5SU0zVFFsR1ZNMm9NTno4WDhTTDdwWHVQY1Y1ZWkyd0ROekNYeFZXdWdGc0s2cXNjOXozRUhnYU5QcVhxWkQwSHZBRlp1U05OWElpdzBKd1FQZXJMMlRSd2dxVFRlRC1hNUFoQQ?oc=5",
+      "source": "VOV World",
+      "published_at": "2026-09-07T11:42:00+00:00",
+      "summary": "OPEC+ keeps oil output policy unchanged for October VOV World",
       "category": "resources",
-      "score": 5.265
+      "score": 5.264
     },
     {
-      "title": "EU to give Greenland a cash boost amid Trump annexation drive",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEowN0xTcUtyLU1rMXoxb0NNYWZaVi02WHJXNlhWZzRqWTNKbFpKckFNdUEzOFJaUWxRZHNyMUJBZXBuUk9VZXF0VkVsNjl3ZEtnWDI5aTlwSjdCS2FxcmUyclExS3lNTVZJTUlFMmY5dXhEREFKR1A0Qkg4Z0syanJmNWdialFqTHdIakZaQlgwMW5tYjA4YnRwbE5fOWc?oc=5",
+      "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-07T06:58:28+00:00",
+      "summary": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
+      "category": "conflicts",
+      "score": 5.206
+    },
+    {
+      "title": "Far-right AfD courts conservative support after historic German state election win",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0tYMlJiSnROMHFKX3dJV04wTU50bkdYWHdheVdTN0dJRHJDbUZMYkhEX0JFa2pxNFNadzdEWW95bndCQ1ByRGhUZzQ1T0pJQWhFSWVmSU5IOUY2MEJTaWF5bl90N2JrdGxxMVJ2MWdoTHlpVEJJWWY1dGl2TGlDanZ3MXMxUGJnR3RPMmRMSjlEdVVVdFlIWlRpdDZodHF0Ym1uTlJFZEJmTGFIN0lKT1hXVWFRdW9XU1VHbmk3OGZQcGZEX0E?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-06T23:57:00+00:00",
-      "summary": "EU to give Greenland a cash boost amid Trump annexation drive Reuters",
+      "published_at": "2026-09-07T10:36:34+00:00",
+      "summary": "Far-right AfD courts conservative support after historic German state election win Reuters",
       "category": "politics",
-      "score": 4.529
+      "score": 5.09
     }
   ],
   "hero_history": [
+    "Israeli strikes in southern Lebanese village kill nine",
     "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
     "US envoys Witkoff and Kushner hold talks in Ukraine after meeting with Putin",
     "Israeli airstrikes on southern Lebanon kill 4 people and wound 20 others",
     "OPEC+ set to keep oil output policy unchanged on Sunday, sources say",
     "Gamescom 2026 Ray Reconstruction and game announcements - NVIDIA",
     "US hits three Iranian oil tankers after saying its warships were targeted",
-    "US envoys arrive in Moscow ahead of Ukraine talks",
-    "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon"
+    "US envoys arrive in Moscow ahead of Ukraine talks"
   ]
 }

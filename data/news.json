@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-08T11:16:35.607637+00:00",
+  "updated": "2026-09-08T16:36:39.667561+00:00",
   "hero": {
-    "title": "At least two people dead after Russian strikes on Kyiv",
-    "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-09-08T10:23:01+00:00",
-    "summary": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
-    "category": "conflicts",
-    "score": 6.832
+    "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past/",
+    "source": "NASA",
+    "published_at": "2026-09-08T14:00:28+00:00",
+    "summary": "For the first time, scientists used the joint power of NASA’s Hubble and James Webb Space Telescopes to study some of the most far-flung bodies in our solar system, Trans-Neptunian Objects (TNOs). Some of these are the smallest and faintest ever directly seen. The researchers une",
+    "category": "science",
+    "score": 6.109
   },
   "items": [
     {
-      "title": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFycVpRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz?oc=5",
+      "title": "EXCLUSIVE: Solvay in talks with One Investment Management on rare earths partnership",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUHk3MXc1T3RYSTNIYUotTkp5TEhQUEd5Z1NQYzVDMWppVHlkOUY3ek9jMjk3ZnRfbTFoamcySlhWa3dfb2stVnB6U2lveTdIN0Z3RWhRS1JmN0ozYmhLNC12a21qeklmdzg1dUNjSU1pNUhBSG9FcDhlMi1Bc3dnai1kYTNJaWhVemxfNHVod1hsUlRpVTJzSTltZGJidHpUZEpjTXZVazRMUlZ5WVlJMXR3?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-08T01:40:00+00:00",
-      "summary": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity Reuters",
-      "category": "tech",
-      "score": 5.164
+      "published_at": "2026-09-08T12:35:40+00:00",
+      "summary": "EXCLUSIVE: Solvay in talks with One Investment Management on rare earths partnership Reuters",
+      "category": "resources",
+      "score": 6.021
     },
     {
-      "title": "Apple's Ternus faces AI test as foldable iPhone takes center stage",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmV4NTJaYXg0aHhFODItdnhNd292QjhkM1RvMGFmTlJ5cEhkc2VfU1I2Y3BqNHZpdDJmeWZaNlRVdTlGczJTZXZQLXY5RFBIX2xCYlpCaGFaN05DY1BJbmdQTm9DckJuaXJLSmtXSE45Zm90RlR5NEJJX2g2YUdLV1k0S1M1bnByX2VOUC1JeU9iQUFkQnVfbHFYWlNvNncxNXFfdDdYNExiUDg4TnlyUlZfcEF6T2dJc0ZXTlpzSGI?oc=5",
+      "title": "Germany to send more Patriot missiles to Ukraine, warns of stepped-up Russian winter attacks",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdlRUdC0wWEtieFkxa2dibzVNNWxEc1lhUzRwcG1MWVpPMUtDOW5EaTVfdzJwR3JBQWx5bjc2VHBUUG96bTR5VXg0SDVNYk0wMU13MmlzamFkMkVaWjdVZDdqeGxFcThXdTZNZU9TOXdXcjRXYnVwMUl2N19oc3VzR2xGRWZxenk2b3NFazZ4RlVucmNxZUtKQ1hCYjRaazE1MWF0MmduOURqdGtBMEF6MFU0UVZZY1BJUFJmZGNBT1hxdkQ2bFNZOHVvMUh1M0JvVHNj?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-08T10:11:47+00:00",
-      "summary": "Apple's Ternus faces AI test as foldable iPhone takes center stage Reuters",
-      "category": "tech",
-      "score": 4.796
-    },
-    {
-      "title": "Wall St futures slip as oil surge puts markets on edge",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjZqc0tNY1VPMHZtRldqOUxwQzJYN0JtWEpoUVNoNGw4U3I5UnVCYXVjd0ZEUUw1SnZhc1JkWnFoTmFoYlVrZ0R3ZlFaQVQ3cmR6ZDVURG1vU1VoR09EcXI4Sl8wemY1RlU2WFJOQ1h6TXpSbUIzdS1WTDhXZnRONzFjRlI0UGIwQTVkeUxWN3YyMkhHeHd6ag?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-08T09:14:33+00:00",
-      "summary": "Wall St futures slip as oil surge puts markets on edge Reuters",
-      "category": "finance",
-      "score": 4.081
-    },
-    {
-      "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-08T07:40:56+00:00",
-      "summary": "Forces loyal to Yemen’s internationally recognised government pledge to seize the capital Sanaa as battles rage.",
+      "published_at": "2026-09-08T14:50:07+00:00",
+      "summary": "Germany to send more Patriot missiles to Ukraine, warns of stepped-up Russian winter attacks Reuters",
       "category": "conflicts",
-      "score": 3.671
+      "score": 5.325
+    },
+    {
+      "title": "UK government bans goods from Israeli settlements in the West Bank in a toughening of its stance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnNUUkpEenk1MDJhTHpGbXp6VER2bDhydkpYa3BmQVhtR3A3MDcwOTNHSUwwX1J3aTQxeVA1NG9YTDhiNkdORk85UUpaTHE3RUNOSk5fMWRVNENmQ0poSlp3dXZyNXJocndqMkdOTVhPSDJlbFBqTE0wLThJc1dWMUxFTjQ1OXdKZUtOTEJiTl9Bd0pNTHNSUzlJWWYwN013WGc?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-08T15:04:00+00:00",
+      "summary": "UK government bans goods from Israeli settlements in the West Bank in a toughening of its stance AP News",
+      "category": "conflicts",
+      "score": 5.162
+    },
+    {
+      "title": "Belgian far-right party cannot use IKEA trademarks for anti-immigration campaign, EU court rules",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNW0zQlJqM0hVTTFOaUdCVXhGYVVZRGV1ZncwaDVEandyU2JkNXJpWjhSNEV5cHB5SHdzZFdvLUJHcHItWmd6bXBMYTI2em5GWFJlZ0lxV08wOEJBeVhZQ0hlZzl5U0ZnbzJIYjNmNmlKWTk5cC1mb1ZoZl95aVg0dmtNbGxyWnZUSnEzdnJPOEpMRE1oNnNwb0IwQmJQU1B1eHhBRFA0T1FfMlVNODQ0VkVUaXZsaDg?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-08T13:47:00+00:00",
+      "summary": "Belgian far-right party cannot use IKEA trademarks for anti-immigration campaign, EU court rules AP News",
+      "category": "politics",
+      "score": 4.893
     }
   ],
   "hero_history": [
+    "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
     "At least two people dead after Russian strikes on Kyiv",
     "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
     "Israel",
     "Israeli strikes in southern Lebanese village kill nine",
     "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
     "US envoys Witkoff and Kushner hold talks in Ukraine after meeting with Putin",
-    "Israeli airstrikes on southern Lebanon kill 4 people and wound 20 others",
-    "OPEC+ set to keep oil output policy unchanged on Sunday, sources say"
+    "Israeli airstrikes on southern Lebanon kill 4 people and wound 20 others"
   ]
 }

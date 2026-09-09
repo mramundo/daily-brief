@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-09T11:20:15.942798+00:00",
+  "updated": "2026-09-09T16:36:48.641577+00:00",
   "hero": {
     "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Tech",
-    "published_at": "2026-09-09T10:46:43+00:00",
+    "published_at": "2026-09-09T15:34:09+00:00",
     "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
     "category": "tech",
-    "score": 10.014
+    "score": 5.397
   },
   "items": [
     {
-      "title": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-09T10:18:44+00:00",
-      "summary": "Ukraine AP News",
-      "category": "conflicts",
-      "score": 9.335
-    },
-    {
-      "title": "Anthropic researcher quits over AI labs ‘gambling with our lives’",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEd5ek5kaWNlMEhuc1B5NDktbmhCN1RhNEZFQ3ZUYjJyWm1WUWdkdUhYMnZVNTExLWd2VzF0M1hHVUd1dDlfRmtaRDhTZ0ZicXVJTHJ1RzFlNXZ3V1VNTnZDb1pUb0F4aTdGMlBIZWZpZ21TYnQyanFMWVMtdzlZVnAyTUk?oc=5",
-      "source": "Financial Times",
-      "published_at": "2026-09-09T09:31:37+00:00",
-      "summary": "Anthropic researcher quits over AI labs ‘gambling with our lives’ Financial Times",
+      "title": "Anthropic researchers panic, say AI could cause human extinction by 2030",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-09-09T15:55:00+00:00",
+      "summary": "Anthropic researchers panic, say AI could cause human extinction by 2030 The Guardian",
       "category": "tech",
-      "score": 5.545
+      "score": 5.262
     },
     {
-      "title": "Israel tells UK to close East Jerusalem consulate within 30 days",
-      "url": "https://www.aljazeera.com/news/2026/9/9/israel-tells-uk-to-close-east-jerusalem-consulate-within-30-days?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-09T10:09:06+00:00",
-      "summary": "Israel announced it would close the consulate after UK said it was imposing sanctions on illegal settlements.",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-09T16:01:54+00:00",
+      "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
       "category": "conflicts",
-      "score": 5.064
+      "score": 5.148
     },
     {
-      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-09-09T10:57:15+00:00",
-      "summary": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
+      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-09T13:54:20+00:00",
+      "summary": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies Reuters",
       "category": "resources",
-      "score": 4.984
+      "score": 5.122
+    },
+    {
+      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-09T15:08:00+00:00",
+      "summary": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates AP News",
+      "category": "finance",
+      "score": 5.011
     }
   ],
   "hero_history": [
+    "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
     "ChatGPT Sketch turns your bad drawings into detailed AI images",
     "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
     "At least two people dead after Russian strikes on Kyiv",
     "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
-    "Israel",
-    "Israeli strikes in southern Lebanese village kill nine"
+    "Israel"
   ]
 }

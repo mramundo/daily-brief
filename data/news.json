@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-09T16:36:48.641577+00:00",
+  "updated": "2026-09-09T20:54:52.056927+00:00",
   "hero": {
-    "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-    "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Tech",
-    "published_at": "2026-09-09T15:34:09+00:00",
-    "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+    "title": "Anthropic reports fourth cybersecurity incident with early version of Claude",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-09T19:48:57+00:00",
+    "summary": "Anthropic reports fourth cybersecurity incident with early version of Claude Reuters",
     "category": "tech",
-    "score": 5.397
+    "score": 9.519
   },
   "items": [
     {
-      "title": "Anthropic researchers panic, say AI could cause human extinction by 2030",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-09-09T15:55:00+00:00",
-      "summary": "Anthropic researchers panic, say AI could cause human extinction by 2030 The Guardian",
+      "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-09T19:18:19+00:00",
+      "summary": "Houthis are trying to drag Saudi Arabia into conflict by targeting Saudi territory, says Yemen’s Ambassador to Qatar.",
+      "category": "conflicts",
+      "score": 7.002
+    },
+    {
+      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-09T18:42:28+00:00",
+      "summary": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say Reuters",
       "category": "tech",
-      "score": 5.262
+      "score": 6.852
     },
     {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-09-09T16:01:54+00:00",
-      "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "published_at": "2026-09-09T20:28:04+00:00",
+      "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
       "category": "conflicts",
-      "score": 5.148
+      "score": 5.178
     },
     {
-      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+      "title": "S&P 500 ends down as oil tops $100 per barrel",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-09T13:54:20+00:00",
-      "summary": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies Reuters",
+      "published_at": "2026-09-09T20:01:02+00:00",
+      "summary": "S&P 500 ends down as oil tops $100 per barrel Reuters",
       "category": "resources",
-      "score": 5.122
-    },
-    {
-      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-09T15:08:00+00:00",
-      "summary": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates AP News",
-      "category": "finance",
-      "score": 5.011
+      "score": 5.134
     }
   ],
   "hero_history": [
+    "Anthropic reports fourth cybersecurity incident with early version of Claude",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
     "ChatGPT Sketch turns your bad drawings into detailed AI images",
     "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
     "At least two people dead after Russian strikes on Kyiv",
-    "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
-    "Israel"
+    "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children"
   ]
 }

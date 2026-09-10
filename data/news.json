@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-10T11:16:55.070222+00:00",
+  "updated": "2026-09-10T16:22:48.057126+00:00",
   "hero": {
-    "title": "OPEC oil output falls in August, Reuters survey shows",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGZWQVVsSEY1MDZDLXRVM2g2N0t1bHJ1VXpWX3pScTFZak53OGQ5VVNxemw0Mjdrd1paNjRYb1YtdFlYN3RIOURKM00xZmc4eFRlTHk2cTNhODJKWW5TOS1BMEE1cVF2NTN5YjJaeHRRNFlBVHUwUU9CN0pyOEdRMHE0c2VtcGNvamRPVFd3OVVlTnFmV3Fobks2WlZJU21oRW44?oc=5",
+    "title": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkktWlJVd2tXLVVfa2tROW5TNjhnaC1rVjRRVlFJWmJUVVU3WlRaVFVUVXhFN1MwbXhSczdJUU5QcjBiNlZVM0RBNVFJbWdGN0FndkNOMlM4RWlDSWdGU1hhOThtbm1jckxrdFhmYjRDYVlWTEZEMDNNd1RaYVVUMy1kX0xFVGtHeDU2WXFUeUw1bHBIZnBBaGVXbnpEellQSi13OVMyVlVmWUpIVjJocW9yS0NaaTBwaHhVNQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-10T10:35:42+00:00",
-    "summary": "OPEC oil output falls in August, Reuters survey shows Reuters",
-    "category": "resources",
-    "score": 8.301
+    "published_at": "2026-09-10T13:23:02+00:00",
+    "summary": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers Reuters",
+    "category": "tech",
+    "score": 7.775
   },
   "items": [
     {
-      "title": "OpenAI faces Senate probe into Hugging Face hack by rogue AI agents",
+      "title": "OPEC further lowers 2026 global oil demand growth forecast",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFloWGZuWFdUVmJsT1RTNThKbmhKdE94YWNPWFVjR0c4a18waUEySVZHV2toUVhScm1HR2VkQ3lNS2RQaGhUQnZrMUk2aEp6Y1NMeHdqLXhISnVpYXZocXJZaVRGYVprT1JJTmU0Z0FoS2Q5Xy1iUDFGY2RrUXkxLXY0UmhSWnlTV3Q4X3lMN0Q3UjZpQ1hFQUstdzlPaGhnaklSaEpHOWk5dHJocTlv?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-10T13:00:40+00:00",
+      "summary": "OPEC further lowers 2026 global oil demand growth forecast Reuters",
+      "category": "resources",
+      "score": 7.423
+    },
+    {
+      "title": "French Football Federation withdraws support for Infantino's FIFA election bid",
+      "url": "https://www.france24.com/en/video/20260910-france-withdraws-support-for-infantino-in-fifa-presidential-election",
+      "source": "France 24",
+      "published_at": "2026-09-10T13:19:09+00:00",
+      "summary": "France will not support the candidacy of Gianni Infantino, who is running for a new term as FIFA president in March 2027, the French Football Federation announced on Thursday. The FFF is aligning itself with the position of other European federations such as Belgium, Italy, Scotl",
+      "category": "politics",
+      "score": 7.372
+    },
+    {
+      "title": "ECB raises interest rates to fight off inflation jump",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGdaa19kT2JiMm9NaWdRRnFjUlhvSDBlUF9IbjZQbjZ5dUFPOVdnMlRSSUFPcjRsdXRHdWFsZkxCSEZXSEc1SERmWWE3Q1JCOHZFZl9UU3NBdGhyZkhTcFFrR3BCYVd0XzNTNGFPcHFaLS1mWm5OajlZMDNSRzBoaXpDTXVCWmJtMGwxa1Zqazcwb0t4UUtIUTZvQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-10T15:13:37+00:00",
+      "summary": "ECB raises interest rates to fight off inflation jump Reuters",
+      "category": "finance",
+      "score": 7.346
+    },
+    {
+      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-10T10:47:57+00:00",
-      "summary": "OpenAI faces Senate probe into Hugging Face hack by rogue AI agents Reuters",
+      "published_at": "2026-09-10T15:45:36+00:00",
+      "summary": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings Reuters",
       "category": "tech",
-      "score": 6.475
-    },
-    {
-      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-      "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-10T10:07:19+00:00",
-      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-      "category": "politics",
-      "score": 6.24
-    },
-    {
-      "title": "Russia’s new shelling tactics deepen suffering in Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/9/10/russias-new-shelling-tactics-deepen-suffering-in-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-10T10:19:17+00:00",
-      "summary": "Ukrainians are losing more sleep, shopping for food is becoming harder and travel is often fraught with risk and delays.",
-      "category": "conflicts",
-      "score": 5.395
-    },
-    {
-      "title": "US midterms: Trump touts $5,000 payout if Republicans win",
-      "url": "https://www.france24.com/en/video/20260910-us-midterms-trump-touts-5-000-payout-if-republicans-win",
-      "source": "France 24",
-      "published_at": "2026-09-10T10:21:31+00:00",
-      "summary": "President Donald Trump capped the first day of his Republican Party's first-ever midterm convention by proposing to pay every US adult a $5,000 \"Trump dividend\" if his party wins November's congressional elections. Trump delivered the extraordinary overture during a primetime spe",
-      "category": "politics",
-      "score": 5.213
+      "score": 6.438
     }
   ],
   "hero_history": [
+    "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
     "OPEC oil output falls in August, Reuters survey shows",
     "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
     "Anthropic reports fourth cybersecurity incident with early version of Claude",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
-    "ChatGPT Sketch turns your bad drawings into detailed AI images",
-    "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past"
+    "ChatGPT Sketch turns your bad drawings into detailed AI images"
   ]
 }

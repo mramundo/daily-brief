@@ -1,15 +1,33 @@
 {
-  "updated": "2026-09-10T16:22:48.057126+00:00",
+  "updated": "2026-09-10T20:50:36.755096+00:00",
   "hero": {
-    "title": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkktWlJVd2tXLVVfa2tROW5TNjhnaC1rVjRRVlFJWmJUVVU3WlRaVFVUVXhFN1MwbXhSczdJUU5QcjBiNlZVM0RBNVFJbWdGN0FndkNOMlM4RWlDSWdGU1hhOThtbm1jckxrdFhmYjRDYVlWTEZEMDNNd1RaYVVUMy1kX0xFVGtHeDU2WXFUeUw1bHBIZnBBaGVXbnpEellQSi13OVMyVlVmWUpIVjJocW9yS0NaaTBwaHhVNQ?oc=5",
+    "title": "OpenAI launches ChatGPT for financial services industry",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSldUSEZwamtyN2hWd3dvU2RoWXpwWG1jWW9IRmFWM2Y0MlFSWG9qekUyN0NiWFdGT0F1RFZoNVZVbXQyOW5hbjFTNHpNYlkzLVNrelJGbG9kQjJhcVJTX3A3OFJDb01FQkFoaUE0TS1wdkNQdDR1ZWpQOEpJWVR0RUVnT1otQUg1R1JVTVlteGRJbl94OWNSLWtlQlo?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-10T13:23:02+00:00",
-    "summary": "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers Reuters",
+    "published_at": "2026-09-10T19:13:59+00:00",
+    "summary": "OpenAI launches ChatGPT for financial services industry Reuters",
     "category": "tech",
-    "score": 7.775
+    "score": 7.207
   },
   "items": [
+    {
+      "title": "European Central Bank raises interest rates a quarter point to quell energy-fueled inflation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXhlSGRFeXBsSzdweG4xMUZSN2RGVXhhRXJGNUdVaW41aWlTVUZNSkdtRmxWVVhQbUV3b1RoektzQWIzb21ydWRzb0JCZUJDSTI2UjdCdlNDYnRfNVVSYmJuZi1IakZldHpvaHJUSXhBVnVINndGZjFoZUYxa20xU2JKdndRNm9KQVQxMl9rSEZ5NkthQngwUXQxelE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-10T17:53:00+00:00",
+      "summary": "European Central Bank raises interest rates a quarter point to quell energy-fueled inflation AP News",
+      "category": "finance",
+      "score": 6.813
+    },
+    {
+      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-10T19:48:35+00:00",
+      "summary": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings Reuters",
+      "category": "tech",
+      "score": 6.328
+    },
     {
       "title": "OPEC further lowers 2026 global oil demand growth forecast",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFloWGZuWFdUVmJsT1RTNThKbmhKdE94YWNPWFVjR0c4a18waUEySVZHV2toUVhScm1HR2VkQ3lNS2RQaGhUQnZrMUk2aEp6Y1NMeHdqLXhISnVpYXZocXJZaVRGYVprT1JJTmU0Z0FoS2Q5Xy1iUDFGY2RrUXkxLXY0UmhSWnlTV3Q4X3lMN0Q3UjZpQ1hFQUstdzlPaGhnaklSaEpHOWk5dHJocTlv?oc=5",
@@ -17,44 +35,26 @@
       "published_at": "2026-09-10T13:00:40+00:00",
       "summary": "OPEC further lowers 2026 global oil demand growth forecast Reuters",
       "category": "resources",
-      "score": 7.423
+      "score": 6.163
     },
     {
-      "title": "French Football Federation withdraws support for Infantino's FIFA election bid",
-      "url": "https://www.france24.com/en/video/20260910-france-withdraws-support-for-infantino-in-fifa-presidential-election",
-      "source": "France 24",
-      "published_at": "2026-09-10T13:19:09+00:00",
-      "summary": "France will not support the candidacy of Gianni Infantino, who is running for a new term as FIFA president in March 2027, the French Football Federation announced on Thursday. The FFF is aligning itself with the position of other European federations such as Belgium, Italy, Scotl",
-      "category": "politics",
-      "score": 7.372
-    },
-    {
-      "title": "ECB raises interest rates to fight off inflation jump",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGdaa19kT2JiMm9NaWdRRnFjUlhvSDBlUF9IbjZQbjZ5dUFPOVdnMlRSSUFPcjRsdXRHdWFsZkxCSEZXSEc1SERmWWE3Q1JCOHZFZl9UU3NBdGhyZkhTcFFrR3BCYVd0XzNTNGFPcHFaLS1mWm5OajlZMDNSRzBoaXpDTXVCWmJtMGwxa1Zqazcwb0t4UUtIUTZvQQ?oc=5",
+      "title": "Russian strikes kill seven in Ukraine industrial hub of Pavlohrad",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEVtQVJxa3hqaktCVV9ValNCTzFSNGRORVhUcTRMcUxnLUh6RHZNeDkyWlNpbTFxRUxETVoyajVzZi1IaHQ1SGNldW5QWXZRLWRrTjZ6WC02ZndibmpqU0t4VXVXTmF1QUJVZ0pyV3dFVWh3Qm5oTU8zMWVUZGRzTVhzUXlYNUhHZ1FVa1hVcF9wUThDTjJmaGtzQ21sc3E2bXN3?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-10T15:13:37+00:00",
-      "summary": "ECB raises interest rates to fight off inflation jump Reuters",
-      "category": "finance",
-      "score": 7.346
-    },
-    {
-      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-10T15:45:36+00:00",
-      "summary": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings Reuters",
-      "category": "tech",
-      "score": 6.438
+      "published_at": "2026-09-10T18:59:32+00:00",
+      "summary": "Russian strikes kill seven in Ukraine industrial hub of Pavlohrad Reuters",
+      "category": "conflicts",
+      "score": 6.116
     }
   ],
   "hero_history": [
+    "OpenAI launches ChatGPT for financial services industry",
     "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
     "OPEC oil output falls in August, Reuters survey shows",
     "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
     "Anthropic reports fourth cybersecurity incident with early version of Claude",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-    "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
-    "ChatGPT Sketch turns your bad drawings into detailed AI images"
+    "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says"
   ]
 }

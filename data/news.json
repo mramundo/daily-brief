@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-09T20:54:52.056927+00:00",
+  "updated": "2026-09-10T04:40:27.237310+00:00",
   "hero": {
-    "title": "Anthropic reports fourth cybersecurity incident with early version of Claude",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaU1ZZ0ZRWnBaSnRlakoxVTU1SE9aZTEySkNZU2N2eU5XWG9remJKT29feUVoNlhhQVpfWnNFd1NKZ0xnb3lobTExTXE5dXZud0tCbGVLMzR4Y0NFRkRRUUlnWUllbjVTcXBWeHJzMDJVamFBQjJveC1PNThKSGUzNlRfUlVEVkJPbHhtendZdXdsSmdva0RvT3NidFdSb3BWSmd6R1lFb1NxYXdjR0xKeVVnZWY4c3JlbHlycFhkcXlmQ1Jv?oc=5",
+    "title": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU50UmRVNmIyeFBOSmd6azlDeDMxNlh1S0cycHpnYjU4NERYWjhoN2diSmthTngzdWZScmFTdldrTGtUcTh3SDFKbVIySmU2TUx3cnMtOEdKMnFkV3J1d3pYRmdvZDVWb2VPSXNjcG52cEVPTGtLNF9UT1BFSnJ3WlUzOXNuU1FwZmNSdGVTdV9Na1h6M3dPVGVtU0ttYlBlRWc0S1Q0Rl9HSmVCNlZaZXhjMVc0OUduMk1mOGRqVkxjY0d2SGhRbWJsUQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-09T19:48:57+00:00",
-    "summary": "Anthropic reports fourth cybersecurity incident with early version of Claude Reuters",
-    "category": "tech",
-    "score": 9.519
+    "published_at": "2026-09-10T02:07:00+00:00",
+    "summary": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed Reuters",
+    "category": "finance",
+    "score": 7.187
   },
   "items": [
     {
-      "title": "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-clip-yemen-says-houthis-dragging-saudi-into-war-yn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-09T19:18:19+00:00",
-      "summary": "Houthis are trying to drag Saudi Arabia into conflict by targeting Saudi territory, says Yemen’s Ambassador to Qatar.",
-      "category": "conflicts",
-      "score": 7.002
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
+      "title": "DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM04tamJVM0lINldJeEdvdDNHbTMxM2NMY0FzZjlGbWQzRVRjWGMweU9WM1NFeXU2U0NwdDdxZ1JOSVVUM0tjZVlkQTZvbE41VGlOT2FVbVJrRjN4Wk1ldW1od2tBcUR2T1ZKR244TjQwdWtHTm5qVFRyOFdzSGVGWVNtbFUwdHVZdl9Fak9SR1JlUWN0VUNXdFZPajZuTGVMRVJ0QUFCNzlRajdUWjVGVGNJQkotdlhFQjFoREQ1WQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-09T18:42:28+00:00",
-      "summary": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say Reuters",
+      "published_at": "2026-09-10T01:07:00+00:00",
+      "summary": "DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports Reuters",
       "category": "tech",
-      "score": 6.852
+      "score": 6.645
     },
     {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-09T20:28:04+00:00",
-      "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
-      "category": "conflicts",
-      "score": 5.178
+      "title": "Trump promises Americans $5,000 if Republicans win midterms",
+      "url": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-09-10T03:44:00+00:00",
+      "summary": "The US president gave a wide-ranging speech at the Republican midterm convention. He defended the war in Iran, trade wars and tariffs, and the White House ballroom. He also called Democrats evil and immigrants animals.",
+      "category": "politics",
+      "score": 5.399
     },
     {
-      "title": "S&P 500 ends down as oil tops $100 per barrel",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-09T20:01:02+00:00",
-      "summary": "S&P 500 ends down as oil tops $100 per barrel Reuters",
-      "category": "resources",
-      "score": 5.134
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "source": "OpenAI",
+      "published_at": "2026-09-10T04:38:42+00:00",
+      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
+      "category": "tech",
+      "score": 5.389
+    },
+    {
+      "title": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
+      "url": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-10T03:14:52+00:00",
+      "summary": "Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.",
+      "category": "politics",
+      "score": 4.98
     }
   ],
   "hero_history": [
+    "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
     "Anthropic reports fourth cybersecurity incident with early version of Claude",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
     "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says",
     "ChatGPT Sketch turns your bad drawings into detailed AI images",
     "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
-    "At least two people dead after Russian strikes on Kyiv",
-    "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children"
+    "At least two people dead after Russian strikes on Kyiv"
   ]
 }

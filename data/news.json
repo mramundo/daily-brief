@@ -1,15 +1,33 @@
 {
-  "updated": "2026-09-10T20:50:36.755096+00:00",
+  "updated": "2026-09-11T04:37:43.913105+00:00",
   "hero": {
-    "title": "OpenAI launches ChatGPT for financial services industry",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSldUSEZwamtyN2hWd3dvU2RoWXpwWG1jWW9IRmFWM2Y0MlFSWG9qekUyN0NiWFdGT0F1RFZoNVZVbXQyOW5hbjFTNHpNYlkzLVNrelJGbG9kQjJhcVJTX3A3OFJDb01FQkFoaUE0TS1wdkNQdDR1ZWpQOEpJWVR0RUVnT1otQUg1R1JVTVlteGRJbl94OWNSLWtlQlo?oc=5",
+    "title": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2FONXhOeTRKZVg5ZU5qa3JVQ2I4S1ZSX1V4YU1zelVDV19IczFXWWlGd1BfRjhfbVVNZ3R5ZW9VelJpT2k2TmVNUWk5UFdIcHJFMjdnMWVQbFdVMm53ckVfZEF5SnZqUjJvb0N3OXVKc19CNFd1Z2otY1Y4cmlBQ0VhaGZMbllrWHIyQUVLRU5JYTIzNm1jdTVTcmhQcHJmdWgzYzdwckp2c2NhcEttLUMycUh5OVA0NEVKZGZwRm04UQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-10T19:13:59+00:00",
-    "summary": "OpenAI launches ChatGPT for financial services industry Reuters",
+    "published_at": "2026-09-11T02:33:00+00:00",
+    "summary": "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports Reuters",
     "category": "tech",
-    "score": 7.207
+    "score": 6.058
   },
   "items": [
+    {
+      "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+      "url": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-11T02:40:19+00:00",
+      "summary": "Russian, Iranian leaders due to hold talks with India's Modi at summit dominated by wars in Middle East and Ukraine.",
+      "category": "conflicts",
+      "score": 6.038
+    },
+    {
+      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUlpORllxa2oyR0lQcWRNaXQwTXd5LThFQTQ3bXFJdlQzUWRBZ2RYMjlmWm55R0gtd255dzltb2dEa3hlaHlJc0hNVG1GaWhkSDBXa3hRbVNiVkZ3XzZsbzY5ZE8wQ1pfR0w4TERlczNHbm5YaVI0QmN5TnJLWmVNRmsxMkxmcnFlTDg1QVdhSHJ0Vm5SUWsyWHFCU0JpdXNYcFhpWjBuQWVFTTZ2V1J1Ym82aExqdGJmVE9VNm5zR0xrUmtkSkNn?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-10T20:23:00+00:00",
+      "summary": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models Reuters",
+      "category": "tech",
+      "score": 5.466
+    },
     {
       "title": "European Central Bank raises interest rates a quarter point to quell energy-fueled inflation",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXhlSGRFeXBsSzdweG4xMUZSN2RGVXhhRXJGNUdVaW41aWlTVUZNSkdtRmxWVVhQbUV3b1RoektzQWIzb21ydWRzb0JCZUJDSTI2UjdCdlNDYnRfNVVSYmJuZi1IakZldHpvaHJUSXhBVnVINndGZjFoZUYxa20xU2JKdndRNm9KQVQxMl9rSEZ5NkthQngwUXQxelE?oc=5",
@@ -17,44 +35,26 @@
       "published_at": "2026-09-10T17:53:00+00:00",
       "summary": "European Central Bank raises interest rates a quarter point to quell energy-fueled inflation AP News",
       "category": "finance",
-      "score": 6.813
+      "score": 4.926
     },
     {
-      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
+      "title": "Algeria cuts diplomatic ties with the UAE",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-10T19:48:35+00:00",
-      "summary": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings Reuters",
-      "category": "tech",
-      "score": 6.328
-    },
-    {
-      "title": "OPEC further lowers 2026 global oil demand growth forecast",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFloWGZuWFdUVmJsT1RTNThKbmhKdE94YWNPWFVjR0c4a18waUEySVZHV2toUVhScm1HR2VkQ3lNS2RQaGhUQnZrMUk2aEp6Y1NMeHdqLXhISnVpYXZocXJZaVRGYVprT1JJTmU0Z0FoS2Q5Xy1iUDFGY2RrUXkxLXY0UmhSWnlTV3Q4X3lMN0Q3UjZpQ1hFQUstdzlPaGhnaklSaEpHOWk5dHJocTlv?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-10T13:00:40+00:00",
-      "summary": "OPEC further lowers 2026 global oil demand growth forecast Reuters",
-      "category": "resources",
-      "score": 6.163
-    },
-    {
-      "title": "Russian strikes kill seven in Ukraine industrial hub of Pavlohrad",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEVtQVJxa3hqaktCVV9ValNCTzFSNGRORVhUcTRMcUxnLUh6RHZNeDkyWlNpbTFxRUxETVoyajVzZi1IaHQ1SGNldW5QWXZRLWRrTjZ6WC02ZndibmpqU0t4VXVXTmF1QUJVZ0pyV3dFVWh3Qm5oTU8zMWVUZGRzTVhzUXlYNUhHZ1FVa1hVcF9wUThDTjJmaGtzQ21sc3E2bXN3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-10T18:59:32+00:00",
-      "summary": "Russian strikes kill seven in Ukraine industrial hub of Pavlohrad Reuters",
-      "category": "conflicts",
-      "score": 6.116
+      "published_at": "2026-09-10T19:07:21+00:00",
+      "summary": "Algeria cuts diplomatic ties with the UAE Reuters",
+      "category": "politics",
+      "score": 4.79
     }
   ],
   "hero_history": [
+    "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
     "OpenAI launches ChatGPT for financial services industry",
     "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
     "OPEC oil output falls in August, Reuters survey shows",
     "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
     "Anthropic reports fourth cybersecurity incident with early version of Claude",
     "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-    "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-    "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says"
+    "Anthropic researcher believes more than 10% chance AI 'could kill all humans'"
   ]
 }

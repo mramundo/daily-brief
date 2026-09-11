@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-11T11:18:31.111772+00:00",
+  "updated": "2026-09-11T16:26:47.231874+00:00",
   "hero": {
-    "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Tech",
-    "published_at": "2026-09-11T08:15:25+00:00",
-    "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-    "category": "tech",
-    "score": 6.946
+    "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+    "source": "NASA",
+    "published_at": "2026-09-11T14:56:25+00:00",
+    "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles",
+    "category": "science",
+    "score": 5.115
   },
   "items": [
     {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "source": "OpenAI",
-      "published_at": "2026-09-11T11:14:49+00:00",
-      "summary": "GPT-6 Astra: A new generation of intelligence OpenAI",
-      "category": "tech",
-      "score": 5.381
+      "title": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon",
+      "url": "https://www.france24.com/en/video/20260911-trump-commemorates-the-25th-anniversary-of-the-9-11-attacks-at-the-pentagon",
+      "source": "France 24",
+      "published_at": "2026-09-11T14:40:41+00:00",
+      "summary": "President Donald Trump was set to observe Friday’s 25th anniversary of the September 11 attacks by attending a ceremony at the Pentagon commemorating the lives lost when al-Qaida militants hijacked planes and killed nearly 3,000 people in three locations, upending American foreig",
+      "category": "politics",
+      "score": 5.032
     },
     {
-      "title": "Saudi airstrikes hit rebel-held Mokha airport in Yemen, Houthi broadcaster says",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-11T09:55:00+00:00",
-      "summary": "Saudi airstrikes hit rebel-held Mokha airport in Yemen, Houthi broadcaster says AP News",
-      "category": "conflicts",
-      "score": 4.734
+      "title": "I'm extremely worried by extremists that win elections in Europe: Luxembourg's PM Luc Frieden",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260911-i-m-extremely-worried-by-extremists-that-win-elections-in-europe-luxembourg-s-pm-luc-frieden",
+      "source": "France 24",
+      "published_at": "2026-09-11T14:53:30+00:00",
+      "summary": "\"European strategic autonomy\" is a buzz phrase in Brussels and in EU capitals these days. What does it mean for space policy? That was one of the central points that we raised with the Prime Minister of Luxembourg, Luc Frieden, during his visit to Paris for the International Spac",
+      "category": "politics",
+      "score": 4.957
     },
     {
-      "title": "Interest rates could rise again across the world – here's why",
-      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "title": "US prices remain high as fuel costs squeeze household budgets",
+      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published_at": "2026-09-11T08:28:47+00:00",
-      "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+      "published_at": "2026-09-11T14:22:42+00:00",
+      "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official report on inflation.",
       "category": "finance",
-      "score": 4.102
+      "score": 4.647
     },
     {
-      "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
-      "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
-      "source": "ESA",
-      "published_at": "2026-09-11T08:00:00+00:00",
-      "summary": "On 15 September, two spacecraft will leave Earth together aboard the same launcher from Europe’s spaceport in Kourou: FLEX, ESA’s photosynthesis mission, and Sentinel-3C, Copernicus’ newest satellite monitoring Earth’s oceans, land, ice and atmosphere. At ESA’s European Space Ope",
+      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
+      "source": "NASA",
+      "published_at": "2026-09-11T15:05:20+00:00",
+      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and",
       "category": "science",
-      "score": 4.021
+      "score": 4.504
     }
   ],
   "hero_history": [
+    "NASA Boosts Open Science, Data Sharing with Artemis Accords",
     "Anthropic blocks possible attempt to use AI to make biological weapons",
     "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
     "OpenAI launches ChatGPT for financial services industry",
     "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
     "OPEC oil output falls in August, Reuters survey shows",
     "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
-    "Anthropic reports fourth cybersecurity incident with early version of Claude",
-    "Anthropic researcher believes more than 10% chance AI 'could kill all humans'"
+    "Anthropic reports fourth cybersecurity incident with early version of Claude"
   ]
 }

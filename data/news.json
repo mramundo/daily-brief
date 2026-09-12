@@ -1,15 +1,33 @@
 {
-  "updated": "2026-09-12T10:43:43.000513+00:00",
+  "updated": "2026-09-12T15:30:14.085994+00:00",
   "hero": {
-    "title": "Houthis",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEVDdRZFkxT09uMEo4ODBINVp3NklIMDNRUnhLN0JzaUhEMVlPQmNaa1hmSHRibmV6a0JHNHVGLVJPMktQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-12T10:42:57+00:00",
-    "summary": "Houthis AP News",
-    "category": "conflicts",
-    "score": 12.301
+    "title": "Anthropic CEO urges AI companies to slow model development",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-12T14:23:24+00:00",
+    "summary": "Anthropic CEO urges AI companies to slow model development Reuters",
+    "category": "tech",
+    "score": 6.307
   },
   "items": [
+    {
+      "title": "Anthropic CEO calls to slow the race toward AI ‘superintelligence,’ and grants outside evaluators permanent access",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnBrQk51QXVpMUUwd3lsLVJuVEJiZlZMTFBFZ3RUWFNlREM0SzA3Y3BWRHE4My1DVmZzU3FOWWRLS0RuUzd6UGNxazNyb2MycjFiN1UwRVJ1VEVNWHVSZUp2UUYwb0pRbVlrYnV6WEdQOWNnNFZlaEIwUjFQenJZb0tUM0NrSUpD?oc=5",
+      "source": "Fortune",
+      "published_at": "2026-09-12T14:37:00+00:00",
+      "summary": "Anthropic CEO calls to slow the race toward AI ‘superintelligence,’ and grants outside evaluators permanent access Fortune",
+      "category": "tech",
+      "score": 5.199
+    },
+    {
+      "title": "Kosovo protesters rally in support of ex-president ahead of war crimes trial verdict",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW1zZVkwMlpRcDVhOVc3eWZjOWtjTXF0NEZxRkpSa3NaYzNpWnJvV0JtdHFrVDJoQ3dSOXRJb2FHcmxoeEhWMHlndkVpVk9VZTN6ZWJZbTNaUTNvSmZZbGlWRktGTy16dFdIcHRVblpkdW5KSDk4WEJmdEZtcmFjLVBoU1ZvTUxYVEFOX1lSaDF3bGJoMXk1VmhCNlI1QQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-12T14:02:00+00:00",
+      "summary": "Kosovo protesters rally in support of ex-president ahead of war crimes trial verdict AP News",
+      "category": "conflicts",
+      "score": 5.178
+    },
     {
       "title": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
       "url": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-rdf",
@@ -17,44 +35,26 @@
       "published_at": "2026-09-12T09:37:00+00:00",
       "summary": "Brazilian Senator Flavio Bolsonaro, Lula's top rival in next month's election, is under investigation for alleged corruption linked to financing a biopic about his father, former President Jair Bolsonaro.",
       "category": "politics",
-      "score": 8.087
+      "score": 5.126
     },
     {
-      "title": "Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+      "title": "3 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTXFjaTAzbzF5OENhS0txZjFxd1dGYXJkT1h2V3ZnR3EtMi11Zk45YWZ0eXFhWmo2NmticUpJM3lqdnZ3WWtwcE51NEF0c2J2VzNuMmVONGxGVVNCbUU1b0hsNTlDYWctb1NlU1dRdFhKb2hPb2UxenZUZFMwNkxzRDF2SmtMYXpxRy1FdWthUkkzWkJRaXc?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-12T10:09:25+00:00",
-      "summary": "Ukraine AP News",
+      "published_at": "2026-09-12T12:36:00+00:00",
+      "summary": "3 killed in Russian strikes on Ukraine as Putin warns Europe against sending troops AP News",
       "category": "conflicts",
-      "score": 6.95
-    },
-    {
-      "title": "Markets",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-09-12T06:37:29+00:00",
-      "summary": "Markets Bloomberg.com",
-      "category": "finance",
-      "score": 5.748
-    },
-    {
-      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-11T22:41:00+00:00",
-      "summary": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say Reuters",
-      "category": "tech",
-      "score": 4.548
+      "score": 5.08
     }
   ],
   "hero_history": [
+    "Anthropic CEO urges AI companies to slow model development",
     "Houthis",
     "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
     "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
     "NASA Boosts Open Science, Data Sharing with Artemis Accords",
     "Anthropic blocks possible attempt to use AI to make biological weapons",
     "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
-    "OpenAI launches ChatGPT for financial services industry",
-    "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers"
+    "OpenAI launches ChatGPT for financial services industry"
   ]
 }

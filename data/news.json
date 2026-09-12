@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-11T20:56:47.515801+00:00",
+  "updated": "2026-09-12T04:32:18.332466+00:00",
   "hero": {
-    "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0t5NUt6RjlmcDlkdENaVXozejNxNFpBYi1WR1NnbHJ1X3ZfanpDR0Q2T2JlT2d5Ui0xMFZVb3RVQ1VqQnZJT3lYOXRTd0VtSHVDQmd1NUN5SzhXOEhocFJfbS1Pa1VRUl9lNjg0YmhOazh6ZDhvaEFkaGY2T1BmV3QxVWlMb3BhUVpzT3gyamFZa084Ny1qZVYxVQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-11T18:41:00+00:00",
-    "summary": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says AP News",
+    "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-11T23:01:00+00:00",
+    "summary": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say Reuters",
     "category": "tech",
-    "score": 6.012
+    "score": 6.123
   },
   "items": [
     {
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-11T19:44:58+00:00",
-      "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
-      "category": "conflicts",
-      "score": 5.442
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "TechCrunch",
-      "published_at": "2026-09-11T16:46:25+00:00",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-11T22:41:00+00:00",
+      "summary": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say Reuters",
       "category": "tech",
-      "score": 5.052
+      "score": 5.886
     },
     {
-      "title": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war",
+      "title": "North Korea fires several short-range ballistic missiles toward sea, South Korea says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHR3b1FNeDdMTGF3RWFsc0FTUy1ycHhRU0ZFNkpaQTJLbmFyMi1iR3dFUmRNV3IzNW11TTV3UnVVeXZvb1hLMEF6UXVuazlPbnJ4ZVlqcnM1akpzWFhyVC1zZjNualhmZ2NobGtfcUM0SURnM2tZN05Ka0hkLWQwVjJHejRjc3liNXRZeGkxVnA3MGlpN1hfam05MlJYcGdNbG8ySkVqdlRrSmdjeEZveG4tTGJZUXo3NXRCMFR4dWQ0VHp1QnV1aDFB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-11T20:49:00+00:00",
+      "summary": "North Korea fires several short-range ballistic missiles toward sea, South Korea says Reuters",
+      "category": "conflicts",
+      "score": 4.789
+    },
+    {
+      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+      "source": "NASA",
+      "published_at": "2026-09-11T19:48:09+00:00",
+      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman",
+      "category": "science",
+      "score": 4.258
+    },
+    {
+      "title": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-11T15:17:00+00:00",
-      "summary": "Yemen's Iranian-backed Houthis seize an island in a key strait, opening a new front in the Iran war AP News",
+      "published_at": "2026-09-12T03:21:00+00:00",
+      "summary": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war AP News",
       "category": "conflicts",
-      "score": 4.911
-    },
-    {
-      "title": "US stocks jump after oil prices ease and inflation update comes in near expectations",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-11T18:01:00+00:00",
-      "summary": "US stocks jump after oil prices ease and inflation update comes in near expectations AP News",
-      "category": "finance",
-      "score": 4.717
+      "score": 4.092
     }
   ],
   "hero_history": [
+    "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
     "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
     "NASA Boosts Open Science, Data Sharing with Artemis Accords",
     "Anthropic blocks possible attempt to use AI to make biological weapons",
     "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
     "OpenAI launches ChatGPT for financial services industry",
     "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
-    "OPEC oil output falls in August, Reuters survey shows",
-    "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed"
+    "OPEC oil output falls in August, Reuters survey shows"
   ]
 }

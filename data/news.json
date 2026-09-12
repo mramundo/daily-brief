@@ -1,15 +1,42 @@
 {
-  "updated": "2026-09-12T04:32:18.332466+00:00",
+  "updated": "2026-09-12T10:43:43.000513+00:00",
   "hero": {
-    "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-11T23:01:00+00:00",
-    "summary": "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say Reuters",
-    "category": "tech",
-    "score": 6.123
+    "title": "Houthis",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEVDdRZFkxT09uMEo4ODBINVp3NklIMDNRUnhLN0JzaUhEMVlPQmNaa1hmSHRibmV6a0JHNHVGLVJPMktQ?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-12T10:42:57+00:00",
+    "summary": "Houthis AP News",
+    "category": "conflicts",
+    "score": 12.301
   },
   "items": [
+    {
+      "title": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
+      "url": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-09-12T09:37:00+00:00",
+      "summary": "Brazilian Senator Flavio Bolsonaro, Lula's top rival in next month's election, is under investigation for alleged corruption linked to financing a biopic about his father, former President Jair Bolsonaro.",
+      "category": "politics",
+      "score": 8.087
+    },
+    {
+      "title": "Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-12T10:09:25+00:00",
+      "summary": "Ukraine AP News",
+      "category": "conflicts",
+      "score": 6.95
+    },
+    {
+      "title": "Markets",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-09-12T06:37:29+00:00",
+      "summary": "Markets Bloomberg.com",
+      "category": "finance",
+      "score": 5.748
+    },
     {
       "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5",
@@ -17,44 +44,17 @@
       "published_at": "2026-09-11T22:41:00+00:00",
       "summary": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say Reuters",
       "category": "tech",
-      "score": 5.886
-    },
-    {
-      "title": "North Korea fires several short-range ballistic missiles toward sea, South Korea says",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHR3b1FNeDdMTGF3RWFsc0FTUy1ycHhRU0ZFNkpaQTJLbmFyMi1iR3dFUmRNV3IzNW11TTV3UnVVeXZvb1hLMEF6UXVuazlPbnJ4ZVlqcnM1akpzWFhyVC1zZjNualhmZ2NobGtfcUM0SURnM2tZN05Ka0hkLWQwVjJHejRjc3liNXRZeGkxVnA3MGlpN1hfam05MlJYcGdNbG8ySkVqdlRrSmdjeEZveG4tTGJZUXo3NXRCMFR4dWQ0VHp1QnV1aDFB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-11T20:49:00+00:00",
-      "summary": "North Korea fires several short-range ballistic missiles toward sea, South Korea says Reuters",
-      "category": "conflicts",
-      "score": 4.789
-    },
-    {
-      "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-      "source": "NASA",
-      "published_at": "2026-09-11T19:48:09+00:00",
-      "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman",
-      "category": "science",
-      "score": 4.258
-    },
-    {
-      "title": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JXR25HRTJQajYwc0JCVkd0dnBQdXBiOVRMQjM2RVJYS0gzTmo5Ykg1RGJqYkpVSnBGajJfLWlCYmJWTG5fWlNxcXV3eGN2Z1Jud3VzanpiQ2ZrSzB0bDY3OW5FRzZELVlYMmJfbXpGUXBadWVyOU9Fa0YyYzBqZVByR3BFNnNBdTlGOXlKUGlHaDl0QkJxUmo5LW9SV1htNXlqRy1QNGV6Zw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-12T03:21:00+00:00",
-      "summary": "Saudi Arabia shuts down a pipeline as Houthis seize an island, opening a new front in the Iran war AP News",
-      "category": "conflicts",
-      "score": 4.092
+      "score": 4.548
     }
   ],
   "hero_history": [
+    "Houthis",
     "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
     "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
     "NASA Boosts Open Science, Data Sharing with Artemis Accords",
     "Anthropic blocks possible attempt to use AI to make biological weapons",
     "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports",
     "OpenAI launches ChatGPT for financial services industry",
-    "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers",
-    "OPEC oil output falls in August, Reuters survey shows"
+    "Chip startup d-Matrix to use Nvidia chip-linking tech in AI servers"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-13T16:15:03.545934+00:00",
+  "updated": "2026-09-13T20:48:20.922172+00:00",
   "hero": {
-    "title": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbkJhVl9oRUUxWkJLTWZPMW1UTEY0dzFBak9SeTQ5VktqRXF1Y0NlUGxNQTRlZ2dBSHJTOGpUeTBIYTdMUTk0NklwUGdMbUF1YTRSMXdBdVdKdDdodGFKMTBrYkF1dXlGRHBpSlFESHhLY2hsN2Fab1pPTURYcFVfdFRsR1l2X045YU95cXluZkRFWEUzcGFYZzhDaVdjckJtdHVkdlpnRXFncG8tc1BZelZLdWFvNUh2WWlZTGhqOGJKOUg1R25zck5kcW93dFh3MnZ0TDlLb3p3WF8tblJF?oc=5",
-    "source": "24/7 Wall St.",
-    "published_at": "2026-09-13T15:50:00+00:00",
-    "summary": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street 24/7 Wall St.",
-    "category": "tech",
-    "score": 7.026
+    "title": "PM Modi warns against ‘weaponisation’ of tech, critical minerals at BRICS Summit",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUZ2a01TeC03a3FpOE11Wm1oYVZ1SXVxYjZIWXBpNDdMblhRV1hxN19lRkVtQTYxZ0tzaV9EVThxTjBrQzVmYjNVMlhPRVI3ODhveWV2TXZwV3RUZ1J0SmlWeWc4eDJJaGdPclFxeXI1TTBQNU5hWWUydmcwNjRNOHM4T05JYkEzSFNOc1N5a0JKOWU4cERLbGpQZVFUU2M0UkdPRVNnQ01BVHBnTzRSeHRqRHFRNW1wR0g2S3hZOVQtNHhU0gHKAUFVX3lxTE14dWtwT2Z3N3Z2N2t4NXdUWWU1aTJfSWxnNGVFQXpYNlRUWHpkSmlWOFk1djMzVm11aHNaYVQ3bF9ZZEN1SlFsdjh1OElfSF8tSWpIWkpPWE9xZWh6UkJQQ2tnbjVRSWctR2U0bFVwZUZaUU5NdnA4Z211dUxQZHdOZHpFZEZIWWZIbGNLaTFwU0pnTVVOaVVqMzgxX3I4QnVBQ0Rra255ODdjcDZTTjNCdVh2ZlF6c296dDVnUklabDBwYTZmNGFfRUE?oc=5",
+    "source": "MillenniumPost",
+    "published_at": "2026-09-13T20:12:45+00:00",
+    "summary": "PM Modi warns against ‘weaponisation’ of tech, critical minerals at BRICS Summit MillenniumPost",
+    "category": "resources",
+    "score": 6.238
   },
   "items": [
     {
-      "title": "Anthropic boss Dario Amodei calls for AI slowdown",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1ZYk0xbVVWVzJTZ3lCblZLZ3ZxMTJwUXVYUkI3VUY1SnNhbDVNNkl2eXFQTkV1cU5sclRUYjJXSHliajREVWVHMkhWSzM4MUNxaG9aN1A5YmN4ZEJkQUFPVDFEQnhuN2NMbDN2ZXhFS1ZpVjFSUENGMGwzNnFjWC1KLWVkQ2oyMHfSAYoBQVVfeXFMTXBCX2VWUXNtVDc5Q0Fyd052UHlEeldEX0s5Tzd5UTVWdlRNajlJd1MtSDlYZkxvVEs2N1FVNlNVYWJvelg1NUR0YkJvdF8xYmQwbmxWdnZMV3VULTFTZHNURDFCLXY5bHJrR3duYUlRU0xEWDFJT0lTT3dGWDBocTFZMDVwV2JhWnVn?oc=5",
-      "source": "DW.com",
-      "published_at": "2026-09-13T15:21:56+00:00",
-      "summary": "Anthropic boss Dario Amodei calls for AI slowdown DW.com",
-      "category": "tech",
-      "score": 6.891
-    },
-    {
-      "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
-      "url": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-09-13T06:12:26+00:00",
-      "summary": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
-      "category": "science",
-      "score": 5.171
-    },
-    {
-      "title": "Kosovo parliament re-elects Albin Kurti as prime minister, political crisis persists",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUJlelpFdUZqRVRxdDJ6c3ZhQzE5RmNXTmp2ME8tWG80WWxPcGhDU194V2lyM2tNXzhxY1c5clo4dUZOdmItRk5jTGdMRXlwR3dNS25uZk5pejNDVGFTbzlRc2V3Y0ZQSDlYRUcyaFA4OGhMOVMzcXlSUlhSMlZCeThPX0ozTVhWQW1lYmpHMWJmejB2YVN0T1BLV0s?oc=5",
+      "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFWNE1wQVNQdkFJRm1zVXZ1bHgzSTlxVTM5OTVPVVF2ZW9Gb3FFSXlwWXdfVUF6U2RZYVpucVBHcGxfaGIySEt5YW5KczRCT1VXdW1YZVFMZDUxR3hPTW9LQ3VIM2pRci02ZzBtTGxHWE9JOVgxd3o5dklha0sydUlRMTc1RGdRcnRUXy1lS1VRUTRKOTlLUGIwQ1p1SUhLeDVRdGF6aVN2R0NQMVBoNlNtLUc1djg?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-13T14:15:12+00:00",
-      "summary": "Kosovo parliament re-elects Albin Kurti as prime minister, political crisis persists Reuters",
-      "category": "politics",
-      "score": 4.616
+      "published_at": "2026-09-13T18:14:17+00:00",
+      "summary": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate Reuters",
+      "category": "finance",
+      "score": 5.936
     },
     {
-      "title": "Swedes vote in close general election that could usher far right into government",
-      "url": "https://www.france24.com/en/europe/20260913-swedes-vote-in-close-general-election-that-could-usher-far-right-into-government",
-      "source": "© Jonathan Nackstrand, AFP",
-      "published_at": "2026-09-13T06:16:49+00:00",
-      "summary": "Swedes are heading to the polls Sunday for a general election that will either bring a far right party into government for the first time or shift the country back towards the liberalism it has long been known for. The centre-left opposition holds a narrow lead over the ruling ri",
-      "category": "politics",
-      "score": 4.604
+      "title": "Trump tells Ukraine's Zelenskiy to stop hitting Russian diesel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1o5cTJrWHRkQWxRa1JJbWp5SXc1bENTNS1MU3JJMHlGOWhtUnlaZEhqcG5MNE5MZHBhaE56OW9aNm81SWpYcmVaaFY4QS1Dc25OZXdrS3VYdnRiTnFLN05NTUFoemdCQjFxZ1NaUWlzQ3A5bmhWbzdTWGpJXzRSdFMyTGYzeTBuc21pS0kzbldZQ1plNDRsNDlPYjBGN01La0xwc0I2Z1lBU1lILUJv?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-13T17:12:06+00:00",
+      "summary": "Trump tells Ukraine's Zelenskiy to stop hitting Russian diesel Reuters",
+      "category": "conflicts",
+      "score": 5.685
+    },
+    {
+      "title": "Anthropic selects Nasdaq for IPO, Business Insider reports",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDg3dC1KTGZCUzVUbnNPOGpvSUZHdUhZTlI0eEJjYmdFUE1ZT3RaV29jd3ZJamtjakVRTnNKbE0zcVFETmtSaC1RRXZHTS1GNG56UV8tYkJkbnJpVEVwSzM4MnhpZ3o2bkhkM3Y0aWVNcW1QT0dJVlZoTUlzc0JfaWhvS2phRVE3dVYyYnpzSmJ3UzhZRWVVb0FSblpxUDA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-13T16:23:45+00:00",
+      "summary": "Anthropic selects Nasdaq for IPO, Business Insider reports Reuters",
+      "category": "tech",
+      "score": 5.497
+    },
+    {
+      "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO Listing",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHpaNVFIZFhSb2ZUSG52aTFGdi1ZdHNmaDBzZEMyMkVxRXlNMHR2VWllZmdCREFWOEFSQzZfMHBlTjRCVkY0MTkzZjBqOGhiZERCT3ducXdXY1VhWFduZ3MtQ0NoNTlHYjBlS0prMkNmOWtQQkJId3RGSmRZaEE2alYxay1KaDAyaE14R1ZqTVdJamxneU8zSFJyeG9CQzNZQzU2SktkQVNjR25aMkw0Mlg5blQ1QQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-09-13T18:03:59+00:00",
+      "summary": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO Listing Bloomberg.com",
+      "category": "tech",
+      "score": 4.813
     }
   ],
   "hero_history": [
+    "PM Modi warns against ‘weaponisation’ of tech, critical minerals at BRICS Summit",
     "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street",
     "PM Modi in Jinpings presence, warns against weaponization of critical minerals at BRICS Summit",
     "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
     "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
     "Anthropic CEO urges AI companies to slow model development",
     "Houthis",
-    "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
-    "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says"
+    "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say"
   ]
 }

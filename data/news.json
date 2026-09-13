@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-12T20:32:02.264087+00:00",
+  "updated": "2026-09-13T04:45:00.390924+00:00",
   "hero": {
-    "title": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-12T18:26:00+00:00",
-    "summary": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up AP News",
+    "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-12T23:13:41+00:00",
+    "summary": "Anthropic CEO urges AI companies to slow model development amid fears over misuse Reuters",
     "category": "tech",
-    "score": 7.826
+    "score": 6.223
   },
   "items": [
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
-      "published_at": "2026-09-12T17:42:38+00:00",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "published_at": "2026-09-13T04:30:44+00:00",
+      "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
       "category": "tech",
-      "score": 6.834
+      "score": 5.887
     },
     {
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-12T20:27:25+00:00",
-      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
-      "category": "conflicts",
-      "score": 4.601
+      "title": "Five night sky events to look out for this autumn",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-09-12T23:53:07+00:00",
+      "summary": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
+      "category": "science",
+      "score": 4.136
     },
     {
-      "title": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
-      "url": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-09-12T09:37:00+00:00",
-      "summary": "Brazilian Senator Flavio Bolsonaro, Lula's top rival in next month's election, is under investigation for alleged corruption linked to financing a biopic about his father, former President Jair Bolsonaro.",
+      "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGctZFpGTW5Zd0h2OFl3V0FMR3o0MHVxNW5uSmN6cHpfNWRYRS1Sd0dibnUwUDRCY3VHejJlbUdNVkx6VmN3WTJQVGYtRjRHX1dWQllyQWl3TzEyWWoxY0JRaU45U0RMUTd0SHBvYmRLZmN4bjl3VF82emtKY1JiQzlsN3NqLThWcDk0UEdmaTlHWjJWd0k1b1VtVmVVUFpSZnFhSEZPUk9oeFlTeU5ZcTJKUlJUZjd6d3d2QWJiYmR2UQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-13T02:22:00+00:00",
+      "summary": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies Reuters",
+      "category": "finance",
+      "score": 4.022
+    },
+    {
+      "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdaZmR6TnMxUGFHT280OUlwV1VleHUzc0MzSDc0X2Z6Y3hEdF9aLUZRaVpYNmIwYmtOSGdjWWltTjkyanJhM2NWRUZnMVdnMFJMSVlRMjRuWVZMajVpQ2lOck5McHRYNzJLYmR4R2hkc3M2YzRBTTM2NjlOaHVhcFB0YTZhWkVDVUNpMEZxZDViTjhWWXZGVVhqbFpkR045?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-13T00:46:00+00:00",
+      "summary": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit AP News",
       "category": "politics",
-      "score": 4.157
-    },
-    {
-      "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-12T19:17:37+00:00",
-      "summary": "The Iranian ally seizes Yemen's Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
-      "category": "conflicts",
-      "score": 4.05
+      "score": 3.642
     }
   ],
   "hero_history": [
+    "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
     "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
     "Anthropic CEO urges AI companies to slow model development",
     "Houthis",
     "EXCLUSIVE: Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
     "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says",
     "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-    "Anthropic blocks possible attempt to use AI to make biological weapons",
-    "Altman tells staff OpenAI is open to slowing AI development, Bloomberg News reports"
+    "Anthropic blocks possible attempt to use AI to make biological weapons"
   ]
 }

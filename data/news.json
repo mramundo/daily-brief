@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-15T11:42:08.018473+00:00",
+  "updated": "2026-09-15T16:57:37.884730+00:00",
   "hero": {
-    "title": "US confirms it has weapons in space",
-    "url": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-rdf",
-    "source": "Deutsche Welle",
-    "published_at": "2026-09-15T11:04:00+00:00",
-    "summary": "The US Space Force justified the weapons deployment by citing its two biggest geopolitical rivals — Russia and China. Beijing responded by urging Washington to \"stop preparing for war\" in outer space.",
-    "category": "politics",
-    "score": 6.38
+    "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-15T14:53:18+00:00",
+    "summary": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports Reuters",
+    "category": "tech",
+    "score": 7.07
   },
   "items": [
     {
-      "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-15T07:12:30+00:00",
-      "summary": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' Reuters",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch",
+      "published_at": "2026-09-15T13:00:00+00:00",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
       "category": "tech",
-      "score": 6.229
+      "score": 6.554
     },
     {
-      "title": "NATO jets down drone in Lithuanian airspace after bloc warns strikes will drive support for Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+      "title": "Webb reveals stunning panorama of star formation",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
+      "source": "ESA",
+      "published_at": "2026-09-15T14:00:00+00:00",
+      "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The res",
+      "category": "science",
+      "score": 5.828
+    },
+    {
+      "title": "US stocks slip after oil prices and the bond market crank up the pressure",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV01GUmI4UWMzUkZyNWJkbnBucjJXZlo1anh0LW1LLUl0X0E1dFBUX3ZjOHJLZk5TcVFLTTRCQjNOYXJYRjhFOTBNdEc3OEIzd0tTLWtfVzY1NUVZWkFlQzNGeFgxbHY1TFBXcjRpNDlKVFZXU0poLTBtTmJWREh0UUttQ1RLYnpXU3hrZ3BIU09SM2tVcnd3d0V2dEo?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-15T09:20:00+00:00",
-      "summary": "NATO jets down drone in Lithuanian airspace after bloc warns strikes will drive support for Ukraine AP News",
-      "category": "conflicts",
-      "score": 5.985
-    },
-    {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-15T11:40:00+00:00",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-      "category": "politics",
-      "score": 5.712
-    },
-    {
-      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-15T11:28:50+00:00",
-      "summary": "Global bond yields hit 2008 highs, raising stakes for big borrowers Reuters",
+      "published_at": "2026-09-15T15:21:00+00:00",
+      "summary": "US stocks slip after oil prices and the bond market crank up the pressure AP News",
       "category": "finance",
-      "score": 4.261
+      "score": 5.815
+    },
+    {
+      "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
+      "url": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-15T11:54:37+00:00",
+      "summary": "Zelenskyy insists de-escalation depends on US ensuring Russia's genuine readiness to stop war and attacks on Ukraine.",
+      "category": "conflicts",
+      "score": 5.308
     }
   ],
   "hero_history": [
+    "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
     "US confirms it has weapons in space",
     "FLEX and Sentinel-3C launched",
     "Anthropic targets financial advisers with new Claude tool",
     "Iran war",
     "Anthropic tells investors it will be profitable for second straight quarter, FT reports",
     "PM Modi warns against ‘weaponisation’ of tech, critical minerals at BRICS Summit",
-    "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street",
-    "PM Modi in Jinpings presence, warns against weaponization of critical minerals at BRICS Summit"
+    "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street"
   ]
 }

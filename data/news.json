@@ -1,15 +1,33 @@
 {
-  "updated": "2026-09-15T16:57:37.884730+00:00",
+  "updated": "2026-09-15T21:19:14.606013+00:00",
   "hero": {
-    "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-15T14:53:18+00:00",
-    "summary": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports Reuters",
-    "category": "tech",
-    "score": 7.07
+    "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+    "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-09-15T19:59:00+00:00",
+    "summary": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+    "category": "conflicts",
+    "score": 10.012
   },
   "items": [
+    {
+      "title": "NASA Invites Media to International Observe the Moon Night",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
+      "source": "NASA",
+      "published_at": "2026-09-15T18:55:33+00:00",
+      "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night ce",
+      "category": "science",
+      "score": 7.573
+    },
+    {
+      "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-15T20:34:42+00:00",
+      "summary": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5% Reuters",
+      "category": "finance",
+      "score": 6.029
+    },
     {
       "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
       "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
@@ -17,44 +35,26 @@
       "published_at": "2026-09-15T13:00:00+00:00",
       "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
       "category": "tech",
-      "score": 6.554
+      "score": 5.465
     },
     {
-      "title": "Webb reveals stunning panorama of star formation",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
-      "source": "ESA",
-      "published_at": "2026-09-15T14:00:00+00:00",
-      "summary": "This starry view of the nearby star-forming region IC 348 is one of the largest images from the NASA/ESA/CSA James Webb Space Telescope released to the public so far. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The res",
-      "category": "science",
-      "score": 5.828
-    },
-    {
-      "title": "US stocks slip after oil prices and the bond market crank up the pressure",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV01GUmI4UWMzUkZyNWJkbnBucjJXZlo1anh0LW1LLUl0X0E1dFBUX3ZjOHJLZk5TcVFLTTRCQjNOYXJYRjhFOTBNdEc3OEIzd0tTLWtfVzY1NUVZWkFlQzNGeFgxbHY1TFBXcjRpNDlKVFZXU0poLTBtTmJWREh0UUttQ1RLYnpXU3hrZ3BIU09SM2tVcnd3d0V2dEo?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-15T15:21:00+00:00",
-      "summary": "US stocks slip after oil prices and the bond market crank up the pressure AP News",
-      "category": "finance",
-      "score": 5.815
-    },
-    {
-      "title": "Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure",
-      "url": "https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-15T11:54:37+00:00",
-      "summary": "Zelenskyy insists de-escalation depends on US ensuring Russia's genuine readiness to stop war and attacks on Ukraine.",
-      "category": "conflicts",
-      "score": 5.308
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch",
+      "published_at": "2026-09-15T15:47:03+00:00",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "category": "tech",
+      "score": 5.455
     }
   ],
   "hero_history": [
+    "NATO jet shoots down suspected Russian drone over Lithuania",
     "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
     "US confirms it has weapons in space",
     "FLEX and Sentinel-3C launched",
     "Anthropic targets financial advisers with new Claude tool",
     "Iran war",
     "Anthropic tells investors it will be profitable for second straight quarter, FT reports",
-    "PM Modi warns against ‘weaponisation’ of tech, critical minerals at BRICS Summit",
-    "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street"
+    "PM Modi warns against ‘weaponisation’ of tech, critical minerals at BRICS Summit"
   ]
 }

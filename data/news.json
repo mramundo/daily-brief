@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-15T04:52:24.118437+00:00",
+  "updated": "2026-09-15T11:42:08.018473+00:00",
   "hero": {
-    "title": "FLEX and Sentinel-3C launched",
-    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched",
-    "source": "ESA",
-    "published_at": "2026-09-15T03:25:00+00:00",
-    "summary": "The European Space Agency’s FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes.",
-    "category": "science",
-    "score": 5.72
+    "title": "US confirms it has weapons in space",
+    "url": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-rdf",
+    "source": "Deutsche Welle",
+    "published_at": "2026-09-15T11:04:00+00:00",
+    "summary": "The US Space Force justified the weapons deployment by citing its two biggest geopolitical rivals — Russia and China. Beijing responded by urging Washington to \"stop preparing for war\" in outer space.",
+    "category": "politics",
+    "score": 6.38
   },
   "items": [
     {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TechCrunch",
-      "published_at": "2026-09-14T20:44:14+00:00",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "category": "tech",
-      "score": 4.895
-    },
-    {
-      "title": "Leaders urge EU to boost Arctic role to tackle Russia 'threat'",
-      "url": "https://www.france24.com/en/leaders-urge-eu-to-boost-arctic-role-to-tackle-russia-threat",
-      "source": "France 24",
-      "published_at": "2026-09-14T19:06:25+00:00",
-      "summary": "Twelve European countries meeting in Finland on Monday urged the European Union to beef up its presence in the Arctic, a geopolitical battleground caught between Russia and US President Donald Trump. FRANCE 24's Eliza Herbert reports.",
-      "category": "politics",
-      "score": 4.808
-    },
-    {
-      "title": "Asian shares waver as oil and yields rise ahead of Fed, BOJ meetings",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5",
+      "title": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-15T01:44:00+00:00",
-      "summary": "Asian shares waver as oil and yields rise ahead of Fed, BOJ meetings Reuters",
-      "category": "finance",
-      "score": 4.676
+      "published_at": "2026-09-15T07:12:30+00:00",
+      "summary": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans' Reuters",
+      "category": "tech",
+      "score": 6.229
     },
     {
-      "title": "US Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
-      "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-15T03:21:23+00:00",
-      "summary": "US Supreme Court rejects Trump’s bid to tighten mail-in voting rules ahead of critical midterm elections.",
+      "title": "NATO jets down drone in Lithuanian airspace after bloc warns strikes will drive support for Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-15T09:20:00+00:00",
+      "summary": "NATO jets down drone in Lithuanian airspace after bloc warns strikes will drive support for Ukraine AP News",
+      "category": "conflicts",
+      "score": 5.985
+    },
+    {
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-15T11:40:00+00:00",
+      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
       "category": "politics",
-      "score": 4.393
+      "score": 5.712
+    },
+    {
+      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-15T11:28:50+00:00",
+      "summary": "Global bond yields hit 2008 highs, raising stakes for big borrowers Reuters",
+      "category": "finance",
+      "score": 4.261
     }
   ],
   "hero_history": [
+    "US confirms it has weapons in space",
     "FLEX and Sentinel-3C launched",
     "Anthropic targets financial advisers with new Claude tool",
     "Iran war",
     "Anthropic tells investors it will be profitable for second straight quarter, FT reports",
     "PM Modi warns against ‘weaponisation’ of tech, critical minerals at BRICS Summit",
     "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street",
-    "PM Modi in Jinpings presence, warns against weaponization of critical minerals at BRICS Summit",
-    "Anthropic CEO urges AI companies to slow model development amid fears over misuse"
+    "PM Modi in Jinpings presence, warns against weaponization of critical minerals at BRICS Summit"
   ]
 }

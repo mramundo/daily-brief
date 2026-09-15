@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-14T21:48:16.153923+00:00",
+  "updated": "2026-09-15T04:52:24.118437+00:00",
   "hero": {
-    "title": "Anthropic targets financial advisers with new Claude tool",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOako0N2w1bExjVVA0azZSLUI0QXdveUdDUWFnM0RKeVJVTEN4TlFlX0t5UHR6Z1FROWp2LVJUSjY4anRUakt0OTBUWkdFdjNKLTFDNmhPZ0RVY3BZSEZzLVFFUjZVdmtLSHk1bVZQRm1ObVJ6SGVSWGpJbXBBdS1EQ3lSMk4xNzNfVTJQT2NYaW1aUkV5c1plNDJNRXk2S3ZPMzA5Yw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-14T17:13:09+00:00",
-    "summary": "Anthropic targets financial advisers with new Claude tool Reuters",
-    "category": "tech",
-    "score": 9.658
+    "title": "FLEX and Sentinel-3C launched",
+    "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched",
+    "source": "ESA",
+    "published_at": "2026-09-15T03:25:00+00:00",
+    "summary": "The European Space Agency’s FLEX Earth Explorer satellite and the Copernicus Sentinel-3C satellite have been launched together aboard a Vega-C rocket from Europe’s Spaceport in French Guiana, marking a new milestone in Europe’s Earth Observation Programmes.",
+    "category": "science",
+    "score": 5.72
   },
   "items": [
     {
-      "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-14T20:45:43+00:00",
-      "summary": "Wall Street ends down, calls for AI slowdown pummel chipmakers Reuters",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch",
+      "published_at": "2026-09-14T20:44:14+00:00",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
       "category": "tech",
-      "score": 7.193
+      "score": 4.895
     },
     {
       "title": "Leaders urge EU to boost Arctic role to tackle Russia 'threat'",
@@ -26,35 +26,35 @@
       "published_at": "2026-09-14T19:06:25+00:00",
       "summary": "Twelve European countries meeting in Finland on Monday urged the European Union to beef up its presence in the Arctic, a geopolitical battleground caught between Russia and US President Donald Trump. FRANCE 24's Eliza Herbert reports.",
       "category": "politics",
-      "score": 6.455
+      "score": 4.808
     },
     {
-      "title": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-14T21:01:00+00:00",
-      "summary": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump AP News",
+      "title": "Asian shares waver as oil and yields rise ahead of Fed, BOJ meetings",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-15T01:44:00+00:00",
+      "summary": "Asian shares waver as oil and yields rise ahead of Fed, BOJ meetings Reuters",
       "category": "finance",
-      "score": 5.158
+      "score": 4.676
     },
     {
-      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzZwZE9udlVENVNDT3VzamJfbVRIS2lDM2RzcVVVRlUzUkVOb19rNVhQRWRiTjJ1aDFtSkl3MlpGa0ZFTTJyTjg4UFBRZUVuSm9CelRON0dXWk53Mi1yblpLVkkxVzd5SERRRFlZV1VTTUROUHNKWVpaYWJUWU9ZLUc0R2xRdmNJWWxNU1NLMlpEMXExeEcyQ0tFQUZ0dw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-14T18:26:00+00:00",
-      "summary": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure AP News",
-      "category": "conflicts",
-      "score": 4.631
+      "title": "US Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+      "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-15T03:21:23+00:00",
+      "summary": "US Supreme Court rejects Trump’s bid to tighten mail-in voting rules ahead of critical midterm elections.",
+      "category": "politics",
+      "score": 4.393
     }
   ],
   "hero_history": [
+    "FLEX and Sentinel-3C launched",
     "Anthropic targets financial advisers with new Claude tool",
     "Iran war",
     "Anthropic tells investors it will be profitable for second straight quarter, FT reports",
     "PM Modi warns against ‘weaponisation’ of tech, critical minerals at BRICS Summit",
     "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion - Dwarfing Hyperscalers and Wall Street",
     "PM Modi in Jinpings presence, warns against weaponization of critical minerals at BRICS Summit",
-    "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
-    "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+    "Anthropic CEO urges AI companies to slow model development amid fears over misuse"
   ]
 }

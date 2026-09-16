@@ -17,6 +17,6 @@ export const fmtDateLong = (iso) =>
   format(iso, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 
 export const fmtDateTime = (iso) =>
-  format(iso, { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+  format(iso, { day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit' });
 
 export const fmtDayMonth = (iso) => format(iso, { day: 'numeric', month: 'short' });

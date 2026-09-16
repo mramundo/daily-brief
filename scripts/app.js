@@ -5,7 +5,7 @@
 
 import { renderHero, renderNews } from './news.js';
 import { renderMarkets } from './prices.js';
-import { $, fmtDateLong, fmtDateTime } from './utils.js';
+import { $, fmtDateTime } from './utils.js';
 
 const CONFIG = {
   newsUrl: 'data/news.json',
@@ -112,10 +112,8 @@ function setMeta({ news, prices }) {
   const txt = fmtDateTime(latest) || '—';
   const lastUpd = $('#lastUpdate');
   const footUpd = $('#footerUpdate');
-  const edition = $('#brandEdition');
   if (lastUpd) lastUpd.textContent = `Updated ${txt}`;
   if (footUpd) footUpd.textContent = txt;
-  if (edition) edition.textContent = fmtDateLong(news.updated || new Date());
   const yr = $('#year');
   if (yr) yr.textContent = new Date().getFullYear();
 }

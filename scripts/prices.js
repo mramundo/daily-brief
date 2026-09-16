@@ -38,8 +38,8 @@ const fmtPrice = (val, currency) => {
 
 const fmtPct = (val) => {
   if (val == null || !Number.isFinite(val)) return null;
-  const sign = val > 0 ? '+' : '';
-  return `${sign}${val.toFixed(2)}%`;
+  const sign = val > 0 ? '+' : val < 0 ? '\u2212' : '';
+  return `${sign}${Math.abs(val).toFixed(2)}%`;
 };
 
 const signalLabel = (sig) => {
@@ -60,7 +60,7 @@ export function renderMarkets(prices) {
       <span data-col="ticker">Ticker</span>
       <span data-col="name">Name</span>
       <span data-col="price">Price</span>
-      <span data-col="24h">Δ 24h</span>
+      <span data-col="24h">Δ 1D</span>
       <span data-col="1w">Δ 1W</span>
       <span data-col="1m">Δ 1M</span>
       <span data-col="3m">Δ 3M</span>

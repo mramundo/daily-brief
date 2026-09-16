@@ -50,13 +50,14 @@ export function renderHero(news) {
   }
   if (linkEl && hero.url) {
     linkEl.href = hero.url;
-    linkEl.hidden = false;
+    linkEl.textContent = hero.source ? `Read on ${hero.source}` : 'Read the full story';
   }
   if (sourceEl) {
-    const parts = [];
-    if (hero.source) parts.push(`<strong>${escapeHTML(hero.source)}</strong>`);
-    if (hero.published_at) parts.push(escapeHTML(fmtRelative(hero.published_at)));
-    sourceEl.innerHTML = parts.join(' &middot; ');
+    const rel = fmtRelative(hero.published_at);
+    sourceEl.innerHTML = [
+      hero.source && `<strong>${escapeHTML(hero.source)}</strong>`,
+      rel && `<span>${escapeHTML(rel)}</span>`,
+    ].filter(Boolean).join('');
   }
   if (dateEl) {
     const today = news?.updated || hero.published_at;
@@ -84,7 +85,7 @@ function renderCard(it, rank) {
   const rel = fmtRelative(it.published_at);
   const cat = labelFor(it.category);
   return `
-    <article class="news-card" style="animation-delay: ${rank * 40}ms">
+    <article class="news-card">
       <a class="news-card__link" href="${escapeHTML(url)}" target="_blank" rel="noopener">
         <header class="news-card__head">
           <span class="news-card__tag">${escapeHTML(cat)}</span>
@@ -94,7 +95,7 @@ function renderCard(it, rank) {
         ${it.summary ? `<p class="news-card__lead">${escapeHTML(it.summary)}</p>` : ''}
         <footer class="news-card__meta">
           <span class="news-card__source">${escapeHTML(it.source || '—')}</span>
-          ${rel ? `<span class="news-card__sep" aria-hidden="true">·</span><span>${escapeHTML(rel)}</span>` : ''}
+          ${rel ? `<span>${escapeHTML(rel)}</span>` : ''}
         </footer>
       </a>
     </article>

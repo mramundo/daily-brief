@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-16T04:47:16.146556+00:00",
+  "updated": "2026-09-16T11:29:50.952943+00:00",
   "hero": {
-    "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOG5icnlZd1cwaTlZMEhpSkF6UnJ5VTcxNHBTdjFROXpFS3ZjX3dINXZHeWtDWHpCRjJOeVFyMlJ3c1ZpbGFBbGlKbXM0Q19wbldsbWRULTZjR2F6Z05OTkd1VmV2QWZjUnJLV3UyM0FobnhMc1dRSkh5aFZEeGJidHpyZjVUSWJPMzVsSXVCcDdlZU0tNXRmbjdrR3liN0hwNzFiVGpzelJvajZuUXpGTg?oc=5",
-    "source": "WSJ",
-    "published_at": "2026-09-16T02:35:00+00:00",
-    "summary": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation WSJ",
-    "category": "tech",
-    "score": 7.273
+    "title": "EU chief backs plan for Canada to become 'associate member'",
+    "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-09-16T10:59:53+00:00",
+    "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+    "category": "politics",
+    "score": 5.953
   },
   "items": [
     {
-      "title": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-15T22:48:56+00:00",
-      "summary": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports Reuters",
-      "category": "tech",
-      "score": 6.868
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-09-16T10:33:42+00:00",
+      "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+      "category": "finance",
+      "score": 5.539
     },
     {
       "title": "How rising bond yields impact American consumers",
@@ -26,35 +26,35 @@
       "published_at": "2026-09-16T03:58:32+00:00",
       "summary": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
       "category": "finance",
-      "score": 6.855
+      "score": 5.183
     },
     {
-      "title": "NASA Invites Media to International Observe the Moon Night",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
-      "source": "NASA",
-      "published_at": "2026-09-15T18:55:33+00:00",
-      "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night ce",
-      "category": "science",
-      "score": 5.548
-    },
-    {
-      "title": "Houthis",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEVDdRZFkxT09uMEo4ODBINVp3NklIMDNRUnhLN0JzaUhEMVlPQmNaa1hmSHRibmV6a0JHNHVGLVJPMktQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-16T00:59:27+00:00",
-      "summary": "Houthis AP News",
+      "title": "At least five killed in Russian drone strike near Ukraine front line",
+      "url": "https://www.aljazeera.com/news/2026/9/16/at-least-five-killed-in-russian-drone-strike-near-ukraine-front-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-16T09:32:52+00:00",
+      "summary": "At least seven people also injured in attack near Nikopol in southeastern Ukraine, Dnipropetrovsk governor says.",
       "category": "conflicts",
-      "score": 4.7
+      "score": 5.055
+    },
+    {
+      "title": "Kosovo ex-president Thaci sentenced to 25 years for war crimes",
+      "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-09-16T09:58:00+00:00",
+      "summary": "A Hague tribunal ruled that Hashim Thaci, a former leader of the Kosovo Liberation Army (KLA), is responsible for war crimes carried out during the war of independence with Serbia.",
+      "category": "politics",
+      "score": 4.992
     }
   ],
   "hero_history": [
+    "EU chief backs plan for Canada to become 'associate member'",
     "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
     "NATO jet shoots down suspected Russian drone over Lithuania",
     "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
     "US confirms it has weapons in space",
     "FLEX and Sentinel-3C launched",
     "Anthropic targets financial advisers with new Claude tool",
-    "Iran war",
-    "Anthropic tells investors it will be profitable for second straight quarter, FT reports"
+    "Iran war"
   ]
 }

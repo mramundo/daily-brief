@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-16T14:27:41.660292+00:00",
+  "updated": "2026-09-16T16:53:09.617622+00:00",
   "hero": {
-    "title": "Former Kosovo president Thaci sentenced to 25 years in prison for war crimes",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1ZYU2VxeF9aN2VMT2xDNncySE9IZm1MNklrbVl3MDh6RTdDLThBNmhjQjgzRU1ocWRkem90QjN3RjNSZE5IS01tcEdRaElhbnRRY3BWOUpvRXZqeHk2czZuR29RdkRxZ3VJZTQ4Qzk3SlFkWDZ3U3dfa09LeWNuU0JacmpUaFNoR05xMk5TSy1ZNGZVX0tIOWg0dXJWM09SSE5pei1JWmZKLWd2TEtudEI3SjBSZw?oc=5",
+    "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-16T09:39:44+00:00",
+    "published_at": "2026-09-16T14:05:58+00:00",
     "summary": "",
-    "category": "politics",
-    "score": 7.977
+    "category": "tech",
+    "score": 8.873
   },
   "items": [
+    {
+      "title": "Russian drone strike on a passenger bus in Ukraine kills 5 people and wounds at least 7 others",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMW82Y2JrS0Q3WnVScV9xWUlTM1BCdFZKdzV6MGJNUlU2Z2JlcFN5T1YyclJHMGhtR2R3Nm9WMmpxbWJPd01CWWFldkdhTTJ2a0t4UEF3UkJ0b0Vqc25iSHU3VS03Mms1cDVUQWdQOVFIRTF6OWJZdGU2cHEweV9hSzhxQnJyMzhNeWp5UzBpVUxxd1ZXRG1KVzQ4SlgycTNPcTVF?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-16T13:11:00+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 6.605
+    },
     {
       "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-16T12:13:49+00:00",
+      "published_at": "2026-09-16T16:00:23+00:00",
       "summary": "",
       "category": "tech",
-      "score": 7.783
+      "score": 6.369
     },
     {
-      "title": "At least 60 killed in gold mine collapse in Sudan's West Kordofan, sources say",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVVqc05CcEI1emtZaGY3ZFVidllBRG5OaTVTbHhqMHZjb0dRZ0RCYnZTcDg5c3BaRExCNmVCU04tLTF0NFJNbFJuM1NxeTJiUXJDb3M2UkFVYW1rYVdEcXQxSTdlVlRoSF9CaVRkbXowZHY4QVRYeHo4dmJ5d3JJbjdHcW53MERtNDBmcllrTERleHNCdGhONUV0dnMxa1NsYkhzWXM1Tl9NcEYzaWlETGhnSVotXzQ?oc=5",
+      "title": "Wall Street holds steady ahead of the Fed’s decision as oil prices and bond yields ease",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW5lU3JQLXljZW5VaC1SY3Y4Y1IzVk9ncDBrUVFuZHFkZXRQSVQzTVI4Y0x0Z1NwazVzVkR5cmNxWkdPOXE0VGNTd1M1YWVwZVlNclRQOC1JMmdxWXZSVnpiYXpBNFExNlc5RGJfbldXNmlVY0RlTWdlSW1wc25HNHlTQjdfRjloQ3FEMnRMNWZPTGxpZnUzRGVLUWQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-16T13:45:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 6.236
+    },
+    {
+      "title": "Nasdaq, S&P 500 climb as oil retreat tempers pre-Fed jitters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-16T11:09:01+00:00",
+      "published_at": "2026-09-16T16:11:02+00:00",
       "summary": "",
-      "category": "conflicts",
-      "score": 5.755
-    },
-    {
-      "title": "OpenAI, Anthropic, Google DeepMind in AI safety talks for weeks",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3cFltTF9IVXpQTjYwUUVWODBWMkc3REVNLXR6SzZEak04c0NRdDZmaTBnQ3BYSDdCWWhiY3VnWDZ0cFFPb3NxYTF0WV9QUHhBSmhHcUtLcHdqeG1wT045dXJpSUluTFE2VHB6NWNQcFBFQ2VRbTcwVWd3?oc=5",
-      "source": "qz.com",
-      "published_at": "2026-09-16T12:47:37+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.752
-    },
-    {
-      "title": "South Korea puts critical minerals, energy at forefront of inaugural Central Asia summit",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjVJZ054NjQyOWRnOVpMU21Xd3BPNDZVejEzVjNhVHUtT2JxM0hFVmxkaXNOdXN0OTNhNlNNck5hLUxGZ0R6d1lwSUhBa0JUZzV2QlV0ZXlCeVpocVVSbGk5bThUS3JTeVB4bVlGcGlCOXl4eHBDWmdmbF9RRkVqUHFpbVY5UGsxLXR6OVJvaVF3MC0yeTk0OXo1dHdqWmNZREZ4eDRRQ01FU3FzZ0tvclB4Qk1QRGQxSi1wa2RqTmgyVUtjTWh0RA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-16T08:37:45+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 5.582
+      "category": "finance",
+      "score": 6.039
     }
   ],
   "hero_history": [
+    "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
     "Former Kosovo president Thaci sentenced to 25 years in prison for war crimes",
     "EU chief backs plan for Canada to become 'associate member'",
     "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
     "NATO jet shoots down suspected Russian drone over Lithuania",
     "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
     "US confirms it has weapons in space",
-    "FLEX and Sentinel-3C launched",
-    "Anthropic targets financial advisers with new Claude tool"
+    "FLEX and Sentinel-3C launched"
   ]
 }

@@ -4,7 +4,7 @@
    + asset rows. One full-width container — no five-box gap.
    ========================================================= */
 
-const $ = (sel, root = document) => root.querySelector(sel);
+import { $, LOCALE, escapeHTML } from './utils.js';
 
 const CATEGORIES = [
   { id: 'crypto',      title: 'Crypto',         meta: 'Digital assets' },
@@ -14,25 +14,21 @@ const CATEGORIES = [
   { id: 'defense',     title: 'Defense',        meta: 'Geopolitics proxy' },
 ];
 
-const escapeHTML = (str = '') => String(str)
-  .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-  .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
-
 const fmtPrice = (val, currency) => {
   if (val == null || !Number.isFinite(val)) return '—';
   const cur = currency || 'USD';
   try {
     if (val >= 1000) {
-      return new Intl.NumberFormat('en-US', {
+      return new Intl.NumberFormat(LOCALE, {
         style: 'currency', currency: cur, maximumFractionDigits: 0,
       }).format(val);
     }
     if (val >= 1) {
-      return new Intl.NumberFormat('en-US', {
+      return new Intl.NumberFormat(LOCALE, {
         style: 'currency', currency: cur, maximumFractionDigits: 2,
       }).format(val);
     }
-    return new Intl.NumberFormat('en-US', {
+    return new Intl.NumberFormat(LOCALE, {
       style: 'currency', currency: cur, maximumFractionDigits: 4,
     }).format(val);
   } catch {

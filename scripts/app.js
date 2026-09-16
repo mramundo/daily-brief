@@ -5,8 +5,7 @@
 
 import { renderHero, renderNews } from './news.js';
 import { renderMarkets } from './prices.js';
-
-const $ = (sel, root = document) => root.querySelector(sel);
+import { $, fmtDateLong, fmtDateTime } from './utils.js';
 
 const CONFIG = {
   newsUrl: 'data/news.json',
@@ -14,8 +13,6 @@ const CONFIG = {
   seedNewsUrl: 'data/news.seed.json',
   seedPricesUrl: 'data/prices.seed.json',
 };
-
-const LOCALE = 'en-US';
 
 const PALETTES = ['newsprint', 'broadsheet', 'modern-mono', 'financial', 'gazette'];
 const MODES    = ['light', 'dark'];
@@ -81,6 +78,8 @@ function applyTheme(palette, mode) {
   const root = document.documentElement;
   root.dataset.palette = palette;
   root.dataset.mode = mode;
+  const bg = getComputedStyle(root).getPropertyValue('--bg').trim();
+  if (bg) $('meta[name="theme-color"]')?.setAttribute('content', bg);
 }
 
 async function fetchJSON(url) {
@@ -105,37 +104,18 @@ async function loadData() {
   };
 }
 
-const fmtDateTime = (iso) => {
-  if (!iso) return '—';
-  try {
-    return new Intl.DateTimeFormat(LOCALE, {
-      day: '2-digit', month: 'short', year: 'numeric',
-      hour: '2-digit', minute: '2-digit',
-    }).format(new Date(iso));
-  } catch { return '—'; }
-};
-
-const fmtEdition = (iso) => {
-  const d = iso ? new Date(iso) : new Date();
-  try {
-    return new Intl.DateTimeFormat(LOCALE, {
-      weekday: 'long', day: '2-digit', month: 'long', year: 'numeric',
-    }).format(d);
-  } catch { return '—'; }
-};
-
 function setMeta({ news, prices }) {
   const latest = [news.updated, prices.updated]
     .filter(Boolean)
     .sort()
     .pop();
-  const txt = latest ? fmtDateTime(latest) : '—';
+  const txt = fmtDateTime(latest) || '—';
   const lastUpd = $('#lastUpdate');
   const footUpd = $('#footerUpdate');
   const edition = $('#brandEdition');
   if (lastUpd) lastUpd.textContent = `Updated ${txt}`;
   if (footUpd) footUpd.textContent = txt;
-  if (edition) edition.textContent = fmtEdition(news.updated);
+  if (edition) edition.textContent = fmtDateLong(news.updated || new Date());
   const yr = $('#year');
   if (yr) yr.textContent = new Date().getFullYear();
 }

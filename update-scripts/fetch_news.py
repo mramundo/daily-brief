@@ -285,6 +285,21 @@ def normalise_title(t: str) -> str:
     t = re.sub(r"\s+-\s+[^-]+$", "", t)
     return t
 
+def _fold(t: str) -> str:
+    return re.sub(r"[\W_]+", " ", t.lower()).strip()
+
+def meaningful_summary(summary: str, title: str, source: str) -> str:
+    """Drop summaries that only restate the headline and outlet.
+
+    Google News RSS descriptions are just "<a>Title</a> <font>Source</font>",
+    which clean_text turns into "Title Source".
+    """
+    folded = _fold(summary)
+    folded_title = _fold(title)
+    if folded.startswith(folded_title):
+        folded = folded[len(folded_title):].strip()
+    return summary if folded and folded != _fold(source) else ""
+
 def detect_source_from_entry(entry, default_source: str) -> str:
     """Use Google News' embedded source when available; else fall back."""
     src = (entry.get("source") or {}).get("title") if isinstance(entry.get("source"), dict) else None
@@ -355,14 +370,14 @@ def collect_category(category: str, now: datetime) -> list[NewsItem]:
             if decay <= 0:
                 continue
 
-            summary = clean_text(entry.get("summary", ""))
+            source = detect_source_from_entry(entry, default_source)
+            summary = meaningful_summary(clean_text(entry.get("summary", "")), title, source)
             haystack = f"{title} {summary}".lower()
             hits = keyword_hits(haystack, keywords)
 
             # Drop items with zero keyword overlap UNLESS source is an
             # institutional one (UN/IMF/ECB/NASA/...) where the whole feed
             # is already on-topic.
-            source = detect_source_from_entry(entry, default_source)
             inst = source in ("UN News", "IMF", "ECB", "Federal Reserve",
                               "NASA", "ESA", "USGS", "IEA", "ACLED")
             if hits == 0 and not inst:
@@ -482,11 +497,7 @@ def build_payload() -> dict:
 
     if picked:
         hero_item = picked[0]
-        payload["hero"] = {
-            **hero_item.for_payload(),
-            "summary": hero_item.summary or
-                "A focused recap of the day's biggest story, sourced from authoritative outlets.",
-        }
+        payload["hero"] = hero_item.for_payload()
         payload["items"] = [it.for_payload() for it in picked[1:TOTAL_STORIES]]
         # Track recent hero titles so the next run can deboost repeats.
         history = [hero_item.title] + load_previous_hero_history()

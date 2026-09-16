@@ -3,7 +3,7 @@
    Hero (lead story) + 4-card flat grid for the 4 remaining briefs.
    ========================================================= */
 
-const $ = (sel, root = document) => root.querySelector(sel);
+import { $, escapeHTML, fmtDateLong, fmtDayMonth } from './utils.js';
 
 const CATEGORY_LABELS = {
   politics:  'Politics',
@@ -22,23 +22,8 @@ const fmtRelative = (iso) => {
   if (diff < 3600)      return `${Math.floor(diff / 60)}m ago`;
   if (diff < 86400)     return `${Math.floor(diff / 3600)}h ago`;
   if (diff < 86400 * 7) return `${Math.floor(diff / 86400)}d ago`;
-  try {
-    return new Intl.DateTimeFormat('en-US', { day: '2-digit', month: 'short' }).format(d);
-  } catch { return ''; }
+  return fmtDayMonth(iso);
 };
-
-const fmtDateLong = (iso) => {
-  if (!iso) return '';
-  try {
-    return new Intl.DateTimeFormat('en-US', {
-      weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
-    }).format(new Date(iso));
-  } catch { return ''; }
-};
-
-const escapeHTML = (str = '') => String(str)
-  .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-  .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 
 const labelFor = (cat) => CATEGORY_LABELS[cat] || (cat ? cat.replace(/^\w/, c => c.toUpperCase()) : 'Top story');
 
@@ -59,7 +44,10 @@ export function renderHero(news) {
   }
 
   if (headlineEl) headlineEl.textContent = hero.title || '—';
-  if (summaryEl) summaryEl.textContent = hero.summary || '';
+  if (summaryEl) {
+    summaryEl.textContent = hero.summary || '';
+    summaryEl.hidden = !hero.summary;
+  }
   if (linkEl && hero.url) {
     linkEl.href = hero.url;
     linkEl.hidden = false;

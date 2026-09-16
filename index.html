@@ -35,47 +35,27 @@
           <button class="icon-btn palette-picker__toggle" id="paletteToggle"
                   aria-label="Change colour palette" title="Change colour palette"
                   aria-haspopup="true" aria-expanded="false">
-            <span class="palette-picker__swatches" aria-hidden="true">
-              <span class="palette-picker__sw" style="background: var(--accent)"></span>
-              <span class="palette-picker__sw" style="background: var(--text)"></span>
-              <span class="palette-picker__sw" style="background: var(--bg)"></span>
-              <span class="palette-picker__sw" style="background: var(--bg-elev)"></span>
-            </span>
+            <span class="palette-picker__swatches" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
           </button>
           <div class="palette-picker__menu" id="paletteMenu" role="menu" hidden>
             <button class="palette-picker__option" role="menuitem" data-palette="newsprint">
-              <span class="palette-picker__preview" aria-hidden="true">
-                <span style="background:#f3e9d2"></span><span style="background:#14110d"></span>
-                <span style="background:#b51d1d"></span><span style="background:#6b6356"></span>
-              </span>
+              <span class="palette-picker__preview" data-palette="newsprint" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
               <span class="palette-picker__name">Newsprint <em>(default)</em></span>
             </button>
             <button class="palette-picker__option" role="menuitem" data-palette="broadsheet">
-              <span class="palette-picker__preview" aria-hidden="true">
-                <span style="background:#ece1c8"></span><span style="background:#2a1f12"></span>
-                <span style="background:#7a3b16"></span><span style="background:#a48b62"></span>
-              </span>
+              <span class="palette-picker__preview" data-palette="broadsheet" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
               <span class="palette-picker__name">Broadsheet</span>
             </button>
             <button class="palette-picker__option" role="menuitem" data-palette="modern-mono">
-              <span class="palette-picker__preview" aria-hidden="true">
-                <span style="background:#ffffff"></span><span style="background:#0a0a0a"></span>
-                <span style="background:#c41e1e"></span><span style="background:#5b5b5b"></span>
-              </span>
+              <span class="palette-picker__preview" data-palette="modern-mono" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
               <span class="palette-picker__name">Modern Mono</span>
             </button>
             <button class="palette-picker__option" role="menuitem" data-palette="financial">
-              <span class="palette-picker__preview" aria-hidden="true">
-                <span style="background:#fff1e5"></span><span style="background:#33302e"></span>
-                <span style="background:#990f3d"></span><span style="background:#807268"></span>
-              </span>
+              <span class="palette-picker__preview" data-palette="financial" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
               <span class="palette-picker__name">Financial</span>
             </button>
             <button class="palette-picker__option" role="menuitem" data-palette="gazette">
-              <span class="palette-picker__preview" aria-hidden="true">
-                <span style="background:#f6f1e3"></span><span style="background:#1a2333"></span>
-                <span style="background:#a31621"></span><span style="background:#6f7383"></span>
-              </span>
+              <span class="palette-picker__preview" data-palette="gazette" aria-hidden="true"><span></span><span></span><span></span><span></span></span>
               <span class="palette-picker__name">Gazette</span>
             </button>
           </div>
@@ -168,7 +148,7 @@
         </div>
         <div class="footer__sources-col">
           <h3 class="footer__sources-label">Market sources</h3>
-          <p>CoinGecko (crypto), Stooq (equities, commodities, indices). Bull / bear signal computed from 200-day SMA trend + 14-day RSI. Refreshed hourly.</p>
+          <p>CoinGecko (crypto), Yahoo Finance (equities, commodities, indices). Bull / bear signal computed from 200-day SMA trend + 14-day RSI. Refreshed hourly.</p>
         </div>
       </div>
       <div class="footer__meta-row">

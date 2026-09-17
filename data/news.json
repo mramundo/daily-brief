@@ -1,15 +1,24 @@
 {
-  "updated": "2026-09-17T11:39:22.308719+00:00",
+  "updated": "2026-09-17T16:58:54.258886+00:00",
   "hero": {
-    "title": "Trump threatens EU with tariffs over 'laughable' Canada association plan",
-    "url": "http://www.france24.com/en/europe/20260917-trump-threatens-eu-with-tariffs-over-laughable-canada-association-plan",
-    "source": "© Kylie Cooper, Reuters",
-    "published_at": "2026-09-17T06:58:22+00:00",
-    "summary": "US President Donald Trump has threatened steep tariffs on the European Union if it goes ahead with a proposal to make Canada its first \"associate member\", a move he described as a possible \"hostile act\". Canada's Prime Minister Mark Carney, who is due to address the European Parl",
-    "category": "politics",
-    "score": 8.199
+    "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+    "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Tech",
+    "published_at": "2026-09-17T14:33:12+00:00",
+    "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+    "category": "tech",
+    "score": 7.165
   },
   "items": [
+    {
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-17T12:27:18+00:00",
+      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "category": "politics",
+      "score": 6.711
+    },
     {
       "title": "Italy's Meloni visits Norway to boost energy, critical minerals ties",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGRvMG9JZE1UUzdad1g4SmpQNUFlclZqa1FMQXZpMUdKZ3FRMlJhNWhaQlNCdE5Qc2NtRUh0bVdUX05nSVJMVW0yRGlUc3FTSEgwaU43cmJGWnoyVG9LT2g5MWdvNklmVDdEV1oxSWQ3ZWRzcHBESEdXQ1ZRNi1FdGYyNFppRTlFVWNRaThuUWRHZW5BRzRPMHdKY1d5SU5sZGJnZDUxamhUeXZsNDVfbl81aHpsQQ?oc=5",
@@ -17,44 +26,35 @@
       "published_at": "2026-09-17T10:58:45+00:00",
       "summary": "",
       "category": "resources",
-      "score": 6.92
+      "score": 6.628
     },
     {
-      "title": "Mark Carney's EU speech highlights Canada's shifting alliances",
-      "url": "http://www.france24.com/en/video/20260917-mark-carney-s-eu-speech-highlights-canada-s-shifting-alliances-1",
-      "source": "France 24",
-      "published_at": "2026-09-17T11:37:31+00:00",
-      "summary": "Canadian Prime Minister Mark Carney addressed the European Parliament as Ottawa and Brussels deepen ties against a backdrop of strained relations with the United States. FRANCE 24's Doug Herbert explains how the speech illustrates a broader shift in alliances, with a message that",
-      "category": "politics",
-      "score": 5.869
-    },
-    {
-      "title": "OpenAI finds 6 new cases of ‘concerning’ AI behavior",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRV9SMHNrRUxYLVFTajdVM210SE9tazBWaWhVOU5QY1RzaEdMbkNHZUpIMWd4b2tzUUtKdlB5RDYwVTE5b19rbGc5andCb3BiX2hyN3dOeDlTazlrRS1FTFVobld5SzZTbWl3WTBldXFtM25GVjBZaldPOENoNG1KWUtDOFVrWloxcVgzNXpB?oc=5",
-      "source": "politico.eu",
-      "published_at": "2026-09-17T10:10:41+00:00",
+      "title": "US stocks rise after oil prices fall and pressure from the bond market eases",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEZ4eWpRcFQybzI4MUxVM2pCc1ZxNWRFajBQU2o3dWRSSnNZMmt6NEMxbjBmQXRqTzREdXlLOVZJVURwQmIyMzdfeXZkNUg1RlBRa1B3LWJqUkV2VjBtSTVpRDNlWTdRZzJndy1adEJkOHdVbERwU1liZmlwWEEyTEtBQTYwc29m?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-17T16:16:00+00:00",
       "summary": "",
+      "category": "finance",
+      "score": 6.036
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source": "TechCrunch",
+      "published_at": "2026-09-17T13:38:33+00:00",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
       "category": "tech",
-      "score": 5.622
-    },
-    {
-      "title": "India warns new US tariffs over Russian oil could hit ties, vows to protect energy security",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEYxR3ZWQVp2WmNVWFlkTGd2QThGc3VMX2pPd3JSbkR4ekxSZm1WbjdhSU1hZ2JHaHZIZEJRSEEwdUZUOVl4REwxWU9OWUFJcWxaWm9hNk4yeXJJVU5FSUQ4WWZFVTVwQmpaZlFOem5wc1hiNnJJQklmQXo3aWpaOG1tY2tUWm9IalFnSFUzbWFoREwxNHo0RzZrb0RNbHJSa25yMDlidVk5WEt4RkNKRjQwRXpZSWkyYUE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-17T05:19:00+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 5.073
+      "score": 5.978
     }
   ],
   "hero_history": [
+    "King Charles warns of 'existential danger' of AI falling into wrong hands",
     "Trump threatens EU with tariffs over 'laughable' Canada association plan",
     "Congress passes sweeping US sanctions bill targeting Russia",
     "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
     "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
     "Former Kosovo president Thaci sentenced to 25 years in prison for war crimes",
     "EU chief backs plan for Canada to become 'associate member'",
-    "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
-    "NATO jet shoots down suspected Russian drone over Lithuania"
+    "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation"
   ]
 }

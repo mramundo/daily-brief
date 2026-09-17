@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-16T21:16:36.315966+00:00",
+  "updated": "2026-09-17T04:50:42.838517+00:00",
   "hero": {
-    "title": "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW5lU3JQLXljZW5VaC1SY3Y4Y1IzVk9ncDBrUVFuZHFkZXRQSVQzTVI4Y0x0Z1NwazVzVkR5cmNxWkdPOXE0VGNTd1M1YWVwZVlNclRQOC1JMmdxWXZSVnpiYXpBNFExNlc5RGJfbldXNmlVY0RlTWdlSW1wc25HNHlTQjdfRjloQ3FEMnRMNWZPTGxpZnUzRGVLUWQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-16T20:55:00+00:00",
-    "summary": "",
-    "category": "finance",
-    "score": 7.593
+    "title": "Congress passes sweeping US sanctions bill targeting Russia",
+    "url": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-09-17T00:55:13+00:00",
+    "summary": "The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine",
+    "category": "conflicts",
+    "score": 5.422
   },
   "items": [
-    {
-      "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZy04cUpKZ1lLWHB3Zmp5N19XeEEwdi13bjBZYllISzltVk5HaDdlUnJqOEJFZUlYVjBxNzhZbUc5NDhDeWdISkUzLWw3b25ZZTYxZG4tZUFjLXU5T3F2YlZ2M1QtNDdZcDZ1anZlTVFGZzlmY2dYNGRLelY5TjRTMDU4d1QxaDRYY0JvNXBIZ0FQUWxiMVJzQlc3V0plQTd2M19oWWRVUjV3aXdvOHhXREJ0STBfdW9LZkw1QnV0Mk5MQkhRaldlQ1NsSDJHcTkt?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-16T16:43:43+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 6.377
-    },
     {
       "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-16T17:49:35+00:00",
+      "published_at": "2026-09-16T22:25:54+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.722
+      "score": 5.057
     },
     {
-      "title": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
+      "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVBYUDM0azJaTVZjVHAzbUtkOVBWLWpZYnptZFZ4S0x0dHpkS1lXVFM2SnJtX0F0Ull5OXdJUkdiNXdUZTNQamM0S3NoeFRxdTdFVmFWWi00cVJ6YXQxTDFTQlBmc0FsS3l5SHJ5VnZpOVplcllLVk04dy1YS2cwUDdMWEY5RzZWN3JTU2luOXJ4NUt3NzkyREJSUVlMSFJBcFpMcHprUjVsM2J3WGg1NUI5NjZrZDBHUGZiNnJGZUtvZThlTk9jWmRSaVZpUQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-16T18:57:44+00:00",
+      "published_at": "2026-09-16T22:02:53+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 5.206
+      "category": "tech",
+      "score": 4.859
     },
     {
-      "title": "French seeks lifting of EU sanctions on billionaire after pressure by Azerbaijan, diplomats say",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2pEQlJIejhCanFpeUNqdG5XdFc1YTFIUzZfOW4wc2FUUmd1elZHNkJSY3c0dEp1Vkl0OHYxbXNTLUZ1RmVFeEdDMExxNUVxaTY5cnFISFAwOGdjQktCV0FCVHdPUWRFQmRjbVg3bkg3TW9UYmV0MW5hcDR3ZDM3cFVITm9DRzFqWW1leFJacEUyOTNNRzZtcUFoV1R4MjBZLWVFeGdWR1FWbFNBZzF3YjY5MFI4NWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-16T20:28:00+00:00",
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-17T00:40:17+00:00",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "category": "politics",
+      "score": 4.84
+    },
+    {
+      "title": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-17T00:54:00+00:00",
       "summary": "",
       "category": "politics",
-      "score": 4.85
+      "score": 4.671
     }
   ],
   "hero_history": [
+    "Congress passes sweeping US sanctions bill targeting Russia",
     "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
     "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
     "Former Kosovo president Thaci sentenced to 25 years in prison for war crimes",
     "EU chief backs plan for Canada to become 'associate member'",
     "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
     "NATO jet shoots down suspected Russian drone over Lithuania",
-    "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
-    "US confirms it has weapons in space"
+    "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports"
   ]
 }

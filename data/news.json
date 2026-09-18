@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-18T04:41:14.243373+00:00",
+  "updated": "2026-09-18T11:11:36.252325+00:00",
   "hero": {
-    "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
+    "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-09-17T23:59:43+00:00",
+    "published_at": "2026-09-18T10:09:18+00:00",
     "summary": "",
     "category": "tech",
-    "score": 7.208
+    "score": 7.194
   },
   "items": [
     {
-      "title": "Anthropic says its model Claude is helping to build the next version of itself",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGVRMWttSER2aTljc2w3RjQ4WVNSQno4Z3FmaUVGSmllOXFKRzkzUmJXT2R6MHhZSzhaTVp2RTBXSzNJNzQ3YThfNmdWNUdEN0dNUXhwRWdxa0p0V2FFaGtlRHVHLUpmdDctWDg1N2ZnM2FWeVFZXzJOS2g5T05yYnZPYmJOMzdqeDAwUlNvMFV1TDc0MDhoVjVvVXhyRmRwQUVGdg?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-18T02:18:38+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.983
-    },
-    {
-      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
-      "url": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-18T01:58:54+00:00",
-      "summary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory.",
-      "category": "conflicts",
-      "score": 5.853
-    },
-    {
-      "title": "Rising oil, rates and yields brew up stagflation cocktail for markets",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmhlTzlKbEFSMGdBRGhpNGxzWDVGZzFsWHR5cXZXLVZwTjRZX0xtVjN4UW1LU3BVNW4wSGlod0VLSEhBbWRJNS0za2NIWWkxVlJqSzBsVU1rWHlIcXNUVmRDemNnbFBrV2J3eEhRSjM4NG9xaHl2ZXR0ZzAySFpOT0tFeWxnZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-17T23:30:06+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 5.01
-    },
-    {
-      "title": "Trump says 'major progress' made toward US military base in Poland",
-      "url": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland",
-      "source": "© Kai Pfaffenbach, Reuters",
-      "published_at": "2026-09-18T01:04:18+00:00",
-      "summary": "US President Donald Trump said that Washington and Warsaw were making 'major progress' toward establishing a US military base in Poland, potentially giving the United States a permanent military foothold on NATO's eastern flank even as his administration reviews its broader troop",
+      "title": "Russia votes in wartime election set to secure the Kremlin's power",
+      "url": "https://www.france24.com/en/video/20260918-russia-votes-in-wartime-election-set-to-secure-the-kremlin-s-power",
+      "source": "France 24",
+      "published_at": "2026-09-18T09:52:50+00:00",
+      "summary": "Voting got ⁠underway on Friday in a tightly controlled three-day parliamentary election in Russia which President Vladimir Putin has framed as a barometer of support for Russia's war in Ukraine. It is the first parliamentary election since Russia launched its full-scale war in Uk",
       "category": "politics",
-      "score": 4.641
+      "score": 6.838
+    },
+    {
+      "title": "Israel is killing the people who could end its wars",
+      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-18T10:29:34+00:00",
+      "summary": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
+      "category": "conflicts",
+      "score": 5.325
+    },
+    {
+      "title": "A galaxy spinning out of sync",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+      "source": "ESA",
+      "published_at": "2026-09-18T08:00:00+00:00",
+      "summary": "Image: Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo",
+      "category": "science",
+      "score": 5.195
+    },
+    {
+      "title": "Ukraine fires drone barrage as Russia launches elections",
+      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-18T10:28:17+00:00",
+      "summary": "Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.",
+      "category": "conflicts",
+      "score": 5.129
     }
   ],
   "hero_history": [
+    "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
     "Anthropic says Claude now leads a quarter of work building its next AI models",
     "Canada welcomes EU proposal to become 'associate member'",
     "King Charles warns of 'existential danger' of AI falling into wrong hands",
     "Trump threatens EU with tariffs over 'laughable' Canada association plan",
     "Congress passes sweeping US sanctions bill targeting Russia",
     "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
-    "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
-    "Former Kosovo president Thaci sentenced to 25 years in prison for war crimes"
+    "Microsoft AI chief calls out Anthropic's approach to AI consciousness"
   ]
 }

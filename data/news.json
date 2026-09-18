@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-18T11:11:36.252325+00:00",
+  "updated": "2026-09-18T16:22:40.629048+00:00",
   "hero": {
-    "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-18T10:09:18+00:00",
-    "summary": "",
+    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "source": "TechCrunch",
+    "published_at": "2026-09-18T14:00:14+00:00",
+    "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
     "category": "tech",
-    "score": 7.194
+    "score": 12.39
   },
   "items": [
     {
-      "title": "Russia votes in wartime election set to secure the Kremlin's power",
-      "url": "https://www.france24.com/en/video/20260918-russia-votes-in-wartime-election-set-to-secure-the-kremlin-s-power",
-      "source": "France 24",
-      "published_at": "2026-09-18T09:52:50+00:00",
-      "summary": "Voting got ⁠underway on Friday in a tightly controlled three-day parliamentary election in Russia which President Vladimir Putin has framed as a barometer of support for Russia's war in Ukraine. It is the first parliamentary election since Russia launched its full-scale war in Uk",
-      "category": "politics",
-      "score": 6.838
+      "title": "Wall Street drifts lower as bond yields rise and oil prices swing",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblR6c3AydHhyUC1oMVNJUWpVT0YwN2FJUHU0RF96U1JrNm5Xdk0zMmpuNjgycjBKMXBQR2JMWmtXRFo0ZVRhNFBHWWUwbXFWOFVQa3JQZUxMYlUxdDVqZ0hkQ09STUd2MDRxQnB2NE5BWnpwbkVxR1phMzRpZldUVlZJUFpOV3VOQ0hadDhtY1c2VVhlcy1YT0xCaWJ5UQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-18T16:13:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 6.177
     },
     {
-      "title": "Israel is killing the people who could end its wars",
-      "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-is-killing-the-people-who-could-end-its-wars?traffic_source=rss",
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published_at": "2026-09-18T15:30:00+00:00",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "category": "tech",
+      "score": 5.796
+    },
+    {
+      "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-09-18T10:29:34+00:00",
-      "summary": "From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.",
+      "published_at": "2026-09-18T14:17:20+00:00",
+      "summary": "Kremlin calls UK's support for Ukraine an endorsement of 'terrorism' after recent escalation in weapons supply.",
       "category": "conflicts",
-      "score": 5.325
+      "score": 5.147
     },
     {
-      "title": "A galaxy spinning out of sync",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
-      "source": "ESA",
-      "published_at": "2026-09-18T08:00:00+00:00",
-      "summary": "Image: Though the spiral galaxy in this new image by the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over one thousand galaxies in the Virgo",
+      "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+      "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
+      "source": "NASA",
+      "published_at": "2026-09-18T13:38:12+00:00",
+      "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluste",
       "category": "science",
-      "score": 5.195
-    },
-    {
-      "title": "Ukraine fires drone barrage as Russia launches elections",
-      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-18T10:28:17+00:00",
-      "summary": "Russia's first parliamentary election since the invasion opens with no antiwar party on the ballot.",
-      "category": "conflicts",
-      "score": 5.129
+      "score": 4.859
     }
   ],
   "hero_history": [
+    "Researchers used Anthropic’s Claude to hack into OpenAI",
     "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
     "Anthropic says Claude now leads a quarter of work building its next AI models",
     "Canada welcomes EU proposal to become 'associate member'",
     "King Charles warns of 'existential danger' of AI falling into wrong hands",
     "Trump threatens EU with tariffs over 'laughable' Canada association plan",
     "Congress passes sweeping US sanctions bill targeting Russia",
-    "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
-    "Microsoft AI chief calls out Anthropic's approach to AI consciousness"
+    "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-17T21:20:35.153535+00:00",
+  "updated": "2026-09-18T04:41:14.243373+00:00",
   "hero": {
-    "title": "Canada welcomes EU proposal to become 'associate member'",
-    "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-09-17T12:27:18+00:00",
-    "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
-    "category": "politics",
-    "score": 5.596
+    "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-17T23:59:43+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 7.208
   },
   "items": [
     {
-      "title": "Italy's Meloni visits Norway to boost energy, critical minerals ties",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGRvMG9JZE1UUzdad1g4SmpQNUFlclZqa1FMQXZpMUdKZ3FRMlJhNWhaQlNCdE5Qc2NtRUh0bVdUX05nSVJMVW0yRGlUc3FTSEgwaU43cmJGWnoyVG9LT2g5MWdvNklmVDdEV1oxSWQ3ZWRzcHBESEdXQ1ZRNi1FdGYyNFppRTlFVWNRaThuUWRHZW5BRzRPMHdKY1d5SU5sZGJnZDUxamhUeXZsNDVfbl81aHpsQQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-17T10:58:45+00:00",
+      "title": "Anthropic says its model Claude is helping to build the next version of itself",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGVRMWttSER2aTljc2w3RjQ4WVNSQno4Z3FmaUVGSmllOXFKRzkzUmJXT2R6MHhZSzhaTVp2RTBXSzNJNzQ3YThfNmdWNUdEN0dNUXhwRWdxa0p0V2FFaGtlRHVHLUpmdDctWDg1N2ZnM2FWeVFZXzJOS2g5T05yYnZPYmJOMzdqeDAwUlNvMFV1TDc0MDhoVjVvVXhyRmRwQUVGdg?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-18T02:18:38+00:00",
       "summary": "",
-      "category": "resources",
-      "score": 5.527
+      "category": "tech",
+      "score": 5.983
     },
     {
-      "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
+      "url": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-18T01:58:54+00:00",
+      "summary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory.",
+      "category": "conflicts",
+      "score": 5.853
+    },
+    {
+      "title": "Rising oil, rates and yields brew up stagflation cocktail for markets",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmhlTzlKbEFSMGdBRGhpNGxzWDVGZzFsWHR5cXZXLVZwTjRZX0xtVjN4UW1LU3BVNW4wSGlod0VLSEhBbWRJNS0za2NIWWkxVlJqSzBsVU1rWHlIcXNUVmRDemNnbFBrV2J3eEhRSjM4NG9xaHl2ZXR0ZzAySFpOT0tFeWxnZw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-17T20:53:08+00:00",
+      "published_at": "2026-09-17T23:30:06+00:00",
       "summary": "",
       "category": "finance",
-      "score": 5.229
+      "score": 5.01
     },
     {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "source": "TechCrunch",
-      "published_at": "2026-09-17T20:34:24+00:00",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "category": "tech",
-      "score": 4.99
-    },
-    {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-17T20:34:30+00:00",
-      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "category": "conflicts",
-      "score": 4.905
+      "title": "Trump says 'major progress' made toward US military base in Poland",
+      "url": "https://www.france24.com/en/europe/20260918-trump-says-major-progress-made-toward-us-military-base-in-poland",
+      "source": "© Kai Pfaffenbach, Reuters",
+      "published_at": "2026-09-18T01:04:18+00:00",
+      "summary": "US President Donald Trump said that Washington and Warsaw were making 'major progress' toward establishing a US military base in Poland, potentially giving the United States a permanent military foothold on NATO's eastern flank even as his administration reviews its broader troop",
+      "category": "politics",
+      "score": 4.641
     }
   ],
   "hero_history": [
+    "Anthropic says Claude now leads a quarter of work building its next AI models",
     "Canada welcomes EU proposal to become 'associate member'",
     "King Charles warns of 'existential danger' of AI falling into wrong hands",
     "Trump threatens EU with tariffs over 'laughable' Canada association plan",
     "Congress passes sweeping US sanctions bill targeting Russia",
     "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way",
     "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
-    "Former Kosovo president Thaci sentenced to 25 years in prison for war crimes",
-    "EU chief backs plan for Canada to become 'associate member'"
+    "Former Kosovo president Thaci sentenced to 25 years in prison for war crimes"
   ]
 }

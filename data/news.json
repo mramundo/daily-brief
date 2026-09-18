@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-18T16:22:40.629048+00:00",
+  "updated": "2026-09-18T20:53:09.442629+00:00",
   "hero": {
-    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-    "source": "TechCrunch",
-    "published_at": "2026-09-18T14:00:14+00:00",
-    "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-    "category": "tech",
-    "score": 12.39
+    "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
+    "url": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-09-18T19:25:04+00:00",
+    "summary": "The US president insists media outlets report 'fiction and lies' as he enforces new bans on White House access.",
+    "category": "politics",
+    "score": 6.83
   },
   "items": [
+    {
+      "title": "Anthropic: AI model Claude helping build next version of it",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHoxemhKVmppRHBIV0dMLWJMeGlDc20wWVRNNWxDYnJ0bDVQa0dMTTF0R1lqbFc1dkZ1dW1yc1FfangzZVFYNU4tSERIREhkQlU3WDBVM3Z0dnp0TVlfaWxRcnNtWnhLMVZvZmwwZkpwWm40cDdELXRKYXAtQUNRemhZZXRGVUVSQjRmSdIBkgFBVV95cUxPcF84cVk5cjh6MmVnUG1zZm1YYkFnOTJ3b3V2SDVpbmVTOHJMTDdqY3dFOUZFRjJmVW5ld1VOUFJiUldvMFZXbF9EUjVWYjdZcVF0ZTJZNHhVaWFCbnBEaEFzc0w1RU8wSXJqZlFKZTdKMHdycVN2SUdqWTJOWG9rTG9CSGtmV1BUSnc5YnV0a0lGZw?oc=5",
+      "source": "The Hill",
+      "published_at": "2026-09-18T18:23:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 6.285
+    },
+    {
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-18T20:47:49+00:00",
+      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+      "category": "politics",
+      "score": 6.055
+    },
     {
       "title": "Wall Street drifts lower as bond yields rise and oil prices swing",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblR6c3AydHhyUC1oMVNJUWpVT0YwN2FJUHU0RF96U1JrNm5Xdk0zMmpuNjgycjBKMXBQR2JMWmtXRFo0ZVRhNFBHWWUwbXFWOFVQa3JQZUxMYlUxdDVqZ0hkQ09STUd2MDRxQnB2NE5BWnpwbkVxR1phMzRpZldUVlZJUFpOV3VOQ0hadDhtY1c2VVhlcy1YT0xCaWJ5UQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-18T16:13:00+00:00",
+      "published_at": "2026-09-18T19:14:00+00:00",
       "summary": "",
       "category": "finance",
-      "score": 6.177
+      "score": 5.804
     },
     {
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
       "source": "TechCrunch",
-      "published_at": "2026-09-18T15:30:00+00:00",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "published_at": "2026-09-18T14:00:14+00:00",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
       "category": "tech",
-      "score": 5.796
-    },
-    {
-      "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
-      "url": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-18T14:17:20+00:00",
-      "summary": "Kremlin calls UK's support for Ukraine an endorsement of 'terrorism' after recent escalation in weapons supply.",
-      "category": "conflicts",
-      "score": 5.147
-    },
-    {
-      "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
-      "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
-      "source": "NASA",
-      "published_at": "2026-09-18T13:38:12+00:00",
-      "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluste",
-      "category": "science",
-      "score": 4.859
+      "score": 5.648
     }
   ],
   "hero_history": [
+    "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
     "Researchers used Anthropic’s Claude to hack into OpenAI",
     "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
     "Anthropic says Claude now leads a quarter of work building its next AI models",
     "Canada welcomes EU proposal to become 'associate member'",
     "King Charles warns of 'existential danger' of AI falling into wrong hands",
     "Trump threatens EU with tariffs over 'laughable' Canada association plan",
-    "Congress passes sweeping US sanctions bill targeting Russia",
-    "US stocks slip after the Fed hikes interest rates and hints more increases may be on the way"
+    "Congress passes sweeping US sanctions bill targeting Russia"
   ]
 }

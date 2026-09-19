@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-19T10:56:20.926008+00:00",
+  "updated": "2026-09-19T15:52:10.768173+00:00",
   "hero": {
-    "title": "Trump says he is banning CNN and Politico from White House",
-    "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-09-19T05:36:36+00:00",
-    "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-    "category": "politics",
-    "score": 8.614
+    "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+    "url": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-09-19T15:18:00+00:00",
+    "summary": "This is Russia's first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.",
+    "category": "conflicts",
+    "score": 7.275
   },
   "items": [
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-19T10:52:37+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 7.1
-    },
-    {
-      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-19T00:22:41+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.644
+      "title": "CNN, MS NOW and Politico denied access to White House",
+      "url": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-09-19T15:33:00+00:00",
+      "summary": "Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on several media outlets.",
+      "category": "politics",
+      "score": 5.541
     },
     {
       "title": "Google's Gemini AI hacked three companies in security test",
       "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Tech",
-      "published_at": "2026-09-19T04:27:11+00:00",
+      "published_at": "2026-09-19T13:39:32+00:00",
       "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "category": "tech",
-      "score": 4.538
+      "score": 5.422
     },
     {
-      "title": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9zNlc2QnFzVHhiYnV6M24xcUxBMmVValVkZDZSblJBbFVtQW1CMzNLSGZLWW9kTmlzekEzbllyajZCQnJmX2p3TXBGRUVUbWo5djRtaWVPVU9wUHJnc2ZKcEJBbVN2VWZEVGFBVG1RVktzaGNKbm12NEdEenNrWVA4N1dhSkZNMzB5WFJSRnJXd3F4TmlJVHRRM2pkbC1mcWhuVk9ybi1LRkZYdnVzSXRn?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-18T23:37:00+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 4.375
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge",
+      "published_at": "2026-09-19T15:25:03+00:00",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was",
+      "category": "tech",
+      "score": 5.064
+    },
+    {
+      "title": "France's Macron hosts Canadian PM Carney amid US tensions",
+      "url": "https://www.france24.com/en/france-s-macron-hosts-canadian-pm-carney-amid-us-tensions",
+      "source": "France 24",
+      "published_at": "2026-09-19T13:25:22+00:00",
+      "summary": "President Emmanuel Macron embarks on a rare and symbolic visit to a remote French territory in the North Atlantic on Saturday, hosting Canadian Prime Minister Mark Carney at a time of growing tensions with Washington. This comes after European Commission President Ursula von der",
+      "category": "politics",
+      "score": 4.776
     }
   ],
   "hero_history": [
+    "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
     "Trump says he is banning CNN and Politico from White House",
     "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
     "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
     "Researchers used Anthropic’s Claude to hack into OpenAI",
     "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
     "Anthropic says Claude now leads a quarter of work building its next AI models",
-    "Canada welcomes EU proposal to become 'associate member'",
-    "King Charles warns of 'existential danger' of AI falling into wrong hands"
+    "Canada welcomes EU proposal to become 'associate member'"
   ]
 }

@@ -1,41 +1,32 @@
 {
-  "updated": "2026-09-19T04:35:39.512886+00:00",
+  "updated": "2026-09-19T10:56:20.926008+00:00",
   "hero": {
-    "title": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9zNlc2QnFzVHhiYnV6M24xcUxBMmVValVkZDZSblJBbFVtQW1CMzNLSGZLWW9kTmlzekEzbllyajZCQnJmX2p3TXBGRUVUbWo5djRtaWVPVU9wUHJnc2ZKcEJBbVN2VWZEVGFBVG1RVktzaGNKbm12NEdEenNrWVA4N1dhSkZNMzB5WFJSRnJXd3F4TmlJVHRRM2pkbC1mcWhuVk9ybi1LRkZYdnVzSXRn?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-18T23:37:00+00:00",
-    "summary": "",
-    "category": "conflicts",
-    "score": 8.856
+    "title": "Trump says he is banning CNN and Politico from White House",
+    "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-09-19T05:36:36+00:00",
+    "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+    "category": "politics",
+    "score": 8.614
   },
   "items": [
     {
-      "title": "US Treasury's Bessent plans to discuss AI and rare earths with China's He, source says",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXgxcUNDSEx5a2VvaTV1MTNfVXZsOTBWaGZleGUtNE81bjhUVWhRUHZKOTFBZHNhYW5OWmlGV1llT0NFc3BpZUIwY0d6aHdVZUVFMU5kMUJTOEMwLVBKTWhkU3dQN1Fsdk1TaVR3WmVKWjFkLWZKOTlRLS1wVTZHUDJERUpyajZabGxrQ01iRDYzdzB1ME5SV1BUS1B1Um5Ea1VkTEVaV0NGUkFndTZsOGt1Um1oX1lWM3RmWEN4d1VEZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-18T18:53:43+00:00",
+      "title": "Iran war",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-19T10:52:37+00:00",
       "summary": "",
-      "category": "resources",
-      "score": 8.53
-    },
-    {
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-18T23:26:48+00:00",
-      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "category": "politics",
-      "score": 7.583
+      "category": "conflicts",
+      "score": 7.1
     },
     {
       "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-19T00:05:00+00:00",
+      "published_at": "2026-09-19T00:22:41+00:00",
       "summary": "",
       "category": "tech",
-      "score": 7.262
+      "score": 5.644
     },
     {
       "title": "Google's Gemini AI hacked three companies in security test",
@@ -44,17 +35,26 @@
       "published_at": "2026-09-19T04:27:11+00:00",
       "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "category": "tech",
-      "score": 5.911
+      "score": 4.538
+    },
+    {
+      "title": "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9zNlc2QnFzVHhiYnV6M24xcUxBMmVValVkZDZSblJBbFVtQW1CMzNLSGZLWW9kTmlzekEzbllyajZCQnJmX2p3TXBGRUVUbWo5djRtaWVPVU9wUHJnc2ZKcEJBbVN2VWZEVGFBVG1RVktzaGNKbm12NEdEenNrWVA4N1dhSkZNMzB5WFJSRnJXd3F4TmlJVHRRM2pkbC1mcWhuVk9ybi1LRkZYdnVzSXRn?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-18T23:37:00+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 4.375
     }
   ],
   "hero_history": [
+    "Trump says he is banning CNN and Politico from White House",
     "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
     "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
     "Researchers used Anthropic’s Claude to hack into OpenAI",
     "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
     "Anthropic says Claude now leads a quarter of work building its next AI models",
     "Canada welcomes EU proposal to become 'associate member'",
-    "King Charles warns of 'existential danger' of AI falling into wrong hands",
-    "Trump threatens EU with tariffs over 'laughable' Canada association plan"
+    "King Charles warns of 'existential danger' of AI falling into wrong hands"
   ]
 }

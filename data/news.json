@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-19T20:38:08.266642+00:00",
+  "updated": "2026-09-20T04:52:09.582184+00:00",
   "hero": {
     "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-    "source": "apnews.com",
-    "published_at": "2026-09-19T18:41:00+00:00",
+    "source": "AP News",
+    "published_at": "2026-09-19T22:05:00+00:00",
     "summary": "",
     "category": "tech",
-    "score": 10.059
+    "score": 7.862
   },
   "items": [
     {
-      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-19T11:37:05+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 6.019
-    },
-    {
-      "title": "CNN, MS NOW and Politico denied access to White House",
-      "url": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-09-19T15:33:00+00:00",
-      "summary": "Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on several media outlets.",
-      "category": "politics",
-      "score": 5.874
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+      "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-19T22:03:05+00:00",
+      "summary": "It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia.",
+      "category": "conflicts",
+      "score": 5.636
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-09-19T20:16:07+00:00",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+      "published_at": "2026-09-19T23:49:26+00:00",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "category": "conflicts",
-      "score": 5.195
+      "score": 4.925
     },
     {
-      "title": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJsM3I5a1ZRT3VKVlJvVkNNNHo4Z29nLU5wN2tZTzItaTJRTW9ncmkyME1iM1hsMnpLWl9FN2lCdl96aHFvRXhxN0xxV082RVpoM2dwZS1icFI5ME13V0VPaW9DMlFKSm1wci0zMGlVYjV1UWxXd2dZRDRmb0RmWXJRbnk3ekhHQ0ZkMUc1U0U1bW1GN1Z4NV83VmlfNDBaTVB2OGhOdTN4SDVXcEF2czQ5bktSc1pVVWtQbA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-19T18:47:26+00:00",
+      "title": "Dutch police disperse violent far-right protest in The Hague",
+      "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-09-19T22:38:00+00:00",
+      "summary": "After violence broke out, Dutch riot police dispersed hundreds of far-right protesters in The Hague. Prime Minister Rob Jetten said that the demonstrators had chanted \"abhorrent\" far-right and antisemitic slogans.",
+      "category": "politics",
+      "score": 4.33
+    },
+    {
+      "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUtVjNhMUdzOUo3alRhSVRGVF9aeFVBVUJlSjg0b1RvVnBJYjNXNzh5bWlnbEFjbDg0QWlVSlZueDZWYXltMW11ampFUHphekE1VVdDdlp5MFVhV0lWUUVySmNBT21TZGJNZGh0YlF6c0ZKbmMzMVhKLWlaQWx5Q0RwTUhPZ2dudWc?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-19T22:36:00+00:00",
       "summary": "",
       "category": "politics",
-      "score": 5.098
+      "score": 4.24
     }
   ],
   "hero_history": [
+    "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
     "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
     "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
     "Trump says he is banning CNN and Politico from White House",
     "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war",
     "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
     "Researchers used Anthropic’s Claude to hack into OpenAI",
-    "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
-    "Anthropic says Claude now leads a quarter of work building its next AI models"
+    "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program"
   ]
 }

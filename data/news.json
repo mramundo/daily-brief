@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-20T20:47:26.007807+00:00",
+  "updated": "2026-09-21T04:53:14.016540+00:00",
   "hero": {
-    "title": "Houthis",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEVDdRZFkxT09uMEo4ODBINVp3NklIMDNRUnhLN0JzaUhEMVlPQmNaa1hmSHRibmV6a0JHNHVGLVJPMktQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-20T19:35:14+00:00",
+    "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFpJSWkxMGJsX2cyM3pnVGxFdi0yU3BIRHd0RUM0MUZwWE42WTJhVmwwLUNQUkNhakRLQW1xZWlSMTRWZElIZXNQWFZEbWdpX1Z0aXctRzkxT1VvdlhxZFBSclJNQzlFSUM1cXc4by0yOU51bmZDYUxhdi1GS0RLbzB1VUpqMVRoeGpVTkRjSTltcEdtdldZVldpQ1RtcFJmdkl3VGowWll5cmxFSHE4SnVzOGVYWGEzZDhPOTNDSzNUZ2MxeExISmVyS1FwY01pc1dlcDdR?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-21T01:43:00+00:00",
     "summary": "",
-    "category": "conflicts",
-    "score": 11.705
+    "category": "tech",
+    "score": 10.81
   },
   "items": [
     {
-      "title": "US Treasury's Bessent, China's He launch talks on AI, trade and critical minerals",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90N1BWQ1pucG9hX1NnbDVRM3VZMmlTSEhzeWpXUWNwSU5Gb0pWVjVUN1ZBaU9nOGs0LS05LUtlaU5SYnhjNlRXdVJ2SFU3b1lKbWp0N0o4UjnSAVZBVV95cUxNblVBaVBsUHk3R3JsV1c5QVVCc3FPeFoxY0ZJR3VpQ05LWDgxTlBhellkbEI1RktSVGl0UmYzdV91bmFaRS1CSXdVSHpkbzJlMnlUaEdodw?oc=5",
-      "source": "Business Recorder",
-      "published_at": "2026-09-20T17:02:46+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 5.835
-    },
-    {
-      "title": "Merz vows to press ahead with reforms after historic German state election defeat",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhpM0laRi15RUZNNHNvMnRlLUJzSWhpaWNIVWY3WkJ1b3NScV9ZaWtJbFRueUdhZUNwRDFYeXNDZnFpTElweEZ5V3RrM3l6TnRxQ0dVNGpuLTFfS2U0cm16cEF1eFlfV0tMZGZfdXYwci1oT3haQ0xra1JrZU9XNGVfS0h6STJ0VXlqaTVldEV1U1oyWllOVlJOSy1aYkVfdWtnQjJsQTRGM25GaVVmdw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-20T19:20:00+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 5.181
-    },
-    {
       "title": "Macron, Carney hail new chapter in France-Canada ties at symbolic archipelago meeting",
-      "url": "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
-      "source": "© Ludovic Marin, AFP",
-      "published_at": "2026-09-20T18:29:56+00:00",
+      "url": "https://www.france24.com/en/video/20260921-macron-and-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
+      "source": "France 24",
+      "published_at": "2026-09-21T02:16:58+00:00",
       "summary": "French President Emmanuel Macron and Canadian Prime Minister Mark Carney on Sunday called for stronger bilateral ties in the face of new global threats at a meeting on Saint Pierre and Miquelon, a French territory off Canada's Newfoundland. The first-ever visit by a Canadian lead",
       "category": "politics",
-      "score": 4.904
+      "score": 7.331
     },
     {
-      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen’s growing civil war",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZSU3pzSDBwWFJaUEUwdEg1YXEzemljdXpSQXk2bVN6cEtacEJYYTVKRU9xdUw1RFhYRm13b0lrZTgteFpLMVJDTWl5TFBKaTdCRldGc05RdVFPMkd4Q244c1cyTjlsZFNDR0RNTEsyQzlFa0FWUFZBazdnbG41MVhBb3B3Szh2RzI0N3dnZ1d6dlFIVlFxSHhzc0J1SHdW?oc=5",
+      "title": "Microsoft’s Nadella to Join OpenAI, Nvidia CEOs at Trump-Xi Meal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXFCTVF2Y1VVYUVuQV82WU8wV3pObWVJMkhGVUF0YTQzQ3RXTUd5REdYX0hfSnh6SUdHUkg1b3QtRThaYUtkXy1aOU5OVVU0RDFNYTd3TWtfdmpDYU0tWF9uQWItdnVzXzlEazJWZW5Zc3NHX2xsbWs4UDhZcXgzOVAxZ2xPSXFVek5rNTNxTGtDTlRfMjFjVThkdU1JWU9oZGpxa0hQSWg1cnk5TzU3aEp1dGs?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-09-21T00:55:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.226
+    },
+    {
+      "title": "Trump administration plans to send powerful bombs to Israel in $2.8 billion weapons sale",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOFBWUVQ5cm1kakRwVU9tWUZCRGxHNlRRSEFlNzZKRXlJMFd2S1FZamJIRmVxQnhrdzdJTkhQNjV0WW5ZZkdwUkNubVVEZkVrcHFnb25DWUFLQmVZZUVMTlI4WG55R3hXRU9UNmVDdV9BMm9CRU1KeDV0aElhb0VUVjZfaFp3M09SWlRsRkw3NVlpSkJXaHc?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-20T17:01:00+00:00",
+      "published_at": "2026-09-21T02:20:49+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.287
+      "score": 4.952
+    },
+    {
+      "title": "Gold Steadies as Traders Weigh Inflation and Fed Hike Outlook",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2REa3hXVWU5cXFtbTZYS2xfaGUtc2lLVUEtdzdNNGdHT0lfRGpFZXRGYUhqZUh3ZGg4V29GdEswUUpaand5VG1ZSVE2aWV2OWdfeEgxRU5YVk9JUExZcXB5a2FQdWhmSUg3d0R2aW5qREVlYlFLX1VObE1BY2J2R1c0dmllU3NaLURKNDVHM09GbkcwWXJJTTRtcWdESmo2ckVyak1BZ1VPdThvdVhBOEJR?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-09-21T03:40:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 4.395
     }
   ],
   "hero_history": [
+    "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
     "Houthis",
     "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.",
     "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Herald-Banner",
     "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
     "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
     "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
-    "Trump says he is banning CNN and Politico from White House",
-    "Trump signs sweeping Russia sanctions bill, aiming to choke off funds for Moscow in Ukraine war"
+    "Trump says he is banning CNN and Politico from White House"
   ]
 }

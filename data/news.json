@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-22T16:56:15.635138+00:00",
+  "updated": "2026-09-22T21:16:58.215774+00:00",
   "hero": {
-    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-    "source": "The Verge",
-    "published_at": "2026-09-22T16:30:00+00:00",
-    "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's test",
+    "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5hd1BKazlnZmctdWM5ZjA5QXFOZnVPYjE0dExZNXc0cDJiUWhjb0VzWUZ0QkdYb3dKaThfR20wMzlOVWRGaTc3SlZUYVdWOXB5bWV5NFE0ZGhsSC1xeG1NN2szdVpISklVdW1FcExXZ1Eya3JoekEwa0VJSHJzc2l5dW9PRWdLVzJ5MVYyNG15ZWFVRHMxNmdDRHpZd0xWY2ZaUGhLTWptZVJlSHBueWloeUFIcHhYTGhISC00c0pHQ2lBdVE?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-22T18:19:50+00:00",
+    "summary": "",
     "category": "tech",
-    "score": 6.919
+    "score": 7.789
   },
   "items": [
     {
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "source": "The Verge",
-      "published_at": "2026-09-22T16:34:08+00:00",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVID",
+      "title": "OpenAI expands GPT-6 lineup with cheaper Sol and Luna models",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0ZYd1JncUkxX2hGZWN1ZDlZdG5ERWw3bUltSHNTQm5iMW1YeWdMUVF1dmNkZWJkdHRsQVZTRnQ5S1ozUE1NdXZIYkJNVHNUbm1Pc3YtTFhyTHBLclc1LWoyWm82V2gwc3UySE9lbHdaQ29UWF9nZ0FfYk02UjNjcVBrU0ZMbmxPWUZBWW1fbmVDNTk2RGJyTUVfVHNVUk40UVY1YkNB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-22T18:03:43+00:00",
+      "summary": "",
       "category": "tech",
-      "score": 6.211
+      "score": 5.777
     },
     {
-      "title": "Iran war",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-22T12:42:25+00:00",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-22T19:06:06+00:00",
+      "summary": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+      "category": "politics",
+      "score": 5.224
+    },
+    {
+      "title": "At the UN, Brazil's Lula warns against foreign interference in upcoming election",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkdEdGNnVW5LSlRwZllXVklMQWh4cTVxaGZaU09WNm1uTjZINGRrRUpYZW5uS0FmeHdGaVNSVWZDNWFSNkt6S3A2NkJHZ0NNNnJKWVB3MW4yVG9FaVE3NGcwZ3FnVGhTU3ZmMkFoWUk4UmdIOXRtclBOVzA2QjdMc1lTUXhHdHYxQkhTc1Uwa3RGQVp0Z3ZpZnBUaDNGc0JzVGlXT1hBcmFlQjhsaTNnMGxRdGI?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-22T16:11:24+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 5.968
+      "score": 4.453
     },
     {
-      "title": "Wall Street holds near its record as Brent oil falls below $100 per barrel",
+      "title": "Wall Street holds near its record after Brent oil briefly falls below $98 per barrel",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWlVvYXFSZWFlLXhqWGFPWmpVcE9jYkNRQWYzR0FTdUhGYU1QcEtfOEU2Y0cwOUY5X3ZjOUVkekxSTm1MMGd6VGpPUGNUb0NRMElSSnZGeC0wVnVjOHZzUXZUaHVMRVBETnowMEdUYjlLOGEwLU9KMXZQbkk4bUE3S2FwWXAwQ2hHak1BYzA0WQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-22T15:05:00+00:00",
+      "published_at": "2026-09-22T18:03:00+00:00",
       "summary": "",
       "category": "resources",
-      "score": 4.644
-    },
-    {
-      "title": "ECB, EU central banks suggest dropping stablecoin deposits rule",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXByZ1dMUmEtUkNYT0FyXzRxTVhhUWZJS0RRYU54WlNnaDRFc2lqYWF0MllMOVp1OVVEUm5OQk9yV0FCcENvZldNN1p2MGJCNWlydVpCc3lqaWI3dkFITjFjLUY5d3d0anpSU2pQWVEycUJJMTRzaGNLOUt3c3dueXA0Q0RDbkI4cnVqa05fSFZQM1l3SXRUWUVtT3p1N2JTRy14c3lOaFRMSWYtd3c?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-22T12:30:23+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 4.171
+      "score": 4.385
     }
   ],
   "hero_history": [
+    "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
     "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
     "Anthropic, OpenAI call for Australia to relax ban on training of AI models",
     "Canadian province sues OpenAI over Tumbler Ridge mass shooting",
     "Rubio packs NYC schedule with markets, allies and critical minerals talks",
     "AI Chips Today - Einride NVIDIA Team Up for Autonomous Truck Expansion",
     "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
-    "Houthis",
-    "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks."
+    "Houthis"
   ]
 }

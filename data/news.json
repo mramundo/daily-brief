@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-22T04:53:04.527286+00:00",
+  "updated": "2026-09-22T11:35:38.199170+00:00",
   "hero": {
-    "title": "Canadian province sues OpenAI over Tumbler Ridge mass shooting",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YkxBQUlycXNQTldIVi1ybTFLVU9TS0Y5RTNTZHdRaENhQVVRcS1iT2IyOGFtRnVMV2JheEVvaVdrS2NGc2NYNVVRT2VGRDFMaUxJU205WFlnMlk?oc=5",
-    "source": "BBC World",
-    "published_at": "2026-09-22T01:44:17+00:00",
-    "summary": "Canadian province sues OpenAI over Tumbler Ridge mass shooting BBC",
+    "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFRueW1Majc4QVM4VzE5R3BRYk1vOVZlWHZFSTNMZUwwSi1aUXdBYjA2ZHJqVnFyam40ZS1QbUttUkpIWW5wT2MwVHVMMjJSV1A4WUZjTUtRVzEzcGlzR1Nxc1V2VnpxZ3ZFSUN0WGxEcTlkb3I0RGFlekt3bTVRa1V5ZXR1QzFCM2o4Ym1BMXJrZjVQM25XYUttSmRDZ3JYcVZiQ2wySWJqRDZ2bXlneVVxdw?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-22T08:07:03+00:00",
+    "summary": "",
     "category": "tech",
-    "score": 6.893
+    "score": 6.668
   },
   "items": [
     {
-      "title": "OpenAI calls for US to take lead in global efforts to develop technical standards",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY1F1UlF0ZWNKMTNmQkF4d3JKTGsyU3liQUt4YkhCaHRrNDdnNnFPbWNrbVpwS0U0REV6SnRIenZmU3hndndTTG1ia0lHemR1RDIwcWo5aXBmcGlIUzdIZkd5VGNrUnlqSHduTmlXUGlKb3JmRC1URWpOVXFyY0NlVF9sa0RSWms1TEZLQVlxclBqNV9PS2V0VnpMNmNoNUg3NXJmQmtaZHdGYlkyaGV0SEZvRmZnMzQzUlJzem13?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-21T21:41:33+00:00",
+      "title": "EU fails to reach deal to lift sanctions on Russian oligarchs",
+      "url": "https://www.france24.com/en/video/20260922-eu-fails-to-reach-deal-to-lift-sanctions-on-russian-oligarchs",
+      "source": "France 24",
+      "published_at": "2026-09-22T10:38:21+00:00",
+      "summary": "EU countries failed Monday to finalise a deal that involved lifting sanctions on Russian oligarchs Alisher Usmanov and Mikhail Fridman, Multiple diplomats said earlier that member states had reached a provisional agreement to take the pair off the EU's blacklist as part of a comp",
+      "category": "politics",
+      "score": 6.074
+    },
+    {
+      "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHlNVkRiaTc4OE5ZQ0ZKeE5ySG5zR2lyNklnUGFfOExyNjdjcmxZRnVOcGgyN0hZOV9Ndjc0SWtCalRCLUd1dkFWZ0tPN3E3UUQ5UVRqazUzWC1yS2ZZQnhneF9yaW85X3pNS2E3dDFMcUhGNGQ1WndRSm9pZmdwWWxPUVc5ZUxkUmdVV2lrRUI4UW9wRVZOaE1vSXU4QktVdUo1SEo1Zl82MjJyeFJCN3I4Nm7SAboBQVVfeXFMT2xZTXlpanJCS055SXg0Sll0UGNpRWFDemxZd0NMT2dVWFgybUhKaHoxNGdhQ09xM21zMEFJTnBxcDNlYWd1WGZNVE1PcHRUa09kN1ZyaXZlcjd2Tmc1eWVuMFZhZVF5b0ExeG5iSk9Wd1B2UFVuZFZSb1VoNFI4Znl3ZTdnclZtbVE2TlFmUDRrclduQ2dHV0JWaXRCTGozRVNVM1FuOGpVajh6YUhkbGFCRjBwUy1CTEN3?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-22T03:09:46+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.33
+      "score": 5.961
     },
     {
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-09-22T00:16:06+00:00",
-      "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
+      "published_at": "2026-09-22T08:17:15+00:00",
+      "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
       "category": "politics",
-      "score": 5.014
+      "score": 5.296
     },
     {
-      "title": "Wall Street rallies within 0.4% of its record after oil prices and bond yields ease",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-21T21:17:00+00:00",
+      "title": "Latvian PM opposes deal to lift sanctions on Russia-linked billionaires Usmanov and Fridman",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSG1IejIzR3VCUzFJOWFYYXhFWUN2VWgyVjU4UWlXS0h6eUJjZ1M2UXU0NDA2ekR4OGFxZzE3SUpyTWNoN19PNGs1TFVnOEVmUmU3TUFCR2xoc0RfQVMxTElDR0dkQnZkNWx4RlpiZks2Q1kwc1VFZElsb3lkVVN2cnVoUG52bTZyQkJMemhGZWxHTHJiZmtxV181TElzVU1SMlRrZ3F3S0l4Z1JfM0FOVTM5SmhaUkpObXZnVWl3dw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-22T07:23:44+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 4.53
-    },
-    {
-      "title": "Rare earths force Trump to be less hostile before Xi summit",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmZxcnNua3lwTGdaY1dSbG1Zbk1wN1BFS1R3UDlLenVfMlQzbmNDMWFDcEg5U29Xd19BcjhKOWxUeVJwcWg1dGtEbXFGeTlXVGdXYlg0cnBvTjFtZkJvRVBLY0hlYXpfMXA2NldMU0g0UmRFUmEtQVluajUzd2VzMTBpQ01WT0lndjdYOER1QmpGYzJqdVB6YzhrLUrSAaQBQVVfeXFMTmNNNWIxQ1U1dTRDVmJNMzhzclJLdTV3MTV2aFlROHdQdjFhMHdnQkZycE9iZVU5aGVVcFVrNjVoU2ZTRzR3NjQ3WHVOSmpCcGlFVzdObkk4THJjRDhtZmNsbkNhNmtxQi1hVjliSklJZjYtU1ZsQWZrNDUwOUlETGc1VFNEZW43UGNmNEZlaHFWZVYtRXJIR2pZUGI3QXkyOXBIa0k?oc=5",
-      "source": "The Express Tribune",
-      "published_at": "2026-09-22T01:57:01+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.409
+      "category": "conflicts",
+      "score": 4.622
     }
   ],
   "hero_history": [
+    "Anthropic, OpenAI call for Australia to relax ban on training of AI models",
     "Canadian province sues OpenAI over Tumbler Ridge mass shooting",
     "Rubio packs NYC schedule with markets, allies and critical minerals talks",
     "AI Chips Today - Einride NVIDIA Team Up for Autonomous Truck Expansion",
     "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
     "Houthis",
     "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.",
-    "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Herald-Banner",
-    "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown"
+    "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Herald-Banner"
   ]
 }

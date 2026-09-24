@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-23T21:29:05.008776+00:00",
+  "updated": "2026-09-24T04:47:39.343798+00:00",
   "hero": {
-    "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-    "source": "The Verge",
-    "published_at": "2026-09-23T18:00:00+00:00",
-    "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prep",
+    "title": "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMENUOHhWSmdxQTlHcUtqOTVmSVhWOS01ZGg1NHY4ajVaUk03ZXJPcVVIaDk2SFl5UzBsYXZVZzVFMERsNlUwdlk1ZlVrbnFEVEJLdkNweVpaZFdfY0V5SjZUZXVPS2JlQ3dPcmp0d1UxNWcyYTI5enNvT3lJQ3BOSkRfLTgzeVRmcHVWNXlTLVZ3WEVLdkJpeTAyV0FfOE80bHV0emgwUFJsajB5X3Y00gG0AUFVX3lxTE5JcnNCQ0IxUUMxdndVQmZobFd0V1czbUQ4bEk5ekVGZGJ2ejdzQlBDVTRzT3R1QVFjXzZXS0pfSTcwMnZSZjdHd3NkSVMxUW1iOC03V2tJVDdVM0RmTXRkZDJhUmlEWnlnVjlLT0VHeVE1TllRM1p0UWR1d2JFekkwdHVHWjNOREotQlZYNnNUWkxITTFCN3lRd0NMQVZUT2dtYVhMQlAtRUoyUGRhTzVsbzNvZQ?oc=5",
+    "source": "Al Jazeera",
+    "published_at": "2026-09-24T04:30:00+00:00",
+    "summary": "",
     "category": "tech",
-    "score": 6.094
+    "score": 10.005
   },
   "items": [
     {
-      "title": "AI leaders warn UN of security risks as systems grow more powerful",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-23T20:11:10+00:00",
+      "title": "OpenAI’s breach of Australian health department website prompts rebuke from Albanese",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUtaSlM0RWhlTFFBQm0wRzZiMmIyZmJiN2NSeGZKU2oyWDlvc29KdnF4bnA1Zy1CcG1oZm9YelI2aVNFQzR2ZEQ5X1l0QUpCYjh6ODRIU2dCN2plN2IxUWhkV3lVYmJpWmF3em15MFRuVU1Sc3VPOElxQnA0RVlvY1FQdGhOVjBiWHdDYk4wOXM0a1VUR0ZPUGpjUjlUWEF0Q1kyNnN1R1NMeUdlMWQtR1RB?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-24T04:38:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.215
+      "score": 7.656
     },
     {
-      "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
-      "source": "NASA",
-      "published_at": "2026-09-23T20:09:42+00:00",
-      "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Prob",
-      "category": "science",
-      "score": 5.155
-    },
-    {
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-09-23T21:26:14+00:00",
-      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "published_at": "2026-09-24T04:37:47+00:00",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
       "category": "conflicts",
-      "score": 5.055
+      "score": 4.584
     },
     {
-      "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
-      "url": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/",
-      "source": "NASA",
-      "published_at": "2026-09-23T19:03:03+00:00",
-      "summary": "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal",
-      "category": "science",
-      "score": 4.306
+      "title": "Pressure from the bond market hits a new level, and US stocks slide on worries about inflation",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0pyZ1RfQnM4UlAxVHEwS0NWbEpsOXh5akFKNUF6ZVJ1T3B3bjJsNmtSUEhzcFRqZzlldHlEU1Q2TUs4eFdNNVFtM1JlNDBUTFkzaGtQeGxEWVN6Mko2VnhFd2xaYU1fcXNnYUNaNFRyU1VVd19jWWJkWDhhUEZRdHlELUpKQ1NmMjRmSDlnVlpHQQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-23T21:11:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 4.175
+    },
+    {
+      "title": "Wall Street ends down as oil prices, Treasury yields rise",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-23T23:20:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 3.996
     }
   ],
   "hero_history": [
+    "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
     "Anthropic’s biolab made a discovery it’s comparing to Crispr",
     "Glencore to create US strategic critical minerals reserve with EXIM Bank",
     "Two killed in Gaza in strike Israel says targeted a Hamas finance chief",
     "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models",
     "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs",
     "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-    "Anthropic, OpenAI call for Australia to relax ban on training of AI models",
-    "Canadian province sues OpenAI over Tumbler Ridge mass shooting"
+    "Anthropic, OpenAI call for Australia to relax ban on training of AI models"
   ]
 }

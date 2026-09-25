@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-25T17:08:57.767513+00:00",
+  "updated": "2026-09-25T21:33:29.843634+00:00",
   "hero": {
-    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-    "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-    "source": "TechCrunch",
-    "published_at": "2026-09-25T15:48:14+00:00",
-    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+    "title": "US appeals court upholds Pentagon's blacklisting of Anthropic",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2xsSW1uNVNkSjE2UHVQSGFlOGJTbGFRa2dtdWgyb1owYlFpS2RHZHVSQnRxSTRoSnhqWWJTMEV4Q1BfNzRJZ0h4MVY4S014TTAxbjU4aThsZW95OUhEUFg2Tlg5ZU92Y21RcXVZa1hySFBUT2FXVkZ1ZlRaV3BpNnJFY3g2Ny1KRkpyQm5pNTctbS04V182WjZpYWczRWlJM1RMWl9uU0hNQQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-25T17:54:58+00:00",
+    "summary": "",
     "category": "tech",
-    "score": 4.872
+    "score": 7.313
   },
   "items": [
     {
-      "title": "Anthropic’s founders seek voting control ahead of IPO",
-      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "published_at": "2026-09-25T15:40:03+00:00",
-      "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-25T20:44:19+00:00",
+      "summary": "",
       "category": "tech",
-      "score": 4.844
+      "score": 6.384
     },
     {
-      "title": "Hubble Spots Chaotic Secret in Galaxy",
-      "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
       "source": "NASA",
-      "published_at": "2026-09-25T15:54:10+00:00",
-      "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas,",
+      "published_at": "2026-09-25T19:36:10+00:00",
+      "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous se",
       "category": "science",
-      "score": 4.525
+      "score": 5.648
     },
     {
-      "title": "The Takeaway: UN General Assembly debate Day 3",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168434",
-      "source": "UN News - Global perspective Human stories",
-      "published_at": "2026-09-25T12:00:00+00:00",
-      "summary": "As the high-level debate enters a fourth day, The Takeaway looks back at key highlights on Thursday, with Israeli and Palestinian leaders presenting divergent views on the Middle East conflict and their counterparts from across the world weighing in on the far-reaching impacts of",
-      "category": "conflicts",
-      "score": 4.353
+      "title": "2026-2027 DWU: Middle School Design Challenge",
+      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+      "source": "NASA",
+      "published_at": "2026-09-25T17:20:51+00:00",
+      "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in th",
+      "category": "science",
+      "score": 5.266
     },
     {
-      "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-25T15:07:48+00:00",
-      "summary": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.",
-      "category": "conflicts",
-      "score": 3.92
+      "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-25T20:19:52+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 5.064
     }
   ],
   "hero_history": [
+    "US appeals court upholds Pentagon's blacklisting of Anthropic",
     "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
     "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
     "Netanyahu defends Israeli military action as delegates walk out before UN speech",
     "Akamai, Anthropic sign $11.6 billion cloud services deal",
     "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
     "Trump welcomes China's Xi to Washington",
-    "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
-    "Anthropic’s biolab made a discovery it’s comparing to Crispr"
+    "AI model Claude discovers CRISPR-like enzyme system, Anthropic says"
   ]
 }

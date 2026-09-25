@@ -1,15 +1,33 @@
 {
-  "updated": "2026-09-24T21:29:38.635537+00:00",
+  "updated": "2026-09-25T04:55:28.761461+00:00",
   "hero": {
-    "title": "Akamai, Anthropic sign $11.6 billion cloud services deal",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-24T20:11:23+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 7.3
+    "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+    "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-09-25T00:44:04+00:00",
+    "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+    "category": "conflicts",
+    "score": 6.599
   },
   "items": [
+    {
+      "title": "Akamai signs $11.6 billion cloud deal with Anthropic, grants warrant for up to 5% stake",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanVpUjFYbXpXWHdEU1NlRFlfZnI5a0Y2OVlzYUkya2tBR3hOY05ZTk05ZVZrWUZqcmttYjV3b2x6d01iTUFIZ095a1lQbkFCbTZFVGJzd2tUM1NkcWtOV3B2X1VpMGpkSVlGOW13ZU0xd3BjUm1paldVNHpYVllpN0UwQ3ZkUGk0R3AtaWx3SDJFaXdEUkdmeHRlT3M0Tk10LWc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-24T22:55:43+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 6.003
+    },
+    {
+      "title": "Video of Israeli strike on Lebanon falsely shared as aftermath from Houthi attack in Riyadh",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92aENNTjhwM3VpNU5yOW1QV3ZwXzFzZVg4ajdEVEEyUkpkRmoxOVJ4TWlmVG0wVlNEaDlLY19DMXNjSmsxVGEwSFYyaXRPSk1FMHRwOGJPRk0?oc=5",
+      "source": "AFP Fact Check",
+      "published_at": "2026-09-25T04:04:10+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 5.206
+    },
     {
       "title": "White House asks OpenAI, Anthropic to hold models from British testers, Politico reports",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtLMFdBNFUtNmZrdmFoakY5SE1CNUFBRWt3TXVhTlZ1c0lLTGRQU3N1SzYzQ090dU9sNXBxVTZ5MUp0X21rY2tjd01xOGpRLWRDbmxSQ08weElDcG5ERU9yQ0ZJZXVWd2MzNGVHMi1xLThIWkhnWkdSc09XNEk5ZG05aG84U1ZuTTVsMnY3N2NLSTlYX3V0cm05UFAxZ2JUazV5c0tobk1kZnExSVRBMnZTdHhVMmd5WDRkTw?oc=5",
@@ -17,44 +35,26 @@
       "published_at": "2026-09-24T18:10:04+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.71
+      "score": 4.923
     },
     {
-      "title": "CNN, MS NOW, Politico regain access to White House",
-      "url": "https://www.dw.com/en/cnn-ms-now-politico-regain-access-to-white-house/a-79405693?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-09-24T16:41:00+00:00",
-      "summary": "A federal judge has ordered President Trump to restore White House access to CNN, MS NOW and Politico after he banned the media outlets from the premises. Hours later, the media announced they had been granted access.",
-      "category": "politics",
-      "score": 5.942
-    },
-    {
-      "title": "US Senate rejects Democratic-led resolution to curb Trump's Iran war powers",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU45a3FvODBzSXpndWg1QUVuQzlqUmVJWjZEWUFXNWltVUx0Sm4zbDE1X3lFSnFYd2hQeGotT1YtejB1NU9lZDJKcnJjeEZqNkJtZkQ0anhFUG92V3pWLXlyQzhIalFwTzRuVnVvd3BGQ2tfYTJ3RUxMRlhlWTdTUFE3MnAzMUxmallxcE9SZU5ldmxJeE1fYnhyT0c5eG9lVXVydVg2TFhnbnFJYUFsOE56U194eTltTnc2bGFR?oc=5",
+      "title": "Asian stocks weather bond storm, oil retreats slightly",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-24T20:34:36+00:00",
+      "published_at": "2026-09-25T02:19:00+00:00",
       "summary": "",
-      "category": "conflicts",
-      "score": 5.299
-    },
-    {
-      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
-      "url": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-09-24T18:19:03+00:00",
-      "summary": "Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government.",
-      "category": "conflicts",
-      "score": 4.919
+      "category": "finance",
+      "score": 4.781
     }
   ],
   "hero_history": [
+    "Netanyahu defends Israeli military action as delegates walk out before UN speech",
     "Akamai, Anthropic sign $11.6 billion cloud services deal",
     "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
     "Trump welcomes China's Xi to Washington",
     "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
     "Anthropic’s biolab made a discovery it’s comparing to Crispr",
     "Glencore to create US strategic critical minerals reserve with EXIM Bank",
-    "Two killed in Gaza in strike Israel says targeted a Hamas finance chief",
-    "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models"
+    "Two killed in Gaza in strike Israel says targeted a Hamas finance chief"
   ]
 }

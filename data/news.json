@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-26T04:56:15.295519+00:00",
+  "updated": "2026-09-26T11:22:30.669459+00:00",
   "hero": {
-    "title": "Yemen",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-26T01:59:52+00:00",
+    "title": "NVIDIA CEO says to 'just stop' AI if worred",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWVKUU1KdzRWVC1YQlpUeTlvVy1NdjN0RFdyLW41bUZFRkpHcE5pODZhLVpMNWpJcVl4cjhHbnhrZUs1VzJ3MzRvN2E5VFd0TXVteGxleHZNM0hRTGlJVWhqaVVxaTlnd1VVamIwaXZjRVB0TUVnUkptNDR3UHR2cUR6X2o?oc=5",
+    "source": "K8 News | Jonesboro, Arkansas",
+    "published_at": "2026-09-26T10:25:00+00:00",
     "summary": "",
-    "category": "conflicts",
-    "score": 7.53
+    "category": "tech",
+    "score": 9.567
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-09-26T04:06:49+00:00",
       "summary": "Yemen’s president called on citizens to join the armed forces, and offered amnesty to Iran-backed Houthi rebels.",
       "category": "conflicts",
-      "score": 7.198
+      "score": 4.841
     },
     {
-      "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-26T03:42:00+00:00",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-26T05:09:09+00:00",
+      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "category": "politics",
+      "score": 4.69
+    },
+    {
+      "title": "Israel bans Arab parties from election: Who they are, why it matters",
+      "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-26T10:27:11+00:00",
+      "summary": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
+      "category": "politics",
+      "score": 4.36
+    },
+    {
+      "title": "OpenAI says its AI agents posted user images online in error",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRnExTGtBc1d2YWhkaFBfUExaZ0hvQWo4LUJseEV6UmlfMFFFcnFGcEhxTUNLY2ZsMEVjbFF2NXo0RHZFcEJES3EwWmVFQV9lVy1XMXNDNUNYYlVMVGlFaTkxbjNJNEN2bWFZeTA2OEkxeFlmVFRPWQ?oc=5",
+      "source": "Tech Xplore",
+      "published_at": "2026-09-26T09:40:01+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.274
-    },
-    {
-      "title": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3ZERzdwNHhFVVVqTDBCVF82eHRrdXpSZDNuQl92TWdZRzVKUHZsQm82dUI4MFhaN1BLRHlzTml2ODNrTEdnaWxkY0VKLUY0M3J0VGVWeDZ2RU1TZmdPV2VzTk80VGRrckdybk5za2xuZU9UUEV1dUE5dUUyYTBtVnRmOEk4NFNkaTJhVFFyb1BJOVRSeW55cTZfSWN5Q1FoWDRWTUE0b2h6ZXJTYXU1TDVmRkxrZXNH?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-26T00:31:52+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.498
-    },
-    {
-      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
-      "source": "NASA",
-      "published_at": "2026-09-25T19:36:10+00:00",
-      "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous se",
-      "category": "science",
-      "score": 4.153
+      "score": 4.307
     }
   ],
   "hero_history": [
+    "NVIDIA CEO says to 'just stop' AI if worred",
     "Yemen",
     "US appeals court upholds Pentagon's blacklisting of Anthropic",
     "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
     "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
     "Netanyahu defends Israeli military action as delegates walk out before UN speech",
     "Akamai, Anthropic sign $11.6 billion cloud services deal",
-    "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-    "Trump welcomes China's Xi to Washington"
+    "Rogue OpenAI agent 'infiltrated' Australian government website in world first"
   ]
 }

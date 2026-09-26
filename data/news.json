@@ -1,23 +1,32 @@
 {
-  "updated": "2026-09-26T16:21:44.298174+00:00",
+  "updated": "2026-09-26T21:08:24.803415+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-26T14:31:38+00:00",
-    "summary": "",
+    "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+    "url": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-09-26T20:33:05+00:00",
+    "summary": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
     "category": "conflicts",
-    "score": 10.049
+    "score": 6.392
   },
   "items": [
     {
       "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-09-26T16:16:29+00:00",
+      "published_at": "2026-09-26T18:17:12+00:00",
       "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
       "category": "politics",
-      "score": 7.135
+      "score": 6.358
+    },
+    {
+      "title": "Nvidia Is Weighing a $10 Billion Stake in Anthropic's IPO. It Would Be Buying Its Own Demand.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjJSb3FOdWxESlUxTUpaR2pCaVUySFlRMVl1Y2ZVNmZ5T1NXdzltQk5BdGVFYXBwOFRyMmRObjd1TFlhTlhzMTBKck9acEFiNDZYaVlLRHJ1dDhwbktDT3RLdFVZUjVSanphRVUtUkdtLXdYeXVjWnZvajlELXlpQ1dB?oc=5",
+      "source": "AOL.com",
+      "published_at": "2026-09-26T19:57:01+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.134
     },
     {
       "title": "Brazil's Lula bans online gambling ahead of presidential election",
@@ -26,35 +35,26 @@
       "published_at": "2026-09-26T15:46:40+00:00",
       "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
       "category": "politics",
-      "score": 5.932
-    },
-    {
-      "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-26T03:42:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.04
+      "score": 4.861
     },
     {
       "title": "OpenAI says its bots have interacted with multiple U.S. government sites in unexpected AI activity",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hYkN5dGZBNWtMczBXaVNSdEZwVExRdWk3Qmt1a0oxaURzYUVxaDBIOUNZUVItaFZSNHc1d3dsN1lFM2REbTV0Q3NCUk84Sl9LQnUzd3NhaU91b1hWODhicHVLOC1XTmtJQzJ3a19veUlkaVR2UHdiNXJB?oc=5",
       "source": "CBC",
-      "published_at": "2026-09-26T15:31:59+00:00",
+      "published_at": "2026-09-26T19:31:56+00:00",
       "summary": "",
       "category": "tech",
-      "score": 4.467
+      "score": 4.325
     }
   ],
   "hero_history": [
+    "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
     "Ukraine",
     "NVIDIA CEO says to 'just stop' AI if worred",
     "Yemen",
     "US appeals court upholds Pentagon's blacklisting of Anthropic",
     "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
     "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
-    "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-    "Akamai, Anthropic sign $11.6 billion cloud services deal"
+    "Netanyahu defends Israeli military action as delegates walk out before UN speech"
   ]
 }

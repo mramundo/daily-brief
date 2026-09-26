@@ -1,23 +1,41 @@
 {
-  "updated": "2026-09-25T21:33:29.843634+00:00",
+  "updated": "2026-09-26T04:56:15.295519+00:00",
   "hero": {
-    "title": "US appeals court upholds Pentagon's blacklisting of Anthropic",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2xsSW1uNVNkSjE2UHVQSGFlOGJTbGFRa2dtdWgyb1owYlFpS2RHZHVSQnRxSTRoSnhqWWJTMEV4Q1BfNzRJZ0h4MVY4S014TTAxbjU4aThsZW95OUhEUFg2Tlg5ZU92Y21RcXVZa1hySFBUT2FXVkZ1ZlRaV3BpNnJFY3g2Ny1KRkpyQm5pNTctbS04V182WjZpYWczRWlJM1RMWl9uU0hNQQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-09-25T17:54:58+00:00",
+    "title": "Yemen",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-09-26T01:59:52+00:00",
     "summary": "",
-    "category": "tech",
-    "score": 7.313
+    "category": "conflicts",
+    "score": 7.53
   },
   "items": [
     {
-      "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-25T20:44:19+00:00",
+      "title": "Yemen’s government offers amnesty to Houthi defectors",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/yemens-government-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-26T04:06:49+00:00",
+      "summary": "Yemen’s president called on citizens to join the armed forces, and offered amnesty to Iran-backed Houthi rebels.",
+      "category": "conflicts",
+      "score": 7.198
+    },
+    {
+      "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-26T03:42:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.384
+      "score": 6.274
+    },
+    {
+      "title": "OpenAI's models accessed public US Census, SEC data, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3ZERzdwNHhFVVVqTDBCVF82eHRrdXpSZDNuQl92TWdZRzVKUHZsQm82dUI4MFhaN1BLRHlzTml2ODNrTEdnaWxkY0VKLUY0M3J0VGVWeDZ2RU1TZmdPV2VzTk80VGRrckdybk5za2xuZU9UUEV1dUE5dUUyYTBtVnRmOEk4NFNkaTJhVFFyb1BJOVRSeW55cTZfSWN5Q1FoWDRWTUE0b2h6ZXJTYXU1TDVmRkxrZXNH?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-26T00:31:52+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.498
     },
     {
       "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
@@ -26,35 +44,17 @@
       "published_at": "2026-09-25T19:36:10+00:00",
       "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous se",
       "category": "science",
-      "score": 5.648
-    },
-    {
-      "title": "2026-2027 DWU: Middle School Design Challenge",
-      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
-      "source": "NASA",
-      "published_at": "2026-09-25T17:20:51+00:00",
-      "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in th",
-      "category": "science",
-      "score": 5.266
-    },
-    {
-      "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-25T20:19:52+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 5.064
+      "score": 4.153
     }
   ],
   "hero_history": [
+    "Yemen",
     "US appeals court upholds Pentagon's blacklisting of Anthropic",
     "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
     "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End",
     "Netanyahu defends Israeli military action as delegates walk out before UN speech",
     "Akamai, Anthropic sign $11.6 billion cloud services deal",
     "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-    "Trump welcomes China's Xi to Washington",
-    "AI model Claude discovers CRISPR-like enzyme system, Anthropic says"
+    "Trump welcomes China's Xi to Washington"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-27T05:16:37.077777+00:00",
+  "updated": "2026-09-27T11:59:49.701526+00:00",
   "hero": {
-    "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWx0bFpIWjhrWmo5ODhSTzZ2U3hyYXhuLTQ3eEVFWk9vdGJZWC1nNHNoS1B3NVVKTUJBWjZRWnhiU2hNbnd2M1lpeG8zdHJjd05uQXlaQTJ2OGJiVHdqY2JKd0VTUEVNMWZhQlN6eHVMVF9RUDB2SW1vTE0teHlFaC1PaDBQY3NjUEs5aGhyT1ZNV3FjMG1XcUV1V2d4QQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-26T23:18:00+00:00",
+    "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-27T04:27:00+00:00",
     "summary": "",
     "category": "tech",
-    "score": 7.962
+    "score": 9.959
   },
   "items": [
+    {
+      "title": "Australia calls OpenAI, Anthropic CEOs to Senate AI inquiry after Medicare breach",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZZGw3c1JvMHd4SWk0dzFwUW9jTFRSa1lLWWRDSXB4YnNQMS1ZQ2daSDE2a2xsNW9FMGkycENKSlQzY0tqR1lhOVg4SEd5NFZnTzdr?oc=5",
+      "source": "وكالة الأنباء السورية – سانا",
+      "published_at": "2026-09-27T10:21:27+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 8.903
+    },
     {
       "title": "Ukraine",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
       "source": "AP News",
-      "published_at": "2026-09-27T03:05:31+00:00",
+      "published_at": "2026-09-27T05:35:51+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 5.959
+      "score": 4.307
     },
     {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-27T04:27:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 4.847
+      "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-27T10:01:33+00:00",
+      "summary": "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.",
+      "category": "conflicts",
+      "score": 4.173
     },
     {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-09-26T22:15:59+00:00",
-      "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "title": "No public mentions of Taiwan at official Xi and Trump meeting",
+      "url": "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-09-27T08:05:00+00:00",
+      "summary": "At a high-profile summit between Presidents Donald Trump and Xi Jinping in Washington, there was much talk of trade and artificial intelligence. One of the most contentious issues, Taiwan, was only discussed in private.",
       "category": "politics",
-      "score": 3.782
-    },
-    {
-      "title": "Flotation Frothers Market To 2035: Copper and Critical Minerals Demand to Drive Growth - News and Statistics",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGlvWm9hWk14TWtUcEtQRHF2UmM4UDdnb08tbGthbWhZLVhrVVNWZnJYZFdBem1HRVFBYldvMXQ4VFVZSkZ5NDVVNkpPMkdLeDZvbjF5UkZxU21xdThsYm12akpfcnJvc2RhOHFFWWhKSmFVc2ptTGV4S0ZiOVBLVGNaVjdXS3c1QlpDY3h1a3VvYVZ1aHRiNmZXdmlwem80bGdQTXl6WS12VjhJXzRSdk95MG9HNENTQ0ZsUXc3TFBsUGc?oc=5",
-      "source": "IndexBox",
-      "published_at": "2026-09-26T23:36:04+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 3.65
+      "score": 3.623
     }
   ],
   "hero_history": [
+    "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
     "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
     "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
     "Ukraine",
     "NVIDIA CEO says to 'just stop' AI if worred",
     "Yemen",
     "US appeals court upholds Pentagon's blacklisting of Anthropic",
-    "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-    "Elon Musk Aims to Double Colossus 2’s Nvidia Chips by Year-End"
+    "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts"
   ]
 }

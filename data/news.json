@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-27T16:56:54.989420+00:00",
+  "updated": "2026-09-27T21:19:27.303888+00:00",
   "hero": {
-    "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZXdVbk9icWx6SFl4QU9wRmd2blc0RTZrZUJ0N1h1czl0OU1xZkQyMXNtbmlFMzRBOFJaTFNTSjRLRjVISEh4dzBCU0tRbHBNbzJrS0FDc18xN2ZVQjNyTkdGa0d3TnljZ2p6c2RHZGJsMDZkVWtxVG5VeGhEb3Ywck1mZ2hLS2JTaU1hOVR1bzRBakcyaFdFaDMweV9mTmJFUU9Id09sQWVTaDdaX0FsM0g3S3M?oc=5",
-    "source": "Bloomberg",
-    "published_at": "2026-09-27T11:17:56+00:00",
+    "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-27T17:01:50+00:00",
     "summary": "",
     "category": "tech",
-    "score": 8.946
+    "score": 7.142
   },
   "items": [
     {
-      "title": "Anthropic and OpenAI sound the alarm on AI safety — and seek to shape how it’s controlled",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1V4cHRDMlBrTDlxNlRReXJ5S2lkWFZWRmpFY3g3ZUlHbENldDRnRGRhTVhsZnU4bTZPLUNvbmlQenhqSndSSEtDVEVHQXU1VWpMSThJVWlVbHBTMkpScFVZUUdkSk1jZHJwaDhlQV9BR2dwUlNDVnlmY1Rtd0xuTWxxLVl2Y2M5NEhlWHp6Q2UwNXJSZVE3LWV3WF9ad21iSS1r?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-27T11:23:00+00:00",
+      "title": "Serbian President Aleksandar Vucic announces resignation",
+      "url": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-09-27T19:32:00+00:00",
+      "summary": "Aleksandar Vucic will now be running to be prime minister in the upcoming snap elections slated for next month.",
+      "category": "politics",
+      "score": 6.949
+    },
+    {
+      "title": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
+      "url": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
+      "source": "© Eduardo Munoz, Reuters",
+      "published_at": "2026-09-27T18:17:00+00:00",
+      "summary": "Serbian President Aleksandar Vucic stepped down as the country's head of state Sunday, paving the way for him to run as his right-wing populist Serbian Progressive Party's candidate for prime minister in the October parliamentary elections.",
+      "category": "politics",
+      "score": 6.111
+    },
+    {
+      "title": "Anthropic CEO Amodei to Meet Trump With AI Safety Concern Rising",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHFRLVNKbG5ZRElJX0ZuS05EczkzM2NfUE9aZzRFUUNhVklLVldPNTVNM0lKN1lDOXB4RDBqMkp4aEsxLTB3bFFwY1lUemRMV3RWU290SWk3Q2I0X1JBWWJQQkN0Nm5sUUNWRHhDZEtUX0dmdi1sYlltdjBRX0FpamJET1hOTFYtZzFqVjYxZmZxSHBoRGdvSlE0OVhWQUZlSDdjRWY3QV9rdWd0OXlZQUUwTnI?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-09-27T18:48:09+00:00",
       "summary": "",
       "category": "tech",
-      "score": 7.903
+      "score": 5.65
     },
     {
-      "title": "Czechs down Ukraine to claim 12th Billie Jean King Cup crown",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczFOcVZSS1lOQVVZWXctSlNCckFQc0x5emR4c2drOHg1aHdnQUlMNFdmZUY2S3dLaDhxdlpieTdfbkZyUlZSTWpGVUU4dzRhUzB2Vk5pZUNNcHl5Umc4eVdTeTF4VURuUTRsSzJNekc5LXp1YVFlNEFpS3J4cXZSdDU2SzJ5ZGJGdlJidkZmUXFkZWNWbWg1SzJqOXdMN0R0S1ZHZ1A4TEM2dGM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-27T15:07:03+00:00",
-      "summary": "",
+      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-09-27T21:00:06+00:00",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
       "category": "conflicts",
-      "score": 4.642
-    },
-    {
-      "title": "Palestinian death toll in Gaza war passes 74,000, and other Mideast news",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2lsZXMteVl2UXhnTWE4UWl6eG9FUE50RFkzN3V0cFlQZldUeDF2YTlGVlpmMmxMX0cwQUdrQ0ctVWZMaTcyeU15bnN1dXM4YmNsd2tUMnRjR0JXUWtYRGw3S1I0azUtSjQ5RnZOOTdJa3pYVzRaSmptb25xVmNlRUZOTV8tVmxJZW14S2c2c3kxVklLTUwxeFlqNFp5Q2U4ODNTLXhoRWJiQTA?oc=5",
-      "source": "AP News",
-      "published_at": "2026-09-27T15:28:00+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 4.043
-    },
-    {
-      "title": "Emerging Market Investors Shun Riskiest Bonds as US Yields Soar",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXVzamIwSmlSREV5QTJmRU9Ga1pFRWw0OXNWUkNwT0hJUkZOR3M0UlVTLW5xMm10RVNhUlhqclZXRGJIRTY3TFM5N3ZFX3RFSnI3dlZ6YmVaMzFxR0VmYUQzb2JnRmg1a290T3huS2xlUXV3d3d2T3RtM1ZXTUx0M0xvT1RJbkE4LUc0a0U4LXlDSW4wNmJhNDFsZzJ4WWF0dVlYdXlzeTlaRWVndl9UdV9lcmM?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-09-27T12:30:00+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 3.96
+      "score": 5.204
     }
   ],
   "hero_history": [
+    "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
     "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
     "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
     "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
     "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
     "Ukraine",
     "NVIDIA CEO says to 'just stop' AI if worred",
-    "Yemen",
-    "US appeals court upholds Pentagon's blacklisting of Anthropic"
+    "Yemen"
   ]
 }

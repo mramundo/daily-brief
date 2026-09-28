@@ -1,60 +1,60 @@
 {
-  "updated": "2026-09-28T05:21:11.710144+00:00",
+  "updated": "2026-09-28T13:51:07.490245+00:00",
   "hero": {
-    "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXB4djRkMnhobU9YZk04QWctVmw4WFo5bTBDQXB4dkMxOHhqN181ZDdJdHlrMUFBTnNBa0FEdDB0d3hkb3dsN0E4eEhEdkpUWnF4Q0ZhYkV3dV9iUGVaWEtSdkYzUTNLYjBsSnRzUW13WVlXUmI1ck5qLV82eWp4WUxuOU9Pb0ZMbENTTWtqbUVGeFRsWnJDM09kVjQzRG02NHp6RUR5bHLSAa4BQVVfeXFMTzQ5UUV2cXJ0U3o0Zm5sLUM3cjZMMlpPVGtsbHBlRHlBTmlITXhoakhBVi10OXRMMWJCOEoxbjVYb3dBX0ZxNU1JRTFWWXNkckw1bGhGOEtDYTh5YkM5OXpJMEpmNTRlRnczSmpBcjdPc3Y3eU5OeDR2bGVmMmZFSnRaTFQtcENvSzZRNDFNanFSVGZxOFFCQ05xV0IyOHduNERxOGM1Uzh4aGNJR1VR?oc=5",
-    "source": "Al Jazeera",
-    "published_at": "2026-09-28T03:00:27+00:00",
+    "title": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-09-28T12:34:28+00:00",
     "summary": "",
     "category": "tech",
-    "score": 11.125
+    "score": 8.099
   },
   "items": [
     {
-      "title": "Trump said he would dine with Anthropic CEO amid mounting AI debate",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczZWcER0ZUJvREY4YVA0VlFLOGFtNURES05wUHRrNmFKcWNIRkRYSWhick5ZT0RiSnQzdmlkWTEyZy1KY0Myc2pYNHhhbmliVXoyaml0M1JVOE84WE5FZ05SQVNUYWZ1elNvUU9JeTE4VE85RjlSQmt1WFJqNVVUeGs2ckhJdW1OSXZ6RzRTWGgtdTdzR2VxaDFhbXJ1V04tUTBHZnk5Rndldw?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "2026-09-28T04:14:14+00:00",
+      "title": "Russian drones pound civilian areas as Ukraine claims battlefield breakthroughs",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjk0U3FuQWFGX2IzNTZVSUYzV3Z1LW1Ha0pxeEpCS19CSWE5X0xobG1tLWxuQ0k0M213N21rZ3pvajUxMlJwaVdkQ2lMU0hscHJwSDhRdXYySEJHNEJpa2VsV2xLT0JJQ0pQcVVEYlBQUTlCcHBuRk03T1lpaGhJcmVjUkRlQ1hzM2RLdTI3UUV0MnlNOXpDVTVXdmU?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-28T10:08:00+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 6.601
+    },
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-09-28T13:21:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 8.698
+      "score": 6.469
     },
     {
-      "title": "Serbia’s president resigns to run for prime minister",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
+      "title": "Why South Korea is demanding an apology from Ukraine over North Korean PoWs",
+      "url": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-09-28T04:50:46+00:00",
-      "summary": "Serbia’s Aleksandar Vucic has resigned as president and will lead his ruling party into a snap parliamentary election.",
-      "category": "politics",
-      "score": 8.247
+      "published_at": "2026-09-28T12:09:23+00:00",
+      "summary": "Seoul says Kyiv agreed to a nondisclosure agreement over the prisoners but broke it.",
+      "category": "conflicts",
+      "score": 5.638
     },
     {
-      "title": "Israel strips Dutch diplomats of status in West Bank",
-      "url": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "summary": "The move by the Israeli Foreign Ministry is a response to Dutch sanctions targeting goods from illegal Israeli settlements in the occupied West Bank. The Dutch Foreign Ministry is yet to comment.",
+      "title": "Serbia's populist President Vucic resigns to run for PM",
+      "url": "https://www.france24.com/en/video/20260928-serbia-s-populist-president-vucic-resigns-to-run-for-pm",
+      "source": "France 24",
+      "published_at": "2026-09-28T10:47:38+00:00",
+      "summary": "Serbia’s populist President Aleksandar Vucic resigned Sunday to pursue a bid to become prime minister in an upcoming early parliamentary election that will test his firm rule in the Balkan country, which was rattled by nearly two years of protests.",
       "category": "politics",
-      "score": 5.809
-    },
-    {
-      "title": "China Critical Minerals Supply Chain Dominance Explained",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUW9Xd2xPN3FoMWVteDdscDZkTWNmckE0RGpLRWlEeW9EQ1d1dlUxZE1ZcGU0NjY3bXBHVTJOUERGUHdnUGJJdlhxZ1RicGVVY2pvVFF3QjBuXzFvOGFadk91WTl0NDl6RTZNSHVoM1pRTWtienpZZFd0YUtMUnFDZTA5amlIc3NjWS1z?oc=5",
-      "source": "Rare Earth Exchanges",
-      "published_at": "2026-09-28T02:55:22+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 5.403
+      "score": 4.656
     }
   ],
   "hero_history": [
+    "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
     "Anthropic CEO Amodei to have dinner with Trump at White House",
     "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
     "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
     "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
     "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
     "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
-    "Ukraine",
-    "NVIDIA CEO says to 'just stop' AI if worred"
+    "Ukraine"
   ]
 }

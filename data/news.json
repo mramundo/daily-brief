@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-28T23:15:05.709384+00:00",
+  "updated": "2026-09-29T05:41:49.282624+00:00",
   "hero": {
-    "title": "Nvidia unveils security platform to stop AI agents from going rogue",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
-    "source": "AP News",
-    "published_at": "2026-09-28T22:14:00+00:00",
-    "summary": "",
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Tech",
+    "published_at": "2026-09-29T04:30:13+00:00",
+    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
     "category": "tech",
-    "score": 12.477
+    "score": 10.011
   },
   "items": [
     {
-      "title": "Nvidia sets biggest-ever buyback plan as AI chip competition weighs on stock performance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzg4UzFUbWw0cThEbUEwYVdsdF9WVVpuSDZ0RkJjLWd1UE5XdVJFWjRKazNRU2lyVkxiX2xIZFplVnkxTTl4QUhnV1NaM21SdFNxTFBMYXVJMlJVU2lobmtWYkpqa2wyWlRPLWxuZTMtTzhRUVpHZ1V6VkRLS0psbzlQTWQwcGNpVXNuSGRYSjlCQU9sU3lXcXVteXk2ZmZf?oc=5",
+      "title": "Anthropic's path from AI startup to industry-defining IPO",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX052MC1jLUZIY3dvZFMzWmdrMnFTa1RFWjJkUlhtV0dlZkV2NS1ocnRFbkUyRHJtQVE4clRJdUZsVVk0MHF3Y2oyUVVRczhGcGl5dlVxdGlfSTFTOUNlSTZLR2U0VmdsckhFLVpwLUlyOXUweUF6c0xvci1rY1RpdjVJV0NPeDNxWjMxRmpsa1VHUElRaGdNOXBwaw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-09-28T19:53:54+00:00",
+      "published_at": "2026-09-28T23:52:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.702
+      "score": 6.909
     },
     {
-      "title": "Kyiv Science Academy hit, 10 dead as Russian jet-drones strike across Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXNCaFd6cFhVZnVqaUNuN2dFMG9HVUs2UGVqR3BNa01SY3pXU0RLWmZoZEdEaWwyeTdHVHhyX2dLalFPTDFqMkthSXhqTUxZWWE2YVdyYUZMd2VWQVZsNHgwSDNkRmZYcTFuVHc0Ykk3b2FjdDF1ODNZbjRFczFxOW9rVnJBOHNlLW5Ma0V6a29pd0l3TWdfMS1XTDN6UXNGcnB4b0QtVXlIZDU5X2tFd3dTQWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-28T20:27:07+00:00",
-      "summary": "",
+      "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "url": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-29T01:01:38+00:00",
+      "summary": "Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.",
+      "category": "politics",
+      "score": 5.393
+    },
+    {
+      "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
+      "url": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-09-29T04:46:38+00:00",
+      "summary": "Top US and Saudi diplomats discuss cooperation on security challenges, including hostilities with Yemen's Houthis.",
       "category": "conflicts",
-      "score": 5.879
-    },
-    {
-      "title": "Stocks fall as higher oil prices, Treasury yields weigh",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMG5ieTU4M0RYMC1lQi0wbDVONnJJbW5NS3pya2xkLXUxSFF3ajh5ZWlER3B5ZW1IR0J3ZjRxZFFCTDd2ajh4ZnVHZ2xqY1U2c0pIamh2MGhzWVlIMVVieHpOXzg0bnJwRFlTaEg4dVdycUc1X25ZQlZkUUsxUGZ3TGc1RDlNWjg2U1RFQ3JEUWx2NGIxb0ZvZXJJb0F6MjcxOER2WHFIdmtSei1fZHdBS29YcGhvUFk?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-09-28T20:38:51+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 5.579
+      "score": 5.087
     },
     {
       "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
@@ -44,17 +44,17 @@
       "published_at": "2026-09-28T17:44:41+00:00",
       "summary": "",
       "category": "finance",
-      "score": 5.128
+      "score": 3.92
     }
   ],
   "hero_history": [
+    "OpenAI scraps rollout of new model over safety concerns",
     "Nvidia unveils security platform to stop AI agents from going rogue",
     "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
     "Anthropic CEO Amodei to have dinner with Trump at White House",
     "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
     "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
     "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-    "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
-    "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza"
+    "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways"
   ]
 }

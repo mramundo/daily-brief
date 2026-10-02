@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-01T22:39:45.722302+00:00",
+  "updated": "2026-10-02T05:34:17.420385+00:00",
   "hero": {
-    "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
+    "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5",
     "source": "Reuters",
-    "published_at": "2026-10-01T21:50:00+00:00",
+    "published_at": "2026-10-02T04:12:00+00:00",
     "summary": "",
     "category": "tech",
-    "score": 11.294
+    "score": 9.412
   },
   "items": [
+    {
+      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-02T05:26:06+00:00",
+      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "category": "politics",
+      "score": 6.043
+    },
+    {
+      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+      "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-01T23:44:39+00:00",
+      "summary": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.",
+      "category": "conflicts",
+      "score": 5.873
+    },
     {
       "title": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW1Kd2RTeEwzSTRhV20ybDh2VEs5b2pXWVgzWkNsRGV0aDJ6SkRrMUp4SDVESXBHaVBwTEVzZEpzd0ZCM25IM3pRQlp4UVpEaFp3OTAzZTNhWDRCUWJKQUppVTJMRGEzcmgza2pzdjJ4ak8xVjExWU1XUEhDZmhmNjN5TkNEVmdENmY0ZXVuWDVlMzVzY01SeUd6RERia25aTHdzRmFJMC1iSWNrR291X0UxWHdFN01w?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-01T19:26:31+00:00",
+      "published_at": "2026-10-01T21:49:01+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.739
+      "score": 5.579
     },
     {
-      "title": "Eritrea severs diplomatic ties with Ethiopia after Addis Ababa orders closure of embassy in Asmara",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejNSZnA0b0E3bmZKTW13MXl1Uk9LMERtVE1YWVdDc1JmNVViUGRqRjIzRzBkLU4xd3BwdWdMWFo4SXk0MWdLRmk0NG1FS3YzQ1NkbjFkb0tUTWhqaTh6REFxVzRSMXRESGRYcDV3NWJfMXhUeGFHam1sYzJOVi1hUVVtbV9yRUxtN0JuSjBaX0NwVE9HcGMwNnJBcW8xN0sxSDktWFBycU1QZjA0WjlfcDh0UG9RdW8?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-01T19:21:15+00:00",
-      "summary": "",
+      "title": "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-02T04:40:14+00:00",
+      "summary": "Eritrea has severed diplomatic ties with Ethiopia after Addis Ababa closed its embassy in Asmara",
       "category": "politics",
-      "score": 5.756
-    },
-    {
-      "title": "SpaceX launches 13th long-duration astronaut crew to International Space Station",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU1U5NmdOVDhlV0hFbkZoeWNxalV3RnplOTRsUXhrcGM0WEhMXzZINy15ZUt5TDEyOUp4NENJVzNfR2xmejF2VkVsMEdkMUpSeHFmNW1EbHBYMm9ocjVJVDJjdmxBLXhjdC1nZ0dSM2Y5X181RTZyaWRDbzhIOVdXYjE2Uk1lNno2a25MbTNiek1Za0htSGpHV1RGYUZWOE13b2pMSEtfOHVYcUYyRUJ6TmFqT3FNUUVmZHRiNmJKc2VKbW5rWjNNUnU1UjVSdzhQNVE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-01T17:27:43+00:00",
-      "summary": "",
-      "category": "science",
-      "score": 5.731
-    },
-    {
-      "title": "NASA’s SpaceX Crew-13 Launches",
-      "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
-      "source": "NASA",
-      "published_at": "2026-10-01T18:05:38+00:00",
-      "summary": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Jos",
-      "category": "science",
-      "score": 5.188
+      "score": 5.408
     }
   ],
   "hero_history": [
+    "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
     "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
     "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
     "FTC opens probe into AI giants including Anthropic and OpenAI",
     "FTC is investigating OpenAI and Anthropic over possible risks to consumers",
     "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say",
     "Morocco’s king appoints the country’s first female prime minister",
-    "Morocco's king appoints first woman prime minister following election",
-    "Trump to host Zuckerberg, Anthropic's Amodei, and other AI titans Tuesday"
+    "Morocco's king appoints first woman prime minister following election"
   ]
 }

@@ -1,15 +1,24 @@
 {
-  "updated": "2026-10-03T05:16:18.530389+00:00",
+  "updated": "2026-10-03T11:38:51.517437+00:00",
   "hero": {
-    "title": "US-Ukrainian investment fund seals first critical minerals deal",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVl6cFFnejl1c2JPQTNSMXo3RjhiOFlUS05QWkRQQ2RkYXN0WmtlNWoteUc1c01xV2E2cGdXZlFGSFlBSnYycVp6RjJaeTduZ3VsQkVjZUd2VTJVS1ZaTVRzTndRd3E3bC1SSFpHTkowRm9veTh4RHlNMVRabENJZnBlTW85ZTZxUEpCUEFyYUkxSGJfN3dfdnBCblBldDNvRjhTZnZGWUVzSHVLSjZuaDE2VGNYYlZQU0hB?oc=5",
+    "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhqX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM?oc=5",
     "source": "Reuters",
-    "published_at": "2026-10-02T18:02:00+00:00",
+    "published_at": "2026-10-03T10:30:09+00:00",
     "summary": "",
-    "category": "resources",
-    "score": 5.329
+    "category": "conflicts",
+    "score": 5.082
   },
   "items": [
+    {
+      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-03T10:48:28+00:00",
+      "summary": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
+      "category": "conflicts",
+      "score": 4.118
+    },
     {
       "title": "US, Australia suspend consular services in Brazil",
       "url": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-rdf",
@@ -17,16 +26,16 @@
       "published_at": "2026-10-03T02:24:00+00:00",
       "summary": "The US and Australia have announced a halt to their consular services in Brazil beginning Friday. The news comes two days before Brazilians head to the polls to vote in the high-stakes presidential election.",
       "category": "politics",
-      "score": 4.982
+      "score": 3.82
     },
     {
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-10-03T04:38:31+00:00",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "title": "US-Ukraine fund closes first critical minerals investment deal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzJHSlRMdEJCQVYxWmdkRWNiMWxvWUZZejI2Ymh6VFk0NkdQWllfUGFWQU9FOTcxRXNpdDc2c2c4Y0dtVVFhVlJSUEJnYU1XdXVwNmFUbW1hMWY5LThraUttWUhVcGFiU1ZxdHlia0lIRHR1WGx6T3VCZkdrTWZaaDZHVWZsRmZpS09HVXFNazlJSEVmbmVJYUVyUGtKUUE?oc=5",
+      "source": "todaypress.tv",
+      "published_at": "2026-10-03T07:03:37+00:00",
+      "summary": "",
       "category": "resources",
-      "score": 4.776
+      "score": 3.45
     },
     {
       "title": "AI: Anthropic’s IPO Go Time, OpenAI’s $1.4 Trillion, Gemini 4 & More. AI-RTZ #1228",
@@ -35,26 +44,17 @@
       "published_at": "2026-10-03T05:02:37+00:00",
       "summary": "",
       "category": "tech",
-      "score": 4.472
-    },
-    {
-      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-03T00:00:00+00:00",
-      "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
-      "category": "conflicts",
-      "score": 4.401
+      "score": 3.429
     }
   ],
   "hero_history": [
+    "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
     "US-Ukrainian investment fund seals first critical minerals deal",
     "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar",
     "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say",
     "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
     "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
     "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-    "FTC opens probe into AI giants including Anthropic and OpenAI",
-    "FTC is investigating OpenAI and Anthropic over possible risks to consumers"
+    "FTC opens probe into AI giants including Anthropic and OpenAI"
   ]
 }

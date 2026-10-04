@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-03T21:12:44.528047+00:00",
+  "updated": "2026-10-04T05:50:02.366265+00:00",
   "hero": {
-    "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5",
+    "title": "Brazil election results",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TVVNVeXVPVXBIa01STkEzOV9NejZWNVF1UWJBaFFEdG9BVlVDaTBZbVc5azhaLU0zWGNsWEt5UEhvd3JLUDdnR3pzdWxvMmtlTTBXR1FTSHJqeTlTT3psNzJMRmNLMXY5dUdKaHY2cGQ5WV85R3RiSQ?oc=5",
     "source": "Reuters",
-    "published_at": "2026-10-03T19:27:17+00:00",
+    "published_at": "2026-10-04T00:00:00+00:00",
     "summary": "",
-    "category": "tech",
-    "score": 8.681
+    "category": "politics",
+    "score": 6.675
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-10-03T20:25:53+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 7.461
+      "score": 5.209
     },
     {
-      "title": "Tennessee’s prisons chief is resigning after failed execution of Christa Pike",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2dvZno4RTVmS3RJLXVKV3ExNXptZUltbFhwQng2Zzl6RVZhYWZpREk3RnNPcVFrS2hLdHNpcWpOZW9paW5vM1d4UTZ4M1VVTklLbTNfbDZZeGhpaVU4WjVpOXJkMTNTOUlLMmZuRUNBdTRzVW9mWFYyMlVQek5UNXFTdGNpRkFWOVlENHlMYXh6RWlrbXJpc3I0WTF4UG1xQlExNUJrYw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-03T18:45:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 4.968
+      "title": "Queen's University students blast off to US for Nasa robotics competition",
+      "url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-10-04T05:19:30+00:00",
+      "summary": "The students will head to Florida to compete against university teams from Australia, India and the US.",
+      "category": "science",
+      "score": 4.959
     },
     {
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-03T16:16:49+00:00",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "title": "Pick-up truck overturns trying to carry military chopper in Russia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-04T04:06:05+00:00",
+      "summary": "An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.",
       "category": "conflicts",
-      "score": 4.949
+      "score": 4.354
     },
     {
-      "title": "OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0hJREN4cU82aUI3X3lGRzFvWWRLNG5oNTllT2NBQ3VsblRrZXRIYzBCUE44LTZoVUQzcUNFSjQ5RHlmWEdnSEtTZ0k4NWkxYUs0a2tUVDN5M0JxWmdvZFRBMWRtVF9abl80TnpSNHlEeE5WWjlQMmliQjVuM3hSc1cwMkFSMGstLVlwdW9YcDNZVER5VC0yTXlHOGE?oc=5",
-      "source": "EnergyNow.com",
-      "published_at": "2026-10-03T15:11:30+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.653
+      "title": "Serbian populist leader Vucic launches campaign for prime minister",
+      "url": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-04T00:26:22+00:00",
+      "summary": "Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.",
+      "category": "politics",
+      "score": 3.892
     }
   ],
   "hero_history": [
+    "Brazil election results",
     "OpenAI safety employee quits, says 'time for trial and error is over'",
     "US-Ukrainian investment fund seals first critical minerals deal",
     "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
     "US-Ukrainian investment fund seals first critical minerals deal",
     "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar",
     "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say",
-    "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
-    "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says"
+    "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports"
   ]
 }

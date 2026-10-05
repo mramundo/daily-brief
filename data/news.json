@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-04T21:22:57.899441+00:00",
+  "updated": "2026-10-05T05:36:24.950141+00:00",
   "hero": {
-    "title": "OPEC+ agrees to keep November oil output targets steady",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-04T12:09:48+00:00",
+    "title": "Israel",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+    "source": "AP News",
+    "published_at": "2026-10-05T00:58:55+00:00",
     "summary": "",
-    "category": "resources",
-    "score": 8.865
+    "category": "conflicts",
+    "score": 7.02
   },
   "items": [
     {
-      "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUk2R0lTbmk2a1QzTm5NcS05eFBCUjI1VmdxUW1lT1c5dEV1NEhqd0RWbUJXZ3VUbHhPODNYNVJvQmVzNFpGWV82XzRaUy00TWZjWUUwS2hLak92ejBKbzEzQkFxWTFfWF9qTXRQVHpyX29Eb0VkRnEybHNTY2pLOEZ3akFHMGZFM1ZYN2VRMVk0TE85RVhodm5OcDZaTm9aSldGU3p1V1ZlV3dwc203Nkln?oc=5",
+      "title": "Brazil heads to a runoff election after Bolsonaro and Lula fail to garner a majority of votes",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRnAtck5sQXdwQlZkQUxjQXVIQXZpWS1lUTA5d0EtdklWTnZPN01aUnpLQXZYbENYYlM4ZEoxNUVmNmNqSG9nZUJwMnNHdVA3RG1JelBnVWd3cUg0ZlpkazQtUkc4cC1SOThmYlJmY1F6czNsM3hXakZ4SGVON1E5YUp2VTNtTFh2d2ljSkhNWGdlemVjZ05jQmlWcllfM2xiVDU3NWVCdzBfdw?oc=5",
       "source": "AP News",
-      "published_at": "2026-10-04T17:18:00+00:00",
+      "published_at": "2026-10-05T01:34:00+00:00",
+      "summary": "",
+      "category": "politics",
+      "score": 6.504
+    },
+    {
+      "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "summary": "Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.",
+      "category": "conflicts",
+      "score": 5.927
+    },
+    {
+      "title": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-05T05:08:23+00:00",
+      "summary": "Brazil’s presidential election is heading to a run-off after Bolsonaro and Lula both fell short of the 50% needed to win",
+      "category": "politics",
+      "score": 5.507
+    },
+    {
+      "title": "Former Anthropic researcher to testify at NYC Council AI hearing - report",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDZ5aERyT29qWFlkTV9iVzFnNWg1TkJoOU1BNWVXM1BnaHdfSU5sMWV2LWJSci1HUjl5aVIwbzhGYzFDQXBQZmxZM3JTbEdwRXVNRHlfRlUxYTZKaUNObDVqdFM0UXF5aVpfVE1uS1pqN2RldlNJTUpqaHYzbTZELW1UNTlvTUV2ejVONnZpWmR0T2toZXBrMDhJbzludHlWMDUxVm5fRUN0elNHeXkxSjg0TXZxZl9kTUdFVFdLY2tTSjlQeG4ySQ?oc=5",
+      "source": "Investing.com",
+      "published_at": "2026-10-05T02:29:54+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.337
-    },
-    {
-      "title": "Iran's oil minister resigns for personal reasons, state media reports",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-04T18:53:27+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.962
-    },
-    {
-      "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-04T19:46:37+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 4.692
-    },
-    {
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-04T16:51:30+00:00",
-      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "category": "conflicts",
-      "score": 4.369
+      "score": 5.253
     }
   ],
   "hero_history": [
+    "Israel",
     "OPEC+ agrees to keep November oil output targets steady",
     "Lula and Bolsonaro face off in Brazil presidential race",
     "Brazil election results",
     "OpenAI safety employee quits, says 'time for trial and error is over'",
     "US-Ukrainian investment fund seals first critical minerals deal",
     "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
-    "US-Ukrainian investment fund seals first critical minerals deal",
-    "G7 nations will release 100 million barrels of oil and diesel fuel after prices soar"
+    "US-Ukrainian investment fund seals first critical minerals deal"
   ]
 }

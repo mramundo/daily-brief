@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-06T00:01:53.017272+00:00",
+  "updated": "2026-10-06T06:17:58.100796+00:00",
   "hero": {
-    "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-05T20:54:09+00:00",
+    "title": "Quebec separatists vowing independence vote win an election but fall short of majority",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1pGcWtHWVIxdy0wNGF4Z1V6Qy1aM1NQaHZaNm9vOXduVV8xbEFjbWZIU2hlV2JlTXJmYU5IeFY0bVBmZmlnUG1iYkduVUFMTmpKNGlLMmM2T3MtemxQNXltUFB4YmhqeWMwbUtacGlYVW9qQ2ROV1hGM2o3eWZLMWlUWEFmai0xOHc?oc=5",
+    "source": "AP News",
+    "published_at": "2026-10-06T04:38:00+00:00",
     "summary": "",
-    "category": "tech",
-    "score": 5.799
+    "category": "politics",
+    "score": 6.641
   },
   "items": [
     {
-      "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
-      "url": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
+      "title": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-06T00:15:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.99
+    },
+    {
+      "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-10-05T20:03:06+00:00",
-      "summary": "The latest suspected incursion on NATO's eastern flank increases fears that the war in Ukraine threatens to spill over.",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "summary": "Turkiye and Pakistan agree to rapidly deploy militaries to bolster Saudi security as part of the Mecca defence pact.",
       "category": "conflicts",
-      "score": 5.55
+      "score": 5.039
     },
     {
       "title": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW51ZFBsNXhuaDZnTUxzNzc5M280OVE1VmZEUGdXaFVJeGJITWRJbEpCWXV1UjlGaGZIZXQ2ZXVybU85UWZaRWx4UjZRRU1rZzV3MVB0cXo4R1JFcW4zQWpIa0tmU2FGRW16LUF5U0JPWGgybDZCZnZFckNubFRmbXBwYlV0WVM1dDZkVndtTmNCaG9oRVQ4THI4V0VtRFA2UFl0eFZrRm1nN2N1MVF0VjdGVHgwUmlRWWc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-05T19:08:32+00:00",
+      "published_at": "2026-10-05T23:30:09+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.389
+      "score": 4.977
     },
     {
-      "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
-      "url": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-05T19:01:32+00:00",
-      "summary": "Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.",
+      "title": "Yemen's Houthis say struck Riyadh airport, other Saudi sites",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVdCYkZ5bXJQdnd4TmJiVm15OExKYUk5ZnVpcDNOeVVGRnVGay02aHB2TTMyMGdBczA2bnVqZVZ2NVBoM09TU3phdTJUaDVpekUySHBIbDZILUlHSHdyTXZTbkFpYldCNVpiWDBLaGwta2laWWpobzVQc0ZqaTVCWG1UYTg2MTlF?oc=5",
+      "source": "afp.com",
+      "published_at": "2026-10-06T05:02:43+00:00",
+      "summary": "",
       "category": "conflicts",
-      "score": 5.318
-    },
-    {
-      "title": "Spain calls snap election amid housing crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-05T17:27:14+00:00",
-      "summary": "Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez to call an early election on November 29",
-      "category": "politics",
-      "score": 4.981
+      "score": 4.389
     }
   ],
   "hero_history": [
+    "Quebec separatists vowing independence vote win an election but fall short of majority",
     "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
     "OpenAI, Anthropic, Google and Meta testify under oath Monday before all 51 NYC Council members on the risks of AI",
     "Israel",
     "OPEC+ agrees to keep November oil output targets steady",
     "Lula and Bolsonaro face off in Brazil presidential race",
     "Brazil election results",
-    "OpenAI safety employee quits, says 'time for trial and error is over'",
-    "US-Ukrainian investment fund seals first critical minerals deal"
+    "OpenAI safety employee quits, says 'time for trial and error is over'"
   ]
 }

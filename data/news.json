@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-08T06:00:58.921374+00:00",
+  "updated": "2026-10-08T13:26:07.158104+00:00",
   "hero": {
-    "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-    "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "published_at": "2026-10-08T05:10:40+00:00",
-    "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
-    "category": "science",
-    "score": 7.786
+    "title": "OpenAI launches GPT-6 and Intelligent UI in ChatGPT",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1VTRUxzMzVReWxSMXNGaXJxR2hpcXVmLWRVZDQtVjBCUDVlWFF3YTc0QkRDbG41M0ZlSm1VWDRzdnFzb255dE9mcHJ1bjM1X3dtOWx2dnNRVDl3VDJkZXByWFpBUFpDS2tpYmlBZWhmenVNUEpnUU50bTNhNVpmdDI2Yw?oc=5",
+    "source": "Quartz",
+    "published_at": "2026-10-08T13:18:02+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 7.928
   },
   "items": [
     {
       "title": "Houthis",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEVDdRZFkxT09uMEo4ODBINVp3NklIMDNRUnhLN0JzaUhEMVlPQmNaa1hmSHRibmV6a0JHNHVGLVJPMktQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-10-08T02:29:35+00:00",
+      "published_at": "2026-10-08T10:23:04+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 6.146
+      "score": 6.268
     },
     {
-      "title": "Microsoft brings more AI to PCs as it challenges Apple",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-07T21:11:43+00:00",
+      "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1Bic0VhVWU5NVVMNWxfTzl3WTJPenlXS0JGVzl1cW1NUVlzWHhhcDBteV9nUUJrTFlmVG9DZFpnUGF2N1A5amJoeTItX2pGUnVDaUFjb1UtRGNyZ0N4UzdKeHR4RkYzTkxnX0VSV3V3ODlWMFJiYVN6QkhGU2IyYVh6QmZFQ1dWSmVFalpqX0IwcS03TklBazZFcU1wX19qSmdSNHlLVUdiMzZpRDNVczFkTmNYUQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-08T10:20:43+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.337
+      "score": 6.133
     },
     {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-07T20:22:37+00:00",
-      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "category": "tech",
-      "score": 4.598
-    },
-    {
-      "title": "Germany news: UK's Burnham, Merz to talk security in Berlin",
-      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
+      "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
+      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
       "source": "Deutsche Welle",
-      "published_at": "2026-10-08T05:50:00+00:00",
-      "summary": "UK Prime Minister Andy Burnham is visiting Berlin to launch a joint security partnership with Germany. President Steinmeier is on a state visit to France. DW has more.",
+      "published_at": "2026-10-08T13:23:00+00:00",
+      "summary": "UK Prime Minister Andy Burnham is visiting Berlin to launch a new bilateral treaty and hold talks with Chancellor Friedrich Merz. President Steinmeier is on a state visit to France. DW has more.",
       "category": "politics",
-      "score": 4.232
+      "score": 4.863
+    },
+    {
+      "title": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+      "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-08T11:45:17+00:00",
+      "summary": "India, Turkiye, Egypt and the US have put forward proposals for ceasefires in bid to protect global energy and shipping.",
+      "category": "conflicts",
+      "score": 4.544
     }
   ],
   "hero_history": [
+    "OpenAI launches GPT-6 and Intelligent UI in ChatGPT",
     "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
     "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
     "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
     "SpaceX seeks $40 billion financing led by Apollo to buy Nvidia chips, FT reports",
     "Anthropic expands Claude Startups program with credits and perks",
     "Quebec separatists vowing independence vote win an election but fall short of majority",
-    "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
-    "OpenAI, Anthropic, Google and Meta testify under oath Monday before all 51 NYC Council members on the risks of AI"
+    "Nvidia-backed Reflection unveils first AI model to take on Chinese open models"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-08T13:26:07.158104+00:00",
+  "updated": "2026-10-08T23:19:31.373688+00:00",
   "hero": {
-    "title": "OpenAI launches GPT-6 and Intelligent UI in ChatGPT",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1VTRUxzMzVReWxSMXNGaXJxR2hpcXVmLWRVZDQtVjBCUDVlWFF3YTc0QkRDbG41M0ZlSm1VWDRzdnFzb255dE9mcHJ1bjM1X3dtOWx2dnNRVDl3VDJkZXByWFpBUFpDS2tpYmlBZWhmenVNUEpnUU50bTNhNVpmdDI2Yw?oc=5",
-    "source": "Quartz",
-    "published_at": "2026-10-08T13:18:02+00:00",
+    "title": "OpenAI's annualized revenue $20 billion less than previously signaled, FT reports",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLUJ6eFRkeVppWC1ocFZFMjRyWnFyczBwcml6OEJtaElGOEpxZkgzaFBSa1F2RTJjb3dXVTdLZ0pxWUpyZVhjZVdZRWR4TFpJQ2tjRG1UVGV6WWMwTkJsVVVDUHNjTU05MHBFWENJNGNPZW5sMjdyRUtLX0pfcUVLaWo5ZjhKd2ZCUnBHRlc2aXRpTFRMQTZSWWJuelZ4ZnVrM08xTVJBdlhtcjNEMS1PZUZhT2hDX3hYOUJGc2MzTV8?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-08T21:19:44+00:00",
     "summary": "",
     "category": "tech",
-    "score": 7.928
+    "score": 13.089
   },
   "items": [
     {
       "title": "Houthis",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEVDdRZFkxT09uMEo4ODBINVp3NklIMDNRUnhLN0JzaUhEMVlPQmNaa1hmSHRibmV6a0JHNHVGLVJPMktQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-10-08T10:23:04+00:00",
+      "published_at": "2026-10-08T19:54:45+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 6.268
+      "score": 8.451
     },
     {
-      "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1Bic0VhVWU5NVVMNWxfTzl3WTJPenlXS0JGVzl1cW1NUVlzWHhhcDBteV9nUUJrTFlmVG9DZFpnUGF2N1A5amJoeTItX2pGUnVDaUFjb1UtRGNyZ0N4UzdKeHR4RkYzTkxnX0VSV3V3ODlWMFJiYVN6QkhGU2IyYVh6QmZFQ1dWSmVFalpqX0IwcS03TklBazZFcU1wX19qSmdSNHlLVUdiMzZpRDNVczFkTmNYUQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-10-08T10:20:43+00:00",
+      "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+      "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-08T22:54:23+00:00",
+      "summary": "Islamic Relief calls for global action as deadly Israeli attacks in Gaza continue and humanitarian conditions worsen.",
+      "category": "conflicts",
+      "score": 6.438
+    },
+    {
+      "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVZ6OTdhWTZlWUJFbTdTSHZOeG1lZEV3UEc2RDdhOVNqYjFWcTFwWUU5Qlk0RU5nTGlTMi1Tc1N5N3ktTGFiYUJUeWtod1lMbHJQQjcxMElFRjZHTlJtd0hlT2V5c0xVS2xqTkdsczJ2cG96NWlsMDEyZjc1TXAyUnhnTVd2RnVPQ1pHM3VXazc?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-08T20:41:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 6.366
+    },
+    {
+      "title": "Anthropic launches dashboard, animation tools for Claude",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-08T19:08:01+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.133
-    },
-    {
-      "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
-      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-10-08T13:23:00+00:00",
-      "summary": "UK Prime Minister Andy Burnham is visiting Berlin to launch a new bilateral treaty and hold talks with Chancellor Friedrich Merz. President Steinmeier is on a state visit to France. DW has more.",
-      "category": "politics",
-      "score": 4.863
-    },
-    {
-      "title": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
-      "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-08T11:45:17+00:00",
-      "summary": "India, Turkiye, Egypt and the US have put forward proposals for ceasefires in bid to protect global energy and shipping.",
-      "category": "conflicts",
-      "score": 4.544
+      "score": 5.548
     }
   ],
   "hero_history": [
+    "OpenAI's annualized revenue $20 billion less than previously signaled, FT reports",
     "OpenAI launches GPT-6 and Intelligent UI in ChatGPT",
     "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
     "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
     "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
     "SpaceX seeks $40 billion financing led by Apollo to buy Nvidia chips, FT reports",
     "Anthropic expands Claude Startups program with credits and perks",
-    "Quebec separatists vowing independence vote win an election but fall short of majority",
-    "Nvidia-backed Reflection unveils first AI model to take on Chinese open models"
+    "Quebec separatists vowing independence vote win an election but fall short of majority"
   ]
 }

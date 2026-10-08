@@ -1,15 +1,24 @@
 {
-  "updated": "2026-10-07T23:03:56.291008+00:00",
+  "updated": "2026-10-08T06:00:58.921374+00:00",
   "hero": {
-    "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-07T18:07:44+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 7.171
+    "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+    "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "published_at": "2026-10-08T05:10:40+00:00",
+    "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+    "category": "science",
+    "score": 7.786
   },
   "items": [
+    {
+      "title": "Houthis",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEVDdRZFkxT09uMEo4ODBINVp3NklIMDNRUnhLN0JzaUhEMVlPQmNaa1hmSHRibmV6a0JHNHVGLVJPMktQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-08T02:29:35+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 6.146
+    },
     {
       "title": "Microsoft brings more AI to PCs as it challenges Apple",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
@@ -17,44 +26,35 @@
       "published_at": "2026-10-07T21:11:43+00:00",
       "summary": "",
       "category": "tech",
-      "score": 7.129
+      "score": 5.337
     },
     {
-      "title": "Syria weighs military aid for Saudi Arabia amid Yemen war, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWZMNEFpTGtIVEhwLWJHUXdGdGliYUtUazZhMk1yd3RDLW9yZllOblA2U1BvLVZaN2pvejZpaWwwenF5MzhObG93NC1BYzJhVGdIelROY2VXSTF6RTJ3MDROSzVYMUVoUm9UMHdCcTZEbVBxODRVVEYxRGIxZWljUHdiSVJDcUxubndSdFM3RFdNYmZOWDdBZk1tdXgzVzRFTGZmWlZPeDZVOGtZUXNwaEFEVTZnMzMxclRZ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-07T18:21:26+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 6.334
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-07T20:22:37+00:00",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "category": "tech",
+      "score": 4.598
     },
     {
-      "title": "ESA at IAC 2026 – Day 3",
-      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_3",
-      "source": "ESA",
-      "published_at": "2026-10-07T14:54:00+00:00",
-      "summary": "The future of European exploration and the decisions ahead took centre stage during ESA’s third day at IAC 2026. ESA Director General Josef Aschbacher joined representatives of ESA Member States to discuss Europe's ambitions in low Earth orbit, around the Moon and beyond. The day",
-      "category": "science",
-      "score": 5.046
-    },
-    {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-07T20:27:03+00:00",
-      "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "category": "conflicts",
-      "score": 4.73
+      "title": "Germany news: UK's Burnham, Merz to talk security in Berlin",
+      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-10-08T05:50:00+00:00",
+      "summary": "UK Prime Minister Andy Burnham is visiting Berlin to launch a joint security partnership with Germany. President Steinmeier is on a state visit to France. DW has more.",
+      "category": "politics",
+      "score": 4.232
     }
   ],
   "hero_history": [
+    "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
     "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
     "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
     "SpaceX seeks $40 billion financing led by Apollo to buy Nvidia chips, FT reports",
     "Anthropic expands Claude Startups program with credits and perks",
     "Quebec separatists vowing independence vote win an election but fall short of majority",
     "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
-    "OpenAI, Anthropic, Google and Meta testify under oath Monday before all 51 NYC Council members on the risks of AI",
-    "Israel"
+    "OpenAI, Anthropic, Google and Meta testify under oath Monday before all 51 NYC Council members on the risks of AI"
   ]
 }

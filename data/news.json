@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-10T12:29:14.711298+00:00",
+  "updated": "2026-10-10T21:41:52.680781+00:00",
   "hero": {
-    "title": "Anthropic AI model sent fake murder tip to Philadelphia police",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFM5UU96ZVRESVBxVkVLT0pfTU9mZFNfbGVfaDNsZGhfRTdydFRrM3JkcHJNUGM5OHc1ZF9wcWhreFduOEVWZWtoazhMcm15MDRzVzh3V2ZkQVBxbUpOUExhQWZRak5KWUJhUlBfQ1BSN2pDRXZvUFJxbE9RLUhuS2NUVXM?oc=5",
-    "source": "Tech Xplore",
-    "published_at": "2026-10-10T11:58:54+00:00",
+    "title": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5",
+    "source": "AP News",
+    "published_at": "2026-10-10T16:11:44+00:00",
     "summary": "",
     "category": "tech",
-    "score": 6.532
+    "score": 9.54
   },
   "items": [
     {
-      "title": "🔴 Palestinian president Abbas postpones legislative elections, sets presidential poll for September 2027",
-      "url": "https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027",
-      "source": "France 24",
-      "published_at": "2026-10-10T11:58:24+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 5.302
-    },
-    {
-      "title": "Saudi-led coalition says it’s carrying out operation in Yemen",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-10T07:19:36+00:00",
-      "summary": "The Saudi-led coalition says it’s carrying out a wide-ranging operation, targeting Yemen’s Houthis.",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-10T19:28:28+00:00",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
       "category": "conflicts",
-      "score": 5.284
+      "score": 9.138
     },
     {
-      "title": "Germany sticks to Russia sanctions after Trump announcement on diesel",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUFXZDgzaHN2T1FRdnc3Njh3R0t5cGppS3pJUm8xREprWk54RFdON1pYY1BBbFRKS2pEajVWVzJJcmNiQVVJVGI1czM0U0F1U04zUEFZZVNDZzUtVWZ6UzdPQlItRzNyX3ZseVdmeVlaY1B5M203LWhwWFJTZjh0TlBFVm4zbm9SQjVvRGpXclhWWnJDYmdOWVRmaFhCVDBRNV9uU0UtZmo?oc=5",
+      "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTc2Ujdxb3BCZGZvNncyY0hPLS0tMG5qTDdUb2JfVVZjWHJ5YkdOeWJ6RXF3dG84TU94S1NSV3NxMmVCX25tRDc2R1VWa2EyMHFNS3lVaVBpYmdRWlUxbk9RaUx4UHM5Nmx0b0h3MF9iVkRpNVcyYjcyWjI3eDM2LVBGNnZsT2ZQMkpKS0Z1bUZaWVlabWtzLTdDWjlKSlV1dVZpVmIwbmNUVEI0ZFZaZUNNanpFTl8wbkxCNWlPWEVOS09KckdDdA?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-10T10:59:43+00:00",
+      "published_at": "2026-10-10T16:31:01+00:00",
       "summary": "",
       "category": "politics",
-      "score": 4.174
+      "score": 8.231
     },
     {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Tech",
-      "published_at": "2026-10-10T10:06:23+00:00",
-      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "title": "Trump says Ukraine needs a new president who will agree to end the war",
+      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-10T19:32:37+00:00",
+      "summary": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
+      "category": "conflicts",
+      "score": 6.81
+    },
+    {
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-10T19:33:44+00:00",
+      "summary": "",
       "category": "tech",
-      "score": 4.089
+      "score": 6.044
     }
   ],
   "hero_history": [
+    "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
     "Anthropic AI model sent fake murder tip to Philadelphia police",
     "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
     "Anthropic AI model submits false homicide tip to Philadelphia police website",
     "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
     "Nvidia-backed Firmus scraps $5 billion Australian IPO as investors step up AI scrutiny",
     "OpenAI's annualized revenue $20 billion less than previously signaled, FT reports",
-    "OpenAI launches GPT-6 and Intelligent UI in ChatGPT",
-    "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90"
+    "OpenAI launches GPT-6 and Intelligent UI in ChatGPT"
   ]
 }

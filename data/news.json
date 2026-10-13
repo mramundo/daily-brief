@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-13T00:37:30.277037+00:00",
+  "updated": "2026-10-13T14:08:43.336484+00:00",
   "hero": {
-    "title": "Microsoft president says milk faces more regulation than AI",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1NfWGg4YTk5aTliMnhVVHdsS2ZoUVJwT1hsNW9HZ2Y0VXdsRWFSb2VRT3RmQ1B1ZnZKRVZUd1ZQWElzM3dPZ08yRldXRXdwdm9Lc3hEOWZxQVNrYjBtMExTYkhnTnM5b1NNdmI5aUZGS29vRXVCLUpXY2JsbTRodVpMNkZBU1JnUEZWdUJvcUtwbnVXSWFaT3lMbzlqdVRybm9YTVJ4anVpbkZmN0lOYUFR?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-12T14:19:33+00:00",
+    "title": "OPEC raises 2027 oil demand view, citing need to rebuild stocks",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlIxUG1mSEVkSHVLNjZDbkdaSThNVUpMclZzQTFKVzNOQ1Z1a3p5R1IzOFhldXBjSWtubld1WllZcmFRQ2RBb2N4N2NOLVdDdFVqaU5oczIxUXVnN1NCRDk1aHZON3BydnBpLWpHNV9Dbnl3OGJZc05DbExHZ3NOLXEzSzdabzRVTEFFS3MzMFFYWFYwTERfRg?oc=5",
+    "source": "WTVB",
+    "published_at": "2026-10-13T12:33:45+00:00",
     "summary": "",
-    "category": "tech",
-    "score": 5.561
+    "category": "resources",
+    "score": 6.693
   },
   "items": [
     {
-      "title": "Heating oil customers face tough winter despite shake-up promise",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "published_at": "2026-10-12T23:02:24+00:00",
-      "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+      "title": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWdiOFh3ZXNEdWNtbEZLVlFDZ2dJQTZaanZ3dUtaNVgycEpwX0tDZWVYVF9PQlpRX085YWNwTkdtZVNmY0R2S0hHcllmRVlxcnAyYm9fTEZQa3YtYlljLXd6ZlROZ3VOTFktSmZnNFFkdGkxUkwyRmJ0R1JiQ0FtLXUzZTdSZGY1dlJCUndmd2FjQkxrT2dWRGFvMmcteFU0VVNQMEdxQVN4eVE5QjdBYg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-13T13:07:43+00:00",
+      "summary": "",
       "category": "resources",
-      "score": 4.741
+      "score": 6.332
     },
     {
-      "title": "'It's clear that Moscow is just playing with Washington', analyst says",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261012-it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says",
-      "source": "France 24",
-      "published_at": "2026-10-12T21:02:05+00:00",
-      "summary": "President Donald Trump's envoys told Ukrainian officials on Friday that a deal to allow Russian diesel exports is part of a bid to draw Russia back to negotiations after the failure of previous efforts to launch sustained talks to end the war, three people familiar with the meeti",
-      "category": "politics",
-      "score": 4.664
+      "title": "AI models may soon self-replicate without access to data centers, Anthropic warns",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-13T05:14:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 6.045
     },
     {
-      "title": "French presidential hopeful Glucksmann says 'battle begins' to revive divided left",
-      "url": "https://www.france24.com/en/french-presidential-hopeful-glucksmann-says-battle-begins-to-revive-divided-left",
-      "source": "France 24",
-      "published_at": "2026-10-12T20:18:41+00:00",
-      "summary": "French presidential candidate Raphael Glucksmann declared Monday that the \"battle begins\" as he launched a bid to unite a fragmented left ahead of next year's election. Speaking with FRANCE 24's Mark Owen, Damien Lecomte, Political Scientist and Researcher at Paris Pantheon Sorbo",
-      "category": "politics",
-      "score": 4.526
-    },
-    {
-      "title": "Why some have no choice but to pay costly oil prices",
-      "url": "https://www.bbc.co.uk/news/videos/cq4g1dn81y9xo?at_medium=RSS&at_campaign=rss",
+      "title": "Three things we've learnt about the UK economy from the IMF",
+      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "published_at": "2026-10-12T15:34:48+00:00",
-      "summary": "Rural communities are badly hit by the rising cost of heating oil, as our Wiltshire reporter explains.",
-      "category": "resources",
-      "score": 4.492
+      "published_at": "2026-10-13T11:58:43+00:00",
+      "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "category": "finance",
+      "score": 4.628
+    },
+    {
+      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "source": "NASA",
+      "published_at": "2026-10-13T13:00:00+00:00",
+      "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and v",
+      "category": "science",
+      "score": 4.544
     }
   ],
   "hero_history": [
+    "OPEC raises 2027 oil demand view, citing need to rebuild stocks",
     "Microsoft president says milk faces more regulation than AI",
     "OPEC cuts 2026 oil demand growth forecast to 400,000 bpd, sees pent-up demand in 2027",
     "China sanctions Paraguay, Belize ministers over Taiwan ties",
     "Republican senator says Trump diesel agreement with Russia may be illegal",
     "Ukraine will stop hitting refineries if Russia halts energy attacks, Zelenskiy says",
     "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-    "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-    "Anthropic AI model sent fake murder tip to Philadelphia police"
+    "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case"
   ]
 }

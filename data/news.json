@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-14T11:48:52.837529+00:00",
+  "updated": "2026-10-14T17:08:12.002960+00:00",
   "hero": {
-    "title": "Google DeepMind, Google Cloud to allow European researchers access to frontier models",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3Npakc0UFloQXV1TGtRSDRIVDdreGhyV296RFRNb1BOVFAtSFhIc3FGTE1NQWVvSlJSYXNpV3BGODZNS2NtX1J4UnZ6bDc0RjdhOEtSUFNTQlA5TnM0ZjJnQ1VEWmhKTWIxVDl3Rk13OVhoeXRtSVpRZGhaekNnMHJhY2c4bE04bXQ5aThmc1BPVTdZa2tzMlp6QUlFOWQ0anBwd2h4V19ub1U1NUJCUEVNbXFOcWZ4TmRCbG1Odm5ZdVk?oc=5",
+    "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5",
     "source": "Reuters",
-    "published_at": "2026-10-14T06:01:00+00:00",
+    "published_at": "2026-10-14T15:49:08+00:00",
     "summary": "",
     "category": "tech",
-    "score": 6.883
+    "score": 7.296
   },
   "items": [
     {
-      "title": "What we know about Russia's overnight strikes on Ukraine",
-      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-14T09:25:03+00:00",
-      "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
-      "category": "conflicts",
-      "score": 6.417
-    },
-    {
-      "title": "Google Deepmind's Hassabis calls AI hacks 'early warning shots'",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-14T10:29:17+00:00",
-      "summary": "",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica",
+      "published_at": "2026-10-14T12:55:06+00:00",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
       "category": "tech",
-      "score": 6.251
+      "score": 7.025
     },
     {
-      "title": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It’s not that simple",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9ucUpfS1JOb1RqQUlFOWVtSjVRQ1JXUGVSZFhkdWVlWlBncFMybEpwSVNxcGpXcU84Z21TQVVlVUlXNlN6V0VGWjRkZGJyR3V1NFVzNVk1YzZmVEE0OGVGNnJnQXVGODlxNmF1XzF1SnVlRHBQblBLMkZCcHVRb1d5aWNBTWUxQWNCRmV2cW1OTWZSb1ZLZzJ5ZFV2Qkd6bzMzUDFIc25veXQ1?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-14T09:26:00+00:00",
+      "title": "Colombia opens embassy in Jerusalem, restores free trade deal with Israel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaW5tZzlyQWx5WjVVeTRLam5wamtUZlltUlgzeG5sUlFpLVI1RHlleE54RTJkcnU4MkdLZ1g3czllalY1TFNyclZCWUh3SG9FRURWUklBdXZXTWtRVlZkeVVkZUVuZl9hY1M2UnlKN3JjV3BPZ3VYQVpnQjNaNUdGSWpsXzh5VjZQNFZzdXNzb09mZWg3QTR0WmVZNDN1MGMyMXZPUzB4OEZ1eUI2dFYxcmpPVGJWaE9VNkVveQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-14T15:07:27+00:00",
       "summary": "",
-      "category": "resources",
-      "score": 5.669
+      "category": "conflicts",
+      "score": 5.062
     },
     {
-      "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-14T11:33:24+00:00",
-      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+      "url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-14T14:08:45+00:00",
+      "summary": "Palestinian officials slam move by Colombian government that marked major shift after ex-president had cut Israel ties.",
+      "category": "politics",
+      "score": 4.957
+    },
+    {
+      "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-14T15:09:46+00:00",
+      "summary": "",
       "category": "conflicts",
-      "score": 5.218
+      "score": 4.909
     }
   ],
   "hero_history": [
+    "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
     "Google DeepMind, Google Cloud to allow European researchers access to frontier models",
     "FBI arrests OpenAI employee accused of placing recording device in company conference room",
     "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
     "OPEC raises 2027 oil demand view, citing need to rebuild stocks",
     "Microsoft president says milk faces more regulation than AI",
     "OPEC cuts 2026 oil demand growth forecast to 400,000 bpd, sees pent-up demand in 2027",
-    "China sanctions Paraguay, Belize ministers over Taiwan ties",
-    "Republican senator says Trump diesel agreement with Russia may be illegal"
+    "China sanctions Paraguay, Belize ministers over Taiwan ties"
   ]
 }

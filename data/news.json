@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-13T22:42:36.795814+00:00",
+  "updated": "2026-10-14T04:50:26.797778+00:00",
   "hero": {
-    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-    "source": "TechCrunch",
-    "published_at": "2026-10-13T20:59:11+00:00",
-    "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+    "title": "FBI arrests OpenAI employee accused of placing recording device in company conference room",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
+    "source": "AP News",
+    "published_at": "2026-10-14T00:29:00+00:00",
+    "summary": "",
     "category": "tech",
-    "score": 8.65
+    "score": 5.971
   },
   "items": [
     {
-      "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-13T18:56:57+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 6.589
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-14T04:36:06+00:00",
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "category": "conflicts",
+      "score": 5.664
     },
     {
-      "title": "Saudi-led coalition struck oil facilities west of Yemen’s capital, Houthi-run broadcaster says",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR002VVo0b3ZvU0RXV3V5TWdvX0Jmc1NiQjBDNjljbTVWbFZnQ1hIUm5WTUNHZFZSNlV4WWoxZVBDNFhwZUEzZF9kVUlla0dZOWstVWZQQnA1TGpqeXI4Y05KbkpOay00U3NLYkZxZ1BHQWQ4ay14eEk3bHlfSzBMVzlrd2tuQ1hyaHoteGZSZ0pyYjdvYjB1QlEtOTR1YVNZZnZTRw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-13T19:59:00+00:00",
+      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-13T23:29:36+00:00",
       "summary": "",
-      "category": "conflicts",
-      "score": 5.55
+      "category": "tech",
+      "score": 5.287
     },
     {
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-10-13T22:29:55+00:00",
+      "published_at": "2026-10-14T04:20:17+00:00",
       "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
       "category": "conflicts",
-      "score": 5.229
+      "score": 5.165
     },
     {
-      "title": "Trump says Houthis trying to increase oil prices before US elections",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-13T19:33:11+00:00",
-      "summary": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.",
-      "category": "politics",
-      "score": 4.923
+      "title": "IMF says higher bond yields underscore urgency of fiscal consolidation",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVl9LNkxlZ1YzZDRNdElzSkY5WU5kX00tdUxSbU5CY1RZeGl2VkVIS1VSMWNyYkpZSnRyM1FTdzd4YjFPTnB3M0xMRXJaZkV6REk4YzRhZVRaSXRCSGY2a3VZcVdaLW9nbWVibGc3ZTFidHFMakFibnYxZ1RTdGg1d25OMy1hcTRqNWNCNXJmQ3paZ0ZZcnlVaVozNXIxbTQza2lDWno1dUdmbUlYeTlqV3NFeUlwdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-14T02:02:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 4.463
     }
   ],
   "hero_history": [
+    "FBI arrests OpenAI employee accused of placing recording device in company conference room",
     "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
     "OPEC raises 2027 oil demand view, citing need to rebuild stocks",
     "Microsoft president says milk faces more regulation than AI",
     "OPEC cuts 2026 oil demand growth forecast to 400,000 bpd, sees pent-up demand in 2027",
     "China sanctions Paraguay, Belize ministers over Taiwan ties",
     "Republican senator says Trump diesel agreement with Russia may be illegal",
-    "Ukraine will stop hitting refineries if Russia halts energy attacks, Zelenskiy says",
-    "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal"
+    "Ukraine will stop hitting refineries if Russia halts energy attacks, Zelenskiy says"
   ]
 }

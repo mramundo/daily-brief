@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-14T04:50:26.797778+00:00",
+  "updated": "2026-10-14T11:48:52.837529+00:00",
   "hero": {
-    "title": "FBI arrests OpenAI employee accused of placing recording device in company conference room",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
-    "source": "AP News",
-    "published_at": "2026-10-14T00:29:00+00:00",
+    "title": "Google DeepMind, Google Cloud to allow European researchers access to frontier models",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3Npakc0UFloQXV1TGtRSDRIVDdreGhyV296RFRNb1BOVFAtSFhIc3FGTE1NQWVvSlJSYXNpV3BGODZNS2NtX1J4UnZ6bDc0RjdhOEtSUFNTQlA5TnM0ZjJnQ1VEWmhKTWIxVDl3Rk13OVhoeXRtSVpRZGhaekNnMHJhY2c4bE04bXQ5aThmc1BPVTdZa2tzMlp6QUlFOWQ0anBwd2h4V19ub1U1NUJCUEVNbXFOcWZ4TmRCbG1Odm5ZdVk?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-14T06:01:00+00:00",
     "summary": "",
     "category": "tech",
-    "score": 5.971
+    "score": 6.883
   },
   "items": [
     {
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about Russia's overnight strikes on Ukraine",
+      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-10-14T04:36:06+00:00",
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "published_at": "2026-10-14T09:25:03+00:00",
+      "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
       "category": "conflicts",
-      "score": 5.664
+      "score": 6.417
     },
     {
-      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+      "title": "Google Deepmind's Hassabis calls AI hacks 'early warning shots'",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-13T23:29:36+00:00",
+      "published_at": "2026-10-14T10:29:17+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.287
+      "score": 6.251
     },
     {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "title": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It’s not that simple",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9ucUpfS1JOb1RqQUlFOWVtSjVRQ1JXUGVSZFhkdWVlWlBncFMybEpwSVNxcGpXcU84Z21TQVVlVUlXNlN6V0VGWjRkZGJyR3V1NFVzNVk1YzZmVEE0OGVGNnJnQXVGODlxNmF1XzF1SnVlRHBQblBLMkZCcHVRb1d5aWNBTWUxQWNCRmV2cW1OTWZSb1ZLZzJ5ZFV2Qkd6bzMzUDFIc25veXQ1?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-14T09:26:00+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 5.669
+    },
+    {
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
       "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-10-14T04:20:17+00:00",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "published_at": "2026-10-14T11:33:24+00:00",
+      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
       "category": "conflicts",
-      "score": 5.165
-    },
-    {
-      "title": "IMF says higher bond yields underscore urgency of fiscal consolidation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVl9LNkxlZ1YzZDRNdElzSkY5WU5kX00tdUxSbU5CY1RZeGl2VkVIS1VSMWNyYkpZSnRyM1FTdzd4YjFPTnB3M0xMRXJaZkV6REk4YzRhZVRaSXRCSGY2a3VZcVdaLW9nbWVibGc3ZTFidHFMakFibnYxZ1RTdGg1d25OMy1hcTRqNWNCNXJmQ3paZ0ZZcnlVaVozNXIxbTQza2lDWno1dUdmbUlYeTlqV3NFeUlwdw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-14T02:02:00+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 4.463
+      "score": 5.218
     }
   ],
   "hero_history": [
+    "Google DeepMind, Google Cloud to allow European researchers access to frontier models",
     "FBI arrests OpenAI employee accused of placing recording device in company conference room",
     "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
     "OPEC raises 2027 oil demand view, citing need to rebuild stocks",
     "Microsoft president says milk faces more regulation than AI",
     "OPEC cuts 2026 oil demand growth forecast to 400,000 bpd, sees pent-up demand in 2027",
     "China sanctions Paraguay, Belize ministers over Taiwan ties",
-    "Republican senator says Trump diesel agreement with Russia may be illegal",
-    "Ukraine will stop hitting refineries if Russia halts energy attacks, Zelenskiy says"
+    "Republican senator says Trump diesel agreement with Russia may be illegal"
   ]
 }

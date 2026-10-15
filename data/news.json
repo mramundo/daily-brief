@@ -1,23 +1,41 @@
 {
-  "updated": "2026-10-15T16:58:30.606650+00:00",
+  "updated": "2026-10-15T21:21:05.439025+00:00",
   "hero": {
-    "title": "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjB0ci1GS09NczVkMHZGUlZQVE5PUWJuYlZUODlnZUtxWWxQVVNNcGRHVjh2U0p3ZU9iTHQ3aThVOWpnYXVZRGQxaTc0Q293bGFoeUowbnloOU1qNm1ZMlloOGl0c251c2pQRXh6cExNQXo5OXQ3ZDRpSVZZZ211alY0ZENWb0FJT3QwRzQyb1lRejMxTkFreExtLXhIUm9oUFBkRzRCZ1dzSGN6MVhNSGl3?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-15T14:50:34+00:00",
+    "title": "Nvidia leads chip stocks lower as AI trade takes",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3?oc=5",
+    "source": "Yahoo Finance",
+    "published_at": "2026-10-15T20:33:00+00:00",
     "summary": "",
     "category": "tech",
-    "score": 7.052
+    "score": 6.747
   },
   "items": [
     {
-      "title": "NYC Comptroller Levine urges Anthropic to pause US IPO",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcFUxMTU0b0NZUWhaNU9YNHdDZENmR05aeTQ2dGVSdlExRkpZX2dMWG1KOS1STXRhdHdWTG9MM0tCZzQtOTVXVUZRRjNlZ1F4X2NlNVBBM3NnRFI1a1VtRkUwQlpubjgzQkhaXzZDQ0M0NVdnbVR6ZklHX2lGQnhFVl9iWlY1NGt6UFNnYTNRUGJIVzB5dnJCU1Y1QVdPdFMwNURPRmhqQzVDb3BCYmc?oc=5",
+      "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERjb3RFVUdmYXZ6ZktrZ0tiVUlEck5vRGtxd2dXTnA4UGFoSF9QNEU5Y3FfVUxZOHp1cEt3UktQUXZicnI5UDByaW5hTDdhanhtb2JsVTZsRkxYSjRsd2VZZUx2Yy1lZzNhWGdJSWxOalZoZGJNU0g1NGFkUEFkZHNob2RXaVVqb3BxTkZGVFJaUHg4cVNTTXJMcnFtSGZTZDZ1TVVBOWxSSGhjZ0Z6SFpB?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-15T15:44:10+00:00",
+      "published_at": "2026-10-15T19:51:22+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.274
+      "score": 6.207
+    },
+    {
+      "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-15T21:15:00+00:00",
+      "summary": "",
+      "category": "politics",
+      "score": 5.482
+    },
+    {
+      "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+      "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+      "source": "NASA",
+      "published_at": "2026-10-15T19:58:08+00:00",
+      "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine",
+      "category": "science",
+      "score": 5.142
     },
     {
       "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
@@ -26,35 +44,17 @@
       "published_at": "2026-10-15T15:57:47+00:00",
       "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) S",
       "category": "science",
-      "score": 5.875
-    },
-    {
-      "title": "More drops for AI stocks drag Wall Street lower after whipping around the world",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-15T14:30:00+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 4.525
-    },
-    {
-      "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
-      "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
-      "source": "NASA",
-      "published_at": "2026-10-15T14:57:21+00:00",
-      "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat s",
-      "category": "science",
-      "score": 4.381
+      "score": 4.895
     }
   ],
   "hero_history": [
+    "Nvidia leads chip stocks lower as AI trade takes",
     "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
     "EU leaders head into high-stakes budget battle as elections loom",
     "Israel",
     "Eight US states sue OpenAI, claiming ChatGPT harms children",
     "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
     "Google DeepMind, Google Cloud to allow European researchers access to frontier models",
-    "FBI arrests OpenAI employee accused of placing recording device in company conference room",
-    "FBI arrests OpenAI employee accused of planting hidden recording device in conference room"
+    "FBI arrests OpenAI employee accused of placing recording device in company conference room"
   ]
 }

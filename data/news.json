@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-15T04:35:35.203210+00:00",
+  "updated": "2026-10-15T11:25:42.248417+00:00",
   "hero": {
-    "title": "Israel",
-    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
-    "source": "AP News",
-    "published_at": "2026-10-14T21:38:27+00:00",
-    "summary": "",
-    "category": "conflicts",
-    "score": 6.816
+    "title": "EU leaders head into high-stakes budget battle as elections loom",
+    "url": "https://www.france24.com/en/eu-leaders-head-into-high-stakes-budget-battle-as-elections-loom",
+    "source": "France 24",
+    "published_at": "2026-10-15T06:03:27+00:00",
+    "summary": "EU leaders head to a summit on Thursday seeking a deal on the bloc’s nearly €2 trillion budget for 2028-2034 by Christmas amid deep divisions over spending and fears that upcoming elections, particularly in France, could strengthen eurosceptic forces.",
+    "category": "politics",
+    "score": 5.053
   },
   "items": [
     {
-      "title": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWhOTjFpcTVfa2ZENDN6UnU4MkJmc21SWW4xRkt0Y1dSNGxZRHNNTjhCYUZ2MEU5X1M3YU5hczRoeWpSdGdmcTZNcG40QUFycklCX2wxRF9sbzZFNXQwbWtFcU9OS1FGS2UtYlREMzIxVGZYaFdfYzNnSFpOcWdNeWpTT3dSaHQ4RjN1eGFsX2ttSTFqYXdxdE45aTBvck5uOW5OV2FPbXV1VklPazJZOUZEd9IBuAFBVV95cUxQc3NEVXpEU3hFdUNmNXMtVmluTDBVUjhUTGx1MS1ud1VWMmVkQ25PdmkwcFV6T0g0ZTkwaTdJZkYwS3RfT0xEUnozeDBKa0ZXNEtMTk1pVzA1dEpJZ3htRWltOTg3TU0xTm5RQm5xaXhnWl9FQTdvTGxvZmZDZ0FrdVJ3REkxREJUdUpqbkFxZ3lIdU1PekJEckxHVlYtWElKSlNsWTdadS1jM0Q1VDFUVU03Uy1xbGwz?oc=5",
+      "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-10-15T03:30:08+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.366
-    },
-    {
-      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0pwUi1KVnA2SDhrZ2tkTlhnMkpEWU9HTTRacWpHUDl1aVhzWlNHLUpIWUx4MjQ2dFNfd2VJZTdDbUVtV3hCVjRDVDhncnZZWDBEZVdjZEQtcVNaTFRvbWdENmVQZkdRYXkybW9ucllJVy0wLUtERjN3c1A2M2pDaktKc0tJSEIzMTFDM0pQYWR5a1ZCeTNoYzFRSdIBoAFBVV95cUxOa09ZVHMzLVc3Rk9sRFhSRGQ0NkFSYmZuLUpLQjMyY0hYRTI5bU9rNGk5VEI1a2t3MFNHNThMTlZyVFhTMFgzMDlqdVI3WkNCUDRFdFphTXBFbHl5ZDV6d3hrcURESmNJQWFiYVJzaTItVWJiV1NSbTN5Y2ZoaEZfWTd3RWlXMWlYX0dQMHQzYlI4Ym5mRzkzdy1KSU9yQXNk?oc=5",
-      "source": "CNBC",
-      "published_at": "2026-10-15T03:48:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.22
-    },
-    {
-      "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-14T23:33:39+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 4.068
-    },
-    {
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-15T04:30:08+00:00",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "published_at": "2026-10-15T10:52:12+00:00",
+      "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
       "category": "conflicts",
-      "score": 3.941
+      "score": 4.761
+    },
+    {
+      "title": "EU leaders head for showdown over bloc long-term budget",
+      "url": "https://www.france24.com/en/video/20261015-eu-leaders-head-for-showdown-over-bloc-long-term-budget",
+      "source": "France 24",
+      "published_at": "2026-10-15T10:09:46+00:00",
+      "summary": "EU leaders on Thursday head for their biggest clash yet over the bloc's next long-term budget, as they race to lock in a deal before next year's French presidential election. The 27-nation European Union wants an agreement by Christmas, worried that any future dealmaking will be",
+      "category": "politics",
+      "score": 4.46
+    },
+    {
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-10-15T07:20:45+00:00",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "category": "tech",
+      "score": 4.047
+    },
+    {
+      "title": "Russia says Ukraine resumes attacks on oil refineries",
+      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-15T10:02:17+00:00",
+      "summary": "Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.",
+      "category": "conflicts",
+      "score": 4.024
     }
   ],
   "hero_history": [
+    "EU leaders head into high-stakes budget battle as elections loom",
     "Israel",
     "Eight US states sue OpenAI, claiming ChatGPT harms children",
     "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
     "Google DeepMind, Google Cloud to allow European researchers access to frontier models",
     "FBI arrests OpenAI employee accused of placing recording device in company conference room",
     "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-    "OPEC raises 2027 oil demand view, citing need to rebuild stocks",
-    "Microsoft president says milk faces more regulation than AI"
+    "OPEC raises 2027 oil demand view, citing need to rebuild stocks"
   ]
 }

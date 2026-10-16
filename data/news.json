@@ -1,42 +1,15 @@
 {
-  "updated": "2026-10-16T11:20:33.887911+00:00",
+  "updated": "2026-10-16T16:36:52.257764+00:00",
   "hero": {
-    "title": "Zelensky rallies European allies as Trump ties slump",
-    "url": "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump",
-    "source": "France 24",
-    "published_at": "2026-10-16T09:21:23+00:00",
-    "summary": "Ukraine's President Volodymyr Zelensky is seeking to rally European allies at a Brussels summit on Friday after saying Kyiv would no longer abide by US President Donald Trump's demands not to strike Russian oil refineries. Relations between Kyiv and Washington have soured since l",
-    "category": "politics",
-    "score": 6.649
+    "title": "Starlink disruptions are being felt on the front lines of Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-16T14:44:16+00:00",
+    "summary": "",
+    "category": "conflicts",
+    "score": 6.109
   },
   "items": [
-    {
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-16T08:45:54+00:00",
-      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-      "category": "politics",
-      "score": 6.207
-    },
-    {
-      "title": "Better AI Stock: SpaceX vs. Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmREWWZ3RndBb0VWVjVXWGVQd0FzdGJ3aTNrWWZIeEk1RGJLRkZna1dKeUpnbExqQWVucFdtZVg2R2tyNk9vdE9MMHF5SmNGeHMxY0FsY0VtcnZIWTJWOGRVbHprZVFQb0prYk9KVi1wRFlkdmV3UDJTeHV6NkJhTGRwMnpNR1pIZ3NqRDNFZHBqN0xG?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-16T10:50:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 4.527
-    },
-    {
-      "title": "Israel’s Arab-led parties could decide the election if anyone would partner with them",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVS01NlM0UEFqaXlCNTlIbFk4QkZKeEJlQ29Scmg3NlBpaEVoN2FtUlJaVlc5MWlETl9sWEZ3R2xaTV9aNUxsdjUwd3djSm9oSm9PYnBWVlNJeXQ5U1JtTHJNclNxYkhlUXdfSktIeE9nSzBCYTRwRGU2MGczLU9faU5oNXF0NzBSV0tnRm9Fek03Q0tlVVF1ZURzVUthUjJKRnk3Q29B?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-16T05:14:49+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 4.27
-    },
     {
       "title": "Germany to unveil Nvidia AI agreement next week, government sources say",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ?oc=5",
@@ -44,17 +17,44 @@
       "published_at": "2026-10-16T11:06:50+00:00",
       "summary": "",
       "category": "tech",
-      "score": 4.259
+      "score": 5.253
+    },
+    {
+      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-16T16:00:30+00:00",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "category": "conflicts",
+      "score": 5.143
+    },
+    {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge",
+      "published_at": "2026-10-16T15:00:00+00:00",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best",
+      "category": "tech",
+      "score": 4.824
+    },
+    {
+      "title": "Ethiopia announces interim government in Tigray, aims for polls in six months",
+      "url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months",
+      "source": "© Filmon Equar Hailu, AP",
+      "published_at": "2026-10-16T13:05:23+00:00",
+      "summary": "Ethiopian Prime Minister Abiy Ahmed on Friday announced the appointment of an interim administration to prepare elections in the northern Tigray region previously controlled by the Tigray People's Liberation Front that has clashed with government forces since September. The recen",
+      "category": "politics",
+      "score": 4.658
     }
   ],
   "hero_history": [
+    "Starlink disruptions are being felt on the front lines of Ukraine",
     "Zelensky rallies European allies as Trump ties slump",
     "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
     "Nvidia leads chip stocks lower as AI trade takes",
     "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
     "EU leaders head into high-stakes budget battle as elections loom",
     "Israel",
-    "Eight US states sue OpenAI, claiming ChatGPT harms children",
-    "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges"
+    "Eight US states sue OpenAI, claiming ChatGPT harms children"
   ]
 }

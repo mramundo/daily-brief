@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-15T21:21:05.439025+00:00",
+  "updated": "2026-10-16T04:29:11.645420+00:00",
   "hero": {
-    "title": "Nvidia leads chip stocks lower as AI trade takes",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3?oc=5",
-    "source": "Yahoo Finance",
-    "published_at": "2026-10-15T20:33:00+00:00",
+    "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVBjUDY1NEtsWk4xYnphdUJQSjdScU5TNHdPUk9iN3FibFNId2xOWDA4c1RHY2FodFJYdVl1ZzIybjBLc21FZXJxOXRmbjNsbFk4SDNIYzhDeWw4dEt6RkJhN3NJeHJqYVlVTlc5YnVZOHRyeWJIalRfaE5ER2tKRnRieXN4MVN2WkxFSmFvSFVBbUF6b0FHV0FoVTA5emZtRThLUlQ5VXQ4TndPU3FPRFpKMjg?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-15T21:02:42+00:00",
     "summary": "",
     "category": "tech",
-    "score": 6.747
+    "score": 5.653
   },
   "items": [
     {
-      "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERjb3RFVUdmYXZ6ZktrZ0tiVUlEck5vRGtxd2dXTnA4UGFoSF9QNEU5Y3FfVUxZOHp1cEt3UktQUXZicnI5UDByaW5hTDdhanhtb2JsVTZsRkxYSjRsd2VZZUx2Yy1lZzNhWGdJSWxOalZoZGJNU0g1NGFkUEFkZHNob2RXaVVqb3BxTkZGVFJaUHg4cVNTTXJMcnFtSGZTZDZ1TVVBOWxSSGhjZ0Z6SFpB?oc=5",
+      "title": "World Bank's Banga sets goal of quintupling critical minerals financing in five years",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMURDQ2RXU1hVUVRzWnlhdG1vclRwaEFnWlRvVGY2bFJ0SFhfWDNOR0ktX28zRC1mUjFGbklkRThPckpQa0FfUXNkZHZJRm9hTnB0YmFNMzJIdVNOa3dtMlBUbGVSbFRscFVjYmx6TS0xRHA0WFk2RVJPRkdpVnl5MDNsUFlfUmU0ZDg4RmpoaVJZVVJBT29FdGtPZFF5TTFGNnlXOXpqUExLTU9tV2RfY1M5Q3hrRHd2a01JNDBUemNiNC1iVTBScXItYw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-15T19:51:22+00:00",
+      "published_at": "2026-10-16T02:56:00+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 5.16
+    },
+    {
+      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-15T22:26:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.207
+      "score": 5.134
     },
     {
-      "title": "Authorities investigate letters with 'suspicious substances' sent to congressional, election offices",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjdXQjZTSnNCWmdZVmw4Mk5ydFlXRV9tbFltdkVId3l4TDR6YWw0RGFicmlQQU9EM0l3YXlzR3Z4eFY0WDlRa2RQa0o3UGN0TnFQdXBnME83enZWX2NlaEU4S2l6TU0wcXp0TnBvMWJPY3lVLVVBQTg0emE2OFNfWVdGOXU1ZDI4cnhCaHpaVUZYOU1QaGJ3UmtFYWtKQklmYTBMSlFoZ093YWtOVTF6RDNIenFlZGZKZnpZUnBqaw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-15T21:15:00+00:00",
-      "summary": "",
+      "title": "Three children and teacher killed in US primary school shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-16T03:45:09+00:00",
+      "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+      "category": "conflicts",
+      "score": 4.912
+    },
+    {
+      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-15T22:46:49+00:00",
+      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
       "category": "politics",
-      "score": 5.482
-    },
-    {
-      "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-      "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
-      "source": "NASA",
-      "published_at": "2026-10-15T19:58:08+00:00",
-      "summary": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine",
-      "category": "science",
-      "score": 5.142
-    },
-    {
-      "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
-      "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/",
-      "source": "NASA",
-      "published_at": "2026-10-15T15:57:47+00:00",
-      "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) S",
-      "category": "science",
-      "score": 4.895
+      "score": 4.792
     }
   ],
   "hero_history": [
+    "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
     "Nvidia leads chip stocks lower as AI trade takes",
     "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
     "EU leaders head into high-stakes budget battle as elections loom",
     "Israel",
     "Eight US states sue OpenAI, claiming ChatGPT harms children",
     "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
-    "Google DeepMind, Google Cloud to allow European researchers access to frontier models",
-    "FBI arrests OpenAI employee accused of placing recording device in company conference room"
+    "Google DeepMind, Google Cloud to allow European researchers access to frontier models"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-16T16:36:52.257764+00:00",
+  "updated": "2026-10-16T21:05:14.899435+00:00",
   "hero": {
-    "title": "Starlink disruptions are being felt on the front lines of Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczZyd2RmczlnYjJ3SnM2TVZuSlNCdXk2YUdETXprMGVBM1JRVGRUZ1VVRjZWbU9Oel9SekRCLUFLU2Q1bTNyVmNYdTNBTUZGdjl5Z0xZZElKLXBjM2dzU3YybU5OdkRjTTBMZEFtaTdwenVhd1ZLQURhNFRrVUl1a3FxbWE3N0lLVmUxYmZXSFMxcjBtNDJKUjk5bGZVSk9NcE9FVDN3S1dJblNfeXpUdVFjNS1yNHJuWVE?oc=5",
+    "title": "Israeli settlers attack Palestinians during West Bank olive harvest",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczd6aXNWNkdjZTNxV0V1MXhjQm5YTUtZT2JEUXY4dm81UFNlMVprd01ZdDI0VDI2ZEducHJha09yTkRIaWZMLVpmanQ0dVRBWm56cVBxLWFCOEZkekdCU0ZISkhWeEFxTWRDaGtmR3NPRjc1MVkyQnVhdjZRSzZxWm9OODE2RmxSY19CclZ1WThuWTZrOG15SUtmSlZJd0tfZkwtcmVsQlltc0VNZnMtMWdB?oc=5",
     "source": "Reuters",
-    "published_at": "2026-10-16T14:44:16+00:00",
+    "published_at": "2026-10-16T20:13:32+00:00",
     "summary": "",
     "category": "conflicts",
-    "score": 6.109
+    "score": 8.211
   },
   "items": [
     {
-      "title": "Germany to unveil Nvidia AI agreement next week, government sources say",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-16T11:06:50+00:00",
+      "title": "Ukraine president targets Trump, Putin at EU summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-16T17:59:48+00:00",
+      "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
+      "category": "conflicts",
+      "score": 6.549
+    },
+    {
+      "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "2026-10-16T19:01:19+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.253
+      "score": 4.95
     },
     {
-      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
-      "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-16T16:00:30+00:00",
-      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
-      "category": "conflicts",
-      "score": 5.143
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "source": "NASA",
+      "published_at": "2026-10-16T20:14:39+00:00",
+      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than",
+      "category": "science",
+      "score": 4.601
     },
     {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge",
-      "published_at": "2026-10-16T15:00:00+00:00",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best",
-      "category": "tech",
-      "score": 4.824
-    },
-    {
-      "title": "Ethiopia announces interim government in Tigray, aims for polls in six months",
-      "url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months",
-      "source": "© Filmon Equar Hailu, AP",
-      "published_at": "2026-10-16T13:05:23+00:00",
-      "summary": "Ethiopian Prime Minister Abiy Ahmed on Friday announced the appointment of an interim administration to prepare elections in the northern Tigray region previously controlled by the Tigray People's Liberation Front that has clashed with government forces since September. The recen",
-      "category": "politics",
-      "score": 4.658
+      "title": "US solicits exchange of up to 17 million barrels of oil from strategic reserve",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFNXdnRkamV3Q2plZzU5UHl3LUlPa2hxTVY1VTA5dXU2UXUxWG5DekxOY0ZrWlNobFBDNTRQR2xrTHRZbEJMZUd1dzRQSUd0ZmQ1TDRtTE9YcmRoRVEzUkhrQjhUX01DVk8zdU5saFJEc1NDUWFXcFhsbmFZRlQ0b1FGdm9nTnFGSDAwWUxVMDVJeHZXalROYmNNdlVJLWxxaEloOWtLWUsxOWlzbTFmSWhHMHVaRGM?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-16T20:25:25+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 4.183
     }
   ],
   "hero_history": [
+    "Israeli settlers attack Palestinians during West Bank olive harvest",
     "Starlink disruptions are being felt on the front lines of Ukraine",
     "Zelensky rallies European allies as Trump ties slump",
     "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
     "Nvidia leads chip stocks lower as AI trade takes",
     "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
     "EU leaders head into high-stakes budget battle as elections loom",
-    "Israel",
-    "Eight US states sue OpenAI, claiming ChatGPT harms children"
+    "Israel"
   ]
 }

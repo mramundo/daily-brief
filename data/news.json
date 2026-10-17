@@ -1,15 +1,24 @@
 {
-  "updated": "2026-10-17T04:22:50.588588+00:00",
+  "updated": "2026-10-17T10:40:50.180354+00:00",
   "hero": {
-    "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-17T00:57:00+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 8.853
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-10-17T09:42:13+00:00",
+    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+    "category": "politics",
+    "score": 6.635
   },
   "items": [
+    {
+      "title": "Trump waives new Russia sanctions as Ukraine ties slump",
+      "url": "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
+      "source": "France 24",
+      "published_at": "2026-10-17T09:23:52+00:00",
+      "summary": "President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more.",
+      "category": "politics",
+      "score": 5.991
+    },
     {
       "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
@@ -17,44 +26,35 @@
       "published_at": "2026-10-16T23:23:52+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.94
+      "score": 5.338
     },
     {
-      "title": "Major development banks step up support for critical minerals value chains",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3h2ZF9YVG81ZVh6OXlpVnhDWEdKMVJGMDZjZGkzM2ZGRml0bHZHdjN3UkFQRGRzWWp0SlA1eks2TnR0LUw4SEpDTE1TR180Z0EwVDhYb0N0U1pBSWpUNHdEVDlYc05LNDF3Rk9OeVBXTDJOMmNmcnpyTUhyeHZ2QXFJZHQwbk9xVlNUMnlxUkV4Q2ZNRnNrRmd0V1JHQU9jOGJTZWlXY1did0d3TUZKMTRlNEhjOGY0WVFpSmpBeHhjNHM?oc=5",
+      "title": "Israeli settlers attack Palestinians during West Bank olive harvest",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczd6aXNWNkdjZTNxV0V1MXhjQm5YTUtZT2JEUXY4dm81UFNlMVprd01ZdDI0VDI2ZEducHJha09yTkRIaWZMLVpmanQ0dVRBWm56cVBxLWFCOEZkekdCU0ZISkhWeEFxTWRDaGtmR3NPRjc1MVkyQnVhdjZRSzZxWm9OODE2RmxSY19CclZ1WThuWTZrOG15SUtmSlZJd0tfZkwtcmVsQlltc0VNZnMtMWdB?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-17T04:14:00+00:00",
+      "published_at": "2026-10-17T08:11:15+00:00",
       "summary": "",
-      "category": "resources",
-      "score": 5.472
-    },
-    {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-17T02:48:36+00:00",
-      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
       "category": "conflicts",
-      "score": 5.358
+      "score": 5.14
     },
     {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-10-17T02:33:09+00:00",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "category": "science",
-      "score": 5.337
+      "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
+      "url": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-17T09:47:55+00:00",
+      "summary": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
+      "category": "conflicts",
+      "score": 4.511
     }
   ],
   "hero_history": [
+    "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
     "Israeli settlers attack Palestinians during West Bank olive harvest",
     "Starlink disruptions are being felt on the front lines of Ukraine",
     "Zelensky rallies European allies as Trump ties slump",
     "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
     "Nvidia leads chip stocks lower as AI trade takes",
-    "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports",
-    "EU leaders head into high-stakes budget battle as elections loom"
+    "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports"
   ]
 }

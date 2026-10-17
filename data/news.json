@@ -1,15 +1,24 @@
 {
-  "updated": "2026-10-17T10:40:50.180354+00:00",
+  "updated": "2026-10-17T15:31:52.652460+00:00",
   "hero": {
-    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-10-17T09:42:13+00:00",
-    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-    "category": "politics",
-    "score": 6.635
+    "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-17T11:39:54+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 6.394
   },
   "items": [
+    {
+      "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-17T10:10:22+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.284
+    },
     {
       "title": "Trump waives new Russia sanctions as Ukraine ties slump",
       "url": "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
@@ -17,44 +26,35 @@
       "published_at": "2026-10-17T09:23:52+00:00",
       "summary": "President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more.",
       "category": "politics",
-      "score": 5.991
+      "score": 4.895
     },
     {
-      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-16T23:23:52+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.338
+      "title": "Russia hails Trump waiving sanctions as 'historic'",
+      "url": "https://www.france24.com/en/video/20261017-russia-hails-trump-waiving-sanctions-as-historic",
+      "source": "France 24",
+      "published_at": "2026-10-17T10:41:22+00:00",
+      "summary": "Russia on Saturday hailed US President Donald Trump's move to waive new sanctions on it as \"historic\", as Ukraine worries he is taking Moscow's side in Europe's worst conflict since World War II.",
+      "category": "politics",
+      "score": 4.427
     },
     {
-      "title": "Israeli settlers attack Palestinians during West Bank olive harvest",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczd6aXNWNkdjZTNxV0V1MXhjQm5YTUtZT2JEUXY4dm81UFNlMVprd01ZdDI0VDI2ZEducHJha09yTkRIaWZMLVpmanQ0dVRBWm56cVBxLWFCOEZkekdCU0ZISkhWeEFxTWRDaGtmR3NPRjc1MVkyQnVhdjZRSzZxWm9OODE2RmxSY19CclZ1WThuWTZrOG15SUtmSlZJd0tfZkwtcmVsQlltc0VNZnMtMWdB?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-17T08:11:15+00:00",
+      "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDc3TmplVHhQU05mQkZtU2d0QnhQWjhWMWcyNDY2Q0U3T2dlY3Z1cnR1eTA0Z0VhRVp2MDBkUVJfcW1Db1YzUTdpanBRVnFaYU96ZFVwMzJMQ1daYXRVbUVsYzJQblFwYUk2UVlXVzI0NmowcmdUQkhYby03RWhzaWlXV2JsUzZaVzM3OEY2aTFubWNLdzI5ckM3bWV2bzVFWXR2VUJB?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-17T13:31:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 5.14
-    },
-    {
-      "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
-      "url": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-17T09:47:55+00:00",
-      "summary": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
-      "category": "conflicts",
-      "score": 4.511
+      "score": 3.954
     }
   ],
   "hero_history": [
+    "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
     "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
     "Israeli settlers attack Palestinians during West Bank olive harvest",
     "Starlink disruptions are being felt on the front lines of Ukraine",
     "Zelensky rallies European allies as Trump ties slump",
     "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
-    "Nvidia leads chip stocks lower as AI trade takes",
-    "US FTC subpoenas OpenAI and Anthropic over consumer harms, Axios reports"
+    "Nvidia leads chip stocks lower as AI trade takes"
   ]
 }

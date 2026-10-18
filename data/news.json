@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-17T20:34:26.638656+00:00",
+  "updated": "2026-10-18T04:29:34.514235+00:00",
   "hero": {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "source": "TechCrunch",
-    "published_at": "2026-10-17T18:48:08+00:00",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-    "category": "tech",
-    "score": 6.382
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-10-17T23:52:38+00:00",
+    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "category": "politics",
+    "score": 10.924
   },
   "items": [
     {
-      "title": "Israeli settlers attack European delegation convoy in West Bank, beat French mayor",
-      "url": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
-      "source": "© Hazem Bader, AFP",
-      "published_at": "2026-10-17T14:58:07+00:00",
-      "summary": "Israeli settlers on Saturday attacked a convoy carrying a European delegation in the occupied West Bank, beating up a 78-year-old French mayor. While Israel's Prime Minister Benjamin Netanyahu – who is just days from a crucial election – described the incident as a \"smear\" campai",
+      "title": "Deadly fire breaks out at Canada military base",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-18T04:00:50+00:00",
+      "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
       "category": "politics",
-      "score": 6.312
+      "score": 4.807
     },
     {
-      "title": "Is the US Embassy in Jerusalem for Israel or America?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-17T18:41:30+00:00",
-      "summary": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
-      "category": "conflicts",
-      "score": 5.192
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-17T18:48:08+00:00",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "category": "tech",
+      "score": 4.588
     },
     {
-      "title": "Zelenskyy urges support for new US sanctions on Russia put on hold by Trump",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNSbDZNbm5wY2VNaTRTRDZiMHFqMW9rbnpvNk1tU0JBdjlTQng0YXhGQTN4bWtRaUNPUUdxY0dHVEhOajRFem5jUFdSVm5QYnkyU1QtcGZuM3BBQnBqTnFYdlBrTHYyampsUEtDMDB5RUdIYVpJZVY5eHBlank0T1BhLW1OSWo5bnNNVUdCR0FJQjRRLVEtNVFqeHlZQjc2Mm1n?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-17T18:17:00+00:00",
+      "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-17T23:49:37+00:00",
       "summary": "",
-      "category": "politics",
-      "score": 5.004
+      "category": "conflicts",
+      "score": 4.533
     },
     {
-      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-17T18:26:59+00:00",
-      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since 'ceasefire' began a year ago.",
-      "category": "conflicts",
-      "score": 4.461
+      "title": "Inflation",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YRl9lNm5MaDFJc0djbWhoR2pvVEJVN1F6U2ZCdVZWYXFzejc2Wkp6VWs4SVpKeExzMk5MTTM0blRKZTkybDRr?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-17T16:54:49+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 4.394
     }
   ],
   "hero_history": [
+    "European diplomats attacked by Israeli settlers in West Bank",
     "Replit is no longer working with Anthropic, CEO says",
     "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
     "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
     "Israeli settlers attack Palestinians during West Bank olive harvest",
     "Starlink disruptions are being felt on the front lines of Ukraine",
-    "Zelensky rallies European allies as Trump ties slump",
-    "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence"
+    "Zelensky rallies European allies as Trump ties slump"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-18T11:01:06.298189+00:00",
+  "updated": "2026-10-18T15:50:21.858969+00:00",
   "hero": {
-    "title": "Russia’s war in Ukraine puts Europe on edge",
-    "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-10-18T10:33:36+00:00",
-    "summary": "Poland’s FM addresses growing concerns that Russia’s war in Ukraine could spill over into neighbouring NATO countries.",
-    "category": "conflicts",
-    "score": 7.308
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-10-18T12:16:14+00:00",
+    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "category": "politics",
+    "score": 6.772
   },
   "items": [
     {
-      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-      "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-18T09:16:54+00:00",
-      "summary": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
-      "category": "conflicts",
-      "score": 4.533
-    },
-    {
-      "title": "Inflation",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YRl9lNm5MaDFJc0djbWhoR2pvVEJVN1F6U2ZCdVZWYXFzejc2Wkp6VWs4SVpKeExzMk5MTTM0blRKZTkybDRr?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-17T22:19:01+00:00",
+      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-18T12:09:43+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 4.193
+      "category": "tech",
+      "score": 6.612
     },
     {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-17T23:52:38+00:00",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "category": "politics",
-      "score": 3.79
+      "title": "Anthropic Reportedly Posted Quarterly Revenue Growth of 50% and Was Cash-Flow Positive. Here's Why It Might Not Be Enough to Impress Investors Before the Company's Massive IPO",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQblVQUUhzTk1GSExocm5WandhSzdET3FEeWJVRHVNNTQ0TDkzS2YxUzdwUG1FRFNyU3lLdzJ5M3JqbTRRa1k5c3hHaGtFRktzMExESExKWExPc2pOMzlUSnlaenJWVXB2N3NpeGdCRXA4OFFaRmFmUFNVZVlKZzR1WGtwR3VzUGNGUFFvemRheXhRek10bVR5cVk5YlpRMktGSklFNXk0UWlwWWtFLW8zSEJBUnR6ckhDTW9TZ2tBTVg0ZkNYMUxKa0NCbi14bEZub2tHVlZuRjd4MlJjRXJ5bHNIRVROSDZkV2x0NHBWUHI5eFk2UUY0SWl5VlNyV19RSHM2TkgwQ0pfeHd2QUtoNWFYbVFHcFJyQXZXeHFlcGd0bkFLLUlxeEh1NEEwRWNhWkZVY1dzLUxxWEg3QUhSal9ybHJkeUpwY0JkYWh4bUhhbmlleUl0b1VpSTJSWHZEaFJwa2hQYkdhb0la?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "2026-10-18T14:33:19+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.668
     },
     {
-      "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
-      "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-10-18T07:03:00+00:00",
-      "summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition.",
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ001MUlHYUhFLTdzTlZPTWdsOG12UXhpTFdKOFQ1REFaUFVhWGZJTXk1V0Y3cGNhTTR3d1hnclJVamdMRFJlZ213WjVsblNIODZ6cUstbVp6U1o1STRyUVNMUXRPUkVFUlZJWWppUWo3VWpZOXB2WDlTck4yUXFQXy0wQktGczRPbkVkZ1dheURZcGp1dFA2WXVlaXpLeTNLVzAyVnhGWlRrUVNH?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-18T15:01:00+00:00",
+      "summary": "",
       "category": "politics",
-      "score": 3.614
+      "score": 4.848
+    },
+    {
+      "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-18T14:31:31+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 4.071
     }
   ],
   "hero_history": [
+    "European diplomats attacked by Israeli settlers in West Bank",
     "Russia’s war in Ukraine puts Europe on edge",
     "European diplomats attacked by Israeli settlers in West Bank",
     "Replit is no longer working with Anthropic, CEO says",
     "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
     "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-    "Israeli settlers attack Palestinians during West Bank olive harvest",
-    "Starlink disruptions are being felt on the front lines of Ukraine"
+    "Israeli settlers attack Palestinians during West Bank olive harvest"
   ]
 }

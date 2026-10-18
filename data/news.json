@@ -1,39 +1,21 @@
 {
-  "updated": "2026-10-18T04:29:34.514235+00:00",
+  "updated": "2026-10-18T11:01:06.298189+00:00",
   "hero": {
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-10-17T23:52:38+00:00",
-    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-    "category": "politics",
-    "score": 10.924
+    "title": "Russia’s war in Ukraine puts Europe on edge",
+    "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-10-18T10:33:36+00:00",
+    "summary": "Poland’s FM addresses growing concerns that Russia’s war in Ukraine could spill over into neighbouring NATO countries.",
+    "category": "conflicts",
+    "score": 7.308
   },
   "items": [
     {
-      "title": "Deadly fire breaks out at Canada military base",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-18T04:00:50+00:00",
-      "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
-      "category": "politics",
-      "score": 4.807
-    },
-    {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-17T18:48:08+00:00",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "category": "tech",
-      "score": 4.588
-    },
-    {
-      "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-17T23:49:37+00:00",
-      "summary": "",
+      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+      "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-18T09:16:54+00:00",
+      "summary": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
       "category": "conflicts",
       "score": 4.533
     },
@@ -41,20 +23,38 @@
       "title": "Inflation",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YRl9lNm5MaDFJc0djbWhoR2pvVEJVN1F6U2ZCdVZWYXFzejc2Wkp6VWs4SVpKeExzMk5MTTM0blRKZTkybDRr?oc=5",
       "source": "AP News",
-      "published_at": "2026-10-17T16:54:49+00:00",
+      "published_at": "2026-10-17T22:19:01+00:00",
       "summary": "",
       "category": "finance",
-      "score": 4.394
+      "score": 4.193
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-17T23:52:38+00:00",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "category": "politics",
+      "score": 3.79
+    },
+    {
+      "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
+      "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-10-18T07:03:00+00:00",
+      "summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition.",
+      "category": "politics",
+      "score": 3.614
     }
   ],
   "hero_history": [
+    "Russia’s war in Ukraine puts Europe on edge",
     "European diplomats attacked by Israeli settlers in West Bank",
     "Replit is no longer working with Anthropic, CEO says",
     "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
     "Trump waives several Russia sanctions as row with Zelensky intensifies",
     "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
     "Israeli settlers attack Palestinians during West Bank olive harvest",
-    "Starlink disruptions are being felt on the front lines of Ukraine",
-    "Zelensky rallies European allies as Trump ties slump"
+    "Starlink disruptions are being felt on the front lines of Ukraine"
   ]
 }

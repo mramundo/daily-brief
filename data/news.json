@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-18T15:50:21.858969+00:00",
+  "updated": "2026-10-18T20:40:00.869824+00:00",
   "hero": {
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-10-18T12:16:14+00:00",
-    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-    "category": "politics",
-    "score": 6.772
+    "title": "Anthropic to commit 5% stake to new public benefit fund",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-18T19:11:37+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 13.573
   },
   "items": [
     {
-      "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-18T12:09:43+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 6.612
+      "title": "Israel: Trump endorses Netanyahu ahead of elections",
+      "url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-10-18T19:06:00+00:00",
+      "summary": "The US president said he supports Israel's current prime minister in the country's elections on October 27. But polls say Netanyahu and his far-right partners currently lack the majority to secure a new term.",
+      "category": "politics",
+      "score": 9.069
     },
     {
-      "title": "Anthropic Reportedly Posted Quarterly Revenue Growth of 50% and Was Cash-Flow Positive. Here's Why It Might Not Be Enough to Impress Investors Before the Company's Massive IPO",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQblVQUUhzTk1GSExocm5WandhSzdET3FEeWJVRHVNNTQ0TDkzS2YxUzdwUG1FRFNyU3lLdzJ5M3JqbTRRa1k5c3hHaGtFRktzMExESExKWExPc2pOMzlUSnlaenJWVXB2N3NpeGdCRXA4OFFaRmFmUFNVZVlKZzR1WGtwR3VzUGNGUFFvemRheXhRek10bVR5cVk5YlpRMktGSklFNXk0UWlwWWtFLW8zSEJBUnR6ckhDTW9TZ2tBTVg0ZkNYMUxKa0NCbi14bEZub2tHVlZuRjd4MlJjRXJ5bHNIRVROSDZkV2x0NHBWUHI5eFk2UUY0SWl5VlNyV19RSHM2TkgwQ0pfeHd2QUtoNWFYbVFHcFJyQXZXeHFlcGd0bkFLLUlxeEh1NEEwRWNhWkZVY1dzLUxxWEg3QUhSal9ybHJkeUpwY0JkYWh4bUhhbmlleUl0b1VpSTJSWHZEaFJwa2hQYkdhb0la?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "2026-10-18T14:33:19+00:00",
+      "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-18T17:19:48+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.668
+      "score": 5.749
+    },
+    {
+      "title": "Search for survivors as airstrike kills at least 9 in rebel-held Yemen",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYW5sTVJoVHVtSzJCVGI2d3BXTzZVMURCNEdDMW5kM3hJQ1RYeEp1eTdzQ3c3bEp2dVJMZWZTZl9Bd21OU0E4cWViejlzYmN3aEFRa0ZGcTlralVKZGtTcXlLRzFQUjhNSEJsZnh1V2hRend6VzlibThoMFZ0dk5ZbmQ1S0lPektkc3lSbWhqUWIyZnpwdjNEbHpUWWZJalFDMFA4cWRXQU16RzhJX19NekpyR0hBd0pSR2JMSEMtaUVKR0tEYV9F?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-18T16:15:00+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 5.496
     },
     {
       "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ001MUlHYUhFLTdzTlZPTWdsOG12UXhpTFdKOFQ1REFaUFVhWGZJTXk1V0Y3cGNhTTR3d1hnclJVamdMRFJlZ213WjVsblNIODZ6cUstbVp6U1o1STRyUVNMUXRPUkVFUlZJWWppUWo3VWpZOXB2WDlTck4yUXFQXy0wQktGczRPbkVkZ1dheURZcGp1dFA2WXVlaXpLeTNLVzAyVnhGWlRrUVNH?oc=5",
       "source": "AP News",
-      "published_at": "2026-10-18T15:01:00+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 4.848
-    },
-    {
-      "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-18T14:31:31+00:00",
+      "published_at": "2026-10-18T15:33:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.071
+      "score": 5.338
     }
   ],
   "hero_history": [
+    "Anthropic to commit 5% stake to new public benefit fund",
     "European diplomats attacked by Israeli settlers in West Bank",
     "Russia’s war in Ukraine puts Europe on edge",
     "European diplomats attacked by Israeli settlers in West Bank",
     "Replit is no longer working with Anthropic, CEO says",
     "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
     "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-    "Israeli settlers attack Palestinians during West Bank olive harvest"
+    "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports"
   ]
 }

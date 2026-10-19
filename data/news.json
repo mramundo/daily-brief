@@ -1,15 +1,24 @@
 {
-  "updated": "2026-10-18T20:40:00.869824+00:00",
+  "updated": "2026-10-19T04:37:40.806251+00:00",
   "hero": {
-    "title": "Anthropic to commit 5% stake to new public benefit fund",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-18T19:11:37+00:00",
-    "summary": "",
+    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Tech",
+    "published_at": "2026-10-19T04:30:59+00:00",
+    "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
     "category": "tech",
-    "score": 13.573
+    "score": 9.718
   },
   "items": [
+    {
+      "title": "Mission set to blast off for Mars to grab a piece of its moon",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-10-18T23:00:48+00:00",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "category": "science",
+      "score": 7.256
+    },
     {
       "title": "Israel: Trump endorses Netanyahu ahead of elections",
       "url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-rdf",
@@ -17,44 +26,35 @@
       "published_at": "2026-10-18T19:06:00+00:00",
       "summary": "The US president said he supports Israel's current prime minister in the country's elections on October 27. But polls say Netanyahu and his far-right partners currently lack the majority to secure a new term.",
       "category": "politics",
-      "score": 9.069
+      "score": 6.509
     },
     {
-      "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-18T17:19:48+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.749
-    },
-    {
-      "title": "Search for survivors as airstrike kills at least 9 in rebel-held Yemen",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYW5sTVJoVHVtSzJCVGI2d3BXTzZVMURCNEdDMW5kM3hJQ1RYeEp1eTdzQ3c3bEp2dVJMZWZTZl9Bd21OU0E4cWViejlzYmN3aEFRa0ZGcTlralVKZGtTcXlLRzFQUjhNSEJsZnh1V2hRend6VzlibThoMFZ0dk5ZbmQ1S0lPektkc3lSbWhqUWIyZnpwdjNEbHpUWWZJalFDMFA4cWRXQU16RzhJX19NekpyR0hBd0pSR2JMSEMtaUVKR0tEYV9F?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-18T16:15:00+00:00",
-      "summary": "",
+      "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-18T23:59:34+00:00",
+      "summary": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
       "category": "conflicts",
-      "score": 5.496
+      "score": 6.141
     },
     {
-      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ001MUlHYUhFLTdzTlZPTWdsOG12UXhpTFdKOFQ1REFaUFVhWGZJTXk1V0Y3cGNhTTR3d1hnclJVamdMRFJlZ213WjVsblNIODZ6cUstbVp6U1o1STRyUVNMUXRPUkVFUlZJWWppUWo3VWpZOXB2WDlTck4yUXFQXy0wQktGczRPbkVkZ1dheURZcGp1dFA2WXVlaXpLeTNLVzAyVnhGWlRrUVNH?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-18T15:33:00+00:00",
-      "summary": "",
+      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+      "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-19T02:10:09+00:00",
+      "summary": "The air strike, one of Ukraine's largest in the war, comes amid rising tensions between Kyiv and Washington.",
       "category": "conflicts",
-      "score": 5.338
+      "score": 5.913
     }
   ],
   "hero_history": [
+    "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
     "Anthropic to commit 5% stake to new public benefit fund",
     "European diplomats attacked by Israeli settlers in West Bank",
     "Russia’s war in Ukraine puts Europe on edge",
     "European diplomats attacked by Israeli settlers in West Bank",
     "Replit is no longer working with Anthropic, CEO says",
     "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
-    "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports"
+    "Trump waives several Russia sanctions as row with Zelensky intensifies"
   ]
 }

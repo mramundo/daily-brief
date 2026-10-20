@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-20T11:33:03.913333+00:00",
+  "updated": "2026-10-20T17:00:54.828643+00:00",
   "hero": {
-    "title": "Zelenskiy to meet Witkoff as Trump praises Russia and rebukes Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkRPR0Z1dlo4V3Fhb3J5MGZpRnVlSEluZk93Q1dFWXZaZ0pZc0EtMnowX0xYQmNoQ2lYWnVOTGtreXNKQUtpcElYLVpNZFNtelpTOVV2V0FiM0dGNFdIUDhDUkQyc0RRaTdVWkRrbkJJbFpzbVlYS2FyeEVSRFRpSk9BNFB6Vkp6N2UyMDhvWXg3VDNEbm5KLUUyZEpBN25QQl9iVXdEV1VBQUpvOHN4NEhRc2E0OEFuQ2c?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-20T10:38:01+00:00",
+    "title": "Micron Invests in Critical Minerals Processing With Indium",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHZwT0kxOTdsbDBnNVB5b285NjlDYlZLS1Z4VUJsNFprX2QyRkxfTVFCZTNodHl0UmVQZUcyLVVnaTVXUl83bU5ibTRYdEFORlA0YVdkWmFQVGJVdFFFUVY0OE5rWnlyb0k3Y242N2hRdDZkeFE2bmN4N2xUTktKSTlFSVVuT0hTVnE4czBTd1ZYY21JV2w5X0g1Ym1feVV4UFhNR3ZzQmd1WThlQVZEYmpJc2paZnN1M2c?oc=5",
+    "source": "Utica Observer Dispatch",
+    "published_at": "2026-10-20T16:53:07+00:00",
     "summary": "",
-    "category": "conflicts",
-    "score": 6.358
+    "category": "resources",
+    "score": 8.896
   },
   "items": [
+    {
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-20T16:20:06+00:00",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "category": "tech",
+      "score": 6.679
+    },
+    {
+      "title": "Phoenix Tailings to build $375-million rare earths facility in New York state",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlF0S1VoaWtIMFNnR0F4SV9rdVFJMzRIdGN6TG8xREMyYlFWaXZ6VG5mdVpZM3J2Q2owdlVaWkZrTVRRQXFSZy13Tkhya3psd3hiVnFQdXR1VW5KbFZjazNjb1dUd0VXVXJiS1U3RTl6VWlHZFdxX3lmdFVFeU91eE12VjlTcS0waXpISTkteDhQVnNBYWRtTGk1RXVPLUxrZURadm05LUdUTktYLWNBOTdKU0s1eFpjOXc?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-20T14:06:09+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 6.304
+    },
+    {
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-20T14:09:42+00:00",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "category": "conflicts",
+      "score": 6.296
+    },
     {
       "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-20T09:19:15+00:00",
+      "published_at": "2026-10-20T15:51:20+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.02
-    },
-    {
-      "title": "Yemen",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-20T05:14:03+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 5.471
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-19T23:18:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.287
-    },
-    {
-      "title": "Masoud Pezeshkian: Peace, Not Surrender",
-      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-20T11:02:31+00:00",
-      "summary": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
-      "category": "politics",
-      "score": 4.435
+      "score": 6.295
     }
   ],
   "hero_history": [
+    "Micron Invests in Critical Minerals Processing With Indium",
     "Zelenskiy to meet Witkoff as Trump praises Russia and rebukes Ukraine",
     "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
     "Anthropic, Nscale in talks for new $45 billion AI cloud computing deal, Bloomberg News reports",
     "Mission set to blast off for Mars to grab a piece of its moon",
     "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
     "Anthropic to commit 5% stake to new public benefit fund",
-    "European diplomats attacked by Israeli settlers in West Bank",
-    "Russia’s war in Ukraine puts Europe on edge"
+    "European diplomats attacked by Israeli settlers in West Bank"
   ]
 }

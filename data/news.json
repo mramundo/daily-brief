@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-21T04:43:19.467929+00:00",
+  "updated": "2026-10-21T11:45:37.807117+00:00",
   "hero": {
-    "title": "OpenAI says its AI agents weakened internal monitoring system",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-21T02:37:00+00:00",
+    "title": "Sudan",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jaXFiNHJFQm8yUGF1eFlLUG42OFlTbU84QVNWYWZrU0Q0T1k3UGhxQl9FVXlxbThpM0xYY2U3TWV5Zw?oc=5",
+    "source": "AP News",
+    "published_at": "2026-10-21T09:13:53+00:00",
     "summary": "",
-    "category": "tech",
-    "score": 6.051
+    "category": "conflicts",
+    "score": 8.768
   },
   "items": [
     {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "source": "The Verge",
-      "published_at": "2026-10-20T23:04:19+00:00",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann h",
-      "category": "tech",
-      "score": 4.872
-    },
-    {
-      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-21T03:59:18+00:00",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "category": "conflicts",
-      "score": 4.756
-    },
-    {
-      "title": "Asian stocks climb as strong earnings buoy Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-21T02:10:00+00:00",
+      "title": "Yemen",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-21T10:58:47+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 4.51
+      "category": "conflicts",
+      "score": 6.89
     },
     {
-      "title": "Egypt involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
+      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-10-21T10:16:17+00:00",
+      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+      "category": "finance",
+      "score": 5.712
+    },
+    {
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-10-21T06:36:39+00:00",
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+      "category": "tech",
+      "score": 5.455
+    },
+    {
+      "title": "US envoy Steve Witkoff thanks Vladimir Putin for diesel deal at Ukraine talks in Russia",
+      "url": "https://www.france24.com/en/us-envoy-steve-witkoff-thanks-vladimir-putin-for-diesel-deal-at-ukraine-talks-in-russia",
       "source": "France 24",
-      "published_at": "2026-10-20T21:18:48+00:00",
-      "summary": "Egypt's parliament on Monday delayed a debate on President Abdel Fattah al-Sisi's request to authorise military support for Saudi Arabia until next week, state media reported, after an emergency session ended without a decision a day earlier. FRANCE 24's Sharon Gaffney speaks wit",
+      "published_at": "2026-10-21T11:07:35+00:00",
+      "summary": "US envoy Steve Witkoff is in Saint Petersburg, holding talks with Russian president Vladimir Putin. The face to face meeting comes after he met with Ukraine's president and other European leaders in Oslo. Witkoff is due to return to the Norwegian capital after his visit to Russia",
       "category": "politics",
-      "score": 3.978
+      "score": 5.276
     }
   ],
   "hero_history": [
+    "Sudan",
     "OpenAI says its AI agents weakened internal monitoring system",
     "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
     "Micron Invests in Critical Minerals Processing With Indium",
     "Zelenskiy to meet Witkoff as Trump praises Russia and rebukes Ukraine",
     "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
     "Anthropic, Nscale in talks for new $45 billion AI cloud computing deal, Bloomberg News reports",
-    "Mission set to blast off for Mars to grab a piece of its moon",
-    "Anthropic says it will commit 5% of its shares to 'public benefit fund'"
+    "Mission set to blast off for Mars to grab a piece of its moon"
   ]
 }

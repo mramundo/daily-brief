@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-22T17:08:18.724549+00:00",
+  "updated": "2026-10-22T21:33:30.046561+00:00",
   "hero": {
-    "title": "Anthropic IPO stands alone as AI market jitters sideline others",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5",
+    "title": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
     "source": "Reuters",
-    "published_at": "2026-10-22T16:29:48+00:00",
+    "published_at": "2026-10-22T18:14:36+00:00",
     "summary": "",
     "category": "tech",
-    "score": 7.504
+    "score": 6.713
   },
   "items": [
     {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-22T13:53:26+00:00",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "category": "tech",
-      "score": 6.789
-    },
-    {
-      "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
-      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-22T12:12:32+00:00",
-      "summary": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.",
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-22T17:49:13+00:00",
+      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
       "category": "conflicts",
-      "score": 5.335
+      "score": 6.198
     },
     {
-      "title": "Yemen",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
+      "title": "Mark Zuckerberg makes deal with Meta to help him pay California billionaire tax, if it passes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWVrSU05RXd3Q0RmUmhPdUJGT1ZlOWpFcWY4QWM1QjYtdXVBOFJPd194U3V2Qlp3Vk5VLXN5S1VyMW9qdjR6aGNRbDFCYVBrVk9TYlRoelNJUEZBaDJQZDRpREotVEk2M01IMzNZekVoeWEzV1lxMTViTjJ1WlZFMTdhbWNSdEFUSFVHd21yTmVHc3o2RVdNME9fQVJIU3p1M3A3LXVjM2pYU05waVBWNEtOcXJlUQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-10-22T16:06:55+00:00",
+      "published_at": "2026-10-22T19:15:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 6.0
+    },
+    {
+      "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-22T18:55:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 5.275
+      "score": 5.607
     },
     {
-      "title": "Sinking AI stocks undercut markets worldwide as oil climbs to its highest price since May",
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-10-22T16:10:00+00:00",
+      "published_at": "2026-10-22T20:24:00+00:00",
       "summary": "",
       "category": "finance",
-      "score": 5.118
+      "score": 5.079
     }
   ],
   "hero_history": [
+    "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
     "Anthropic IPO stands alone as AI market jitters sideline others",
     "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
     "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
     "Anthropic takes on Muse with Claude Duet, its new AI agent",
     "OpenAI to sell its top models on Google Cloud in latest enterprise push",
     "Sudan",
-    "OpenAI says its AI agents weakened internal monitoring system",
-    "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
+    "OpenAI says its AI agents weakened internal monitoring system"
   ]
 }

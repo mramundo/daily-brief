@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-22T11:48:49.154250+00:00",
+  "updated": "2026-10-22T17:08:18.724549+00:00",
   "hero": {
-    "title": "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVKdGwtT1Q1eW9NVV8zZG9kakgxTk5vendNTS1NcEZYMEZGNE5ERVNCRkM3Qk5XMlZaY0xMeXIwQlYwMzJvQmpxc2M5SVlMbEVKYWpCMEsxSjA1Y1k5b1RkcXRKSFRSeUhQSmVhV2JvZ2V4STZzdmg2YURIOXd2dUVkTDdLQllVTmlNYjB3b0xkY09YMmd0b2ZNcTZSb00xc0R0VW5yZ1l6UkdTREIyTk1zZnVCS3RqcDE4Q0llaGF1UFEtanVTc1VLcF9XVVJyQ0wycmUzbnJZRTQ?oc=5",
+    "title": "Anthropic IPO stands alone as AI market jitters sideline others",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2RHNFI2M0VmLTVfUGwyWjBzTFZwcHBoNlFwZEttM3NHOHBVQzJmZmp0YV81V1lyX2VCWFZGMENVZzRhV3lPbVYzQWE1cHIwejVtbzlGR1hmMWpPTUlhM2pObDMyM1ZBMmEtbm14QXVnMUkzRnZvY25sTHlXM0hmTnNwbGx4SjNGaVhseGNHUVVQb0VzaVFVWTdVTUVMWkRVMS1JaFZWbDkzNmF5UEtWWWs2TEZxdjA?oc=5",
     "source": "Reuters",
-    "published_at": "2026-10-22T07:37:51+00:00",
+    "published_at": "2026-10-22T16:29:48+00:00",
     "summary": "",
     "category": "tech",
-    "score": 6.475
+    "score": 7.504
   },
   "items": [
     {
-      "title": "Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFlSa1BjRUNIMDhxY21GWElwRXJfQ3NCdGRtMzQ2SUFyRmJwdkRfVjdWRjVLTndOZXk4SERVNzE0T3VGY0tBMUZoWUFIeEo5NjhQYjBwMzFHRnROTjlTelNydjN6d3ZTWFRqZUlIenE3YnYwcmtmZmZxdnItTDNJNTNTM3ZvTXNfNG1UTmc2Z3FpNW4wSDRwWlNsMFl3RzZqYnpSX1dITUJqeG9QTWI0bG1Wc2kwamJmaHMtZjhWbXl2NzlLZ3c?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-22T09:08:41+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 5.911
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22T13:53:26+00:00",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "category": "tech",
+      "score": 6.789
     },
     {
-      "title": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-22T09:20:00+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.965
+      "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-22T12:12:32+00:00",
+      "summary": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.",
+      "category": "conflicts",
+      "score": 5.335
     },
     {
       "title": "Yemen",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
       "source": "AP News",
-      "published_at": "2026-10-22T06:33:19+00:00",
+      "published_at": "2026-10-22T16:06:55+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.422
+      "score": 5.275
     },
     {
-      "title": "EU's Sakharov Prize won by the International Criminal Court",
-      "url": "https://www.dw.com/en/eu-s-sakharov-prize-won-by-the-international-criminal-court/a-79730914?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-10-22T10:04:00+00:00",
-      "summary": "The EU has announced the International Criminal Court as the winner of this year's Sakharov Prize. The annual prize is awarded to individuals and organizations for their work in supporting human rights and democracy.",
-      "category": "politics",
-      "score": 4.351
+      "title": "Sinking AI stocks undercut markets worldwide as oil climbs to its highest price since May",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-22T16:10:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 5.118
     }
   ],
   "hero_history": [
+    "Anthropic IPO stands alone as AI market jitters sideline others",
     "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
     "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
     "Anthropic takes on Muse with Claude Duet, its new AI agent",
     "OpenAI to sell its top models on Google Cloud in latest enterprise push",
     "Sudan",
     "OpenAI says its AI agents weakened internal monitoring system",
-    "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "Micron Invests in Critical Minerals Processing With Indium"
+    "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
   ]
 }

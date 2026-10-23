@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-23T11:35:37.597971+00:00",
+  "updated": "2026-10-23T17:04:23.198351+00:00",
   "hero": {
-    "title": "OpenAI and Poland’s NASK collaborate on AI safety research",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXlMRjNfSEdNVUNrX29ZdW16eE9Ra1ZIbFZhTDFGSXNfSTlNSHZFc3k5MW5FbFdiVHU3Y0NzYkhrSTY0SDFKWXBaT1FXY1pXeDQ1SXZZTUFLMnRxbDhJWFJQWUlHOE1QWXRRei1QM19ySm9udl9FR2ZIQTJVZ014RHd5eDVDYjhnWDFQdDVrQ3pCSXllRmZURzU0UTZfSmJzZTVtM0Vn?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-23T06:25:00+00:00",
-    "summary": "",
+    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+    "source": "TechCrunch",
+    "published_at": "2026-10-23T16:02:43+00:00",
+    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
     "category": "tech",
-    "score": 7.528
+    "score": 5.76
   },
   "items": [
     {
-      "title": "The Morning Risk Report: The Signal Chats That Cost OpenAI Researchers Their Jobs",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdG1zWHJHcHdMY1NrMDFadURzb0tpeUsxa3hGeEpnXzYtaGhKa3p6N05hSmtmRE9Oc01RUlVXbGpPeXFsaHdJaTh0THhJcEtvQ1dFMHh5S2lhaWxST3ZmdEhzZF9PdVFuS19ud05pcm9nVzJvOUZQRmd4TFhwWVl3LUdEVEtRR1pNVFJxMEFmS2kweUM1U0hNNjVGVlpCYy1uMGtvUGgya3ZsRFlja1c3VHlIbWFfMUdhdlUtYUFFZ1VQQnFNRVpGTnVpa1RmZw?oc=5",
-      "source": "WSJ",
-      "published_at": "2026-10-23T10:56:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 4.499
-    },
-    {
-      "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-10-23T06:11:27+00:00",
-      "summary": "Support crucial from 47-nation AFC's president, who was critic of Gianni Infantino over failed private investment plan.",
-      "category": "politics",
-      "score": 4.483
-    },
-    {
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-23T10:26:06+00:00",
-      "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
-      "category": "conflicts",
-      "score": 4.398
-    },
-    {
-      "title": "AI trade meets the Fed",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
+      "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-23T11:05:01+00:00",
+      "published_at": "2026-10-23T16:50:04+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 4.967
+    },
+    {
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-23T16:59:51+00:00",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "category": "conflicts",
+      "score": 4.888
+    },
+    {
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-10-23T15:30:47+00:00",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "category": "science",
+      "score": 4.746
+    },
+    {
+      "title": "Wall Street mostly loses ground under pressure from rising oil prices",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-23T15:31:00+00:00",
       "summary": "",
       "category": "finance",
-      "score": 4.348
+      "score": 4.163
     }
   ],
   "hero_history": [
+    "What some of Anthropic’s backers are reportedly worth before its IPO",
     "OpenAI and Poland’s NASK collaborate on AI safety research",
     "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
     "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
     "Anthropic IPO stands alone as AI market jitters sideline others",
     "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
     "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-    "Anthropic takes on Muse with Claude Duet, its new AI agent",
-    "OpenAI to sell its top models on Google Cloud in latest enterprise push"
+    "Anthropic takes on Muse with Claude Duet, its new AI agent"
   ]
 }

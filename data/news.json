@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-22T21:33:30.046561+00:00",
+  "updated": "2026-10-23T04:46:24.846246+00:00",
   "hero": {
-    "title": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-22T18:14:36+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 6.713
+    "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+    "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-10-23T01:46:40+00:00",
+    "summary": "Trump has declined to comment on the process that led Starlink to lift speed and access restrictions on Ukraine.",
+    "category": "conflicts",
+    "score": 5.782
   },
   "items": [
     {
@@ -17,44 +17,44 @@
       "published_at": "2026-10-22T17:49:13+00:00",
       "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
       "category": "conflicts",
-      "score": 6.198
+      "score": 5.286
     },
     {
-      "title": "Mark Zuckerberg makes deal with Meta to help him pay California billionaire tax, if it passes",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWVrSU05RXd3Q0RmUmhPdUJGT1ZlOWpFcWY4QWM1QjYtdXVBOFJPd194U3V2Qlp3Vk5VLXN5S1VyMW9qdjR6aGNRbDFCYVBrVk9TYlRoelNJUEZBaDJQZDRpREotVEk2M01IMzNZekVoeWEzV1lxMTViTjJ1WlZFMTdhbWNSdEFUSFVHd21yTmVHc3o2RVdNME9fQVJIU3p1M3A3LXVjM2pYU05waVBWNEtOcXJlUQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-22T19:15:00+00:00",
-      "summary": "",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-22T22:08:24+00:00",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
       "category": "tech",
-      "score": 6.0
+      "score": 4.56
     },
     {
-      "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-22T18:55:00+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 5.607
+      "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
+      "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-23T02:09:38+00:00",
+      "summary": "US federal agents raided the congresswoman’s home last week as part of an investigation into alleged immigration fraud.",
+      "category": "politics",
+      "score": 4.197
     },
     {
-      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-22T20:24:00+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 5.079
+      "title": "Spiral’s Edge",
+      "url": "https://www.nasa.gov/image-article/spirals-edge/",
+      "source": "NASA",
+      "published_at": "2026-10-22T21:35:38+00:00",
+      "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite",
+      "category": "science",
+      "score": 4.039
     }
   ],
   "hero_history": [
+    "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
     "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
     "Anthropic IPO stands alone as AI market jitters sideline others",
     "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says",
     "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
     "Anthropic takes on Muse with Claude Duet, its new AI agent",
     "OpenAI to sell its top models on Google Cloud in latest enterprise push",
-    "Sudan",
-    "OpenAI says its AI agents weakened internal monitoring system"
+    "Sudan"
   ]
 }

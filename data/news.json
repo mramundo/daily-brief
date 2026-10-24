@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-24T04:33:37.021864+00:00",
+  "updated": "2026-10-24T10:56:35.610834+00:00",
   "hero": {
-    "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-23T20:06:00+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 4.644
+    "title": "Netanyahu orders West Bank operation",
+    "url": "https://www.france24.com/en/netanyahu-orders-west-bank-operation",
+    "source": "France 24",
+    "published_at": "2026-10-24T10:33:52+00:00",
+    "summary": "Israel has imposed widespread closures across the occupied West Bank and displaced residents following attacks by Palestinian gunmen that killed two Israeli soldiers. Prime Minister Benjamin Netanyahu visited the site of the attack near Hebron and instructed security forces to im",
+    "category": "politics",
+    "score": 6.894
   },
   "items": [
     {
+      "title": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-24T09:11:16+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 5.329
+    },
+    {
+      "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWxOT1R0TTM5dHVRNlg1d1Q3dy1QbF9DZHpaejlCRlJIQjUxRDlmTTBWXzlXSnM3M2dWVWhtbF9YRml0SUtfU180amRQZGVITTdFSlYxak9vTGctV1lKXzZVekZ5WmpnZ25Rd2o1UjdITHc3d3FqY1ZpV0lnTkhmQzRtbXBuY2hTNTVmeFJmTXBITy04NVhkRVUzUUd2Xy1NbEkxaURjYw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-24T08:00:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 5.072
+    },
+    {
       "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEgtSy0yTlpneW1Oa2l0NkVTV29zRjdpNXZ5eXBiSmt1dWRwMWV2bU90UE0xZU84T0NLUF9UNFNyRl9GaUZvS0xVRVhxNkgyT0hUSEFmeDJ1eXNIeHFzZnkyeVR3WjJCRDdKZ3lyNFV0eFAwSndyNlljNnQ4NzZpYnJybzZlUVF2Yzhqdm9EV0didDBLZ3B2RWVKczRuY05QY2ZaRUhPQ2praDFGeGNUTWx3?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-10-23T23:01:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 4.282
+      "score": 4.455
     },
     {
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "source": "NASA",
-      "published_at": "2026-10-23T22:37:53+00:00",
-      "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency)",
-      "category": "science",
-      "score": 4.255
-    },
-    {
-      "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+      "title": "Ukraine says Starlink and Starshield operating at 400 kph after week of throttling",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-23T21:16:00+00:00",
+      "published_at": "2026-10-24T09:13:50+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.231
-    },
-    {
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "source": "NASA",
-      "published_at": "2026-10-23T21:51:19+00:00",
-      "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astron",
-      "category": "science",
-      "score": 4.119
+      "score": 4.136
     }
   ],
   "hero_history": [
+    "Netanyahu orders West Bank operation",
     "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
     "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
     "What some of Anthropic’s backers are reportedly worth before its IPO",
     "OpenAI and Poland’s NASK collaborate on AI safety research",
     "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
     "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
-    "Anthropic IPO stands alone as AI market jitters sideline others",
-    "Samsung Electro-Mechanics gets $2.8 billion chip investment from Tesla, Nvidia, report says"
+    "Anthropic IPO stands alone as AI market jitters sideline others"
   ]
 }

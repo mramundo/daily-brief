@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-25T04:38:11.872290+00:00",
+  "updated": "2026-10-25T11:23:48.891510+00:00",
   "hero": {
-    "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LUEVFelZ1Qlk2dE9MQ3pjRnFyM2dOQ0drMExKbW9JMUtSTEVwWXEwRjFZZ2V0Q2JaNXZVUjFVU3J5Q3VQUVB6NVFMbFRzNmdvcUdOc3J4Q2F2akl2RnNDQjAxd0hhdw?oc=5",
-    "source": "IMDb",
-    "published_at": "2026-10-25T02:41:51+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 5.515
+    "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+    "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-10-25T10:42:51+00:00",
+    "summary": "Saudi-led coalition says intercepted drone, missile launched towards Riyadh and 10 missiles targeting southern region.",
+    "category": "conflicts",
+    "score": 7.277
   },
   "items": [
     {
-      "title": "BKU.F Stock Analysis: Prediction, Earnings, Dividend",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vbl80S3hJdHFFc0ZxZkZwSDZ0N1lrMVJkQUJwZmZnT3c3Q0R1aEtXVk1zMGRSSUZaalhCb2ItNFBQczJvbDZ4em43NnVaSS1scF9wWkRmSDhsRWZiZUlaYUl0SzR6RjRpeUJqZQ?oc=5",
+      "title": "Serbia holds a parliamentary election as populist Vucic faces protesting students",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9RN2t0QWZJWXdXekhjZVNLbU9Xek1ibDZsQTVpMmszTWtzMjdpbTlCeTJEZE1SdkJobXVsWUxLT24tMlY2b1N5bWZCc3dEeDJ5MVduRUhnN3NQLUh2UXRBX0Y1ci1tanJXY1N1OWNMVkdVd1BlR0Y3UFM4eFZ1UEgtS3pXWHI5RmY2TXRlc0d6OEFQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-25T09:04:00+00:00",
+      "summary": "",
+      "category": "politics",
+      "score": 5.995
+    },
+    {
+      "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.",
+      "category": "politics",
+      "score": 5.929
+    },
+    {
+      "title": "IDDTF.PK Stock Analysis: Prediction, Earnings, Dividend",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83Vk1ueVNMU0o4TzNJMmhDenZ6TUxxblZwdjZfMDJvREFLV0Q0cDg5YWdfU3JIMUxpQVFXbkxmOEVNa0IwMXYtdGZFRG5weVNfVHVQMlVFa0hIQVBFb1RNWDJyNzNZbFNSTEp6cVctSkk?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-24T16:24:53+00:00",
+      "published_at": "2026-10-24T21:12:36+00:00",
       "summary": "",
       "category": "finance",
-      "score": 5.115
+      "score": 5.394
     },
     {
-      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+      "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-10-25T02:45:43+00:00",
-      "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
+      "published_at": "2026-10-25T07:59:38+00:00",
+      "summary": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
       "category": "conflicts",
-      "score": 4.507
-    },
-    {
-      "title": "Yemen's Houthis renew warning against using Riyadh airport",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-24T23:57:43+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 4.129
-    },
-    {
-      "title": "Gamers are turning old Nvidia GPUs into cheap AI chips as rental prices spike",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTW0wbmhkVnJycDQ1TGktZWctX0YxUkhqd25GeEpCU1h4eTdtbWhjQnhsdUhmRzRQamFITDdDeXVkNGh0ZEktU1pBUU5FeExqNjF4Nkt3eGdYTlUwLThtV1NHOG9xZFY5dURKOV9kVnJMQVd1STkySjVVNmY3bk1iRWVzRVJvWXNQU1FQaExETGt5ZWpLWmFBUEFST1lFcnpQZnc3cUxYaUg?oc=5",
-      "source": "Startup Fortune",
-      "published_at": "2026-10-25T04:24:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 3.974
+      "score": 4.229
     }
   ],
   "hero_history": [
+    "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
     "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
     "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
     "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
     "Netanyahu orders West Bank operation",
     "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
     "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
-    "What some of Anthropic’s backers are reportedly worth before its IPO",
-    "OpenAI and Poland’s NASK collaborate on AI safety research"
+    "What some of Anthropic’s backers are reportedly worth before its IPO"
   ]
 }

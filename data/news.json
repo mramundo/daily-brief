@@ -1,32 +1,41 @@
 {
-  "updated": "2026-10-27T12:07:58.765902+00:00",
+  "updated": "2026-10-27T17:59:07.728394+00:00",
   "hero": {
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "source": "TechCrunch",
-    "published_at": "2026-10-27T11:00:00+00:00",
-    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-27T16:50:09+00:00",
+    "summary": "",
     "category": "tech",
-    "score": 6.554
+    "score": 6.297
   },
   "items": [
     {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-27T11:53:57+00:00",
-      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "category": "conflicts",
-      "score": 6.019
-    },
-    {
-      "title": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
+      "title": "Who controls powerful AI? Anthropic has a plan for long after its leaders depart",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdLMFpXUmh5WjlTQUxaOExSbmM0bTV2bGRRY05iSnNfT1BnZ3l6OWFON2hYMlh0MnNyeDV3c2NGN2dHUl9xbVo0SHJzdkFHUWFfNHdNU2g0RktoYnZPdXc4ZEcxNW5SRzU3Njg4VzhscE14ODk3T0tONHBSYnFMNk5IYXdvSDktY2FNZDR2Tnd0dG82NHBuQUV0d3lVWVBoYkpNM1dwcjJCVDRseTVwQkxZWEpFNkhHOUFTRA?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-27T06:08:00+00:00",
+      "published_at": "2026-10-27T14:45:58+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.003
+      "score": 5.777
+    },
+    {
+      "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-27T14:36:49+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 5.403
+    },
+    {
+      "title": "First lady Melania Trump says Ukraine-Russia ceasefire expanded within Kherson",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWI5XzRBZkxjUTFKVVhqZmVHVkU4NmZVRGdWak5SRUhZN1ZIMEdzMzRzQjI3eW9zeC1UakhZZmZuNF9hS0VtV2J0YVF4bDVad2kyUklyYnNVOVNlWXBES29JUk9iVHJhTld2NEVSSE9Wa0F6UUwzM3pCQmVTTFlUNm43ZUEwLXZHbHoyTmRYX29oREFfdGZrUjhwZmx5UVprM3owTmR0N2FhLXlkalVzd1JUbjgybTdWbVREMEVwb3dHUkdRM2c?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-27T16:10:26+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 4.652
     },
     {
       "title": "What is Nasa's Artemis III mission? And what comes next?",
@@ -35,26 +44,17 @@
       "published_at": "2026-10-27T10:33:26+00:00",
       "summary": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
       "category": "science",
-      "score": 5.692
-    },
-    {
-      "title": "Hold or sell? High Treasury yields spur US banks to rethink bond portfolios",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlRoclI1cWxjMnVMUDNDMU1HYXoyOWRGTjlpOGs1ejBTNzRxNGtJQVJ5NVYxM2d2cjlXOThnX3dvQ0Nld2JGVWdmRmZpTjhmLTlUVlVoU0FnNENXb1pydXVQNlpaZy0zZjVfdXlOSWtwbW9KZlAybzRfNlBsNVc4VmVhSFhBajIzcTl6Y0QwR0pvWEtVbjNxTTJPdHNWcFNwakFOZE05Tk4wSTJOa2JOTWpobXFNR01WUHlqVEViaS1selhWTWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-27T10:11:08+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 4.626
+      "score": 4.46
     }
   ],
   "hero_history": [
+    "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
     "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
     "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
     "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
     "Israel braces for national elections seen as a referendum on Netanyahu",
     "World reacts to Lula’s victory in Brazil’s presidential election",
     "Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Projection for AI Spending. Here's Why That Makes Nvidia a Screaming Buy Now.",
-    "Serbia holds a parliamentary election as strongman Vucic faces protesting students",
-    "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages"
+    "Serbia holds a parliamentary election as strongman Vucic faces protesting students"
   ]
 }

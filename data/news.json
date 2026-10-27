@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-27T05:00:43.933041+00:00",
+  "updated": "2026-10-27T12:07:58.765902+00:00",
   "hero": {
-    "title": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdEdzTDdxbEtNX1l6VDJMdF9NTGpUNEJPYy1jaUo2SkllaGhJZnZvNzZOOTd5MkZHV3p5T2ZhcjlkcWduOXp5elFKREQ0bFBib0pXUzNKdGI2QmE3eWZxRlktZXhSZG0tQzQ4U1dXNWxOZktiZVZvc1pNUERsYUFLVUJYSQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-27T01:46:00+00:00",
-    "summary": "",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "source": "TechCrunch",
+    "published_at": "2026-10-27T11:00:00+00:00",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
     "category": "tech",
-    "score": 6.562
+    "score": 6.554
   },
   "items": [
     {
-      "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-27T11:53:57+00:00",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "category": "conflicts",
+      "score": 6.019
+    },
+    {
+      "title": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-26T20:32:00+00:00",
+      "published_at": "2026-10-27T06:08:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.413
+      "score": 6.003
     },
     {
-      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine as Russia attacks other areas",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkZvYUdad3FWZ0VGLUk4emZUR3RUODJqUlhVbEJzSkdIU25PaGgzU2ZhNUN5c0dzY3dLcXpDOU5ZUU5kRUU4TEFtSTdVVUZKTlBTNUpESldXYXMxaW1RZy0wTnc4MjFpY21DZTh1S0l5dHNDbU43TmVIb01UUzFDdFRDSmpyajZMalhCdg?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-27T02:57:00+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 4.604
+      "title": "What is Nasa's Artemis III mission? And what comes next?",
+      "url": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-10-27T10:33:26+00:00",
+      "summary": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
+      "category": "science",
+      "score": 5.692
     },
     {
-      "title": "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkE2MkVyd2dKcU5mTWp1VmY5c0pENUN0WjhPTHJDTXZQRENZU2JQa09JbWJaTUpicnN0RkFuTllzRHE0bUtOSjdrSDBiZ3FMYVVhdjVtVFRZLXJoRmRmNldVWXg0SjUxVFppSjQyYXhVajhydnFRRS0yRmNEcW9XWjJZWWpUYjBUR1NCSWFFa3AzNFhDWDVYeVU2VHdQd2ZMcHM1NDhLM3RrTnY5MVlPU0szSWN4ZUlVRmN1OERpcFM3UTBtNGxUNXBVNzltalU?oc=5",
+      "title": "Hold or sell? High Treasury yields spur US banks to rethink bond portfolios",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlRoclI1cWxjMnVMUDNDMU1HYXoyOWRGTjlpOGs1ejBTNzRxNGtJQVJ5NVYxM2d2cjlXOThnX3dvQ0Nld2JGVWdmRmZpTjhmLTlUVlVoU0FnNENXb1pydXVQNlpaZy0zZjVfdXlOSWtwbW9KZlAybzRfNlBsNVc4VmVhSFhBajIzcTl6Y0QwR0pvWEtVbjNxTTJPdHNWcFNwakFOZE05Tk4wSTJOa2JOTWpobXFNR01WUHlqVEViaS1selhWTWc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-27T02:17:00+00:00",
+      "published_at": "2026-10-27T10:11:08+00:00",
       "summary": "",
-      "category": "conflicts",
-      "score": 4.478
-    },
-    {
-      "title": "Australia revamps critical minerals strategy, targeting refining edge over China",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmVGhuRWZsOXAtWUJyTDNBbVgtSnZxbE9lNTJPV1p4RThIVE8tY1VEMUUtMHpsT194bVRDRXhBTTA2SDlkMnFSWlFfWldscDlQ?oc=5",
-      "source": "The Edge Malaysia",
-      "published_at": "2026-10-27T01:09:10+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.242
+      "category": "finance",
+      "score": 4.626
     }
   ],
   "hero_history": [
+    "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
     "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
     "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
     "Israel braces for national elections seen as a referendum on Netanyahu",
     "World reacts to Lula’s victory in Brazil’s presidential election",
     "Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Projection for AI Spending. Here's Why That Makes Nvidia a Screaming Buy Now.",
     "Serbia holds a parliamentary election as strongman Vucic faces protesting students",
-    "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-    "Anthropic Sued for Using Elvis Presley Music to Train AI Models"
+    "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages"
   ]
 }

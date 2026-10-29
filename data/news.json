@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-29T05:44:59.390029+00:00",
+  "updated": "2026-10-29T12:57:21.518483+00:00",
   "hero": {
-    "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-29T02:11:00+00:00",
+    "title": "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ212YjVaazY5by1rZjRjMVJySmx0WkFJMXFVOUJJQUczc0xyQWRqS3dGdFRMelBKU0FYcE83UUtTTTVqVHRJb0JhSlJORTYwS2Y5R0prVW1iSEFxMVRqUVZYVFRtdjRQcWE2MU11cE03dTNCdnRhdmNySnpkUEZGYUx6NG9mSjA5TWlBbFNyRzZfeEVWeTJuTTJB?oc=5",
+    "source": "AP News",
+    "published_at": "2026-10-29T11:30:00+00:00",
     "summary": "",
-    "category": "tech",
-    "score": 5.694
+    "category": "conflicts",
+    "score": 5.181
   },
   "items": [
     {
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-29T01:14:01+00:00",
-      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "category": "politics",
-      "score": 5.425
-    },
-    {
-      "title": "Prediction market bets set the tone for Anthropic's much-awaited IPO",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3hmM3czNEdSNnpYeVB5eGZpZVB5QzJSa3ZNdDVsVVd4WHVZTkhyMjFpM3J1czNvMFprVU1NZmN3cDJmT1FTN0ZCRXFkYzI4TFVpbkZ0alFuY2l1QmhXWmJ3V1duQVhaSThlSjY3djh6empxXzM3VGIxQmVsMUFXSGdEVjRZMW1EeXZnU2Q3cHRITE5XWElQbG4zOERNUW44WXd0RkdYVDdQc0xERGdPdWRn?oc=5",
+      "title": "ECB President Lagarde resigns effective Feb 7",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3FmVnJnVlFQYVZ3U0k0TFpoWDdmQWVHZ0lZU21uOVZLZUVhZ2d3djg0YzJNc2RURmxMTkVULURKZTBKcy1wMlJ5ZldxTjRQSkJ3ak55MU0yU1ItalNRYmZDbHZzWkh6UmN3OHlucWFhQWhrSkYtcjZnSnNINWhybXdLLTh3elNvY3dvenVUQnp3TmpQUExzUkpzYzkzcU0?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-28T19:32:07+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.036
-    },
-    {
-      "title": "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3F1YnVQRFlzek5JbUlNWWRDWEQySFVzemNFQ0p0VHhjUTBMdnQ3VktON3FFaWE5VENiVFJSaTl3TTlzZVluQnlTT1NFR3gybTMyTjR2eVRsN0lrNlJSVkVweGFyTW5odGtDYm52SW85Smx1LWEyYnhUaWZNMUxjZHpXNG1VdDVpR3NmcWh4SnpFVVByVlZJQWNySjBFM1R3NWwwUThYZmRJX2toQzRGTjdEcnI4ZzdmLUo4SVpR?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-29T04:20:00+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 4.729
-    },
-    {
-      "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-28T23:53:34+00:00",
+      "published_at": "2026-10-29T10:16:39+00:00",
       "summary": "",
       "category": "finance",
-      "score": 4.492
+      "score": 4.924
+    },
+    {
+      "title": "Alphabet, Amazon, SpaceX, Microsoft, Broadcom, and AMD Are Counting on Anthropic's IPO. Not All Their Contracts Are Equal.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTZNUlBadGhjNWN0SFptdUgxMkJ2WlluN3dOSmRaaUsxTjhKMFRDWHIwV0lSdHBnU2hCWHl1RENMaDB3aW9oVWh2OFRfR3N1S3Y2NGZySENWMVR4eFRZdWZGM0VBZUsxdURUdFAtRXdzVTdNQlM5SjljSzU4NUVsYkpRMWZseG56T3RLcVpzRGpqSkcwdzJnZjJZdHV0cEZHLWF0WE1YaUs?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-29T12:15:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 4.871
+    },
+    {
+      "title": "ECB President Christine Lagarde to step down in February 2027, nine months before term ends",
+      "url": "https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends",
+      "source": "© Antony Wallace, AFP",
+      "published_at": "2026-10-29T10:21:52+00:00",
+      "summary": "European Central Bank President Christine Lagarde will step down on February 7, 2027, nearly nine months before her term expires, the ECB said Thursday. Her successor will be appointed by the European Council under EU treaty rules.",
+      "category": "politics",
+      "score": 4.843
+    },
+    {
+      "title": "Uganda says 27 citizens killed or presumed dead fighting for Russia in Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmlOUVh6LWFCS1BEWGszSDN6ek1rdWkwU2FueWs4WUdhUnJHbDI5S2RqR2ozdHhoWmVMd0ZUR2JLSEZzZVlCZ1N2ZzlBUzUwUWR3dVRIbnRJVm9DU0RnOXYxSTE2alJvWWY0QmN5V3dwdDJBdnV6MTN1ZHZWX0liTEFCYWhLSjNfSlJVRVduanJJUGhjeW4td0ttTDM4Y2ZZTk9pd0prODhhN2ptd1IwYldnaG1nOHhDdVVsVQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-29T10:08:56+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 4.463
     }
   ],
   "hero_history": [
+    "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
     "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
     "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
     "Israeli election: As votes are counted, no clear winner emerges",
     "France minerals envoy says rare earths diversification from China possible within 3-5 years",
     "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election",
     "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
-    "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks"
+    "Nvidia backs Indian startup helping companies run AI models with fewer GPUs"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-29T12:57:21.518483+00:00",
+  "updated": "2026-10-29T22:43:17.877863+00:00",
   "hero": {
-    "title": "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ212YjVaazY5by1rZjRjMVJySmx0WkFJMXFVOUJJQUczc0xyQWRqS3dGdFRMelBKU0FYcE83UUtTTTVqVHRJb0JhSlJORTYwS2Y5R0prVW1iSEFxMVRqUVZYVFRtdjRQcWE2MU11cE03dTNCdnRhdmNySnpkUEZGYUx6NG9mSjA5TWlBbFNyRzZfeEVWeTJuTTJB?oc=5",
-    "source": "AP News",
-    "published_at": "2026-10-29T11:30:00+00:00",
+    "title": "Russian drone strike kills 14 on Ukrainian rail platform",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-29T21:22:56+00:00",
     "summary": "",
     "category": "conflicts",
-    "score": 5.181
+    "score": 6.248
   },
   "items": [
     {
-      "title": "ECB President Lagarde resigns effective Feb 7",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3FmVnJnVlFQYVZ3U0k0TFpoWDdmQWVHZ0lZU21uOVZLZUVhZ2d3djg0YzJNc2RURmxMTkVULURKZTBKcy1wMlJ5ZldxTjRQSkJ3ak55MU0yU1ItalNRYmZDbHZzWkh6UmN3OHlucWFhQWhrSkYtcjZnSnNINWhybXdLLTh3elNvY3dvenVUQnp3TmpQUExzUkpzYzkzcU0?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-29T10:16:39+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 4.924
+      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+      "source": "ESA",
+      "published_at": "2026-10-29T14:00:00+00:00",
+      "summary": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the s",
+      "category": "science",
+      "score": 5.635
     },
     {
-      "title": "Alphabet, Amazon, SpaceX, Microsoft, Broadcom, and AMD Are Counting on Anthropic's IPO. Not All Their Contracts Are Equal.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTZNUlBadGhjNWN0SFptdUgxMkJ2WlluN3dOSmRaaUsxTjhKMFRDWHIwV0lSdHBnU2hCWHl1RENMaDB3aW9oVWh2OFRfR3N1S3Y2NGZySENWMVR4eFRZdWZGM0VBZUsxdURUdFAtRXdzVTdNQlM5SjljSzU4NUVsYkpRMWZseG56T3RLcVpzRGpqSkcwdzJnZjJZdHV0cEZHLWF0WE1YaUs?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-29T12:15:00+00:00",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source": "TechCrunch",
+      "published_at": "2026-10-29T16:42:32+00:00",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "category": "tech",
+      "score": 5.348
+    },
+    {
+      "title": "Nvidia's Huang says dealings with firm in US spy probe were 'normal', Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJwa3VEMVZBTzlycmloVGNCSVdBTjU3d1RlNlA1OFFDdkpBVXZBNi13S1JOV3MwRDFtUkk2M0t2UzQ5aFUweGl3RGFQQ1I3blJpMHlEV2lhUEEtNkJYdEhXeU5mVGxNWjlXUmpWd2NLejFiUkJyYUxOR0dZWlB6RUtUejhwQWV2ek41cm14V0dfM1I4cVNHQTBVeWpyRzRwQzNjMlNkcjVlZkdrbWd0aGhrbE1EUzlEQXpIWGhERkxmcjA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-29T19:54:29+00:00",
       "summary": "",
       "category": "tech",
-      "score": 4.871
+      "score": 4.896
     },
     {
-      "title": "ECB President Christine Lagarde to step down in February 2027, nine months before term ends",
-      "url": "https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends",
-      "source": "© Antony Wallace, AFP",
-      "published_at": "2026-10-29T10:21:52+00:00",
-      "summary": "European Central Bank President Christine Lagarde will step down on February 7, 2027, nearly nine months before her term expires, the ECB said Thursday. Her successor will be appointed by the European Council under EU treaty rules.",
-      "category": "politics",
-      "score": 4.843
-    },
-    {
-      "title": "Uganda says 27 citizens killed or presumed dead fighting for Russia in Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmlOUVh6LWFCS1BEWGszSDN6ek1rdWkwU2FueWs4WUdhUnJHbDI5S2RqR2ozdHhoWmVMd0ZUR2JLSEZzZVlCZ1N2ZzlBUzUwUWR3dVRIbnRJVm9DU0RnOXYxSTE2alJvWWY0QmN5V3dwdDJBdnV6MTN1ZHZWX0liTEFCYWhLSjNfSlJVRVduanJJUGhjeW4td0ttTDM4Y2ZZTk9pd0prODhhN2ptd1IwYldnaG1nOHhDdVVsVQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-29T10:08:56+00:00",
+      "title": "Yemen’s besieged Taiz is in famine, governor says, as 13 are killed by Saudi airstrike",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGhOc25xbjk3U1J3aEFLTGtINlktU3RVRE8wajJ3LTFQZXFEa08yYlZaUWtwd3R5aGF4bzhhOTg3SC02OE9wcnVXSEx0SVN6dy00WGZOMFlBLU9YMXFYNWt3QWx6SVM2SENIa0ItRnpOWGFkcFlXOHNicC03bW5hVEVRN25KNERMMlB4eXR4YzlFTi1VSEpIUkwyQlhPSmFxRXp1VkEyNUZIM05OdmFiVQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-29T18:50:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.463
+      "score": 4.876
     }
   ],
   "hero_history": [
+    "Russian drone strike kills 14 on Ukrainian rail platform",
     "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
     "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
     "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
     "Israeli election: As votes are counted, no clear winner emerges",
     "France minerals envoy says rare earths diversification from China possible within 3-5 years",
     "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election",
-    "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
-    "Nvidia backs Indian startup helping companies run AI models with fewer GPUs"
+    "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings"
   ]
 }

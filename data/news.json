@@ -1,15 +1,24 @@
 {
-  "updated": "2026-10-28T22:32:36.602354+00:00",
+  "updated": "2026-10-29T05:44:59.390029+00:00",
   "hero": {
-    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-    "source": "The Verge",
-    "published_at": "2026-10-28T20:03:00+00:00",
-    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau",
+    "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-10-29T02:11:00+00:00",
+    "summary": "",
     "category": "tech",
-    "score": 7.145
+    "score": 5.694
   },
   "items": [
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-29T01:14:01+00:00",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "category": "politics",
+      "score": 5.425
+    },
     {
       "title": "Prediction market bets set the tone for Anthropic's much-awaited IPO",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3hmM3czNEdSNnpYeVB5eGZpZVB5QzJSa3ZNdDVsVVd4WHVZTkhyMjFpM3J1czNvMFprVU1NZmN3cDJmT1FTN0ZCRXFkYzI4TFVpbkZ0alFuY2l1QmhXWmJ3V1duQVhaSThlSjY3djh6empxXzM3VGIxQmVsMUFXSGdEVjRZMW1EeXZnU2Q3cHRITE5XWElQbG4zOERNUW44WXd0RkdYVDdQc0xERGdPdWRn?oc=5",
@@ -17,44 +26,35 @@
       "published_at": "2026-10-28T19:32:07+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.799
+      "score": 5.036
     },
     {
-      "title": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjdOaHZoX3J6U1JBZU92Q1VkV2F0OFI0WUo5b2l0UHh5WXVNWDZHVElxNktfMUh0WEh6REdiVXZxWlNHdm1hV2RBMHE1TnZjamY4dDA5VWZlMjhDV3I0Z1I4MDh4WDJnbG9fRVBZZW1FZHZCaHVPRUhMc29Fa0ZDNVJ5X3NYVFUteDhlVXNtVzN0cHc?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-28T20:06:00+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 5.826
-    },
-    {
-      "title": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmlKRnl5MFFiYXJEelpyX0pZaDNyVWlyZXZqUjN1STZNMDNiVmFLdmhWNlVHQ3hwdlkzdFdncnBMNVdPU0hZSWVwdkhkOVVZYTF3QUVjT1M3VHNZdm9aNkR5ZW4yVWJZWjY4VlAyZUVGdEV2a0JjemNSanhJZGd1U3ptTXllNUFGc0JpN212bDFRSElNNUI2ZzZLZmxHTkhZNnZyeXlCdmxXbVJIcTluSw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-28T14:05:00+00:00",
+      "title": "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3F1YnVQRFlzek5JbUlNWWRDWEQySFVzemNFQ0p0VHhjUTBMdnQ3VktON3FFaWE5VENiVFJSaTl3TTlzZVluQnlTT1NFR3gybTMyTjR2eVRsN0lrNlJSVkVweGFyTW5odGtDYm52SW85Smx1LWEyYnhUaWZNMUxjZHpXNG1VdDVpR3NmcWh4SnpFVVByVlZJQWNySjBFM1R3NWwwUThYZmRJX2toQzRGTjdEcnI4ZzdmLUo4SVpR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-29T04:20:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 5.418
+      "score": 4.729
     },
     {
       "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-28T20:23:48+00:00",
+      "published_at": "2026-10-28T23:53:34+00:00",
       "summary": "",
       "category": "finance",
-      "score": 5.243
+      "score": 4.492
     }
   ],
   "hero_history": [
+    "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
     "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
     "Israeli election: As votes are counted, no clear winner emerges",
     "France minerals envoy says rare earths diversification from China possible within 3-5 years",
     "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election",
     "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
     "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
-    "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI"
+    "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks"
   ]
 }

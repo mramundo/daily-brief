@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-30T05:44:29.162361+00:00",
+  "updated": "2026-10-30T12:51:43.785773+00:00",
   "hero": {
-    "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-30T01:26:00+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 5.521
+    "title": "Israel elections: Difficult negotiations lie ahead after Netanyahu's bloc lost majority",
+    "url": "https://www.france24.com/en/video/20261030-israel-elections-difficult-negotiations-lie-ahead-after-netanyahu-s-bloc-lost-majority",
+    "source": "France 24",
+    "published_at": "2026-10-30T10:08:10+00:00",
+    "summary": "Israel's final election results confirmed Prime Minister Benjamin Netanyahu’s bloc lost its majority of parliamentary seats and that weeks of difficult negotiations among very different parties, from ultra-Orthodox Jewish to secular to Arab-led, lie ahead. The results released ea",
+    "category": "politics",
+    "score": 6.447
   },
   "items": [
     {
-      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "source": "NASA",
-      "published_at": "2026-10-30T00:07:39+00:00",
-      "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues",
-      "category": "science",
-      "score": 4.967
-    },
-    {
-      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+      "title": "Nasdaq futures sink as Amazon, Intel intensify AI spending fears",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-30T03:24:00+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 4.834
-    },
-    {
-      "title": "Russia, Ukraine say Oleshky demining operations complete, humanitarian operation to proceed",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjVNaTBBS2I4bEdWYkFCU1hhWTdFNm4tZHdCSEs3YVU4NU5aWlRBYWhTMUtieThQVGJPNUs2LWNqOFlVdExsbndzbml5dUtmNl9mdXh2dnZ5TDU3cGZTT3hZTWhPZXpvRUpLdmo5OFhpRVo2c3Fxa3lINTZSS2FZR05iN3hZZmhuODhKRTZLOHNha0JXdnlya1VTWFpNc05RNkNTNVNSSFFPNDdwVUc2ZktjYm5hU0draUhCNA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-29T20:58:13+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 4.584
-    },
-    {
-      "title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUFmRDZKMmVkTFRiWFAwblF2OHhuU0pWeFRWbmlKYlRqUVA5ZjZBbmlXZTVGUnB5WnJKX0Q4R19QaElCMW45VlZaaG1QSWo0Wml0X1BPM21EcDhCd1pKMUlHYmdONFNoN0ZQelh1WjhkTGw2TTJNbFA3S01Ebk53dDBVWDRlaElUMExMeF9qR3oxRUdjbDgwcWVfVVdvZGF2ejVaLVhEaXV3RGVBZjJNRktqLXQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-10-30T01:34:00+00:00",
+      "published_at": "2026-10-30T11:49:03+00:00",
       "summary": "",
       "category": "tech",
-      "score": 4.534
+      "score": 5.953
+    },
+    {
+      "title": "US futures fall as Amazon, Intel and Alphabet weigh on Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-30T11:34:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.891
+    },
+    {
+      "title": "Gold Steadies Near $4,000 as Inflation Keeps Rate-Hike Bets Firm",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUN6SVNKYlRQbEVSTHhPbWNJZEltZHRnb2FKUU1ld285b0ZNaHhReVF5NmZPUkNXbEF6ekg2TU96VmJqbXlTVFlSeG9IN0I4bEt6RlljWlhYS05ITEs3dERHMDZia3ZVenRDaHNHc2hyNUhXaWhkNkJPOHNBTGlSNXJIMjhsMkRYODhBSlNLeGVHVTlQRE5mbzhJSEd0bXZFdjJfUDBfbmd1UGEyTlVzdUd6bGU?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-10-30T07:03:22+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 4.927
+    },
+    {
+      "title": "Rifts over wars in Ukraine, Middle East loom over G20 meeting in US",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3Nnem5Na1FORmx1bjdhbkkxdU9mQnFIT1ZGcU5sTDlSWERVMkNsc2VHN3VCVWJpckZJU1VkRWdwYlN1WnBjOHdINDhMdmxKc1pUczBGSTNQLTJSTmxlYkk5THNxZ29qZFBzN2w4Z0xtNmNsMTJna3UzYTlNb2ppTjB3X3lza1dxeWdSaGI3OF9fY2I2WkRJN0NiZVh2R05fNkZDTTB0aHhpdFhp?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-30T10:10:33+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 4.765
     }
   ],
   "hero_history": [
+    "Israel elections: Difficult negotiations lie ahead after Netanyahu's bloc lost majority",
     "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
     "Russian drone strike kills 14 on Ukrainian rail platform",
     "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
     "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
     "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
     "Israeli election: As votes are counted, no clear winner emerges",
-    "France minerals envoy says rare earths diversification from China possible within 3-5 years",
-    "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election"
+    "France minerals envoy says rare earths diversification from China possible within 3-5 years"
   ]
 }

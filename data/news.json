@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-29T22:43:17.877863+00:00",
+  "updated": "2026-10-30T05:44:29.162361+00:00",
   "hero": {
-    "title": "Russian drone strike kills 14 on Ukrainian rail platform",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJMbm5Vb3NTVmNud01fMHc3WHJUWTNvWl8zSmJYZjVUUHhRbm5VWGZxVWZmbGpQdHZNZUlCQVFuLWxWb1FoR0xTZThVSmRTRVBlWUlLaWNKUTZzVnV1dTYyellibWN0XzFXNGpsUk45U2o1Z2hzUndOUEJYM0Q3WmUxSHFteS1WRXpyRk5JcmdTaEdyNVMzV2dwRGxCc0hGMlpQRElXQzMxZXdj?oc=5",
+    "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc?oc=5",
     "source": "Reuters",
-    "published_at": "2026-10-29T21:22:56+00:00",
+    "published_at": "2026-10-30T01:26:00+00:00",
     "summary": "",
-    "category": "conflicts",
-    "score": 6.248
+    "category": "tech",
+    "score": 5.521
   },
   "items": [
     {
-      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
-      "source": "ESA",
-      "published_at": "2026-10-29T14:00:00+00:00",
-      "summary": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the s",
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "source": "NASA",
+      "published_at": "2026-10-30T00:07:39+00:00",
+      "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues",
       "category": "science",
-      "score": 5.635
+      "score": 4.967
     },
     {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-29T16:42:32+00:00",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "category": "tech",
-      "score": 5.348
-    },
-    {
-      "title": "Nvidia's Huang says dealings with firm in US spy probe were 'normal', Bloomberg News reports",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJwa3VEMVZBTzlycmloVGNCSVdBTjU3d1RlNlA1OFFDdkpBVXZBNi13S1JOV3MwRDFtUkk2M0t2UzQ5aFUweGl3RGFQQ1I3blJpMHlEV2lhUEEtNkJYdEhXeU5mVGxNWjlXUmpWd2NLejFiUkJyYUxOR0dZWlB6RUtUejhwQWV2ek41cm14V0dfM1I4cVNHQTBVeWpyRzRwQzNjMlNkcjVlZkdrbWd0aGhrbE1EUzlEQXpIWGhERkxmcjA?oc=5",
+      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-29T19:54:29+00:00",
+      "published_at": "2026-10-30T03:24:00+00:00",
       "summary": "",
-      "category": "tech",
-      "score": 4.896
+      "category": "finance",
+      "score": 4.834
     },
     {
-      "title": "Yemen’s besieged Taiz is in famine, governor says, as 13 are killed by Saudi airstrike",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGhOc25xbjk3U1J3aEFLTGtINlktU3RVRE8wajJ3LTFQZXFEa08yYlZaUWtwd3R5aGF4bzhhOTg3SC02OE9wcnVXSEx0SVN6dy00WGZOMFlBLU9YMXFYNWt3QWx6SVM2SENIa0ItRnpOWGFkcFlXOHNicC03bW5hVEVRN25KNERMMlB4eXR4YzlFTi1VSEpIUkwyQlhPSmFxRXp1VkEyNUZIM05OdmFiVQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-29T18:50:00+00:00",
+      "title": "Russia, Ukraine say Oleshky demining operations complete, humanitarian operation to proceed",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjVNaTBBS2I4bEdWYkFCU1hhWTdFNm4tZHdCSEs3YVU4NU5aWlRBYWhTMUtieThQVGJPNUs2LWNqOFlVdExsbndzbml5dUtmNl9mdXh2dnZ5TDU3cGZTT3hZTWhPZXpvRUpLdmo5OFhpRVo2c3Fxa3lINTZSS2FZR05iN3hZZmhuODhKRTZLOHNha0JXdnlya1VTWFpNc05RNkNTNVNSSFFPNDdwVUc2ZktjYm5hU0draUhCNA?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-10-29T20:58:13+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.876
+      "score": 4.584
+    },
+    {
+      "title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUFmRDZKMmVkTFRiWFAwblF2OHhuU0pWeFRWbmlKYlRqUVA5ZjZBbmlXZTVGUnB5WnJKX0Q4R19QaElCMW45VlZaaG1QSWo0Wml0X1BPM21EcDhCd1pKMUlHYmdONFNoN0ZQelh1WjhkTGw2TTJNbFA3S01Ebk53dDBVWDRlaElUMExMeF9qR3oxRUdjbDgwcWVfVVdvZGF2ejVaLVhEaXV3RGVBZjJNRktqLXQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "2026-10-30T01:34:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 4.534
     }
   ],
   "hero_history": [
+    "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
     "Russian drone strike kills 14 on Ukrainian rail platform",
     "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
     "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
     "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
     "Israeli election: As votes are counted, no clear winner emerges",
     "France minerals envoy says rare earths diversification from China possible within 3-5 years",
-    "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election",
-    "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings"
+    "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election"
   ]
 }

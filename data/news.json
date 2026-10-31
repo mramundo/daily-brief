@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-31T05:37:32.461268+00:00",
+  "updated": "2026-10-31T12:23:35.625297+00:00",
   "hero": {
-    "title": "Pope Leo becomes first pontiff to vote in US general election",
-    "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-10-31T01:31:44+00:00",
-    "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
-    "category": "politics",
-    "score": 6.099
+    "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1Fva1BkZVk3T3ZZVWZiSUNOQVhaMElmVERReF8zekRzTWt0YnNZZUVpTGUtaUd0MFVKcmp2TXF2d2hxNldzTUYyNVhTRjFxUU8xeHAtYllENzhtMDRlbF93dXUtb3RXNWkwbk9icU5KdlN4anY3RzJnSXl2dHZ0a3JTT2QzMlRsY1hhLWxyUVdSYzFFV1E3MzRBeXJmOU5EcnVIUzI0S2hhYTk2dUE?oc=5",
+    "source": "Bloomberg",
+    "published_at": "2026-10-31T06:40:00+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 5.768
   },
   "items": [
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch",
-      "published_at": "2026-10-31T01:20:05+00:00",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "category": "tech",
-      "score": 5.746
-    },
-    {
-      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-10-31T00:17:00+00:00",
+      "title": "OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst Month Since March 2025 Following Brutal Tech Sell-Off",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTG0yenVkS1k2amh3eGNmZUlZdDZHMm0zeG5VWDY1VEY2aUpOdkdIVXdTTXhJUFZiaHhISUJCbjZWeVpqMFdFQU5BT19mckJlOUJNTDhXNXRWWkRoUnJIR3VmWTNkTTJ1Y3hmNkZkU1VOQnJlZ3c1ZmRkWDc0cnRmOV9oalFmX1BobUc1NzI5VnRtV05pRW5lUjd0UlhzRkVISGdBNTdOcGpzMXF6NjUtbTJwZjJhbjA2QklzVHZnamJqWlFhbW9hdXdING1oa2V6VU80Vw?oc=5",
+      "source": "Stocktwits",
+      "published_at": "2026-10-31T11:34:01+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.288
+      "score": 5.213
     },
     {
-      "title": "European diplomats shun Russia at G20 gathering in the US",
-      "url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-10-31T01:56:00+00:00",
-      "summary": "Russian Foreign Minister Sergey Lavrov declined to comment on Russia's participation in the G20 summit in December, telling DW that Volodymyr Zelenskyy should travel to Russia if he wanted talks with Vladimir Putin.",
-      "category": "politics",
-      "score": 4.179
-    },
-    {
-      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-10-30T23:19:17+00:00",
-      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+      "published_at": "2026-10-31T12:21:25+00:00",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
       "category": "conflicts",
-      "score": 3.549
+      "score": 4.744
+    },
+    {
+      "title": "Yemen",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-10-31T08:21:53+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 4.655
+    },
+    {
+      "title": "Russia's presence divides G20 ministers",
+      "url": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers",
+      "source": "France 24",
+      "published_at": "2026-10-31T09:30:04+00:00",
+      "summary": "The G20 foreign ministers’ meeting in the US is wrapping up two days of talks without agreement on several key global security issues. On the sidelines, US Secretary of State Marco Rubio signed an Arctic cooperation deal with Japan and South Korea and confirmed Washington’s parti",
+      "category": "politics",
+      "score": 3.647
     }
   ],
   "hero_history": [
+    "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
     "Pope Leo becomes first pontiff to vote in US general election",
     "US approves $2.1 billion Patriot missile sale to Ukraine",
     "Israel elections: Difficult negotiations lie ahead after Netanyahu's bloc lost majority",
     "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
     "Russian drone strike kills 14 on Ukrainian rail platform",
     "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
-    "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
-    "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
+    "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports"
   ]
 }

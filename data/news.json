@@ -1,60 +1,60 @@
 {
-  "updated": "2026-10-30T22:17:00.230193+00:00",
+  "updated": "2026-10-31T05:37:32.461268+00:00",
   "hero": {
-    "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-10-30T20:48:30+00:00",
-    "summary": "",
-    "category": "conflicts",
-    "score": 6.212
+    "title": "Pope Leo becomes first pontiff to vote in US general election",
+    "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-10-31T01:31:44+00:00",
+    "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
+    "category": "politics",
+    "score": 6.099
   },
   "items": [
     {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "source": "TechCrunch",
-      "published_at": "2026-10-30T21:52:03+00:00",
-      "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
+      "published_at": "2026-10-31T01:20:05+00:00",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "category": "tech",
-      "score": 5.908
+      "score": 5.746
     },
     {
-      "title": "AP Decision Notes: What to expect in Texas on Election Day",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUlsbFVZTnVzNi1ZVVdsVG95NUJOXzdESG5jdkkwczhKdlBaZC10TzlRbEt2NjQ4eVBvVGRQS2drcGJ0RU9CcHl0aTIzZkN4enF6d1NlaUkzM2xOQWIzUVZlMFRSbGFHWTcwOEVSaGFPRWx6NURkd1ZQZndNbXlfTzNYYkR0em9SZ0Q1UFh0YjdqaUlGVlIzdEthTG9nQQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-10-30T11:01:00+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 5.323
-    },
-    {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-10-30T22:11:52+00:00",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "category": "politics",
-      "score": 4.886
-    },
-    {
-      "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+      "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
       "source": "Reuters",
-      "published_at": "2026-10-30T20:03:43+00:00",
+      "published_at": "2026-10-31T00:17:00+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 4.573
+      "category": "tech",
+      "score": 5.288
+    },
+    {
+      "title": "European diplomats shun Russia at G20 gathering in the US",
+      "url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-10-31T01:56:00+00:00",
+      "summary": "Russian Foreign Minister Sergey Lavrov declined to comment on Russia's participation in the G20 summit in December, telling DW that Volodymyr Zelenskyy should travel to Russia if he wanted talks with Vladimir Putin.",
+      "category": "politics",
+      "score": 4.179
+    },
+    {
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-10-30T23:19:17+00:00",
+      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+      "category": "conflicts",
+      "score": 3.549
     }
   ],
   "hero_history": [
+    "Pope Leo becomes first pontiff to vote in US general election",
     "US approves $2.1 billion Patriot missile sale to Ukraine",
     "Israel elections: Difficult negotiations lie ahead after Netanyahu's bloc lost majority",
     "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
     "Russian drone strike kills 14 on Ukrainian rail platform",
     "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
     "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
-    "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-    "Israeli election: As votes are counted, no clear winner emerges"
+    "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
   ]
 }

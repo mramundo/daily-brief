@@ -1,41 +1,32 @@
 {
-  "updated": "2026-11-01T21:59:31.325984+00:00",
+  "updated": "2026-11-02T05:58:26.923754+00:00",
   "hero": {
-    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-    "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+    "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
-    "published_at": "2026-11-01T21:55:01+00:00",
-    "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+    "published_at": "2026-11-01T17:06:32+00:00",
+    "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
     "category": "conflicts",
-    "score": 9.139
+    "score": 4.741
   },
   "items": [
     {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-11-01T17:06:32+00:00",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "title": "Anthropic IPO: Silicon Valley’s AI Bets Are Built on Hype, Hope and Hubris",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1ZhMmFDZnhESjdhVURGOGFzaHdfcWFPSk1UQjhGZUNtUjhKTkNtbkhjdkhWZElKZkVLTFd0ZEZZNUJ6T3k5OGd1ZmtFMk4tUXVEZUUtblZOSHJfaHNEb1o2N3ZUY3FpSkt5UjZxZnM0YzAxQ1N1T3UtUDkyVWtIejg1ZzBUZXpxbVI3N2JQdmJTNmwyOGtXcUdyRk5tSEZDSjUzZEFtRE00S09SalFJY1BWaUZ0Szk2am5FTVZCYlZfWWxi?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 4.576
+    },
+    {
+      "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+      "source": "AP News",
+      "published_at": "2026-11-02T03:05:00+00:00",
+      "summary": "",
       "category": "conflicts",
-      "score": 6.612
-    },
-    {
-      "title": "US judge dismisses Trump election lawsuit in Alaska",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-01T21:22:38+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 6.102
-    },
-    {
-      "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-01T13:36:05+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 6.022
+      "score": 4.448
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -44,17 +35,26 @@
       "published_at": "2026-11-01T21:55:23+00:00",
       "summary": "Data centers are deeply unpopular. But what if we called them something else?",
       "category": "tech",
-      "score": 5.994
+      "score": 4.298
+    },
+    {
+      "title": "Stocks bounce as Apple earnings near, oil falls",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-02T00:41:00+00:00",
+      "summary": "",
+      "category": "finance",
+      "score": 4.275
     }
   ],
   "hero_history": [
+    "Israeli strikes in Gaza kill eight including child, hospitals say",
     "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
     "OPEC+ set to keep oil output targets steady, sources say",
     "UN demands investigation after staffer’s death in Houthi custody in Yemen",
     "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
     "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
     "Pope Leo becomes first pontiff to vote in US general election",
-    "US approves $2.1 billion Patriot missile sale to Ukraine",
-    "Israel elections: Difficult negotiations lie ahead after Netanyahu's bloc lost majority"
+    "US approves $2.1 billion Patriot missile sale to Ukraine"
   ]
 }

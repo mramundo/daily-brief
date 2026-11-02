@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-02T05:58:26.923754+00:00",
+  "updated": "2026-11-02T15:46:10.643345+00:00",
   "hero": {
-    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-11-01T17:06:32+00:00",
-    "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-    "category": "conflicts",
-    "score": 4.741
+    "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-02T15:15:49+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 8.363
   },
   "items": [
     {
-      "title": "Anthropic IPO: Silicon Valley’s AI Bets Are Built on Hype, Hope and Hubris",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1ZhMmFDZnhESjdhVURGOGFzaHdfcWFPSk1UQjhGZUNtUjhKTkNtbkhjdkhWZElKZkVLTFd0ZEZZNUJ6T3k5OGd1ZmtFMk4tUXVEZUUtblZOSHJfaHNEb1o2N3ZUY3FpSkt5UjZxZnM0YzAxQ1N1T3UtUDkyVWtIejg1ZzBUZXpxbVI3N2JQdmJTNmwyOGtXcUdyRk5tSEZDSjUzZEFtRE00S09SalFJY1BWaUZ0Szk2am5FTVZCYlZfWWxi?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-02T05:00:00+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 4.576
-    },
-    {
-      "title": "Civilians in Ukraine’s Kherson prepare for the return of war as localized ceasefire ends",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJHM1BrS0RMNk5BS0hac0VyQjZTSkdPbmlGdkZ6bGJiUGF2dkJuZVFhNzNTaUNhNU0yOXRyUGVKZU42dE1PZzBMWjNFY3hOVTBfSFRkc0lCclpXZ0xCLVhrRi02REF4b25JVEZFeTFDc2tQSnVsTDNuNVVjeHlEdG5zaXB4ODRDSUYwcWtQZFF2THR6eVNjQUZvUElmd1VwdWNDbVZjVQ?oc=5",
+      "title": "Ukraine and Russia report fake emergency alerts after cyberattack targets apps",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxRVBYSHRNOF9zQ2l4RldLcXhabTFZWjVtWkhRaGZ3c25xemVZZmJjU1FiQUxMYlpzdmFvQkp1RGRFcWpaVGlOel9vLWx4ZDdfdDdlbm9DWTBXU1B2ZTNHQVFfU1EyQ1VaSHE2NFNqTXEwSEdxZmJEM3piSHhQc1YwUnM0SmxQVFFXYkQtM3BkdW5hclJpdEZwNXZ0M01mRXVUWQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-11-02T03:05:00+00:00",
+      "published_at": "2026-11-02T14:14:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.448
+      "score": 6.197
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
       "source": "TechCrunch",
-      "published_at": "2026-11-01T21:55:23+00:00",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "published_at": "2026-11-02T13:57:53+00:00",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
       "category": "tech",
-      "score": 4.298
+      "score": 5.576
     },
     {
-      "title": "Stocks bounce as Apple earnings near, oil falls",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpaWVRrQUkzYThuc1E5TnFCUXBTSTV2bHNaR1FhUmdEYnhjSHVneFdpbGhjeENwWlE2WVE1c3FCUV9qeGZzRGNoNFEzdERMblBDb005a2NBV3B2YzdfNF95dGtrVmxiNlJrNFU3UC1BTnZHcVh4a3hna25vdEFkSEtMUQ?oc=5",
+      "title": "Israeli strikes kill four people in Gaza, medics say",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY19KZDAxQzZjOUlldUhfSTJfRlBVUXVhVXprMkw3UXBfX2ZTWDBCa1ExcVpCSXU5NHhiUDloQk9XX2JRXzBtTzM0XzlsTHI1Z3FMODJISDRoSTYyTmFyNTBHaHFvUGxzRlljU0NPRHprVjZiNFBRSWtXeGhueFlGX1NGRG9fTjBwS3hlZVdlNDM1ejlEWmt3TDRhSTBPbTFDSlZQMHJR?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-02T00:41:00+00:00",
+      "published_at": "2026-11-02T07:18:00+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 4.275
+      "category": "conflicts",
+      "score": 4.642
+    },
+    {
+      "title": "COMMENTARY: Asia's crude oil imports back to pre-war levels but refined fuels lag",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjRWdTdnRzAwR2xkSU04ZHlmbHh0eXg5Wm8xS1k5Q2hLYWRWbWdOVzd4ckZHcjZkYktZVHEyV29yQ25XNE9Ga0Y3TG5Dc3Awd054Y2o3MU5rLTNZNmRRTkZXVjdyZWJNYnM4bVczRU1RRmlqOW5JOVZCVWpJSXFDazBHWm5hUXhGb2FGS2xUN3Q5cFFQelVqazAxYXNDamdDZ0pINE5mQUE3VGhFdDcxZkZ4cUdSOFVQTWRsdXl6LXdMTUpIWnFLQ0VB?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-02T14:50:28+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 4.137
     }
   ],
   "hero_history": [
+    "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
     "Israeli strikes in Gaza kill eight including child, hospitals say",
     "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
     "OPEC+ set to keep oil output targets steady, sources say",
     "UN demands investigation after staffer’s death in Houthi custody in Yemen",
     "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
     "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
-    "Pope Leo becomes first pontiff to vote in US general election",
-    "US approves $2.1 billion Patriot missile sale to Ukraine"
+    "Pope Leo becomes first pontiff to vote in US general election"
   ]
 }

@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-03T23:20:26.427903+00:00",
+  "updated": "2026-11-04T06:15:40.037105+00:00",
   "hero": {
-    "title": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekRxNGUzaWpTRy1SLXpVUmlsbkNPVWMyQ3Q4WWx2eHFvRjhvUzViNUtXcGlxLVlmdlphQUc2bk5CX2ZwVmp5RnJQNTJxaVdjd0dra051ZUJNaVpQcVFVQjBPa1MtY0tEZ0N3MG9VMGJWWXZ4cXoyRzhKSm02NHJLbDdlYUpVbE4tbnhuOEZodFlmX0k?oc=5",
-    "source": "AP News",
-    "published_at": "2026-11-03T20:14:00+00:00",
+    "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RKZ3JJTFBHVzJUVXg5b3plRk1ia1FPSFhZNE9FUEtPd3pBQ2ZSa2psVmphTk43UEs2cUxxc1ZfMDRYOUFzMHhROXN5WmoxZURqU29xRDVhS05CRnFJZjZwTHNySkJGbzd1Z0ZadDdlcUdxaV9CSE1xUERDQXZ4S1hWT0dZME1mV1VpTW45dXVMRzNiRmcyZHN0Ql9mbHlpdzBZd216czZCY29ydzdZbGtWSFByRDdvcGc?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-04T02:12:00+00:00",
     "summary": "",
     "category": "tech",
-    "score": 6.6
+    "score": 8.367
   },
   "items": [
     {
-      "title": "OpenAI employees warned about operational security lapses for years, sources say",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-03T20:25:18+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.85
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-11-04T03:24:34+00:00",
+      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "category": "politics",
+      "score": 5.397
     },
     {
-      "title": "Canada's prime minister says Russia not allowed at world juniors after 6 countries threaten boycott",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSjZfT0U0aDgwRkQ3X2E3bXoxeDA5YWRMdHJqTS1IaHdYTWdaM3FRdG9QWUJrV3hycEM3RW1nMDdoVnRTOXJDTmViRDNaLTJ4NEhNbUxERTRJZ3doREs3a25jWkxEWWdYSm5hNUZWV0lhZFZoNHJfWDlhZ1FKVGdtSGNRT2NMLW5UWVg4Z1lDenYycU9kWmJNeUdET0ZMWHg5bVE?oc=5",
-      "source": "AP News",
-      "published_at": "2026-11-03T22:56:00+00:00",
+      "title": "Senator Jon Ossoff wins reelection, holding Georgia for Democrats",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ05OSFAxbUI3MjloX2Zza2REVE5FcWxJNFNWSzhFbWdOTjRMZnAtbTlycjlnOVE5MHJMalJnZUNQbHlQZE9ZWkV4ei1Ea1BkZlpIeURuSk81X3R4Z21nYTctbS1kTjJ5TUtaTWhwOEJXTm9jNk5ZT0YyblpOcmVCa04wTm9zWUI4Y3VTYW1ueUlfdm43VGtNZGNEb2tObnZsMDgxcXlVRzY?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-04T00:41:00+00:00",
       "summary": "",
       "category": "politics",
-      "score": 5.24
+      "score": 5.236
     },
     {
       "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
       "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Science",
-      "published_at": "2026-11-03T23:00:14+00:00",
+      "published_at": "2026-11-04T06:11:43+00:00",
       "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
       "category": "science",
-      "score": 4.994
+      "score": 5.051
     },
     {
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-11-03T22:45:59+00:00",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "category": "politics",
-      "score": 4.945
+      "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFJZSVJJRjBSQnRQM0haUi1zWF9GOGwtcnlSdHM0MFgxOU5BWm5jT3BmMTR5aXFNNlg5R0drejhFa0lqc2tuVGNTOFVXalZkbGkwcWpsODhINHByT0hXc3lhbTJGVVB0MFpKd1E4cnZSWk9NekhOTzBNc2tfZWdQTHpjZjl2LTE0VVFSbUJhQm9BV01ac3ZjUktzaXFJWHR2ZXc?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-04T01:55:29+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 4.503
     }
   ],
   "hero_history": [
+    "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
     "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
     "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
     "Anthropic Revenue Nears $17 Billion as IPO Looms",
     "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
     "Israeli strikes in Gaza kill eight including child, hospitals say",
     "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-    "OPEC+ set to keep oil output targets steady, sources say",
-    "UN demands investigation after staffer’s death in Houthi custody in Yemen"
+    "OPEC+ set to keep oil output targets steady, sources say"
   ]
 }

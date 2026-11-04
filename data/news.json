@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-04T14:36:12.513169+00:00",
+  "updated": "2026-11-04T23:38:49.452920+00:00",
   "hero": {
-    "title": "Everything you need to know from the US midterm elections",
-    "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-11-04T14:05:42+00:00",
-    "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
-    "category": "politics",
-    "score": 5.95
+    "title": "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzVTcjFWM1pyclM0MFlFbkZGbTFaSVZfbFVkcTNCMUQxVnEzZ1N4Y3k4N2hvNTdGQkMwN2pxRktWQ2NoR1ZtaG5Ob1Y0eno2UWhQU05SWE9DZWp4ME95RXQ2cFd1VWZ5Vi1hTTBlWlFEaFV6bHpmUlFoMzhBOHVIR3plRFU3WEd0R3pmNFk0NFNwbVhweWctRWRGcHlxWDZMVnR5cmFSN1ktMW8zUkI5WE10akw5b3pO?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-04T22:11:38+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 5.017
   },
   "items": [
     {
-      "title": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race, will become first Muslim senator",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWEdvR0J1WmRGSFQycXpKdi13aHBSTXFWbVE5SjY5dGZCLVFFRTZYVXdEcDZCYVZYclYxSl9Hd1ZxQ3UtLUdPR1hsQzNOeldWTlZWZDN5T0Z5WTFaLXBVV3F6dF9xMFkwc3R5SUdqWU8wS0g0TjNTT3FsM2JUY1pIbzRmYnpwLV83elQzQXExS1lTYjMxdmFtTEh0MktOclFxNVhNVGdGbGlaeUdLS0J3?oc=5",
-      "source": "AP News",
-      "published_at": "2026-11-04T08:15:00+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 5.462
-    },
-    {
-      "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
-      "source": "Axios",
-      "published_at": "2026-11-04T11:33:27+00:00",
-      "summary": "",
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge",
+      "published_at": "2026-11-04T22:42:15+00:00",
+      "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with comp",
       "category": "tech",
-      "score": 5.431
+      "score": 4.961
     },
     {
-      "title": "Ukraine needs to accelerate reforms to meet its EU accession goal, bloc’s executive says",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdlpMblhiSjBpMFJ2dGpBOXA0N0xmTWJSejhBX0xRcTVFZ0JUTzU1UjRUZm13c2ZmaVpGVE9nSzAzcHF5aFRjbGI1R3FyZWd1LV9xSG5EY0x5MkY5dkFDMXNIT0x1Z29Da0l5NGt3SE1EM1dTQ3l3alRBdVNYMTJ1c3pvTk1oaWU0d1B0ZVVOQmlkWU0zd0VzYVpuZEVGcFB3WXBaSGk3b2ZPQUdmUTJCV0JIRUZTQXVBS3VWS2gtcw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-04T12:55:43+00:00",
+      "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
+      "source": "AP News",
+      "published_at": "2026-11-04T20:49:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 5.134
+      "score": 4.893
     },
     {
-      "title": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHlZVlROTGNmZDJEZFJ6TndUc0JzVHM2dERBeG5lTWNTVWItM2dxNjgzRkptc2FSRzRVdlBhLVBxbThVYVpTbkpuV2FGTDE5ME9rUkR0bmpJcEt4eU1hVlN2ejVrSXM4XzZva3BQZDZYNFdjRDVfTmVpb2FDdXYtdGdRYmxZcHVMb1JqajZBMV9QY296SXJubFM2T0xlQkJvcHZYTEVSelk2Zw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-04T05:57:00+00:00",
-      "summary": "",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-11-04T22:48:43+00:00",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "category": "conflicts",
-      "score": 4.606
+      "score": 4.458
+    },
+    {
+      "title": "US stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSEtETVdDVnpDVFhqVmpJNTdBUURHcFg0YkhsOVdwcFo2YzNqSTl5Q18zUXVZV1Vrck8tLTFtcEYtOEFOX2hMMUo1UXJyMDRPQWp2Qld4Yk9iSWszUEtuMkc0dUo4d003eTN5V0VnRmEwVG9VUjBiMGVxVlc3SWg2TC1YdGFmb0FMMlFuVlVJOE1BalE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-11-04T19:11:00+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 4.165
     }
   ],
   "hero_history": [
+    "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
     "Everything you need to know from the US midterm elections",
     "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
     "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
     "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
     "Anthropic Revenue Nears $17 Billion as IPO Looms",
     "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
-    "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends"
+    "Israeli strikes in Gaza kill eight including child, hospitals say"
   ]
 }

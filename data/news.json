@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-04T06:15:40.037105+00:00",
+  "updated": "2026-11-04T14:36:12.513169+00:00",
   "hero": {
-    "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RKZ3JJTFBHVzJUVXg5b3plRk1ia1FPSFhZNE9FUEtPd3pBQ2ZSa2psVmphTk43UEs2cUxxc1ZfMDRYOUFzMHhROXN5WmoxZURqU29xRDVhS05CRnFJZjZwTHNySkJGbzd1Z0ZadDdlcUdxaV9CSE1xUERDQXZ4S1hWT0dZME1mV1VpTW45dXVMRzNiRmcyZHN0Ql9mbHlpdzBZd216czZCY29ydzdZbGtWSFByRDdvcGc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-11-04T02:12:00+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 8.367
+    "title": "Everything you need to know from the US midterm elections",
+    "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-11-04T14:05:42+00:00",
+    "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+    "category": "politics",
+    "score": 5.95
   },
   "items": [
     {
-      "title": "South Carolina elects Democratic senator for first time in almost three decades",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-11-04T03:24:34+00:00",
-      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-      "category": "politics",
-      "score": 5.397
-    },
-    {
-      "title": "Senator Jon Ossoff wins reelection, holding Georgia for Democrats",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ05OSFAxbUI3MjloX2Zza2REVE5FcWxJNFNWSzhFbWdOTjRMZnAtbTlycjlnOVE5MHJMalJnZUNQbHlQZE9ZWkV4ei1Ea1BkZlpIeURuSk81X3R4Z21nYTctbS1kTjJ5TUtaTWhwOEJXTm9jNk5ZT0YyblpOcmVCa04wTm9zWUI4Y3VTYW1ueUlfdm43VGtNZGNEb2tObnZsMDgxcXlVRzY?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-04T00:41:00+00:00",
+      "title": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race, will become first Muslim senator",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWEdvR0J1WmRGSFQycXpKdi13aHBSTXFWbVE5SjY5dGZCLVFFRTZYVXdEcDZCYVZYclYxSl9Hd1ZxQ3UtLUdPR1hsQzNOeldWTlZWZDN5T0Z5WTFaLXBVV3F6dF9xMFkwc3R5SUdqWU8wS0g0TjNTT3FsM2JUY1pIbzRmYnpwLV83elQzQXExS1lTYjMxdmFtTEh0MktOclFxNVhNVGdGbGlaeUdLS0J3?oc=5",
+      "source": "AP News",
+      "published_at": "2026-11-04T08:15:00+00:00",
       "summary": "",
       "category": "politics",
-      "score": 5.236
+      "score": 5.462
     },
     {
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-11-04T06:11:43+00:00",
-      "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "category": "science",
-      "score": 5.051
-    },
-    {
-      "title": "Should You Buy Alphabet Stock After Anthropic Raised Its Google Commitment to $121 Billion?",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFJZSVJJRjBSQnRQM0haUi1zWF9GOGwtcnlSdHM0MFgxOU5BWm5jT3BmMTR5aXFNNlg5R0drejhFa0lqc2tuVGNTOFVXalZkbGkwcWpsODhINHByT0hXc3lhbTJGVVB0MFpKd1E4cnZSWk9NekhOTzBNc2tfZWdQTHpjZjl2LTE0VVFSbUJhQm9BV01ac3ZjUktzaXFJWHR2ZXc?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "2026-11-04T01:55:29+00:00",
+      "title": "Exclusive: OpenAI targets Microsoft's GitHub with deal for startup",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5",
+      "source": "Axios",
+      "published_at": "2026-11-04T11:33:27+00:00",
       "summary": "",
       "category": "tech",
-      "score": 4.503
+      "score": 5.431
+    },
+    {
+      "title": "Ukraine needs to accelerate reforms to meet its EU accession goal, bloc’s executive says",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdlpMblhiSjBpMFJ2dGpBOXA0N0xmTWJSejhBX0xRcTVFZ0JUTzU1UjRUZm13c2ZmaVpGVE9nSzAzcHF5aFRjbGI1R3FyZWd1LV9xSG5EY0x5MkY5dkFDMXNIT0x1Z29Da0l5NGt3SE1EM1dTQ3l3alRBdVNYMTJ1c3pvTk1oaWU0d1B0ZVVOQmlkWU0zd0VzYVpuZEVGcFB3WXBaSGk3b2ZPQUdmUTJCV0JIRUZTQXVBS3VWS2gtcw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-04T12:55:43+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 5.134
+    },
+    {
+      "title": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHlZVlROTGNmZDJEZFJ6TndUc0JzVHM2dERBeG5lTWNTVWItM2dxNjgzRkptc2FSRzRVdlBhLVBxbThVYVpTbkpuV2FGTDE5ME9rUkR0bmpJcEt4eU1hVlN2ejVrSXM4XzZva3BQZDZYNFdjRDVfTmVpb2FDdXYtdGdRYmxZcHVMb1JqajZBMV9QY296SXJubFM2T0xlQkJvcHZYTEVSelk2Zw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-04T05:57:00+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 4.606
     }
   ],
   "hero_history": [
+    "Everything you need to know from the US midterm elections",
     "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
     "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
     "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
     "Anthropic Revenue Nears $17 Billion as IPO Looms",
     "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
     "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-    "OPEC+ set to keep oil output targets steady, sources say"
+    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends"
   ]
 }

@@ -1,15 +1,42 @@
 {
-  "updated": "2026-11-07T05:55:33.481279+00:00",
+  "updated": "2026-11-07T12:57:21.396500+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
+    "title": "An airstrike has killed 22 people near Yemen’s capital, Houthi official says",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
     "source": "AP News",
-    "published_at": "2026-11-07T02:35:42+00:00",
+    "published_at": "2026-11-07T12:01:00+00:00",
     "summary": "",
     "category": "conflicts",
-    "score": 7.408
+    "score": 5.513
   },
   "items": [
+    {
+      "title": "Stephen Miller named White House Chief of Staff",
+      "url": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
+      "source": "France 24",
+      "published_at": "2026-11-07T12:14:16+00:00",
+      "summary": "Following historic Republican losses in the midterm elections, Donald Trump has replaced his chief of staff, Susie Wiles, with her deputy Stephen Miller, the architect of his administration’s immigration crackdown. Wiles had been seen by some as a stabilising force in the White H",
+      "category": "politics",
+      "score": 5.257
+    },
+    {
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-07T11:59:26+00:00",
+      "summary": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+      "category": "conflicts",
+      "score": 4.681
+    },
+    {
+      "title": "Israel coalition talks gain momentum",
+      "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
+      "source": "France 24",
+      "published_at": "2026-11-07T12:12:06+00:00",
+      "summary": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot says he is confident of securing the mandate to form a government, as President Isaac Herzog prepares to nominate the first candidate. Eisenkot claims he is making progress in efforts to oust long-serv",
+      "category": "politics",
+      "score": 4.556
+    },
     {
       "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
@@ -17,44 +44,17 @@
       "published_at": "2026-11-06T23:19:47+00:00",
       "summary": "",
       "category": "tech",
-      "score": 5.019
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-06T22:53:46+00:00",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "category": "tech",
-      "score": 4.485
-    },
-    {
-      "title": "U.S. urges China to fulfill rare earths, agriculture commitments ahead of Trump-Xi meetings",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0Rfc1MyNVAxZFZtelZyTU5SUi1iU2JDZHF3Z1pLc2JJdEdxWTgwOWstUVV0cGpSVUdCSUZQaDZEV1dDYkRkZ3dKbW9sUDN0Wm5DdkR0ak5FbGg5bDRBMUVrdzhiSzM0UmVndmpYQWlReXFNZUVCUDdLMFBtTklwSQ?oc=5",
-      "source": "Mezha.net",
-      "published_at": "2026-11-07T03:05:25+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.427
-    },
-    {
-      "title": "Russia launches missile attack on Kyiv, injuring residents",
-      "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-07T05:11:03+00:00",
-      "summary": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.",
-      "category": "conflicts",
-      "score": 4.135
+      "score": 3.744
     }
   ],
   "hero_history": [
+    "An airstrike has killed 22 people near Yemen’s capital, Houthi official says",
     "Ukraine",
     "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
     "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say",
     "Anthropic's models improving nearly twice as fast with help from AI, study finds",
     "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says",
     "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
-    "Everything you need to know from the US midterm elections",
-    "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge"
+    "Everything you need to know from the US midterm elections"
   ]
 }

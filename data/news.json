@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-07T12:57:21.396500+00:00",
+  "updated": "2026-11-07T21:47:41.302698+00:00",
   "hero": {
-    "title": "An airstrike has killed 22 people near Yemen’s capital, Houthi official says",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
-    "source": "AP News",
-    "published_at": "2026-11-07T12:01:00+00:00",
-    "summary": "",
-    "category": "conflicts",
-    "score": 5.513
+    "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+    "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+    "source": "© Shir Torem, Reuters",
+    "published_at": "2026-11-07T19:37:14+00:00",
+    "summary": "Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither Eisenkot nor Prime Minister Benjamin Netanyahu with a clear path to building a majority.",
+    "category": "politics",
+    "score": 11.831
   },
   "items": [
     {
-      "title": "Stephen Miller named White House Chief of Staff",
-      "url": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
-      "source": "France 24",
-      "published_at": "2026-11-07T12:14:16+00:00",
-      "summary": "Following historic Republican losses in the midterm elections, Donald Trump has replaced his chief of staff, Susie Wiles, with her deputy Stephen Miller, the architect of his administration’s immigration crackdown. Wiles had been seen by some as a stabilising force in the White H",
-      "category": "politics",
-      "score": 5.257
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-07T21:17:08+00:00",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "category": "tech",
+      "score": 5.885
     },
     {
-      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-      "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-07T11:59:26+00:00",
-      "summary": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
-      "category": "conflicts",
-      "score": 4.681
-    },
-    {
-      "title": "Israel coalition talks gain momentum",
-      "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
-      "source": "France 24",
-      "published_at": "2026-11-07T12:12:06+00:00",
-      "summary": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot says he is confident of securing the mandate to form a government, as President Isaac Herzog prepares to nominate the first candidate. Eisenkot claims he is making progress in efforts to oust long-serv",
-      "category": "politics",
-      "score": 4.556
-    },
-    {
-      "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-06T23:19:47+00:00",
+      "title": "AMD vs Nvidia Budget GPU: $299 MSRP vs $449.99 [2026]",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTFxblhCTlNUa1NWTWlVYllRNURFN05rUlVic1doRmZ4dHgtRjhFM05VWGdqZWdwUTFvY0J6THVxbG9kOUVHUW4wd0tmNEpBQWxycUtSd0xGdEFRajZMdnJGeWY2SEFTdUVkOXZsSlJKZFl3TlRUdE5GYkhKNS1PQXFVOXZ4UQ?oc=5",
+      "source": "shattered.io",
+      "published_at": "2026-11-07T20:43:53+00:00",
       "summary": "",
       "category": "tech",
-      "score": 3.744
+      "score": 5.161
+    },
+    {
+      "title": "Trump offers White House press secretary role to Dana White",
+      "url": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-11-07T19:46:00+00:00",
+      "summary": "US President Donald Trump has offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship.",
+      "category": "politics",
+      "score": 5.16
+    },
+    {
+      "title": "Guatemalan lawmaker, three police officers killed in armed attack",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXlOVWFGbEdmcjdXRHh1UWR1aEZUUDVHSlpoMG9vUERJWEVRdWZRenlvaWlkZFJ3WFk4MTB6RVFNajRHY2oySHRFbkJqbWVWRVd6M3k3eWtNZTl4RjJZaGNKNWNBQUVrUTduNXFZODI0bmhCbm9XMmtGOHZVaHFKaHVlMURsd2tsUER4ZVZxdjFvLW9TQUxIM3dEMFpjWkpHY3FIdzhqOXZ4UTVDbW0xTFZ3?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-07T15:26:18+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 5.069
     }
   ],
   "hero_history": [
+    "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
     "An airstrike has killed 22 people near Yemen’s capital, Houthi official says",
     "Ukraine",
     "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
     "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say",
     "Anthropic's models improving nearly twice as fast with help from AI, study finds",
     "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says",
-    "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say",
-    "Everything you need to know from the US midterm elections"
+    "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say"
   ]
 }

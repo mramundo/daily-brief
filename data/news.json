@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-08T05:57:43.636933+00:00",
+  "updated": "2026-11-08T13:20:31.384613+00:00",
   "hero": {
-    "title": "Trump asks UFC chief Dana White to be White House press secretary",
-    "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
-    "source": "Al Jazeera",
-    "published_at": "2026-11-08T03:12:44+00:00",
-    "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
-    "category": "politics",
-    "score": 7.742
+    "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-08T12:54:10+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 7.568
   },
   "items": [
     {
-      "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+      "title": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSi00VTRySXpJSXQwU3ZiRnZUYzk3MDYtTEJLZ3V0cm0zRlBMVDV1czVMalNRbmRldHhCSWNaaFNoMEpfZkI1dU9HVW9pVXN5VGhYQ1VwRV9UOVF4cmVTY0ViMFhwZll3NjNjVE9sTDZFM0xFUzRFZ1VuSE5WNXdweFdJaU1NaURWanYxUG1VRkQ3emo0clAwRFFya3BBUDVLWHVENjQ4SkdrdGU3Q1FYZGdR?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-08T11:48:21+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.887
+    },
+    {
+      "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
       "source": "AP News",
-      "published_at": "2026-11-08T00:37:00+00:00",
+      "published_at": "2026-11-08T10:56:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 6.301
+      "score": 5.438
     },
     {
-      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+      "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
       "source": "Al Jazeera",
-      "published_at": "2026-11-07T23:45:45+00:00",
-      "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
-      "category": "politics",
-      "score": 5.06
-    },
-    {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-11-08T04:03:12+00:00",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "published_at": "2026-11-08T12:20:17+00:00",
+      "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
       "category": "conflicts",
-      "score": 4.872
+      "score": 4.901
     },
     {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-07T21:17:08+00:00",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "category": "tech",
-      "score": 4.188
+      "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-08T12:07:25+00:00",
+      "summary": "",
+      "category": "politics",
+      "score": 3.842
     }
   ],
   "hero_history": [
+    "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
     "Trump asks UFC chief Dana White to be White House press secretary",
     "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
     "An airstrike has killed 22 people near Yemen’s capital, Houthi official says",
     "Ukraine",
     "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
     "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say",
-    "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-    "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says"
+    "Anthropic's models improving nearly twice as fast with help from AI, study finds"
   ]
 }

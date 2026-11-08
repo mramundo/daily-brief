@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-08T13:20:31.384613+00:00",
+  "updated": "2026-11-08T22:00:55.980121+00:00",
   "hero": {
-    "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-11-08T12:54:10+00:00",
+    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEhNT1F4dmwzQm9NQ2xCTXJwM2pIanQzZ3YxdFJmRGdKbkg4V1JQbkpLV1NJR252SWF2V3Y4T1JUSE9EVm8wendNMEVJUU9QMXk0UUdXV1d0QmJPTnVJZGwwSlU2Rm9QTHpwakNXYmg3YmtISjlGNXdRbnpXcFNVR25OS2U0dUNL?oc=5",
+    "source": "The Guardian",
+    "published_at": "2026-11-08T21:31:00+00:00",
     "summary": "",
     "category": "tech",
-    "score": 7.568
+    "score": 10.455
   },
   "items": [
     {
-      "title": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSi00VTRySXpJSXQwU3ZiRnZUYzk3MDYtTEJLZ3V0cm0zRlBMVDV1czVMalNRbmRldHhCSWNaaFNoMEpfZkI1dU9HVW9pVXN5VGhYQ1VwRV9UOVF4cmVTY0ViMFhwZll3NjNjVE9sTDZFM0xFUzRFZ1VuSE5WNXdweFdJaU1NaURWanYxUG1VRkQ3emo0clAwRFFya3BBUDVLWHVENjQ4SkdrdGU3Q1FYZGdR?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-08T11:48:21+00:00",
-      "summary": "",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-08T21:00:11+00:00",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
       "category": "tech",
-      "score": 5.887
+      "score": 9.734
     },
     {
       "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
       "source": "AP News",
-      "published_at": "2026-11-08T10:56:00+00:00",
+      "published_at": "2026-11-08T16:40:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 5.438
+      "score": 5.286
     },
     {
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-08T12:20:17+00:00",
-      "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
-      "category": "conflicts",
-      "score": 4.901
+      "title": "Israel: Eisenkot officially tasked with forming a government",
+      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf",
+      "source": "Deutsche Welle",
+      "published_at": "2026-11-08T15:18:00+00:00",
+      "summary": "Israeli President Isaac Herzog tasked Gadi Eisenkot with the right of trying to form a government. The opposition leader's way to replacing Benjamin Netanyahu as prime minister is full of political challenges.",
+      "category": "politics",
+      "score": 4.952
     },
     {
-      "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR?oc=5",
+      "title": "Iraq has reached understandings with US to allow oil exports through Hormuz, minister says",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-08T12:07:25+00:00",
+      "published_at": "2026-11-08T19:26:09+00:00",
       "summary": "",
       "category": "politics",
-      "score": 3.842
+      "score": 3.989
     }
   ],
   "hero_history": [
+    "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
     "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
     "Trump asks UFC chief Dana White to be White House press secretary",
     "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
     "An airstrike has killed 22 people near Yemen’s capital, Houthi official says",
     "Ukraine",
     "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
-    "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say",
-    "Anthropic's models improving nearly twice as fast with help from AI, study finds"
+    "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say"
   ]
 }

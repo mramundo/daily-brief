@@ -1,15 +1,42 @@
 {
-  "updated": "2026-11-07T21:47:41.302698+00:00",
+  "updated": "2026-11-08T05:57:43.636933+00:00",
   "hero": {
-    "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
-    "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
-    "source": "© Shir Torem, Reuters",
-    "published_at": "2026-11-07T19:37:14+00:00",
-    "summary": "Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither Eisenkot nor Prime Minister Benjamin Netanyahu with a clear path to building a majority.",
+    "title": "Trump asks UFC chief Dana White to be White House press secretary",
+    "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-08T03:12:44+00:00",
+    "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
     "category": "politics",
-    "score": 11.831
+    "score": 7.742
   },
   "items": [
+    {
+      "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+      "source": "AP News",
+      "published_at": "2026-11-08T00:37:00+00:00",
+      "summary": "",
+      "category": "conflicts",
+      "score": 6.301
+    },
+    {
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-07T23:45:45+00:00",
+      "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+      "category": "politics",
+      "score": 5.06
+    },
+    {
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-11-08T04:03:12+00:00",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "category": "conflicts",
+      "score": 4.872
+    },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
       "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
@@ -17,44 +44,17 @@
       "published_at": "2026-11-07T21:17:08+00:00",
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
       "category": "tech",
-      "score": 5.885
-    },
-    {
-      "title": "AMD vs Nvidia Budget GPU: $299 MSRP vs $449.99 [2026]",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTFxblhCTlNUa1NWTWlVYllRNURFN05rUlVic1doRmZ4dHgtRjhFM05VWGdqZWdwUTFvY0J6THVxbG9kOUVHUW4wd0tmNEpBQWxycUtSd0xGdEFRajZMdnJGeWY2SEFTdUVkOXZsSlJKZFl3TlRUdE5GYkhKNS1PQXFVOXZ4UQ?oc=5",
-      "source": "shattered.io",
-      "published_at": "2026-11-07T20:43:53+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.161
-    },
-    {
-      "title": "Trump offers White House press secretary role to Dana White",
-      "url": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
-      "source": "Deutsche Welle",
-      "published_at": "2026-11-07T19:46:00+00:00",
-      "summary": "US President Donald Trump has offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship.",
-      "category": "politics",
-      "score": 5.16
-    },
-    {
-      "title": "Guatemalan lawmaker, three police officers killed in armed attack",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXlOVWFGbEdmcjdXRHh1UWR1aEZUUDVHSlpoMG9vUERJWEVRdWZRenlvaWlkZFJ3WFk4MTB6RVFNajRHY2oySHRFbkJqbWVWRVd6M3k3eWtNZTl4RjJZaGNKNWNBQUVrUTduNXFZODI0bmhCbm9XMmtGOHZVaHFKaHVlMURsd2tsUER4ZVZxdjFvLW9TQUxIM3dEMFpjWkpHY3FIdzhqOXZ4UTVDbW0xTFZ3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-07T15:26:18+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 5.069
+      "score": 4.188
     }
   ],
   "hero_history": [
+    "Trump asks UFC chief Dana White to be White House press secretary",
     "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
     "An airstrike has killed 22 people near Yemen’s capital, Houthi official says",
     "Ukraine",
     "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
     "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say",
     "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-    "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says",
-    "EXCLUSIVE: Chinese chipmaker YMTC puts IPO on hold as weaker markets weigh, sources say"
+    "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says"
   ]
 }

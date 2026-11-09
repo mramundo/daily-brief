@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-09T06:21:45.970417+00:00",
+  "updated": "2026-11-09T22:18:21.742990+00:00",
   "hero": {
-    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rSHZmeGJPaUtpS1pra1NUa3ZHRXJ5WDI0ODVUbS1XZHo0S0lDNnpaSzBabVFWMDRHNXZJRzFYTFMyaXRGb0kxYUhRQmhHY2s3bkdrcHlPSzNQQVU?oc=5",
-    "source": "BBC World",
-    "published_at": "2026-11-09T00:50:06+00:00",
-    "summary": "Nvidia launches investigation into CEO's affair with suspected Chinese spy BBC",
+    "title": "The Nvidia Affair",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5lM1hFS21XOW1ZNE1GQ3BhU3FhQUxqRDBBYVRyZ2l2ek5MWXBJNHNRMllQaGhUbC1XTEY1N0Nyd3hyenVydER4SlJTQUJOUXk3Y0IxYmYyNUhJZ3E3SFVrRGJ5U2ttVGJ4OGctTW4wZm15allETkVIbWNiMnctZWhGODd1WktrclNfc1I4OA?oc=5",
+    "source": "The New York Times",
+    "published_at": "2026-11-09T20:52:03+00:00",
+    "summary": "",
     "category": "tech",
-    "score": 6.242
+    "score": 7.708
   },
   "items": [
     {
-      "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pTclA4c2pDZlE3NXExNGt0dU9JUDRTaU80SVhfU1FzV2pmSzhYZG9rdzdPaGZSRHV3LXEtaDAwX0ttREhYUGwtalVma1ktTlBCSUdzLUJETkhFVm5ETDVrNVF6OGswVE5EempEc01PSXlrbWRtUERvWDlwVk5KMnlmRmlNNDRYRS1ubHB2bl9oRXp6WFg1cGFYVVdzSnBaNE53?oc=5",
+      "title": "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-09T03:00:00+00:00",
+      "published_at": "2026-11-09T18:28:46+00:00",
       "summary": "",
-      "category": "tech",
-      "score": 6.187
+      "category": "resources",
+      "score": 7.283
     },
     {
-      "title": "Israel",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "published_at": "2026-11-09T19:00:00+00:00",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than",
+      "category": "tech",
+      "score": 6.946
+    },
+    {
+      "title": "Japan, Vietnam vow to step up critical minerals cooperation",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQTJpMzNrWnhpdVdVMEZmbWYyZFVNTDlvcm41Rm1MV0Y4U19PVlBmTG9zbjg2V25tZ3BmdG55SnBNbGFoVTl4VHluVEY0djdxTlRxcmI3dVMyWS1fQXpwWWdSTmZoUDh4dG9LaTRxa3l4c1p0cHUtRmNJdm9yTXVpTU9LQkZ1WXo4QWdmTUtHbFY3TzA3X3Jn0gGXAUFVX3lxTE41Q0xFZHMwaDIyYjhXYWl4M0VDMkRNYVF5MVpULXpncTlCbTRiVC1fNWdVRVlYZmZqTUxZSEpBOGxsajJGYjNBaDRtQmpxTHdUb2k0LTloVEFtOUJYSUlCeWZCRzJOWWdqMnlkaHNPQTJWWk5rU2ZaN3VoU1lQdUlaU3BuN19MWUVmX0szZ09hTHdVSUhhbGs?oc=5",
+      "source": "Qazinform",
+      "published_at": "2026-11-09T20:26:15+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 5.512
+    },
+    {
+      "title": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital, and other Mideast news",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHdNMXBlSXh2MmpQaXRNb3dfV3RuQWJGeGo1eU9hVWxEX1lTa1dHQ2VidThUOGl3NC1MYjM2NmdkeWR3ZWUxaWpHbmx1LWFTUTRQU0dGaERzX2x0a2dNZ3VpMjlORXZmWkd1RmxDcHhEYTNGUEdGcTc5a2Y1V1BwR3otcG5SeXZfVmNyVGFzRzdfOWJxNU9n?oc=5",
       "source": "AP News",
-      "published_at": "2026-11-08T21:12:43+00:00",
+      "published_at": "2026-11-09T20:32:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.861
-    },
-    {
-      "title": "Gold rises over 1% as softer oil prices ease inflation worries",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-09T03:01:00+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.636
-    },
-    {
-      "title": "American Rare Earths Begins NdPr Oxide and Metal Pilot Plant Program at Novex Facility Using Halleck Creek Concentrate",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdl91Umx6aGxWUnlHZEpqMkNmZkgyWVNMblpfUmRNd1dIY1ZnMjNaUmpCaV9CVnhfOElobWh2TGhoclhFbmxvOElMNU9FNWM5RFVOLURZNnZMcWxlQmpXcXVROWZfRlRhQnU4ZWVKajV3MGt1ZlJWb2xHaGZhZXFGSEpOT1hzZU5Tc0hJUy1FRkFDYzZfOFlvMG9PcEJyZk5XT1g2NlpsN2ZMMWxWb2lteWc3ZVlDd096WVFkYVJWNFBlVlN5cEpaWmg1Sml3eF9HUzR6ZnYyT01vUWFLUUdmenp5RXNKeDFYWjlGTzQ0N1lhZw?oc=5",
-      "source": "Kalkine",
-      "published_at": "2026-11-09T04:33:07+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.62
+      "score": 5.325
     }
   ],
   "hero_history": [
+    "The Nvidia Affair",
     "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
     "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
     "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
     "Trump asks UFC chief Dana White to be White House press secretary",
     "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
     "An airstrike has killed 22 people near Yemen’s capital, Houthi official says",
-    "Ukraine",
-    "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads"
+    "Ukraine"
   ]
 }

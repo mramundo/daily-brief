@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-12T23:36:34.174767+00:00",
+  "updated": "2026-11-13T06:40:41.966226+00:00",
   "hero": {
-    "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-11-12T20:35:49+00:00",
+    "title": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5",
+    "source": "AP News",
+    "published_at": "2026-11-13T03:24:00+00:00",
     "summary": "",
     "category": "tech",
-    "score": 7.769
+    "score": 5.763
   },
   "items": [
     {
-      "title": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFBGZG9jUFFjX0tFY2tXSEVILWxGWU1rMzBvT1pTcUpqa2tEdEV0QWRybENzel9tU3hIQVhmTngyY3VGRGZZeGtCWDhEWm1oRXBzVWlGRnhwRzJrd0Z5bGZhUi1STHFLdFdLVnhoRUxMOW42MkNSSjNZX3JQR0o3OVpBSE10bE1kekw3OVVXYXVub0NzekN5NE4zb1JpRzB6Zjl2V1pTWFEteUQ1Q0hxd2lhLV9JLXloLVJqbWhUQ1pmN21H?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-12T23:00:03+00:00",
-      "summary": "",
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "source": "The Verge",
+      "published_at": "2026-11-13T00:46:07+00:00",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take o",
       "category": "tech",
-      "score": 7.514
+      "score": 5.509
     },
     {
-      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-      "source": "AP News",
-      "published_at": "2026-11-12T17:57:00+00:00",
+      "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+      "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-13T02:35:21+00:00",
+      "summary": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
+      "category": "conflicts",
+      "score": 4.736
+    },
+    {
+      "title": "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
+      "url": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-13T04:28:45+00:00",
+      "summary": "Van Hollen is known for his antiwar positions and championing progressive causes.",
+      "category": "politics",
+      "score": 4.27
+    },
+    {
+      "title": "Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlhsUlJGZTlJTWxfaXhsOS1kNkFrSlRMLXNVZ09uQ0RvR0dobTRXWExCRk1SckN4aDZibm5Vdm9NWDUyWWdpRFR2aExsSFdscmNSX0U3QUlmTVRDYlpERWxHeVRUX2FUZjB3WVJBb05pYy1xZ2pILWpXQlQzaEVWNjljSUsxZ2xGVTdCZXNmazBFX21ZYkh3d1RqZTFCWEw2a09oanFWS0c0LTNwZkNOQThuamJkdk5HVFNROFFXQm1GS0E?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-13T01:39:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 6.088
-    },
-    {
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-11-12T21:00:42+00:00",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "category": "conflicts",
-      "score": 5.168
-    },
-    {
-      "title": "Deadly shooting in Washington DC",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-12T21:18:24+00:00",
-      "summary": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
-      "category": "politics",
-      "score": 5.102
+      "score": 4.069
     }
   ],
   "hero_history": [
+    "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
     "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
     "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
     "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
     "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears",
     "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign",
     "Anthropic to Seek $1.3 Trillion Valuation in IPO",
-    "FBI investigating Nvidia CEO Jensen Huang’s affair with an alleged Chinese agent, Trump says",
-    "The Nvidia Affair"
+    "FBI investigating Nvidia CEO Jensen Huang’s affair with an alleged Chinese agent, Trump says"
   ]
 }

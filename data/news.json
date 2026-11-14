@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-14T17:58:55.102663+00:00",
+  "updated": "2026-11-14T22:21:21.807320+00:00",
   "hero": {
-    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "published_at": "2026-11-14T15:15:57+00:00",
-    "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-    "category": "conflicts",
-    "score": 7.2
+    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+    "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "published_at": "2026-11-14T22:15:52+00:00",
+    "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+    "category": "science",
+    "score": 6.524
   },
   "items": [
-    {
-      "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGo3V2tuZ3lONm9hUHl3ZkE3RUF0NHAxSEFDZEt0MklYQm9zVWVVcHJtTEtiTm1VdTFFU1AzeUNXNHF1NWtNS1B5bWxLak80LUR6bWdJal9LOGExcjFPV0o5OTVLZXRzdDBMckJFdGt5eTlBQVBkb3Z5SU9fd1UwYjJvUnhkMEp1ejI1R0tzTkdveGwzQnNXMlZEdmk5eVFJN3ZaSjhBQ3FKTGc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-14T15:08:32+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 6.324
-    },
-    {
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-11-14T14:18:41+00:00",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "category": "science",
-      "score": 5.62
-    },
-    {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-14T16:34:15+00:00",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "category": "tech",
-      "score": 4.859
-    },
     {
       "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5",
       "source": "AP News",
-      "published_at": "2026-11-14T13:53:00+00:00",
+      "published_at": "2026-11-14T18:46:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.229
+      "score": 4.32
+    },
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "category": "tech",
+      "score": 4.176
+    },
+    {
+      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
+      "source": "Britannica",
+      "published_at": "2026-11-14T20:57:52+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 3.787
+    },
+    {
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-11-14T10:42:20+00:00",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "category": "politics",
+      "score": 3.74
     }
   ],
   "hero_history": [
+    "SpaceX successfully catches top of huge Starship rocket for first time",
     "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
     "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
     "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
     "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
     "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
     "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
-    "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
-    "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears"
+    "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports"
   ]
 }

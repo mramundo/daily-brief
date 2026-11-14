@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-13T19:39:18.307336+00:00",
+  "updated": "2026-11-14T06:17:47.577217+00:00",
   "hero": {
-    "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-11-13T15:45:24+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 6.552
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-11-14T05:52:31+00:00",
+    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+    "category": "politics",
+    "score": 6.435
   },
   "items": [
     {
-      "title": "Bessent blames Lutnick’s Commerce Department for not restricting Nvidia chips to China",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmthd2p1bWNiTUNEQ1puWC14bVlmeTJ2MjVIcGN2ZEkzdVlncWJYVUZ2TGdEdzRQd1NCb2RGRG5ZRm9RX3BXMVJfd25SQjVzdEN1RTdpc2VkSkdlVkxGMW5CNURkb3gxS25uYzRuZGFqZjV5Mk1KSXlCR2NaTlI4NHZudkZXUXduU0lXNmpMZHl4LWdoZk82akdoenV5c1piemdKX0RaSEw?oc=5",
-      "source": "AP News",
-      "published_at": "2026-11-13T17:21:00+00:00",
+      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-13T23:30:55+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.001
+      "score": 5.81
     },
     {
-      "title": "Europe pushes for a seat at Ukraine peace talks‌ but lacks a unified voice",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjl3VUUwZnpqWVI3cEE5eEVMZlhzZmwyX3dZMy1oWXU1YjRidlVQa3NoMzhlSVdMbEJCazdBb2NFTFZ4Y2ZDVXZsbzFTTmxMR2E5MG5ndDQtZW5pUHRIRE9uQmQ2VmtCNjZRbWlSTFduYmhWcmNiNjRPRXY3R3ljd2hJQVFKNTJ1eHpFMUxfMkJ5WkJ1dkRQWDJHa3c?oc=5",
-      "source": "AP News",
-      "published_at": "2026-11-13T16:45:00+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 5.546
-    },
-    {
-      "title": "Backing for Mount Isa critical minerals research centre",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSk5LdnU0cG9ROUpZODY3ZnNGcm9Kclc4bTQwa2F6RV9seGZSWTZrUTlvajlRNHhPVFRiVWVZYUxFSkZOUmJfR2thSWpWN014TUNlUWhJbVROTUhWMFBuWDdIZ0dtaEw0d24zUUR1YzA3Y2prVDEzZTFLS1hmQ1BudlhZOEFWLUFVSzBB?oc=5",
-      "source": "Industry Queensland",
-      "published_at": "2026-11-13T18:00:00+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 4.651
-    },
-    {
-      "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUY1ZVU4V1FfVjg4bkIxMkpIVWJqQ0tVeDRsb1ZOSGRkWlo5THVweFduVWVjTXloTWVRZnhhdGJqX0I3RnlHRlkxd3MzNzFUcFBibFd2bUJKNkI2RXdPVE5FeXJRNGZLQzZDcnZXQ0pRcGdPRjBvZWs1Xzd6VTlfLXJXb1dNUjZuM0N1LWZpaUExWmk1ZXpIdlhCM29RTkpLWE9YSXdIM3hLQk41c2M5ZFJCWExESUhabjl6Mjg2dTU?oc=5",
+      "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-13T14:31:48+00:00",
+      "published_at": "2026-11-14T00:25:00+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 4.305
+      "category": "tech",
+      "score": 5.171
+    },
+    {
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-11-14T00:01:01+00:00",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "category": "science",
+      "score": 5.041
+    },
+    {
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-14T04:55:58+00:00",
+      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "category": "politics",
+      "score": 3.453
     }
   ],
   "hero_history": [
+    "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
     "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
     "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
     "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
     "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
     "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
     "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears",
-    "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign",
-    "Anthropic to Seek $1.3 Trillion Valuation in IPO"
+    "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign"
   ]
 }

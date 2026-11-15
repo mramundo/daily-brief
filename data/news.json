@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-14T22:21:21.807320+00:00",
+  "updated": "2026-11-15T06:25:01.420850+00:00",
   "hero": {
-    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-    "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "published_at": "2026-11-14T22:15:52+00:00",
-    "summary": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
-    "category": "science",
-    "score": 6.524
+    "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemlqVE1TdmREQ0t3TjczWnBWVGZ3TkxTc0ZPVC1fZFlrUDJCZC1KV0liZGdUTHBXZEZpWG9SNkJJSlBYSjVPbE1aUnNtWHl2eE1FbzlURGRwckdIT3R2NG9rVm1oX1V0VEZoWmYxM1dSbmhNc1BidnFLX19YRVU3Q2tzR1F5Vk1QX3dDNXVCeXZ6bmVES0lZNTBlR3E0Z1hJcXFyYXpMam80TGRWbURod1NsUXBwZldjdHFVejFwaWtmVmo3ZWYzYW5QMzk?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-15T02:58:00+00:00",
+    "summary": "",
+    "category": "conflicts",
+    "score": 6.675
   },
   "items": [
     {
-      "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVJHTEpnR0lwRmdFbHVCNEQ5YWRiTXcyRy1HcTczUHVMaDdyUjBIWlVpOW9xTnBFUGZnVXhMSk53WXFuLWtoeEp0RTkwVVZjbDBvd2E3bVplY2tPZnJaY2xhNzFta1kxUEZtMFhTYzZvYWlCeGs1X0ZVT2xvMHJDbEphYjJoQVlvZkJQdlN6VXBwZG9kQnpPMHNWYlA5aDF4Z3BF?oc=5",
-      "source": "AP News",
-      "published_at": "2026-11-14T18:46:00+00:00",
+      "title": "Hamas says senior armed commander killed in Israeli strike",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-14T22:31:00+00:00",
       "summary": "",
       "category": "conflicts",
-      "score": 4.32
+      "score": 6.338
     },
     {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "source": "TechCrunch",
-      "published_at": "2026-11-14T21:41:22+00:00",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "category": "tech",
-      "score": 4.176
-    },
-    {
-      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "source": "Britannica",
-      "published_at": "2026-11-14T20:57:52+00:00",
+      "title": "IMC Rare Earths Ltd Dividends – AMEX:IMC",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhUXN0Y0t3RVF1WWNzMW5YWERmRHBLaHhFRGQtQ0tBSzBXX2tMbjlTeFU4OFdoWnVGQkxpQXNGOERFVnF0R1lWVno0Rmh0N3dVMjRCd3ZQWnRzNGRnSDdHQ3ljUlBLc0JuZnFpUEhmRGpoVHpQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-11-15T05:19:30+00:00",
       "summary": "",
-      "category": "tech",
-      "score": 3.787
+      "category": "resources",
+      "score": 5.693
     },
     {
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published_at": "2026-11-14T10:42:20+00:00",
-      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "published_at": "2026-11-15T03:21:04+00:00",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
       "category": "politics",
-      "score": 3.74
+      "score": 5.349
+    },
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c",
+      "category": "tech",
+      "score": 4.627
     }
   ],
   "hero_history": [
+    "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
     "SpaceX successfully catches top of huge Starship rocket for first time",
     "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
     "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
     "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
     "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
     "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
-    "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
-    "VIEW Nvidia is preparing to oust CEO Jensen Huang, WSJ reports"
+    "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns"
   ]
 }

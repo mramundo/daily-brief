@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-16T21:59:04.219934+00:00",
+  "updated": "2026-11-17T07:52:09.977395+00:00",
   "hero": {
-    "title": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5",
+    "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
     "source": "Reuters",
-    "published_at": "2026-11-16T20:47:43+00:00",
+    "published_at": "2026-11-16T23:45:50+00:00",
     "summary": "",
     "category": "tech",
-    "score": 9.72
+    "score": 6.284
   },
   "items": [
     {
-      "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-16T21:01:11+00:00",
-      "summary": "",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-11-17T02:37:53+00:00",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "category": "tech",
-      "score": 8.461
+      "score": 5.576
     },
     {
-      "title": "UEFA backs France's Diallo to stand against Infantino in FIFA election",
-      "url": "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election",
-      "source": "France 24",
-      "published_at": "2026-11-16T19:40:39+00:00",
-      "summary": "European football's governing body UEFA has given its \"unanimous\" backing to French Football Federation chief Philippe Diallo to stand against incumbent Gianni Infantino in March's FIFA presidential election, it said in a statement Monday. Under its Slovenian president Aleksander",
-      "category": "politics",
-      "score": 7.423
-    },
-    {
-      "title": "OPEC officials meet to discuss oil production capacity review",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFlINkNORzd1R3llMVkzOVBmZWhsZEUwU0tjSDFXd2tNMWdBTzRiaFM4VnI2alRwYmxFS3Q3SjRUeG4yc3FkeUIweXBQTjZreHZka1E0eUhQZVhyOFBsZkRhU2xRMk9yVVB6ZHh1TmxlRmhQWGIxWVFTblJtV3hxUktRc3V3Tm9aNkVlTm90Qm0yQUZwbjQ0NlRHcFNvQ2I5RDdReHphcGRWNXFpaTJz?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-16T17:14:13+00:00",
-      "summary": "",
-      "category": "resources",
-      "score": 7.009
-    },
-    {
-      "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-16T13:53:57+00:00",
-      "summary": "",
+      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-17T01:38:13+00:00",
+      "summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
       "category": "conflicts",
-      "score": 5.503
+      "score": 4.229
+    },
+    {
+      "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+      "url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-17T05:50:29+00:00",
+      "summary": "The ongoing Israeli assault continues to have disastrous consequences for the people of southern Lebanon.",
+      "category": "conflicts",
+      "score": 3.919
+    },
+    {
+      "title": "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHIwN2lBcDlldHBCekdRZ3c1Rk4yOGFXUkNwSVRPNng5TU1uVkI3a3dqdEwzaHZ4VFVaY2FUNUVZa3ZTUDRTTF90RTlmZFp6ZG5IMWZ1TDZUM2NCcVNoRWNpR19PU1MzSDhkT05uSFFBQTBuMTNXcEZlTUgyTHJtRUZqaEJzTjdfM2dNTGlRMnZEMDIzVnhwZVYxaWVxZ0IxVlJuSUpNRHBQQTYxREhsVXFMT09WUDQ3Y3J3QW1GYWs?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-17T05:25:00+00:00",
+      "summary": "",
+      "category": "politics",
+      "score": 3.882
     }
   ],
   "hero_history": [
+    "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
     "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies",
     "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
     "Bessent says Nvidia must 'go outside the company' to find new CEO",
     "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
     "SpaceX successfully catches top of huge Starship rocket for first time",
     "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-    "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases"
+    "Trump, Putin and Xi plan historic joint meeting in China next week, White House says"
   ]
 }

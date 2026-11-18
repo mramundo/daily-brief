@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-17T20:52:39.844247+00:00",
+  "updated": "2026-11-18T07:23:55.068530+00:00",
   "hero": {
-    "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-11-17T18:18:54+00:00",
-    "summary": "",
-    "category": "tech",
-    "score": 8.906
+    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+    "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+    "source": "Al Jazeera",
+    "published_at": "2026-11-18T01:07:01+00:00",
+    "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+    "category": "conflicts",
+    "score": 5.043
   },
   "items": [
     {
-      "title": "Huang open to Nvidia return as scandal-hit chipmaker heads into results",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-17T19:27:36+00:00",
+      "title": "Higher fuel prices push UK inflation to 3.6%",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "published_at": "2026-11-18T07:15:33+00:00",
+      "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+      "category": "finance",
+      "score": 5.035
+    },
+    {
+      "title": "Xi, Putin meet ahead of Trump's arrival in China for historic trilateral summit",
+      "url": "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
+      "source": "© Olga Maltseva, AFP",
+      "published_at": "2026-11-18T02:23:24+00:00",
+      "summary": "China's leader Xi Jinping and his Russian counterpart Vladimir Putin met on Wednesday ahead of US President Donald Trump's arrival in Shenzhen for a high-stakes trilateral meeting. Trump has said Ukraine will be on the agenda, despite Xi vehemently seeing the war as not China's p",
+      "category": "politics",
+      "score": 4.853
+    },
+    {
+      "title": "Nvidia Gives Upbeat Outlook While Quashing Idea of Huang Return",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQUp2Z1haU0NNQkJ2ekdiQnZFRjJ2cWN4ckVMdnNJY05BOFNCUlNqbzl2RkNoblhlRTFuU1djbWdoenZmdGZYZ1VjNlhnS0E2YXJLLUQ3c21UZGZCNzZrQWhaa3RGVnlBX2phdUVkTTlIc3U5VDBkenFQUXpmQnVqRDg0bFNOODZsdTJMeDgxQWE0Z1NZMEd2cVZPUVRyT2xPYWUyZnZQanRQQnhFZmc?oc=5",
+      "source": "Bloomberg",
+      "published_at": "2026-11-18T04:36:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 6.227
+      "score": 4.654
     },
     {
-      "title": "Wall Street falters ahead of Nvidia earnings, Anthropic debut",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-17T19:29:30+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 5.031
-    },
-    {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published_at": "2026-11-17T20:30:20+00:00",
-      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "category": "conflicts",
-      "score": 4.987
-    },
-    {
-      "title": "NICER Status Updates",
-      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
-      "source": "NASA",
-      "published_at": "2026-11-17T18:18:16+00:00",
-      "summary": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. T",
-      "category": "science",
-      "score": 4.893
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Tech",
+      "published_at": "2026-11-18T06:04:21+00:00",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "category": "tech",
+      "score": 4.272
     }
   ],
   "hero_history": [
+    "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
     "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
     "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
     "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies",
     "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
     "Bessent says Nvidia must 'go outside the company' to find new CEO",
     "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
-    "SpaceX successfully catches top of huge Starship rocket for first time",
-    "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
+    "SpaceX successfully catches top of huge Starship rocket for first time"
   ]
 }

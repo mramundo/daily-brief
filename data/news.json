@@ -1,15 +1,24 @@
 {
-  "updated": "2026-11-19T20:32:49.638846+00:00",
+  "updated": "2026-11-20T07:11:26.485976+00:00",
   "hero": {
-    "title": "Kenya picks US consortium for rare earth project amid global race for critical minerals",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFaDFVUTBSc1FQMS1WUkxzeHFSVTdjbWk1bVZmREpydzJJMnZOTWpfZU5id3VLNnR2ckZfWERXdGQ5LUs4bVpGbG1iNEpLM0hZVFM3U0lPR0sxTnhNdnBvSzFYMTg?oc=5",
-    "source": "TRT Afrika",
-    "published_at": "2026-11-19T19:08:15+00:00",
-    "summary": "",
-    "category": "resources",
-    "score": 8.593
+    "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+    "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "published_at": "2026-11-20T05:59:56+00:00",
+    "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+    "category": "science",
+    "score": 6.231
   },
   "items": [
+    {
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "published_at": "2026-11-20T05:03:43+00:00",
+      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "category": "science",
+      "score": 5.993
+    },
     {
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
@@ -17,44 +26,35 @@
       "published_at": "2026-11-19T20:07:02+00:00",
       "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
       "category": "conflicts",
-      "score": 7.719
+      "score": 5.924
     },
     {
-      "title": "Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI",
+      "title": "Anthropic surges in market debut after biggest IPO on record, despite fears that AI is running amok",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXdyUExSdjhGa000MWtxaUR0YzhiVHJnNzN0N0lTUnNONktkaWZkUVUwdExoUXhXMTlJN0NEZ3F3M2RYbUZYelpiNFhpOE14LWdtYjF1MnB2M00xMk1GbENmci1UeFlXa3V0aHM4TWlxVVZNeFBwUkZjMTA2ZWhCSFBVaVVBb0FUdnpj?oc=5",
       "source": "AP News",
-      "published_at": "2026-11-19T18:51:00+00:00",
+      "published_at": "2026-11-19T23:22:00+00:00",
       "summary": "",
       "category": "tech",
-      "score": 7.181
+      "score": 5.563
     },
     {
-      "title": "Anthropic tops SpaceX with record $2 trillion Nasdaq debut",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-19T19:00:09+00:00",
+      "title": "US offshore critical minerals lease sale draws $6 million in bids off American Samoa",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTVULW00RHMyNVoxY3Ffa1RuWERHTHd0WDhzd0QzSzZSM016ZG1uR1dMNzlPYmxMa0JvWi01TE1QMXB0RlROZDk5UVlLRU04Y0J2NmItWk1DTWZranRUdXIzZUVSRzRyX0YyQlpwMUMxQVUyTUFNdGIyM1BjMEhjYjcxRnYxQ2xUWEdpbS04b2MyYllwRHJicTI1NjNiNlNRTThxZHB6d2duUUctR1pyaQ?oc=5",
+      "source": "Mining.com",
+      "published_at": "2026-11-20T01:43:09+00:00",
       "summary": "",
-      "category": "tech",
-      "score": 6.419
-    },
-    {
-      "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-19T19:40:23+00:00",
-      "summary": "German chancellor warns peace talks without Europe's involvement are doomed to fail, urging unity with Ukraine.",
-      "category": "conflicts",
-      "score": 5.414
+      "category": "resources",
+      "score": 5.429
     }
   ],
   "hero_history": [
+    "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
     "Kenya picks US consortium for rare earth project amid global race for critical minerals",
     "Anthropic IPO to mint thousands of millionaires",
     "How the Anthropic IPO stacks up against SpaceX",
     "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
     "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
     "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-    "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies",
-    "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally"
+    "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies"
   ]
 }

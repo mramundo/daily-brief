@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-22T06:43:34.223256+00:00",
+  "updated": "2026-11-22T19:35:14.606222+00:00",
   "hero": {
-    "title": "New draft deal aims to avert collapse of talks at climate summit",
-    "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "published_at": "2026-11-22T05:26:10+00:00",
-    "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-    "category": "science",
-    "score": 5.458
+    "title": "US seeks answers on Nvidia's sale of chips to China, Bessent says",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-22T17:53:07+00:00",
+    "summary": "",
+    "category": "tech",
+    "score": 6.154
   },
   "items": [
     {
-      "title": "COP31 climate talks close to final deal, says summit president",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfaE53T0dzbGJKSGhSSmhfdkY2eW04aW13NEZtYnpOVnpLZ3dIV0RlY3VCQU0yZnlVWkp4aWk0YlA3NTdDUjRFZzRWMmhSdUtBbDBhT1ZfdmhZMDRlNlZ2V3hrdkxrSnFNTXBOTQ?oc=5",
+      "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-21T23:40:00+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 3.972
-    },
-    {
-      "title": "Myanmar's army-backed government calls ASEAN decision 'unfair and imbalanced'",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1FENS0tc2xfZjRuaEUtTU5Fa1pYZXYtUm1BcXl5TldHOXdaSGM0VE5IaHgzcENjVDlnTmNJN0VEazRhWHU5ZHl3eG5VU1pLZkZxMy1wekcwdW5yanBFdEJNV3dGdVB0OGlJVFF5bTBkQ0JVbGUxcm1tQnBRT1JpZ3Q0a0lvV2poTUluZzBoZFdGOHYtQkh6Uy0xUk81Ty1Bb0h2Zi0teWpNTWJPOVl2VG0wb3dqQzljVGhtU1BKNkM1UHM?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-11-22T04:01:00+00:00",
-      "summary": "",
-      "category": "conflicts",
-      "score": 3.967
-    },
-    {
-      "title": "Will COP31 end with a new global climate deal?",
-      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-11-21T22:44:52+00:00",
-      "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
-      "category": "science",
-      "score": 3.632
-    },
-    {
-      "title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaVVQcy10TXRHaEpGak5SbUZocWdXZ1VCVEhjYmlwUURlTVM5MU83QTZWMDVDb29Ccy1UeGlfWGU2cXh5dTN3R1NzbC1wcmZ4ZVdSV3VMZzVPWTVqSDc4Tm42N081RjVTdmpERVRzbjdZMXJjQVFuQTdaV3VmNUtVMjJOZ21LaVlwZ1Y0Z2tFV1A5T2dfTU5yaG9TN0JNVGFnR0F5N0NDWjlDY25MODJWZmFB?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-22T02:37:00+00:00",
+      "published_at": "2026-11-22T13:29:02+00:00",
       "summary": "",
       "category": "tech",
-      "score": 3.442
+      "score": 5.825
+    },
+    {
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-11-22T17:57:43+00:00",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "category": "conflicts",
+      "score": 5.68
+    },
+    {
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published_at": "2026-11-22T18:57:24+00:00",
+      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "category": "politics",
+      "score": 5.61
+    },
+    {
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-22T14:48:50+00:00",
+      "summary": "Three Russian attacks kill at least six people near Kyiv as overnight Russian shelling kills one in Zaporizhzhia.",
+      "category": "conflicts",
+      "score": 5.37
     }
   ],
   "hero_history": [
+    "US seeks answers on Nvidia's sale of chips to China, Bessent says",
     "New draft deal aims to avert collapse of talks at climate summit",
     "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says",
     "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
     "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
     "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
     "Kenya picks US consortium for rare earth project amid global race for critical minerals",
-    "Anthropic IPO to mint thousands of millionaires",
-    "How the Anthropic IPO stacks up against SpaceX"
+    "Anthropic IPO to mint thousands of millionaires"
   ]
 }

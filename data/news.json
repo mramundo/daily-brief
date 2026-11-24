@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-24T09:50:58.131288+00:00",
+  "updated": "2026-11-24T22:23:47.416941+00:00",
   "hero": {
-    "title": "Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-    "source": "AP News",
-    "published_at": "2026-11-24T08:37:19+00:00",
+    "title": "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+    "source": "Reuters",
+    "published_at": "2026-11-24T20:47:56+00:00",
     "summary": "",
-    "category": "conflicts",
-    "score": 15.094
+    "category": "tech",
+    "score": 6.181
   },
   "items": [
     {
-      "title": "Analysts comment on market impact of Huang's return as Nvidia CEO",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2ItQmQwVDh3N0RBcExzLXhjZTd2NkpzcXRYZS1pUVJLRzU4dXpNTW9mYkZReWpPTUxLR3VWZ1h5QjJSWUtaZlJjLXkteGxvQzdpTW1uNE5wbi1PekdNb3V3cFIxb3ViMDZxSlRTb05mcUZCV29PbWwtaWstR1BIZzBsX3hHYWhoc2VHSTd2Z3lJYnlueThLY3lFVmtVeEpfUEE?oc=5",
+      "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVmdOUHJwNXRuX1lxb1VPQ19jS0kxSmZCbWNMZ01tbXRiYVU2Ujl3V0JxUnRHTGxUZXVZeVUzTGRIZ01VWTZGTWRQZngwSVVxVjJuRnN1QnExNkxFVmMxTkRBeGdWdnk5S1VKNkRIN1c2WkJmSWhwZmhva195Ql96RjJNNmlBeWFpUHJXd21GS1Q0dkRDUnJwR01SeEtIbUR5NDJVa1JFQ0hKMlNwRjFXd3g3TEg1blhmV2tIXzl4cnpoei1FSWg2YlZoOA?oc=5",
       "source": "Reuters",
-      "published_at": "2026-11-24T02:33:00+00:00",
+      "published_at": "2026-11-24T10:59:07+00:00",
       "summary": "",
-      "category": "tech",
-      "score": 4.061
+      "category": "conflicts",
+      "score": 5.475
     },
     {
-      "title": "North Korea reviews Switzerland relations after sanctions on youth camp linked to Russia-Ukraine war",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXh0a2lJSFJOWHd5RkNUUkphdy1RaXk4RHBwSUQxN2xHUktCTmNFYTVyOEp3Vjg4WFlvcm9EQUVGWWJRR3NrUm9IeXV3a2xMeHdEeUFCeVFCbkpHc09PbW9wc2xLSGVxajNkM2Z5MXBCLU5aS0ZHVFQycFNpNmRFZDZUTnAyUm5vdVZibEJLTF91VkVhOTJQS1k1c2NlYnY1ZXZDNlhvellLZzNYQnVSQS1VRQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-11-24T07:34:00+00:00",
-      "summary": "",
-      "category": "politics",
-      "score": 4.039
-    },
-    {
-      "title": "Emerging Market Stocks Rally as Huang’s Return Revives AI Trade",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbl9tOWRvMDhVMFR5RW1QeEhJMG1IOVhkNEdRUGdjYmtIbUpLbTV2dnltRXAwWEgxb2pObDRiRlJlLWx0d1VQdXNXdTc2MWFBeHBBTm9fTTVEOWVXcUJOcmRQQWN5Mk9iNXBPV19WcDI5R0FDZERHR25qSC1fc1lnOURmTmlvU1NRTUNSOWZFODhKZFFPLWZlY3JiTll1NVVQR0V4UzFSNS1hM28tWG5nN3Y3TGQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "2026-11-24T06:26:00+00:00",
-      "summary": "",
-      "category": "finance",
-      "score": 4.011
-    },
-    {
-      "title": "Asian stocks mostly rise after Wall Street's rebound as Jensen Huang returns as Nvidia’s CEO",
+      "title": "Nvidia, Anthropic and other AI stocks get back to tumbling and drag the US market lower",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5",
       "source": "AP News",
-      "published_at": "2026-11-24T07:26:00+00:00",
+      "published_at": "2026-11-24T19:14:00+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 3.888
+      "category": "tech",
+      "score": 5.45
+    },
+    {
+      "title": "France plans to create rare earths stockpile and encourage joint buying",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHZGMjFURWl3LTRkOFo0VkJpRmlXSThOSmJDd25xMjFaUVVIODZoRTZmLTJNOGNLRU9UOTJabnh3UU1NTjROY2VlOUdlQ0d5cGlTanI4QmhtMTBNTmd0Ti03a0s5YXhhRERWaDJtNjJjcXZ6MmVUajdlS180SWl5LTc3c05KTnk2dWwzNkRPaThTVTl5aVNyWmhSbllyRkw2YWxpVW9XWFRZUk4wNVhOV2NIWnlFODQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-24T11:02:22+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 5.321
+    },
+    {
+      "title": "Senior Hamas security official killed in Israeli drone strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-24T18:20:00+00:00",
+      "summary": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
+      "category": "conflicts",
+      "score": 4.629
     }
   ],
   "hero_history": [
+    "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
     "Ukraine",
     "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return",
     "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO, NYT says",
     "US seeks answers on Nvidia's sale of chips to China, Bessent says",
     "New draft deal aims to avert collapse of talks at climate summit",
     "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says",
-    "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
-    "Palestinian anti-Hamas groups accused of role in Israel Gaza operation"
+    "Oracle says OpenAI infrastructure deal is fully funded after final capital raise"
   ]
 }

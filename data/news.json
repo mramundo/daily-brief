@@ -1,60 +1,60 @@
 {
-  "updated": "2026-11-25T08:28:24.094859+00:00",
+  "updated": "2026-11-25T21:39:16.714452+00:00",
   "hero": {
-    "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
-    "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "published_at": "2026-11-25T06:00:36+00:00",
-    "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-    "category": "science",
-    "score": 7.092
+    "title": "North Korea expels Swiss diplomat in sanctions row",
+    "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "published_at": "2026-11-25T19:19:06+00:00",
+    "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+    "category": "politics",
+    "score": 7.352
   },
   "items": [
     {
-      "title": "Israeli strike kills four people in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-25T04:13:58+00:00",
-      "summary": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
-      "category": "conflicts",
-      "score": 6.274
-    },
-    {
-      "title": "Asian stocks mostly decline as AI shares tumble after a retreat on Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5",
-      "source": "AP News",
-      "published_at": "2026-11-25T07:31:00+00:00",
+      "title": "S&P Global places Nvidia rating on 'CreditWatch Negative' on rising management and governance risks",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-25T19:54:35+00:00",
       "summary": "",
-      "category": "finance",
-      "score": 5.122
+      "category": "tech",
+      "score": 6.619
     },
     {
-      "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Science",
-      "published_at": "2026-11-25T04:46:23+00:00",
-      "summary": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
-      "category": "science",
-      "score": 4.341
-    },
-    {
-      "title": "🔴 Colombia president says all hostages freed, one assailant killed after supermarket hostage siege",
-      "url": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
+      "title": "US unveils proposed tariffs on major partners, including EU and China",
+      "url": "https://www.france24.com/en/us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
       "source": "France 24",
-      "published_at": "2026-11-25T07:20:50+00:00",
-      "summary": "",
+      "published_at": "2026-11-25T19:15:03+00:00",
+      "summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production -- the latest move by US President Donald Trump to remake Washington's trade relationships. The duties, propos",
       "category": "politics",
-      "score": 4.307
+      "score": 6.534
+    },
+    {
+      "title": "OPEC blames EU for COP31 collapse",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblVnV0tQbjBnOTRFVnp6bWFwUjBRQ2hXcHg4QmhVRHBUUXdjNXk3UVY3aGJza0RxMEw1Qnprc2VGNE9rbFhLWHJRcFFOZ0RIbkRpeHB3bmtsNTVIbk9aOXFza2JiaTJTdVI4bzFQd0lrTlBHb0p0TWkzSjZoS2FsMlFFOUgycUd3bWl6aQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-25T19:22:01+00:00",
+      "summary": "",
+      "category": "resources",
+      "score": 6.471
+    },
+    {
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+      "source": "NASA",
+      "published_at": "2026-11-25T17:53:42+00:00",
+      "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celeb",
+      "category": "science",
+      "score": 5.821
     }
   ],
   "hero_history": [
+    "North Korea expels Swiss diplomat in sanctions row",
     "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
     "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
     "Ukraine",
     "Nvidia board reinstates Jensen Huang as CEO just days after rejecting his offer to return",
     "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO, NYT says",
     "US seeks answers on Nvidia's sale of chips to China, Bessent says",
-    "New draft deal aims to avert collapse of talks at climate summit",
-    "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says"
+    "New draft deal aims to avert collapse of talks at climate summit"
   ]
 }

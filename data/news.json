@@ -1,23 +1,32 @@
 {
-  "updated": "2026-11-27T21:14:27.960132+00:00",
+  "updated": "2026-11-28T07:43:59.835815+00:00",
   "hero": {
-    "title": "OpenAI countersues Apple for stealing trade secrets",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
-    "source": "Reuters",
-    "published_at": "2026-11-27T19:12:19+00:00",
+    "title": "Iraq in talks with OPEC for higher oil production ceiling, minister says",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR21qVklCRDRTOVotMVVmU3NMZlhxZ1FwUjZkRENrMDdBOTBtTFRGOWxOaFZVMXVmWEVhLTQ3eGk4WElEWmxMZk93Ml9TamxTVWg5Q1Jjam43Z2tVd21hUXJoemxmdGQwNHhtRHJsbnkxYU40ay1OdjAyVVFRRjdlajJsdURvTjRPN1R0QTlTcmNCT3A3dzhvUjJwUHpFcTNBRGR0b0hwR2ZhNkVwMWRiVHhzNVJfM0JXN3AwZkRJYWs4ZVVkaWZ0OUlLSzg5MkUxaWhBdzhwZVNQdFNrQXlr0gHfAUFVX3lxTE5HbWpWSUJENFM5Wi0xVWZTc0xmWHFnUXBSNmREQ2swN0E5MG1MVEY5bE5oVlUxdWZYRWEtNDd4aThYSURabExmT3cyX1NqbFNVaDlDUmNqbjdna1V3bWFRcmh6bGZ0ZDA0eG1EcmxueTFhTjRrLU52MDJVUVFGN2VqMmx1RG9ONE83VHRBOVNyY0JPcDd3OG9SMnBQekVxM0FEZHRvSHBHZmE2RXAxZGJUeHM1Ul8zQlc3cDBmRElhazhlVWRpZnQ5SUtLODkyRTFpaEF3OHBlU1B0U2tBeWs?oc=5",
+    "source": "ET EnergyWorld",
+    "published_at": "2026-11-28T04:00:32+00:00",
     "summary": "",
-    "category": "tech",
-    "score": 10.947
+    "category": "resources",
+    "score": 6.122
   },
   "items": [
     {
-      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
-      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-27T17:13:46+00:00",
-      "summary": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
-      "category": "conflicts",
-      "score": 6.335
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FibW0xZFFBUlJ2MGJkd0NEcWZtRzkzUkdWcFl1VnlRN2dRMkpjWHpKVXlIekttSno1b1RMeWxJN2dtU0ZlS085Y1ZqTkpfM2Jaci13RUdMNFVPOWtqRldaazVrX25mMExUSkU0SmJRcHJsdnZxMWJXU05MNXFzc211YzlXNzMwRTVUM1k1MW5RQTdHbnRpU1p6Y2hQMFE0UnVBSk45eHg?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-11-27T23:00:08+00:00",
+      "summary": "",
+      "category": "tech",
+      "score": 5.214
+    },
+    {
+      "title": "Taiwan holds elections to choose mayors and other local leaders as China looks on",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEJHN0tUWVBOd3BrNkpaTm1EaHlTeXp1aDZBZnJ1aUdEbkNVUUJJTXdJbFNXVHhLUWJwNUpRV3lUdEZTUl9Kbi1LWkhlWjBmRUdVRlNQQTVOb3JhWW5sb0pVUklXNXlndFJ2VXRNZnF1WENxMXJjTGN3RHJ4d0FreGRZdzN0ZWQ4WVE?oc=5",
+      "source": "AP News",
+      "published_at": "2026-11-28T03:14:00+00:00",
+      "summary": "",
+      "category": "politics",
+      "score": 4.564
     },
     {
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
@@ -26,16 +35,7 @@
       "published_at": "2026-11-27T18:00:40+00:00",
       "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
       "category": "conflicts",
-      "score": 6.198
-    },
-    {
-      "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
-      "source": "Bloomberg",
-      "published_at": "2026-11-27T19:18:51+00:00",
-      "summary": "",
-      "category": "tech",
-      "score": 5.792
+      "score": 4.003
     },
     {
       "title": "New satellite data shows how fast some African cities are sinking",
@@ -44,17 +44,17 @@
       "published_at": "2026-11-27T19:03:18+00:00",
       "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
       "category": "science",
-      "score": 5.549
+      "score": 3.584
     }
   ],
   "hero_history": [
+    "Iraq in talks with OPEC for higher oil production ceiling, minister says",
     "OpenAI countersues Apple for stealing trade secrets",
     "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say",
     "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
     "OPEC blames EU for breakdown of COP31 climate talks",
     "North Korea expels Swiss diplomat in sanctions row",
     "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
-    "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
-    "Ukraine"
+    "Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value"
   ]
 }
